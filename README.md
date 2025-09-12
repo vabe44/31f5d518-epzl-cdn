@@ -1,0 +1,2 @@
+How to use ImageMagick to convert PNG to WEBP
+Get-ChildItem -Path "c:\projects\empuzzled-cdn\31f5d518-epzl-cdn\portraits" -Filter *.png | ForEach-Object { magick $_.FullName -quality 85 "$($_.DirectoryName)\$($_.BaseName).webp" }
