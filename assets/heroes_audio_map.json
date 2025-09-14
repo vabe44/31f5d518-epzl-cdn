@@ -2,8 +2,8 @@
   "fire_god_zidane": [],
   "nomad_female_lord_costume_flame": [],
   "orc_gladiator_costume_chef": [
-    "battle_shattering_warcryb.wav",
-    "battle_spell_warcry_of_the_jungle.wav"
+    "battle_shattering_warcryb",
+    "battle_spell_warcry_of_the_jungle"
   ],
   "oriental_female_mystic_costume_magician": [],
   "blackguard_commander_costume_metal": [],
@@ -26,7 +26,7 @@
   "lizardman_warrior_costume_dinosaur": [],
   "lizardman_trapper_costume_shaman": [],
   "forest_friar_costume_explorer": [
-    "battle_have_faith.wav"
+    "battle_have_faith"
   ],
   "exalted_warrior_costume_ice": [],
   "dwarven_smasher_costume_smith": [],
@@ -40,22 +40,22 @@
   "blackguard_female_captain_costume_musketeer": [],
   "nomad_female_swordmaster_costume_native": [],
   "magitech_sniper_costume_steampunk": [
-    "battle_shock_bolt.wav"
+    "battle_shock_bolt"
   ],
   "lionman_barbarian_costume_armor": [],
   "goblin_fighter_costume_evil": [],
   "forest_woodsman_warrior_costume_camouflage": [],
   "forest_male_elf_costume_dark": [
-    "battle_crescent_spear.wav"
+    "battle_crescent_spear"
   ],
   "forest_female_spirit_costume_autumn": [],
   "forest_female_elf_costume_mage": [
-    "battle_eclipse_shield.wav"
+    "battle_eclipse_shield"
   ],
   "nomad_female_captain_costume_pirate": [],
   "nomad_mage_costume_goggles": [
-    "battle_attack-fireball.wav",
-    "battle_attack_fireball_short.wav"
+    "battle_attack-fireball",
+    "battle_attack_fireball_short"
   ],
   "oriental_warrior_king_costume_roman": [],
   "orc_troopmaster_costume_merchant": [],
@@ -68,7 +68,7 @@
   "undead_horned_skeleton_costume_fool": [],
   "oriental_panda_berserker_costume_farmer": [],
   "royal_knight_commander_costume_king": [
-    "battle_attack-ice.wav"
+    "battle_attack-ice"
   ],
   "nordic_swordman_costume_climber": [],
   "oriental_panda_warrior_costume_armor": [],
@@ -83,132 +83,132 @@
   "oriental_falconer_costume_dodo": [],
   "oriental_monkey_captain_costume_warrior": [],
   "s2_poseidon_costume_slayer": [
-    "battle_ruler_of_seas.wav"
+    "battle_ruler_of_seas"
   ],
   "s2_ariel_costume_enchanter": [
-    "battle_divine_protection.wav"
+    "battle_divine_protection"
   ],
   "s2_cursed_samurai_costume_beetle": [
-    "battle_break_strike3b.wav"
+    "battle_break_strike3b"
   ],
   "s2_ursena_costume_reef": [],
   "easter_killhare_costume_farmer": [
-    "spell_reckless_swing_hit.wav",
-    "spell_reckless_swing_start.wav"
+    "spell_reckless_swing_hit",
+    "spell_reckless_swing_start"
   ],
   "rabbit_blue_costume_riftbreaker": [],
   "sand_queen_costume_surfer": [
-    "battle_queens_curse2_MAIN.wav"
+    "battle_queens_curse2_MAIN"
   ],
   "sand_king_costume_lifeguard": [
-    "battle_kings_curse2_HIT.wav",
-    "battle_kings_curse2_MAIN.wav"
+    "battle_kings_curse2_HIT",
+    "battle_kings_curse2_MAIN"
   ],
   "fire_god_doom_costume_avenger": [
-    "battle_ashes_to_ashes.wav",
-    "battle_ashes_to_ashes_hits.wav"
+    "battle_ashes_to_ashes",
+    "battle_ashes_to_ashes_hits"
   ],
   "dark_god_seshat_costume_revenant": [],
   "holy_god_drake_lee_costume_serene": [
-    "battle_flails_of_fury_START.wav",
-    "battle_flails_of_fury_three_hits_no_intro.wav"
+    "battle_flails_of_fury_START",
+    "battle_flails_of_fury_three_hits_no_intro"
   ],
   "pirate_commodore_finley_costume_bleak": [
-    "battle_commodores_revenge.wav",
-    "battle_commodores_revenge_HIT.wav"
+    "battle_commodores_revenge",
+    "battle_commodores_revenge_HIT"
   ],
   "ice_god_athena_costume_wargoddess": [],
   "forest_god_oberon_costume_everoak": [],
   "ice_god_eskimo_costume_champion": [],
   "pirate_marie_therese_costume_priestess": [
-    "battle_zombie_curse.wav"
+    "battle_zombie_curse"
   ],
   "fables_rumpelstiltskin_costume_eternal": [
-    "battle_legerdemain_HEART.wav",
-    "battle_legerdemain_joker_v2.wav",
-    "battle_legerdemain_skullv4b.wav"
+    "battle_legerdemain_HEART",
+    "battle_legerdemain_joker_v2",
+    "battle_legerdemain_skullv4b"
   ],
   "fables_snow_white_costume_slayer": [
-    "battle_enchanted_edge.wav"
+    "battle_enchanted_edge"
   ],
   "wonderland_white_rabbit_costume_mask": [
-    "battle_rabbits_watch.wav"
+    "battle_rabbits_watch"
   ],
   "wonderland_jabberwocky_costume_moth": [
-    "battle_sideswipe.wav"
+    "battle_sideswipe"
   ],
   "knights_black_knight_costume_negative": [
-    "battle_just_a_flesh_wound.wav"
+    "battle_just_a_flesh_wound"
   ],
   "knights_lady_of_the_lake_costume_blades": [
-    "battle_magical_sword.wav"
+    "battle_magical_sword"
   ],
   "guardian_gorilla_chieftain_costume_conqueror": [],
   "guardian_cat_warrior_costume_fierce": [],
   "vampire_king_costume_mafia": [
-    "battle_attack-poison.wav",
-    "battle_kings_blood_poisoning_01.wav"
+    "battle_attack-poison",
+    "battle_kings_blood_poisoning_01"
   ],
   "halloween_vanda_costume_mafia": [
-    "battle_spell_twilight_of_sorrow.wav"
+    "battle_spell_twilight_of_sorrow"
   ],
   "halloween_francine_costume_mafia": [
-    "battle_spell_electric_cut.wav"
+    "battle_spell_electric_cut"
   ],
   "halloween_frank_costume_mafia": [
-    "battle_spell_undead_razer.wav"
+    "battle_spell_undead_razer"
   ],
   "christmas_mrs_claus_costume_fangirl": [
-    "battle_christmas_2018_super_porridge_01_cut.wav"
+    "battle_christmas_2018_super_porridge_01_cut"
   ],
   "christmas_santa_costume_metal": [],
   "christmas_krampus_costume_eager_devil": [
-    "battle_scourge_of_joy.wav"
+    "battle_scourge_of_joy"
   ],
   "rabbit_green_costume_egg_hunter": [],
   "s2_fox_girl_costume_white_kitsune": [
-    "battle_lucky_nine3b.wav"
+    "battle_lucky_nine3b"
   ],
   "s2_rugged_fisherman_costume_sake_master": [],
   "s2_atlantean_robot_costume_sentinel": [],
   "s2_ghost_woman_costume_yurei": [],
   "s2_merman_costume_leutenant": [],
   "s2_merwoman_costume_emissary": [
-    "battle_atlantean_blade_BASIC.wav",
-    "battle_atlantean_blade_HIT1.wav"
+    "battle_atlantean_blade_BASIC",
+    "battle_atlantean_blade_HIT1"
   ],
   "sand_roc_costume_juice": [
-    "battle_sand_cyclone.wav"
+    "battle_sand_cyclone"
   ],
   "s3_skadi_costume_ravager": [
-    "battle_attack-ice.wav"
+    "battle_attack-ice"
   ],
   "s3_baldur_costume_fiery": [
-    "spell_unbreakable_brawler.wav"
+    "spell_unbreakable_brawler"
   ],
   "s3_sif_costume_golden": [
-    "battle_gold_weaver_V2_EDIT.wav"
+    "battle_gold_weaver_V2_EDIT"
   ],
   "s3_gefjon_costume_wilderness": [
-    "battle_spell_maidens_command.wav"
+    "battle_spell_maidens_command"
   ],
   "s3_freya_costume_witch": [
-    "battle_ravens_vigil_EDIT.wav"
+    "battle_ravens_vigil_EDIT"
   ],
   "s3_heimdall_costume_dreaded": [
-    "battle_boon_of_gjallarhorn_V2_EDIT.wav"
+    "battle_boon_of_gjallarhorn_V2_EDIT"
   ],
   "s3_gullinbursti_costume_toxic": [
-    "angry_boar.wav"
+    "angry_boar"
   ],
   "s3_sumle_costume_unhallowed": [],
   "s3_kvasir_costume_captain": [
-    "battle_bee_bravado_V2_EDIT.wav"
+    "battle_bee_bravado_V2_EDIT"
   ],
   "s3_bjorn_costume_viking": [],
   "nomad_female_berserker_costume_sorceress": [],
   "forest_male_elf_costume_king": [
-    "battle_crescent_spear.wav"
+    "battle_crescent_spear"
   ],
   "nordic_ice_enchantress_costume_ruler": [],
   "underworld_champion_costume_vampire": [],
@@ -217,7 +217,7 @@
   "tribal_chief_costume_leopard": [],
   "exalted_female_statue_costume_thorns": [],
   "magitech_sniper_costume_undead": [
-    "battle_shock_bolt.wav"
+    "battle_shock_bolt"
   ],
   "forest_titan_costume_nightmare": [],
   "oriental_warrior_king_costume_mage": [],
@@ -228,37 +228,37 @@
   "oriental_female_templar_costume_fireworks": [],
   "undead_captain_warrior_costume_reveller": [],
   "guardian_gazelle_costume_bandalore": [
-    "battle_dance_of_spirits.wav"
+    "battle_dance_of_spirits"
   ],
   "guardian_jackal_assassin_costume_bones": [],
   "knights_guinevere_costume_rider": [
-    "battle_word_of_queen_v2.wav"
+    "battle_word_of_queen_v2"
   ],
   "knights_merlin_costume_astrology": [
-    "battle_arcane_blast_v2.wav"
+    "battle_arcane_blast_v2"
   ],
   "nomad_female_archer": [],
   "nomad_scout": [
-    "battle_spell_vengeful_backstab_hit.wav",
-    "battle_spell_vengeful_backstab_start.wav"
+    "battle_spell_vengeful_backstab_hit",
+    "battle_spell_vengeful_backstab_start"
   ],
   "trainer_red_common": [],
   "nomad_female_thief": [
-    "battle_attack-rally.wav"
+    "battle_attack-rally"
   ],
   "nomad_fighter": [],
   "nomad_shaman": [
-    "battle_attack-rally.wav"
+    "battle_attack-rally"
   ],
   "orc_skirmisher": [
-    "battle_spell_hypersonic_tackle_pve.wav"
+    "battle_spell_hypersonic_tackle_pve"
   ],
   "trainer_red_uncommon": [],
   "nomad_female_shaman": [],
   "nomad_female_swordmaster": [],
   "nomad_mage": [
-    "battle_attack-fireball.wav",
-    "battle_attack_fireball_short.wav"
+    "battle_attack-fireball",
+    "battle_attack_fireball_short"
   ],
   "orc_warrior": [],
   "trainer_red_rare": [],
@@ -266,8 +266,8 @@
   "nomad_female_assassin": [],
   "nomad_female_berserker": [],
   "orc_gladiator": [
-    "battle_shattering_warcryb.wav",
-    "battle_spell_warcry_of_the_jungle.wav"
+    "battle_shattering_warcryb",
+    "battle_spell_warcry_of_the_jungle"
   ],
   "orc_troopmaster": [],
   "trainer_red_epic": [],
@@ -280,7 +280,7 @@
   "trainer_green_common": [],
   "forest_female_illusionist": [],
   "forest_thug": [
-    "battle_spell_hypersonic_tackle_pve.wav"
+    "battle_spell_hypersonic_tackle_pve"
   ],
   "goblin_archer": [],
   "trainer_green_uncommon": [],
@@ -288,7 +288,7 @@
   "forest_female_druid": [],
   "forest_female_spirit": [],
   "forest_friar": [
-    "battle_have_faith.wav"
+    "battle_have_faith"
   ],
   "goblin_fighter": [],
   "lizardman_warrior": [],
@@ -301,17 +301,17 @@
   "trainer_green_epic": [],
   "elven_archer": [],
   "forest_female_elf": [
-    "battle_eclipse_shield.wav"
+    "battle_eclipse_shield"
   ],
   "forest_male_elf": [
-    "battle_crescent_spear.wav"
+    "battle_crescent_spear"
   ],
   "forest_titan": [],
   "nordic_female_scout": [],
   "nordic_warrior": [],
   "trainer_blue_common": [],
   "dwarven_scout": [
-    "battle_attack-rally.wav"
+    "battle_attack-rally"
   ],
   "nordic_female_warrior": [],
   "royal_pikeman": [],
@@ -331,11 +331,11 @@
   "nordic_ice_enchantress": [],
   "nordic_male_lord": [],
   "royal_knight_commander": [
-    "battle_attack-ice.wav"
+    "battle_attack-ice"
   ],
   "oriental_female_ninja": [
-    "battle_spell_vengeful_backstab_hit.wav",
-    "battle_spell_vengeful_backstab_start.wav"
+    "battle_spell_vengeful_backstab_hit",
+    "battle_spell_vengeful_backstab_start"
   ],
   "oriental_warrior": [],
   "trainer_yellow_common": [],
@@ -359,17 +359,17 @@
   "oriental_warrior_king": [],
   "blackguard_female_archer": [],
   "cultist_thief": [
-    "battle_spell_vengeful_backstab_hit.wav",
-    "battle_spell_vengeful_backstab_start.wav"
+    "battle_spell_vengeful_backstab_hit",
+    "battle_spell_vengeful_backstab_start"
   ],
   "trainer_purple_common": [],
   "blackguard_scout": [],
   "cultist_female_poisoner": [
-    "battle_attack-poison.wav"
+    "battle_attack-poison"
   ],
   "trainer_purple_uncommon": [],
   "undead_screaming_zombie": [
-    "battle_attack-rally.wav"
+    "battle_attack-rally"
   ],
   "blackguard_female_captain": [],
   "blackguard_skulker": [],
@@ -385,38 +385,38 @@
   "cultist_inventor": [],
   "cultist_sorceress": [],
   "magitech_sniper": [
-    "battle_shock_bolt.wav"
+    "battle_shock_bolt"
   ],
   "underworld_champion": [],
   "rabbit_red": [],
   "fire_god_ares": [],
   "fire_god_natalya": [],
   "pirate_swashbuckler": [
-    "battle_pirate_shot1.wav"
+    "battle_pirate_shot1"
   ],
   "pirate_cabin_boy": [
-    "battle_buccaneers_blade.wav"
+    "battle_buccaneers_blade"
   ],
   "rabbit_green": [],
   "pirate_lady": [
-    "battle_moonlight_serenade_danger.wav"
+    "battle_moonlight_serenade_danger"
   ],
   "forest_god_oberon": [],
   "forest_god_zeline": [
-    "battle_emerald_flash.wav"
+    "battle_emerald_flash"
   ],
   "ice_god_athena": [],
   "ice_god_perseus": [],
   "rabbit_blue": [],
   "holy_god_musashi": [
-    "battle_dragon_fang_ALKU.wav",
-    "battle_dragon_fang_HIT.wav"
+    "battle_dragon_fang_ALKU",
+    "battle_dragon_fang_HIT"
   ],
   "pirate_first_mate": [],
   "dark_god_hel": [],
   "witch_king": [
-    "battle_soul_cage.wav",
-    "battle_soul_cage_HIT.wav"
+    "battle_soul_cage",
+    "battle_soul_cage_HIT"
   ],
   "pirate_dread_captain": [],
   "guardian_cat_warrior": [],
@@ -425,77 +425,77 @@
   "guardian_falcon_priest": [],
   "guardian_gorilla_chieftain": [],
   "knights_guinevere": [
-    "battle_word_of_queen_v2.wav"
+    "battle_word_of_queen_v2"
   ],
   "knights_king_arthur": [
-    "battle_excaliburv2.wav"
+    "battle_excaliburv2"
   ],
   "knights_sir_lancelot": [],
   "knights_morgan_le_fay": [],
   "knights_merlin": [
-    "battle_arcane_blast_v2.wav"
+    "battle_arcane_blast_v2"
   ],
   "holy_god_delilah": [
-    "battle_summon_temple_guardiansa.wav"
+    "battle_summon_temple_guardiansa"
   ],
   "dark_god_aeron": [
-    "battle_nethershield_v2.wav"
+    "battle_nethershield_v2"
   ],
   "ice_god_eskimo": [],
   "fire_god_doom": [
-    "battle_ashes_to_ashes.wav",
-    "battle_ashes_to_ashes_hits.wav"
+    "battle_ashes_to_ashes",
+    "battle_ashes_to_ashes_hits"
   ],
   "s2_chameleon_mage": [
-    "battle_spell_tidal_waves_HIT.wav",
-    "battle_spell_tidal_waves_MAIN.wav"
+    "battle_spell_tidal_waves_HIT",
+    "battle_spell_tidal_waves_MAIN"
   ],
   "s2_chameleon_chief": [],
   "s2_rugged_fisherman": [],
   "s2_junglehunter": [
-    "battle_martial_prowess.wav"
+    "battle_martial_prowess"
   ],
   "s2_hammerhead_hulk": [
-    "battle_black_tide.wav"
+    "battle_black_tide"
   ],
   "s2_mercenary_woman": [
-    "battle_chain_strike_HIT.wav",
-    "battle_chain_strike_POHJA.wav"
+    "battle_chain_strike_HIT",
+    "battle_chain_strike_POHJA"
   ],
   "s2_tanuki_raccoon": [],
   "s2_ghost_woman": [],
   "s2_demon_master": [],
   "s2_noble_lady": [
-    "battle_dark_mirror3b.wav"
+    "battle_dark_mirror3b"
   ],
   "s2_fox_girl": [
-    "battle_lucky_nine3b.wav"
+    "battle_lucky_nine3b"
   ],
   "s2_cursed_samurai": [
-    "battle_break_strike3b.wav"
+    "battle_break_strike3b"
   ],
   "s2_proteus": [
-    "battle_scar_of_the_depths.wav"
+    "battle_scar_of_the_depths"
   ],
   "s2_triton": [
-    "battle_heroic_noble.wav"
+    "battle_heroic_noble"
   ],
   "s2_skyllaros": [
-    "battle_immortal_annihilator_ALKU.wav",
-    "battle_immortal_annihilator_RAY2.wav"
+    "battle_immortal_annihilator_ALKU",
+    "battle_immortal_annihilator_RAY2"
   ],
   "s2_ariel": [
-    "battle_divine_protection.wav"
+    "battle_divine_protection"
   ],
   "s2_poseidon": [
-    "battle_ruler_of_seas.wav"
+    "battle_ruler_of_seas"
   ],
   "s2_fiji_mermaid": [
-    "battle_song_of_regression.wav"
+    "battle_song_of_regression"
   ],
   "s2_merwoman": [
-    "battle_atlantean_blade_BASIC.wav",
-    "battle_atlantean_blade_HIT1.wav"
+    "battle_atlantean_blade_BASIC",
+    "battle_atlantean_blade_HIT1"
   ],
   "s2_merman": [],
   "s2_straw_demon": [],
@@ -503,159 +503,159 @@
   "s2_croc_man": [],
   "s2_lantern_ghost": [],
   "forest_god_gregorion": [
-    "battle_unwavering_focus2.wav"
+    "battle_unwavering_focus2"
   ],
   "holy_god_drake_lee": [
-    "battle_flails_of_fury_START.wav",
-    "battle_flails_of_fury_three_hits_no_intro.wav"
+    "battle_flails_of_fury_START",
+    "battle_flails_of_fury_three_hits_no_intro"
   ],
   "fables_boss_wolf": [
-    "battle_unstoppable_growl3.wav"
+    "battle_unstoppable_growl3"
   ],
   "fables_red_hood": [
-    "battle_forest_friends_v1_no_blink.wav"
+    "battle_forest_friends_v1_no_blink"
   ],
   "fables_hansel": [
-    "battle_witch_killer.wav"
+    "battle_witch_killer"
   ],
   "fables_gretel": [
-    "battle_witch_slayer_IMPACT_v1.wav",
-    "battle_witch_slayer_IMPACT_v2.wav",
-    "battle_witch_slayer_START.wav"
+    "battle_witch_slayer_IMPACT_v1",
+    "battle_witch_slayer_IMPACT_v2",
+    "battle_witch_slayer_START"
   ],
   "fables_rumpelstiltskin": [
-    "battle_legerdemain_HEART.wav",
-    "battle_legerdemain_joker_v2.wav",
-    "battle_legerdemain_skullv4b.wav"
+    "battle_legerdemain_HEART",
+    "battle_legerdemain_joker_v2",
+    "battle_legerdemain_skullv4b"
   ],
   "sand_horse": [
-    "battle_horses_curse2.wav"
+    "battle_horses_curse2"
   ],
   "sand_tower": [
-    "battle_towers_curse.wav"
+    "battle_towers_curse"
   ],
   "sand_soldier": [
-    "battle_soldiers_curse_HIT.wav",
-    "battle_soldiers_curse_MAIN.wav"
+    "battle_soldiers_curse_HIT",
+    "battle_soldiers_curse_MAIN"
   ],
   "sand_vizier": [
-    "battle_viziers_curse.wav"
+    "battle_viziers_curse"
   ],
   "sand_king": [
-    "battle_kings_curse2_HIT.wav",
-    "battle_kings_curse2_MAIN.wav"
+    "battle_kings_curse2_HIT",
+    "battle_kings_curse2_MAIN"
   ],
   "sand_queen": [
-    "battle_queens_curse2_MAIN.wav"
+    "battle_queens_curse2_MAIN"
   ],
   "dark_god_september": [
-    "battle_bleeding_edge.wav"
+    "battle_bleeding_edge"
   ],
   "ice_god_october": [],
   "vampire_lord": [
-    "battle_attack-poison.wav",
-    "battle_lords_blood_poisoning_01.wav"
+    "battle_attack-poison",
+    "battle_lords_blood_poisoning_01"
   ],
   "vampire_queen": [
-    "battle_attack-poison.wav",
-    "battle_queens_blood_poisoning_01.wav"
+    "battle_attack-poison",
+    "battle_queens_blood_poisoning_01"
   ],
   "vampire_king": [
-    "battle_attack-poison.wav",
-    "battle_kings_blood_poisoning_01.wav"
+    "battle_attack-poison",
+    "battle_kings_blood_poisoning_01"
   ],
   "fire_god_zimkitha": [
-    "battle_dawn_strikeb.wav"
+    "battle_dawn_strikeb"
   ],
   "forest_god_evelyn": [
-    "battle_shattering_warcryb.wav"
+    "battle_shattering_warcryb"
   ],
   "wonderland_alice": [],
   "wonderland_queen": [
-    "battle_queen_of_cards.wav"
+    "battle_queen_of_cards"
   ],
   "wonderland_captain": [
-    "battle_pest_control_V3_BASIC_EVENT.wav",
-    "battle_pest_control_V3_SLASH.wav"
+    "battle_pest_control_V3_BASIC_EVENT",
+    "battle_pest_control_V3_SLASH"
   ],
   "wonderland_cheshire_cat": [
-    "battle_dazzling_grin_V2.wav"
+    "battle_dazzling_grin_V2"
   ],
   "wonderland_hatter": [
-    "battle_mad_as_a_hatter_V2.wav"
+    "battle_mad_as_a_hatter_V2"
   ],
   "christmas_elf": [
-    "battle_christmas_2018_giftsack_fall_01_cut.wav",
-    "battle_christmas_2018_giftsack_hit_01_cut.wav",
-    "battle_christmas_2018_giftsack_hit_02_cut.wav",
-    "battle_christmas_2018_giftsack_hit_03_cut.wav",
-    "battle_christmas_2018_ultimateGiftsack_fall_01_cut.wav",
-    "battle_christmas_2018_ultimateGiftsack_hit_05_cut.wav"
+    "battle_christmas_2018_giftsack_fall_01_cut",
+    "battle_christmas_2018_giftsack_hit_01_cut",
+    "battle_christmas_2018_giftsack_hit_02_cut",
+    "battle_christmas_2018_giftsack_hit_03_cut",
+    "battle_christmas_2018_ultimateGiftsack_fall_01_cut",
+    "battle_christmas_2018_ultimateGiftsack_hit_05_cut"
   ],
   "christmas_mrs_claus": [
-    "battle_christmas_2018_super_porridge_01_cut.wav"
+    "battle_christmas_2018_super_porridge_01_cut"
   ],
   "christmas_santa": [],
   "christmas_reindeer": [
-    "battle_christmas_2018_horn_attack_01_cut.wav"
+    "battle_christmas_2018_horn_attack_01_cut"
   ],
   "holy_god_onatel": [],
   "dark_god_kunchen": [
-    "battle_power_of_ajna3.wav"
+    "battle_power_of_ajna3"
   ],
   "ice_god_frida": [
-    "battle_polar_bash_v3.wav"
+    "battle_polar_bash_v3"
   ],
   "fire_god_anzogh": [
-    "battle_flaming_grudge.wav"
+    "battle_flaming_grudge"
   ],
   "forest_god_elinor": [
-    "battle_hide_in_shadows.wav"
+    "battle_hide_in_shadows"
   ],
   "holy_god_ranvir": [
-    "battle_mystics_virtue.wav"
+    "battle_mystics_virtue"
   ],
   "dark_god_seshat": [],
   "ice_god_miki": [
-    "battle_wrath_of_tundra.wav"
+    "battle_wrath_of_tundra"
   ],
   "s2_chameleon_bruiser": [
-    "battle_bruiser_bros.wav"
+    "battle_bruiser_bros"
   ],
   "s2_ursena": [],
   "pirate_commodore_finley": [
-    "battle_commodores_revenge.wav",
-    "battle_commodores_revenge_HIT.wav"
+    "battle_commodores_revenge",
+    "battle_commodores_revenge_HIT"
   ],
   "pirate_marie_therese": [
-    "battle_zombie_curse.wav"
+    "battle_zombie_curse"
   ],
   "fire_god_nadnog": [],
   "guardian_chameleon": [
-    "battle_elemental_magic.wav"
+    "battle_elemental_magic"
   ],
   "forest_god_kingston": [],
   "knights_black_knight": [
-    "battle_just_a_flesh_wound.wav"
+    "battle_just_a_flesh_wound"
   ],
   "knights_lady_of_the_lake": [
-    "battle_magical_sword.wav"
+    "battle_magical_sword"
   ],
   "fables_puss_in_boots": [
-    "battle_attack-ice.wav",
-    "battle_three_blind_mice.wav"
+    "battle_attack-ice",
+    "battle_three_blind_mice"
   ],
   "guardian_gazelle": [
-    "battle_dance_of_spirits.wav"
+    "battle_dance_of_spirits"
   ],
   "fables_snow_white": [
-    "battle_enchanted_edge.wav"
+    "battle_enchanted_edge"
   ],
   "wonderland_jabberwocky": [
-    "battle_sideswipe.wav"
+    "battle_sideswipe"
   ],
   "wonderland_white_rabbit": [
-    "battle_rabbits_watch.wav"
+    "battle_rabbits_watch"
   ],
   "pirate_vodnik": [],
   "wonderland_bear": [],
@@ -663,584 +663,584 @@
   "knights_bauchan": [],
   "fables_pixie": [],
   "holy_god_neith": [
-    "battle_sickle_of_eradication.wav"
+    "battle_sickle_of_eradication"
   ],
   "dark_god_grimble": [
-    "battle_gnomish_carnage.wav"
+    "battle_gnomish_carnage"
   ],
   "ice_god_vela": [
-    "battle_aquatic_outbreak_v4_EDIT.wav"
+    "battle_aquatic_outbreak_v4_EDIT"
   ],
   "fire_god_jean_francois": [
-    "battle_seal_of_fire.wav"
+    "battle_seal_of_fire"
   ],
   "s3_heimdall": [
-    "battle_boon_of_gjallarhorn_V2_EDIT.wav"
+    "battle_boon_of_gjallarhorn_V2_EDIT"
   ],
   "s3_ratatoskr": [],
   "s3_jott": [
-    "battle_attack-ice.wav",
-    "ice_boom.wav"
+    "battle_attack-ice",
+    "ice_boom"
   ],
   "s3_sudri": [
-    "burning_shields.wav"
+    "burning_shields"
   ],
   "forest_god_telluria": [
-    "battle_force_of_forest.wav"
+    "battle_force_of_forest"
   ],
   "s3_grevle": [
-    "travelers_snack.wav"
+    "travelers_snack"
   ],
   "s3_baldur": [
-    "spell_unbreakable_brawler.wav"
+    "spell_unbreakable_brawler"
   ],
   "s3_nordri": [
-    "battle_frosty_axes_ALKU_EDIT.wav",
-    "battle_frosty_axes_HIT_EDIT.wav"
+    "battle_frosty_axes_ALKU_EDIT",
+    "battle_frosty_axes_HIT_EDIT"
   ],
   "s3_tyr": [
-    "battle_adamantite_claw_2_HITS.wav",
-    "battle_adamantite_claw_ALKU_EDIT.wav"
+    "battle_adamantite_claw_2_HITS",
+    "battle_adamantite_claw_ALKU_EDIT"
   ],
   "s3_sif": [
-    "battle_gold_weaver_V2_EDIT.wav"
+    "battle_gold_weaver_V2_EDIT"
   ],
   "s3_mireweave": [
-    "battle_chain_of_pain_v4_EDIT.wav"
+    "battle_chain_of_pain_v4_EDIT"
   ],
   "s3_jarvur": [
-    "jab_and_hook.wav"
+    "jab_and_hook"
   ],
   "s3_mist": [
-    "battle_valkyrie_charge_ALKU_EDIT.wav",
-    "battle_valkyrie_charge_ALKU_EDIT_2.wav",
-    "battle_valkyrie_charge_HIT_EDIT.wav"
+    "battle_valkyrie_charge_ALKU_EDIT",
+    "battle_valkyrie_charge_ALKU_EDIT_2",
+    "battle_valkyrie_charge_HIT_EDIT"
   ],
   "s3_brynhild": [
-    "battle_valkyrie_defense_EDIT.wav"
+    "battle_valkyrie_defense_EDIT"
   ],
   "s3_shadereave": [
-    "eternal_servitude.wav"
+    "eternal_servitude"
   ],
   "s3_freya": [
-    "battle_ravens_vigil_EDIT.wav"
+    "battle_ravens_vigil_EDIT"
   ],
   "s3_ei_dunn": [
-    "battle_tainted_axe_EDIT.wav"
+    "battle_tainted_axe_EDIT"
   ],
   "s3_agnes": [
-    "precise_chop.wav"
+    "precise_chop"
   ],
   "s3_gullinbursti": [
-    "angry_boar.wav"
+    "angry_boar"
   ],
   "s3_anwindr": [
-    "tribal_rage.wav"
+    "tribal_rage"
   ],
   "s3_fura": [
-    "nightglade_pollen.wav"
+    "nightglade_pollen"
   ],
   "s3_almur": [
-    "shadow_sweep.wav"
+    "shadow_sweep"
   ],
   "s3_bjorn": [],
   "s3_kvasir": [
-    "battle_bee_bravado_V2_EDIT.wav"
+    "battle_bee_bravado_V2_EDIT"
   ],
   "s3_stonecleave": [
-    "battle_dire_ghost_EDIT.wav"
+    "battle_dire_ghost_EDIT"
   ],
   "s3_sumle": [],
   "s3_by_ulf": [
-    "battle_hollow_boast_EDIT.wav"
+    "battle_hollow_boast_EDIT"
   ],
   "s3_alfrike": [
-    "battle_cube_of_dark_realm_ALKU_EDIT.wav",
-    "battle_cube_of_dark_realm_hit1_edit.wav"
+    "battle_cube_of_dark_realm_ALKU_EDIT",
+    "battle_cube_of_dark_realm_hit1_edit"
   ],
   "s3_norns": [
-    "battle_twist_of_fate_EDIT.wav"
+    "battle_twist_of_fate_EDIT"
   ],
   "s3_fenrir": [
-    "battle_gargantuan_bite_1b_EDIT.wav"
+    "battle_gargantuan_bite_1b_EDIT"
   ],
   "holy_god_malosi": [
-    "battle_power_punch_V1_EDIT.wav"
+    "battle_power_punch_V1_EDIT"
   ],
   "dark_god_clarissa": [
-    "spell_miasma_mace_hit.wav",
-    "spell_miasma_mace_start.wav"
+    "spell_miasma_mace_hit",
+    "spell_miasma_mace_start"
   ],
   "ice_god_raffaele": [
-    "battle_attack-ice.wav",
-    "spell_ice_treatment.wav"
+    "battle_attack-ice",
+    "spell_ice_treatment"
   ],
   "s3_skadi": [
-    "battle_attack-ice.wav"
+    "battle_attack-ice"
   ],
   "easter_chick_jr": [
-    "spell_compact_lance_hit.wav",
-    "spell_compact_lance_start.wav"
+    "spell_compact_lance_hit",
+    "spell_compact_lance_start"
   ],
   "easter_lady_woolerton": [
-    "spell_smooth_treatment.wav"
+    "spell_smooth_treatment"
   ],
   "easter_sir_roostley": [
-    "spell_luminous_lance_hit.wav",
-    "spell_luminous_lance_start.wav"
+    "spell_luminous_lance_hit",
+    "spell_luminous_lance_start"
   ],
   "easter_killhare": [
-    "spell_reckless_swing_hit.wav",
-    "spell_reckless_swing_start.wav"
+    "spell_reckless_swing_hit",
+    "spell_reckless_swing_start"
   ],
   "hidden_dark_god_myztero": [
-    "absordium_deflectors.wav"
+    "absordium_deflectors"
   ],
   "s3_gefjon": [
-    "battle_spell_maidens_command.wav"
+    "battle_spell_maidens_command"
   ],
   "s3_frigg": [
-    "battle_brittling_force.wav"
+    "battle_brittling_force"
   ],
   "s3_odin": [
-    "battle_spell_fury_of_grimnir.wav"
+    "battle_spell_fury_of_grimnir"
   ],
   "s3_loki_fish": [
-    "battle_spell_tricksters_transformation.wav"
+    "battle_spell_tricksters_transformation"
   ],
   "sand_roc": [
-    "battle_sand_cyclone.wav"
+    "battle_sand_cyclone"
   ],
   "s3_loki_female": [
-    "battle_attack-ice.wav",
-    "battle_tricksters_malice.wav"
+    "battle_attack-ice",
+    "battle_tricksters_malice"
   ],
   "s3_thor": [
-    "battle_spell_power_of_mjolnir.wav"
+    "battle_spell_power_of_mjolnir"
   ],
   "holy_god_bai_yeong": [
-    "battle_stunning_steel.wav"
+    "battle_stunning_steel"
   ],
   "forest_god_zocc": [
-    "battle_keyknife_typhoon.wav"
+    "battle_keyknife_typhoon"
   ],
   "fire_god_noor": [
-    "battle_sparrow_fury.wav"
+    "battle_sparrow_fury"
   ],
   "s3_bera": [
-    "battle_disir_of_dusk.wav"
+    "battle_disir_of_dusk"
   ],
   "dark_god_zulag": [
-    "battle_spell_vast_ward.wav"
+    "battle_spell_vast_ward"
   ],
   "ice_god_glenda": [
-    "battle_spell_midnight_magic.wav"
+    "battle_spell_midnight_magic"
   ],
   "fire_god_reuben": [
-    "battle_spell_occult_redemption.wav"
+    "battle_spell_occult_redemption"
   ],
   "s3_loki_male": [],
   "ninja_onyx": [
-    "battle_spell_crippling_claws_fly.wav",
-    "battle_spell_crippling_claws_hit.wav"
+    "battle_spell_crippling_claws_fly",
+    "battle_spell_crippling_claws_hit"
   ],
   "ninja_mica": [
-    "battle_spell_connect_ki.wav"
+    "battle_spell_connect_ki"
   ],
   "ninja_garnet": [
-    "battle_spell_awaken_ki.wav"
+    "battle_spell_awaken_ki"
   ],
   "ninja_jade": [
-    "battle_spell_shared_visage.wav"
+    "battle_spell_shared_visage"
   ],
   "ninja_cobalt": [],
   "ninja_shale": [
-    "battle_spell_channel_ki.wav"
+    "battle_spell_channel_ki"
   ],
   "ninja_sapphire": [
-    "battle_spell_from_shadows.wav"
+    "battle_spell_from_shadows"
   ],
   "ninja_ametrine": [
-    "battle_spell_blur_of_steel_fly.wav",
-    "battle_spell_blur_of_steel_hit.wav"
+    "battle_spell_blur_of_steel_fly",
+    "battle_spell_blur_of_steel_hit"
   ],
   "halloween_frank": [
-    "battle_spell_undead_razer.wav"
+    "battle_spell_undead_razer"
   ],
   "halloween_francine": [
-    "battle_spell_electric_cut.wav"
+    "battle_spell_electric_cut"
   ],
   "halloween_vanda": [
-    "battle_spell_twilight_of_sorrow.wav"
+    "battle_spell_twilight_of_sorrow"
   ],
   "halloween_jack": [],
   "christmas_carol": [],
   "christmas_frosty": [],
   "christmas_krampus": [
-    "battle_scourge_of_joy.wav"
+    "battle_scourge_of_joy"
   ],
   "nature_god_bertila": [
-    "battle_en_garde.wav",
-    "battle_en_garde_HIT.wav"
+    "battle_en_garde",
+    "battle_en_garde_HIT"
   ],
   "holy_god_uraeus": [
-    "battle_strike_of_the_cobra.wav"
+    "battle_strike_of_the_cobra"
   ],
   "s4_aouda": [
-    "battle_spell_blade_of_bundelkhand.wav"
+    "battle_spell_blade_of_bundelkhand"
   ],
   "s4_captain_nemo": [],
   "s4_professor_lidenbrock": [
-    "battle_spell_glorious_grace.wav"
+    "battle_spell_glorious_grace"
   ],
   "s4_doctor_moreau": [
-    "battle_spell_blinding_wisdom.wav"
+    "battle_spell_blinding_wisdom"
   ],
   "s4_zenobia": [
-    "battle_spell_dual_sting.wav"
+    "battle_spell_dual_sting"
   ],
   "s4_phileas_fogg": [
-    "battle_spell_valiant_lunge.wav"
+    "battle_spell_valiant_lunge"
   ],
   "villain_toxicandra": [
-    "battle_spell_accelerated_growth.wav"
+    "battle_spell_accelerated_growth"
   ],
   "villain_crystalis": [
-    "battle_spell_freezing_crystal_hit.wav",
-    "battle_spell_freezing_crystal_start.wav"
+    "battle_spell_freezing_crystal_hit",
+    "battle_spell_freezing_crystal_start"
   ],
   "villain_asterius": [
-    "battle_spell_brutal_bull_rush_hit.wav",
-    "battle_spell_brutal_bull_rush_start.wav"
+    "battle_spell_brutal_bull_rush_hit",
+    "battle_spell_brutal_bull_rush_start"
   ],
   "villain_karnov": [
-    "battle_spell_total_beatdown_hit.wav",
-    "battle_spell_total_beatdown_start.wav"
+    "battle_spell_total_beatdown_hit",
+    "battle_spell_total_beatdown_start"
   ],
   "villain_dark_lord": [],
   "villain_isrod": [
-    "battle_spell_vengeful_scythe_hit.wav",
-    "battle_spell_vengeful_scythe_start.wav"
+    "battle_spell_vengeful_scythe_hit",
+    "battle_spell_vengeful_scythe_start"
   ],
   "villain_ingolf": [],
   "villain_sanngrior": [
-    "battle_spell_valkyries_fortitude.wav"
+    "battle_spell_valkyries_fortitude"
   ],
   "villain_edd": [
-    "battle_spell_crazed_lunge.wav"
+    "battle_spell_crazed_lunge"
   ],
   "villain_skrekok": [
-    "battle_spell_mad_rat_mania.wav"
+    "battle_spell_mad_rat_mania"
   ],
   "dark_god_malicna": [
-    "battle_spell_grimoire_skim.wav"
+    "battle_spell_grimoire_skim"
   ],
   "ice_god_frosth": [
-    "battle_spell_cold_command.wav"
+    "battle_spell_cold_command"
   ],
   "s4_lepiota": [
-    "battle_spell_abyssal_incantation.wav"
+    "battle_spell_abyssal_incantation"
   ],
   "s4_akkorog": [
-    "battle_spell_colossal_chops.wav"
+    "battle_spell_colossal_chops"
   ],
   "s4_russula": [
-    "battle_spell_vengeful_backstab_hit.wav",
-    "battle_spell_vengeful_backstab_start.wav"
+    "battle_spell_vengeful_backstab_hit",
+    "battle_spell_vengeful_backstab_start"
   ],
   "s4_passepartout": [
-    "battle_spell_helping_hands.wav"
+    "battle_spell_helping_hands"
   ],
   "s4_garjammal": [
-    "battle_spell_flail_of_destruction.wav"
+    "battle_spell_flail_of_destruction"
   ],
   "s4_morel": [
-    "battle_spell_deathly_glaive.wav"
+    "battle_spell_deathly_glaive"
   ],
   "s4_octros": [
-    "battle_spell_the_hallowed_blade.wav"
+    "battle_spell_the_hallowed_blade"
   ],
   "fire_god_yang_mai": [
-    "battle_spell_flaming_fury_hit.wav",
-    "battle_spell_flaming_fury_start.wav"
+    "battle_spell_flaming_fury_hit",
+    "battle_spell_flaming_fury_start"
   ],
   "s4_lughaidh": [
-    "battle_spell_transcendental_frame.wav"
+    "battle_spell_transcendental_frame"
   ],
   "s4_xnolphod": [
-    "battle_spell_ancient_enchantment.wav"
+    "battle_spell_ancient_enchantment"
   ],
   "s4_griffin": [
-    "battle_spell_invisible_strike.wav"
+    "battle_spell_invisible_strike"
   ],
   "s4_mack": [
-    "battle_spell_halflings_wit.wav"
+    "battle_spell_halflings_wit"
   ],
   "s4_zila_lei": [
-    "battle_spell_fishbone_blades.wav"
+    "battle_spell_fishbone_blades"
   ],
   "s4_rokkamush": [
-    "battle_spell_blind_rage.wav"
+    "battle_spell_blind_rage"
   ],
   "s4_helo": [
-    "battle_spell_healthiest_catch.wav"
+    "battle_spell_healthiest_catch"
   ],
   "s4_gramps": [
-    "battle_spell_elders_remedy.wav"
+    "battle_spell_elders_remedy"
   ],
   "s4_tettukh": [
-    "battle_spell_crippling_grapple.wav"
+    "battle_spell_crippling_grapple"
   ],
   "s4_poppy": [
-    "battle_spell_ricochet_bolt_hit.wav",
-    "battle_spell_ricochet_bolt_start.wav"
+    "battle_spell_ricochet_bolt_hit",
+    "battle_spell_ricochet_bolt_start"
   ],
   "s4_vollermork": [
-    "battle_spell_thresher_worms_hit.wav",
-    "battle_spell_thresher_worms_start.wav"
+    "battle_spell_thresher_worms_hit",
+    "battle_spell_thresher_worms_start"
   ],
   "s4_morris": [
-    "battle_spell_dig_a_hole.wav"
+    "battle_spell_dig_a_hole"
   ],
   "forest_god_elradir": [
-    "battle_spell_natures_payback_hit.wav",
-    "battle_spell_natures_payback_start.wav"
+    "battle_spell_natures_payback_hit",
+    "battle_spell_natures_payback_start"
   ],
   "s4_hannah": [
-    "battle_spell_corrupting_idol.wav"
+    "battle_spell_corrupting_idol"
   ],
   "s4_elizabeth": [
-    "battle_spell_widows_kiss_hit.wav",
-    "battle_spell_widows_kiss_start.wav"
+    "battle_spell_widows_kiss_hit",
+    "battle_spell_widows_kiss_start"
   ],
   "circus_eiora_and_fluffy": [
-    "battle_spell_perfect_teamwork_HIT.wav",
-    "battle_spell_perfect_teamwork_MAIN.wav"
+    "battle_spell_perfect_teamwork_HIT",
+    "battle_spell_perfect_teamwork_MAIN"
   ],
   "circus_marcel": [
-    "battle_spell_head_hurl.wav"
+    "battle_spell_head_hurl"
   ],
   "circus_dandre": [],
   "circus_eichbelborg": [
-    "battle_spell_pompous_flex.wav"
+    "battle_spell_pompous_flex"
   ],
   "circus_candy": [
-    "battle_spell_whimsical_aid.wav"
+    "battle_spell_whimsical_aid"
   ],
   "circus_whacker": [
-    "battle_spell_nasty_hammer.wav"
+    "battle_spell_nasty_hammer"
   ],
   "circus_theobald": [
-    "battle_spell_multi_throw_HIT.wav",
-    "battle_spell_multi_throw_MAIN.wav"
+    "battle_spell_multi_throw_HIT",
+    "battle_spell_multi_throw_MAIN"
   ],
   "circus_director_zuri": [
-    "battle_spell_directors_blessing.wav"
+    "battle_spell_directors_blessing"
   ],
   "circus_bobo": [
-    "battle_spell_bobo_blitz.wav"
+    "battle_spell_bobo_blitz"
   ],
   "circus_emilio": [
-    "battle_spell_flames_and_rejuvenation.wav"
+    "battle_spell_flames_and_rejuvenation"
   ],
   "circus_faline": [],
   "holy_god_devana": [
-    "battle_attack-arrows.wav",
-    "battle_spell_arrows_and_claws_HIT.wav",
-    "battle_spell_arrows_and_claws_MAIN.wav"
+    "battle_attack-arrows",
+    "battle_spell_arrows_and_claws_HIT",
+    "battle_spell_arrows_and_claws_MAIN"
   ],
   "magic_milena": [
-    "battle_spell_restoration_and_annihilation.wav"
+    "battle_spell_restoration_and_annihilation"
   ],
   "magic_cristobal": [
-    "battle_spell_charmed_dual_blade.wav"
+    "battle_spell_charmed_dual_blade"
   ],
   "magic_motega": [
-    "battle_spell_butterfly_swarm.wav"
+    "battle_spell_butterfly_swarm"
   ],
   "magic_agrafena": [
-    "battle_spell_arcane_shock.wav"
+    "battle_spell_arcane_shock"
   ],
   "magic_nadezhda": [
-    "battle_spell_flame_of_the_dragon_familiar.wav"
+    "battle_spell_flame_of_the_dragon_familiar"
   ],
   "magic_anton": [
-    "battle_spell_high_noon_sun.wav"
+    "battle_spell_high_noon_sun"
   ],
   "magic_anastasia": [
-    "battle_spell_cheerful_charm.wav"
+    "battle_spell_cheerful_charm"
   ],
   "magic_sergei": [
-    "battle_spell_midnight_moon.wav"
+    "battle_spell_midnight_moon"
   ],
   "magic_dolgoon": [
-    "battle_spell_voluminous_vigor.wav"
+    "battle_spell_voluminous_vigor"
   ],
   "magic_kornel": [
-    "battle_spell_imaginary_increments.wav"
+    "battle_spell_imaginary_increments"
   ],
   "dark_god_chakkoszrot": [
-    "battle_spell_stalling_spell_HIT.wav",
-    "battle_spell_stalling_spell_MAIN.wav"
+    "battle_spell_stalling_spell_HIT",
+    "battle_spell_stalling_spell_MAIN"
   ],
   "ice_god_alexandrine": [
-    "battle_spell_shimmering_shield.wav"
+    "battle_spell_shimmering_shield"
   ],
   "slayer_cathal": [
-    "battle_spell_breaker_blade.wav"
+    "battle_spell_breaker_blade"
   ],
   "slayer_saoirse": [
-    "battle_spell_fracturing_slash.wav"
+    "battle_spell_fracturing_slash"
   ],
   "slayer_caitlin": [
-    "battle_spell_dispelling_willpower.wav"
+    "battle_spell_dispelling_willpower"
   ],
   "slayer_rian": [
-    "battle_spell_cleansing_determination_HIT.wav",
-    "battle_spell_cleansing_determination_MAIN.wav"
+    "battle_spell_cleansing_determination_HIT",
+    "battle_spell_cleansing_determination_MAIN"
   ],
   "slayer_senan": [],
   "slayer_orla": [
-    "battle_spell_graceful_shot.wav"
+    "battle_spell_graceful_shot"
   ],
   "slayer_cillian": [
-    "battle_spell_reanimated_spite.wav"
+    "battle_spell_reanimated_spite"
   ],
   "slayer_noril": [
-    "battle_spell_dual_axes_DOUBLE_HIT.wav",
-    "battle_spell_dual_axes_MAIN.wav"
+    "battle_spell_dual_axes_DOUBLE_HIT",
+    "battle_spell_dual_axes_MAIN"
   ],
   "slayer_aodhan": [
-    "battle_spell_wily_wisps_FULL.wav",
-    "battle_spell_wily_wisps_HIT1.wav"
+    "battle_spell_wily_wisps_FULL",
+    "battle_spell_wily_wisps_HIT1"
   ],
   "slayer_maeve": [
-    "battle_spell_assassins_blades.wav"
+    "battle_spell_assassins_blades"
   ],
   "fire_god_russell": [
-    "battle_spell_sure_fire_combustion.wav"
+    "battle_spell_sure_fire_combustion"
   ],
   "ninja_topaz": [
-    "battle_spell_lethal_needles_HIT.wav",
-    "battle_spell_lethal_needles_MAIN.wav"
+    "battle_spell_lethal_needles_HIT",
+    "battle_spell_lethal_needles_MAIN"
   ],
   "ninja_ruby": [
-    "battle_spell_crimson_calamity.wav"
+    "battle_spell_crimson_calamity"
   ],
   "ninja_zircon": [
-    "battle_spell_wall_of_ki.wav"
+    "battle_spell_wall_of_ki"
   ],
   "ninja_peridot": [
-    "battle_spell_suffocating_smoke.wav"
+    "battle_spell_suffocating_smoke"
   ],
   "ninja_quartz": [
-    "battle_spell_incite_ki.wav"
+    "battle_spell_incite_ki"
   ],
   "nature_god_balbar": [
-    "battle_spell_slumber_spores.wav"
+    "battle_spell_slumber_spores"
   ],
   "castle_wolf_quenell": [
-    "battle_spell_howling_sword.wav"
+    "battle_spell_howling_sword"
   ],
   "castle_wolf_ludwig": [
-    "battle_spell_fullmetal_pelt.wav"
+    "battle_spell_fullmetal_pelt"
   ],
   "castle_wolf_wolfgang": [
-    "battle_spell_commanders_gauntlet.wav"
+    "battle_spell_commanders_gauntlet"
   ],
   "castle_wolf_esme": [
-    "battle_spell_fiendslayer.wav"
+    "battle_spell_fiendslayer"
   ],
   "castle_wolf_ferant": [
-    "battle_spell_feral_revenge.wav"
+    "battle_spell_feral_revenge"
   ],
   "castle_wolf_bertulf": [
-    "battle_attack-ice.wav",
-    "battle_spell_magnificent_meal.wav"
+    "battle_attack-ice",
+    "battle_spell_magnificent_meal"
   ],
   "castle_raven_wren": [
-    "battle_spell_squires_squirrel.wav"
+    "battle_spell_squires_squirrel"
   ],
   "castle_raven_aderyn": [
-    "battle_spell_apothecary_kit.wav"
+    "battle_spell_apothecary_kit"
   ],
   "holy_god_hanitra": [
-    "battle_spell_dancing_dodge.wav"
+    "battle_spell_dancing_dodge"
   ],
   "gargoyle_gaillard": [
-    "battle_spell_educated_exorcism.wav"
+    "battle_spell_educated_exorcism"
   ],
   "gargoyle_penolite": [
-    "battle_spell_radiant_rapid_fire_HIT.wav",
-    "battle_spell_radiant_rapid_fire_MAIN.wav"
+    "battle_spell_radiant_rapid_fire_HIT",
+    "battle_spell_radiant_rapid_fire_MAIN"
   ],
   "s4_zekena": [
-    "battle_spell_swift_stingers.wav"
+    "battle_spell_swift_stingers"
   ],
   "s4_exeera": [
-    "battle_spell_saturated_suffering_HIT.wav",
-    "battle_spell_saturated_suffering_MAIN.wav"
+    "battle_spell_saturated_suffering_HIT",
+    "battle_spell_saturated_suffering_MAIN"
   ],
   "christmas_mr_pengi": [
-    "battle_spell_herring_blaster_HIT.wav",
-    "battle_spell_herring_blaster_MAIN.wav"
+    "battle_spell_herring_blaster_HIT",
+    "battle_spell_herring_blaster_MAIN"
   ],
   "dark_god_viscaro": [
-    "battle_spell_cursed_garden.wav"
+    "battle_spell_cursed_garden"
   ],
   "s5_sobek": [
-    "battle_spell_jaws_of_the_river.wav"
+    "battle_spell_jaws_of_the_river"
   ],
   "s5_hathor": [
-    "battle_spell_motherly_care.wav"
+    "battle_spell_motherly_care"
   ],
   "s5_eset": [
-    "battle_spell_holy_aura_hit.wav",
-    "battle_spell_holy_aura_main.wav"
+    "battle_spell_holy_aura_hit",
+    "battle_spell_holy_aura_main"
   ],
   "s5_maat": [
-    "battle_spell_bringer_of_order_hit.wav",
-    "battle_spell_bringer_of_order_main.wav"
+    "battle_spell_bringer_of_order_hit",
+    "battle_spell_bringer_of_order_main"
   ],
   "s5_set": [
-    "battle_spell_legions_of_darkness.wav"
+    "battle_spell_legions_of_darkness"
   ],
   "s5_sekhmet": [
-    "battle_spell_pounce_of_the_lioness.wav"
+    "battle_spell_pounce_of_the_lioness"
   ],
   "s5_horus": [
-    "battle_spell_unrelenting_hunter_HIT.wav",
-    "battle_spell_unrelenting_hunter_MAIN.wav"
+    "battle_spell_unrelenting_hunter_HIT",
+    "battle_spell_unrelenting_hunter_MAIN"
   ],
   "s5_scoratek": [
-    "battle_spell_scarab_throw.wav"
+    "battle_spell_scarab_throw"
   ],
   "ice_god_iris": [
-    "battle_spell_erase_strength.wav"
+    "battle_spell_erase_strength"
   ],
   "s4_kravekrush": [
-    "battle_spell_inevitable_demise.wav"
+    "battle_spell_inevitable_demise"
   ],
   "castle_raven_lewena": [
-    "battle_spell_impeding_bolts_HIT.wav",
-    "battle_spell_impeding_bolts_MAIN.wav"
+    "battle_spell_impeding_bolts_HIT",
+    "battle_spell_impeding_bolts_MAIN"
   ],
   "castle_raven_rayne": [
-    "battle_spell_plague_blade.wav"
+    "battle_spell_plague_blade"
   ],
   "castle_raven_eloise": [
-    "battle_spell_ravaging_talons_HIT.wav",
-    "battle_spell_ravaging_talons_MAIN.wav"
+    "battle_spell_ravaging_talons_HIT",
+    "battle_spell_ravaging_talons_MAIN"
   ],
   "castle_raven_franz": [
-    "battle_spell_sonorous_spear.wav"
+    "battle_spell_sonorous_spear"
   ],
   "castle_raven_quintin": [
-    "battle_spell_echoes_of_pain.wav"
+    "battle_spell_echoes_of_pain"
   ],
   "s4_congalach": [
-    "battle_spell_spectres_flail_HIT.wav",
-    "battle_spell_spectres_flail_MAIN.wav"
+    "battle_spell_spectres_flail_HIT",
+    "battle_spell_spectres_flail_MAIN"
   ],
   "pirate_sally": [],
   "guardian_lemur": [],
@@ -1248,247 +1248,247 @@
   "knights_treevil": [],
   "fables_gnomer": [],
   "kingdom_cao_cao": [
-    "battle_spell_order_to_overwhelm_HIT.wav",
-    "battle_spell_order_to_overwhelm_MAIN2.wav"
+    "battle_spell_order_to_overwhelm_HIT",
+    "battle_spell_order_to_overwhelm_MAIN2"
   ],
   "kingdom_lu_bu": [
-    "battle_spell_disrupting_charge_HIT.wav",
-    "battle_spell_disrupting_charge_MAIN.wav"
+    "battle_spell_disrupting_charge_HIT",
+    "battle_spell_disrupting_charge_MAIN"
   ],
   "kingdom_wang_yuanji": [
-    "battle_spell_nobles_empathy1.wav"
+    "battle_spell_nobles_empathy1"
   ],
   "kingdom_diaochan": [
-    "battle_spell_ladys_charm.wav"
+    "battle_spell_ladys_charm"
   ],
   "kingdom_liu_bei": [
-    "battle_spell_call_to_arms_HIT.wav",
-    "battle_spell_call_to_arms_MAIN.wav"
+    "battle_spell_call_to_arms_HIT",
+    "battle_spell_call_to_arms_MAIN"
   ],
   "kingdom_zhuge_liang": [
-    "battle_spell_martial_masterstroke.wav"
+    "battle_spell_martial_masterstroke"
   ],
   "kingdom_sun_quan": [
-    "battle_spell_command_to_advance_HIT.wav",
-    "battle_spell_command_to_advance_MAIN3.wav"
+    "battle_spell_command_to_advance_HIT",
+    "battle_spell_command_to_advance_MAIN3"
   ],
   "kingdom_sun_shangxiang": [
-    "battle_spell_royal_blades.wav"
+    "battle_spell_royal_blades"
   ],
   "kingdom_xiahou_dun": [
-    "battle_spell_qilin_blade.wav"
+    "battle_spell_qilin_blade"
   ],
   "kingdom_guan_yu": [
-    "battle_spell_green_dragon_crescent_blade.wav"
+    "battle_spell_green_dragon_crescent_blade"
   ],
   "kingdom_zhang_fei": [
-    "battle_spell_viper_blade.wav"
+    "battle_spell_viper_blade"
   ],
   "kingdom_zhou_yu": [
-    "battle_spell_scion_sword.wav"
+    "battle_spell_scion_sword"
   ],
   "kingdom_yao": [
-    "battle_spell_sword_of_wei_HIT.wav",
-    "battle_spell_sword_of_wei_MAIN.wav"
+    "battle_spell_sword_of_wei_HIT",
+    "battle_spell_sword_of_wei_MAIN"
   ],
   "kingdom_jing": [
-    "battle_spell_spear_of_shu.wav"
+    "battle_spell_spear_of_shu"
   ],
   "kingdom_li": [
-    "battle_spell_sickle_of_wu_HIT.wav",
-    "battle_spell_sickle_of_wu_MAIN.wav"
+    "battle_spell_sickle_of_wu_HIT",
+    "battle_spell_sickle_of_wu_MAIN"
   ],
   "s5_khepri": [
-    "battle_spell_scarab_bombardment_HIT.wav",
-    "battle_spell_scarab_bombardment_MAIN.wav"
+    "battle_spell_scarab_bombardment_HIT",
+    "battle_spell_scarab_bombardment_MAIN"
   ],
   "s5_khafre": [
-    "battle_spell_perplexing_riddle.wav"
+    "battle_spell_perplexing_riddle"
   ],
   "s5_hetepheres": [
-    "battle_spell_bewildering_riddle_HIT.wav",
-    "battle_spell_bewildering_riddle_MAIN.wav"
+    "battle_spell_bewildering_riddle_HIT",
+    "battle_spell_bewildering_riddle_MAIN"
   ],
   "s5_ahmose": [
-    "battle_spell_ancient_mirror.wav"
+    "battle_spell_ancient_mirror"
   ],
   "s5_bastet": [
-    "battle_spell_quick_and_nimble_HIT.wav",
-    "battle_spell_quick_and_nimble_MAIN.wav"
+    "battle_spell_quick_and_nimble_HIT",
+    "battle_spell_quick_and_nimble_MAIN"
   ],
   "s5_cleopatra": [
-    "battle_spell_channeler_of_the_gods.wav"
+    "battle_spell_channeler_of_the_gods"
   ],
   "s5_tetisheri": [
-    "battle_spell_ancient_spell_hit.wav",
-    "battle_spell_ancient_spell_main.wav"
+    "battle_spell_ancient_spell_hit",
+    "battle_spell_ancient_spell_main"
   ],
   "s5_papyros": [
-    "battle_spell_summon_sand_golems.wav"
+    "battle_spell_summon_sand_golems"
   ],
   "s5_khonshu": [
-    "battle_spell_midnight_strike.wav"
+    "battle_spell_midnight_strike"
   ],
   "s5_waqas": [
-    "battle_spell_unyielding_protector.wav"
+    "battle_spell_unyielding_protector"
   ],
   "s5_ahhotep": [
-    "battle_spell_mummy_slash_HIT.wav",
-    "battle_spell_mummy_slash_MAIN.wav"
+    "battle_spell_mummy_slash_HIT",
+    "battle_spell_mummy_slash_MAIN"
   ],
   "s5_junaid": [
-    "battle_spell_slash_and_support.wav"
+    "battle_spell_slash_and_support"
   ],
   "s5_faiez": [
-    "battle_spell_plentiful_harvest.wav"
+    "battle_spell_plentiful_harvest"
   ],
   "s5_rekhetre": [
-    "battle_spell_puzzling_riddle.wav"
+    "battle_spell_puzzling_riddle"
   ],
   "s5_el_naddaha": [
-    "battle_spell_luring_song_HIT.wav",
-    "battle_spell_luring_song_MAIN.wav"
+    "battle_spell_luring_song_HIT",
+    "battle_spell_luring_song_MAIN"
   ],
   "s5_ptolemy": [
-    "battle_spell_divine_connection.wav"
+    "battle_spell_divine_connection"
   ],
   "s5_jarif": [
-    "battle_spell_disabling_decree.wav"
+    "battle_spell_disabling_decree"
   ],
   "s5_aqeela": [
-    "battle_spell_one_jump_ahead_HIT.wav",
-    "battle_spell_one_jump_ahead_MAIN.wav"
+    "battle_spell_one_jump_ahead_HIT",
+    "battle_spell_one_jump_ahead_MAIN"
   ],
   "s5_bennu": [
-    "battle_spell_divine_reflection.wav"
+    "battle_spell_divine_reflection"
   ],
   "s5_azmia": [
-    "battle_spell_counterstance.wav"
+    "battle_spell_counterstance"
   ],
   "fire_god_zagrog": [
-    "battle_spell_indifferent_blade_HIT.wav",
-    "battle_spell_indifferent_blade_MAIN.wav"
+    "battle_spell_indifferent_blade_HIT",
+    "battle_spell_indifferent_blade_MAIN"
   ],
   "nature_god_silvaria": [
-    "battle_spell_power_of_flora.wav"
+    "battle_spell_power_of_flora"
   ],
   "s5_anubis": [
-    "battle_spell_mark_of_anubis_HIT.wav",
-    "battle_spell_mark_of_anubis_MAIN.wav"
+    "battle_spell_mark_of_anubis_HIT",
+    "battle_spell_mark_of_anubis_MAIN"
   ],
   "s4_hulda": [
-    "battle_spell_pet_larva2.wav"
+    "battle_spell_pet_larva2"
   ],
   "gargoyle_el_duque": [
-    "battle_spell_fists_of_atonement_HIT.wav",
-    "battle_spell_fists_of_atonement_MAIN.wav"
+    "battle_spell_fists_of_atonement_HIT",
+    "battle_spell_fists_of_atonement_MAIN"
   ],
   "gargoyle_hohenwerf": [
-    "battle_spell_possessor_of_penance.wav"
+    "battle_spell_possessor_of_penance"
   ],
   "gargoyle_arco": [
-    "battle_spell_gargoyles_of_redemption.wav"
+    "battle_spell_gargoyles_of_redemption"
   ],
   "gargoyle_goseck": [
-    "battle_spell_revengeful_smite_HIT.wav",
-    "battle_spell_revengeful_smite_MAIN.wav"
+    "battle_spell_revengeful_smite_HIT",
+    "battle_spell_revengeful_smite_MAIN"
   ],
   "gargoyle_kemeny": [
-    "battle_spell_cry_for_absolution_HIT.wav",
-    "battle_spell_cry_for_absolution_MAIN.wav"
+    "battle_spell_cry_for_absolution_HIT",
+    "battle_spell_cry_for_absolution_MAIN"
   ],
   "gargoyle_matrera": [
-    "battle_spell_heretic_slayer.wav"
+    "battle_spell_heretic_slayer"
   ],
   "gargoyle_kalo": [
-    "battle_spell_resurrection_of_the_fallen_HIT.wav",
-    "battle_spell_resurrection_of_the_fallen_MAIN.wav"
+    "battle_spell_resurrection_of_the_fallen_HIT",
+    "battle_spell_resurrection_of_the_fallen_MAIN"
   ],
   "gargoyle_bellerive": [
-    "battle_spell_sanction_for_heresy_HIT.wav",
-    "battle_spell_sanction_for_heresy_MAIN.wav"
+    "battle_spell_sanction_for_heresy_HIT",
+    "battle_spell_sanction_for_heresy_MAIN"
   ],
   "gargoyle_soroca": [
-    "battle_spell_faithful_force.wav"
+    "battle_spell_faithful_force"
   ],
   "gargoyle_budatin": [
-    "battle_spell_abiding_dogma.wav"
+    "battle_spell_abiding_dogma"
   ],
   "holy_god_kara": [
-    "battle_spell_shieldmaidens_protection.wav"
+    "battle_spell_shieldmaidens_protection"
   ],
   "s2_tethys": [
-    "battle_spell_amphibious_assault_HIT.wav",
-    "battle_spell_amphibious_assault_MAIN.wav"
+    "battle_spell_amphibious_assault_HIT",
+    "battle_spell_amphibious_assault_MAIN"
   ],
   "s2_oceanus": [
-    "battle_spell_strength_of_the_benemoth.wav"
+    "battle_spell_strength_of_the_benemoth"
   ],
   "dark_god_arfanias": [
-    "battle_spell_dagger_of_shadows.wav"
+    "battle_spell_dagger_of_shadows"
   ],
   "ice_god_klaern": [
-    "battle_spell_hailstorm_HIT.wav",
-    "battle_spell_hailstorm_MAIN.wav"
+    "battle_spell_hailstorm_HIT",
+    "battle_spell_hailstorm_MAIN"
   ],
   "kalevala_ilmarinen": [
-    "battle_spell_forged_in_fire.wav"
+    "battle_spell_forged_in_fire"
   ],
   "kalevala_louhi": [
-    "battle_spell_feather_tempest_HIT.wav",
-    "battle_spell_feather_tempest_MAIN.wav"
+    "battle_spell_feather_tempest_HIT",
+    "battle_spell_feather_tempest_MAIN"
   ],
   "kalevala_vainamoinen": [
-    "battle_spell_song_of_the_morass.wav"
+    "battle_spell_song_of_the_morass"
   ],
   "kalevala_kullervo": [
-    "battle_spell_heirloom_dagger.wav"
+    "battle_spell_heirloom_dagger"
   ],
   "kalevala_aino": [
-    "battle_spell_summer_carol.wav"
+    "battle_spell_summer_carol"
   ],
   "kalevala_iku_turso": [
-    "battle_spell_dreaded_waters.wav"
+    "battle_spell_dreaded_waters"
   ],
   "kalevala_mielikki": [
-    "battle_spell_sprite_ballad.wav"
+    "battle_spell_sprite_ballad"
   ],
   "kalevala_lemminkainen": [
-    "battle_spell_flaming_sword_HIT.wav",
-    "battle_spell_flaming_sword_MAIN.wav"
+    "battle_spell_flaming_sword_HIT",
+    "battle_spell_flaming_sword_MAIN"
   ],
   "kalevala_joukahainen": [
-    "battle_attack-arrows.wav",
-    "battle_spell_arrows_of_fury_HIT.wav",
-    "battle_spell_arrows_of_fury_MAIN.wav"
+    "battle_attack-arrows",
+    "battle_spell_arrows_of_fury_HIT",
+    "battle_spell_arrows_of_fury_MAIN"
   ],
   "styx_hypnos": [
-    "battle_spell_sweet_dreams_HIT.wav",
-    "battle_spell_sweet_dreams_MAIN.wav"
+    "battle_spell_sweet_dreams_HIT",
+    "battle_spell_sweet_dreams_MAIN"
   ],
   "styx_nyx": [
-    "battle_spell_night_falls_HIT.wav",
-    "battle_spell_night_falls_MAIN.wav"
+    "battle_spell_night_falls_HIT",
+    "battle_spell_night_falls_MAIN"
   ],
   "kalevala_para": [
-    "battle_spell_familiar_witchcraft.wav"
+    "battle_spell_familiar_witchcraft"
   ],
   "bard_phenexa": [
-    "battle_spell_ballad_of_restoration.wav"
+    "battle_spell_ballad_of_restoration"
   ],
   "bard_rhys": [
-    "battle_spell_hymn_of_enrichment.wav"
+    "battle_spell_hymn_of_enrichment"
   ],
   "bard_winifred": [
-    "battle_spell_madrigal_of_mayhem_HIT.wav",
-    "battle_spell_madrigal_of_mayhem_MAIN.wav"
+    "battle_spell_madrigal_of_mayhem_HIT",
+    "battle_spell_madrigal_of_mayhem_MAIN"
   ],
   "bard_narcisa": [
-    "battle_spell_song_of_calamity_HIT.wav",
-    "battle_spell_song_of_calamity_MAIN.wav"
+    "battle_spell_song_of_calamity_HIT",
+    "battle_spell_song_of_calamity_MAIN"
   ],
   "bard_zhabog": [
-    "battle_spell_melody_of_misery.wav"
+    "battle_spell_melody_of_misery"
   ],
   "trainer_rainbow_common": [],
   "trainer_rainbow_uncommon": [],
@@ -1496,318 +1496,318 @@
   "trainer_rainbow_epic": [],
   "trainer_rainbow_legendary": [],
   "fire_god_tahir": [
-    "battle_spell_hunters_mark.wav"
+    "battle_spell_hunters_mark"
   ],
   "forest_god_grace": [
-    "battle_spell_malison_of_the_wildlands_HIT.wav",
-    "battle_spell_malison_of_the_wildlands_MAIN.wav"
+    "battle_spell_malison_of_the_wildlands_HIT",
+    "battle_spell_malison_of_the_wildlands_MAIN"
   ],
   "styx_erebus": [
-    "battle_spell_dark_orb.wav"
+    "battle_spell_dark_orb"
   ],
   "styx_thanatos": [
-    "battle_spell_delay_the_inevitable.wav"
+    "battle_spell_delay_the_inevitable"
   ],
   "styx_charon": [
-    "battle_spell_boat_ride_from_the_beyond.wav"
+    "battle_spell_boat_ride_from_the_beyond"
   ],
   "styx_amphitrite": [
-    "battle_spell_tidal_force.wav"
+    "battle_spell_tidal_force"
   ],
   "styx_nemesis": [
-    "battle_spell_day_of_reckoning.wav"
+    "battle_spell_day_of_reckoning"
   ],
   "styx_arges": [
-    "battle_spell_potion_cocktail_HIT.wav",
-    "battle_spell_potion_cocktail_MAIN.wav"
+    "battle_spell_potion_cocktail_HIT",
+    "battle_spell_potion_cocktail_MAIN"
   ],
   "styx_brontes": [
-    "battle_spell_fruits_of_labor.wav"
+    "battle_spell_fruits_of_labor"
   ],
   "styx_steropes": [],
   "styx_dante": [
-    "battle_spell_dantes_inferno_HIT.wav",
-    "battle_spell_dantes_inferno_MAIN.wav"
+    "battle_spell_dantes_inferno_HIT",
+    "battle_spell_dantes_inferno_MAIN"
   ],
   "styx_virgil": [
-    "battle_spell_poets_protection.wav"
+    "battle_spell_poets_protection"
   ],
   "monster_hunter_adalinda": [
-    "battle_spell_hunting_charge_HIT.wav",
-    "battle_spell_hunting_charge_MAIN.wav"
+    "battle_spell_hunting_charge_HIT",
+    "battle_spell_hunting_charge_MAIN"
   ],
   "monster_hunter_hawthorn": [
-    "battle_spell_medicinal_fumes.wav"
+    "battle_spell_medicinal_fumes"
   ],
   "monster_hunter_kai": [
-    "battle_spell_mantis_strike.wav"
+    "battle_spell_mantis_strike"
   ],
   "monster_hunter_cleaver": [
-    "battle_spell_bone_ritual.wav"
+    "battle_spell_bone_ritual"
   ],
   "monster_hunter_malin": [
-    "battle_spell_wild_cleave.wav"
+    "battle_spell_wild_cleave"
   ],
   "monster_hunter_waterpipe": [
-    "battle_spell_harpoon_sentry.wav"
+    "battle_spell_harpoon_sentry"
   ],
   "monster_hunter_meadow": [
-    "battle_attack-poison.wav",
-    "battle_spell_poison_tipped_arrow.wav"
+    "battle_attack-poison",
+    "battle_spell_poison_tipped_arrow"
   ],
   "monster_hunter_hammertusk": [
-    "battle_spell_demolishing_crush.wav"
+    "battle_spell_demolishing_crush"
   ],
   "monster_hunter_ebba": [
-    "battle_spell_flail_swing_HIT.wav",
-    "battle_spell_flail_swing_MAIN.wav"
+    "battle_spell_flail_swing_HIT",
+    "battle_spell_flail_swing_MAIN"
   ],
   "monster_hunter_edelaide": [
-    "battle_spell_nomadic_hymn.wav"
+    "battle_spell_nomadic_hymn"
   ],
   "elemental_zandria": [
-    "battle_spell_unwavering_devotion.wav"
+    "battle_spell_unwavering_devotion"
   ],
   "elemental_jequn": [
-    "battle_spell_archaic_sacred_symbol_HIT.wav",
-    "battle_spell_archaic_sacred_symbol_MAIN.wav"
+    "battle_spell_archaic_sacred_symbol_HIT",
+    "battle_spell_archaic_sacred_symbol_MAIN"
   ],
   "elemental_zengar": [
-    "battle_spell_great_frost_axe_hit.wav",
-    "battle_spell_great_frost_axe_main.wav"
+    "battle_spell_great_frost_axe_hit",
+    "battle_spell_great_frost_axe_main"
   ],
   "elemental_anzia": [
-    "battle_spell_radiant_comeback.wav"
+    "battle_spell_radiant_comeback"
   ],
   "elemental_xandrella": [
-    "battle_spell_staff_of_mana_control_HIT.wav",
-    "battle_spell_staff_of_mana_control_MAIN.wav"
+    "battle_spell_staff_of_mana_control_HIT",
+    "battle_spell_staff_of_mana_control_MAIN"
   ],
   "elemental_roz": [
-    "battle_spell_elemental_infusion_arrow_HIT.wav",
-    "battle_spell_elemental_infusion_arrow_MAIN.wav"
+    "battle_spell_elemental_infusion_arrow_HIT",
+    "battle_spell_elemental_infusion_arrow_MAIN"
   ],
   "elemental_doxan": [
-    "battle_spell_dual_laser_blades.wav"
+    "battle_spell_dual_laser_blades"
   ],
   "elemental_ignazio": [
-    "battle_spell_purifying_flame.wav"
+    "battle_spell_purifying_flame"
   ],
   "elemental_griffex": [
-    "battle_spell_mana_manipulation_hit.wav",
-    "battle_spell_mana_manipulation_main.wav"
+    "battle_spell_mana_manipulation_hit",
+    "battle_spell_mana_manipulation_main"
   ],
   "elemental_aconia": [
-    "battle_spell_bleed_inducing_daggers_hit.wav",
-    "battle_spell_bleed_inducing_daggers_main.wav"
+    "battle_spell_bleed_inducing_daggers_hit",
+    "battle_spell_bleed_inducing_daggers_main"
   ],
   "holy_god_celidana": [
-    "battle_spell_sacrament_of_salvation.wav"
+    "battle_spell_sacrament_of_salvation"
   ],
   "monster_hunter_dawn": [
-    "battle_spell_hunting_ballad.wav"
+    "battle_spell_hunting_ballad"
   ],
   "monster_hunter_fianna": [
-    "battle_spell_bone_arrow_HIT.wav",
-    "battle_spell_bone_arrow_MAIN.wav"
+    "battle_spell_bone_arrow_HIT",
+    "battle_spell_bone_arrow_MAIN"
   ],
   "monster_hunter_maheegan": [
-    "battle_spell_claws_of_the_hunter.wav",
-    "battle_spell_claws_of_the_hunter_hit.wav"
+    "battle_spell_claws_of_the_hunter",
+    "battle_spell_claws_of_the_hunter_hit"
   ],
   "halloween_lucinda": [
-    "battle_spell_might_of_excalibroom_HIT.wav",
-    "battle_spell_might_of_excalibroom_MAIN.wav"
+    "battle_spell_might_of_excalibroom_HIT",
+    "battle_spell_might_of_excalibroom_MAIN"
   ],
   "halloween_edwin": [
-    "battle_spell_hemlock_tea_HIT.wav",
-    "battle_spell_hemlock_tea_MAIN.wav"
+    "battle_spell_hemlock_tea_HIT",
+    "battle_spell_hemlock_tea_MAIN"
   ],
   "halloween_amber": [
-    "battle_spell_spear_of_blood_pact.wav"
+    "battle_spell_spear_of_blood_pact"
   ],
   "halloween_alucard": [
-    "battle_spell_vampiric_curse.wav"
+    "battle_spell_vampiric_curse"
   ],
   "halloween_miriam_and_midnight": [
-    "battle_spell_litter_of_kittens.wav"
+    "battle_spell_litter_of_kittens"
   ],
   "halloween_matilda": [
-    "battle_attack-poison.wav",
-    "battle_spell_muffin_poisoning_HIT.wav",
-    "battle_spell_muffin_poisoning_MAIN.wav"
+    "battle_attack-poison",
+    "battle_spell_muffin_poisoning_HIT",
+    "battle_spell_muffin_poisoning_MAIN"
   ],
   "halloween_ana_belle": [
-    "battle_spell_tidy_up_HIT.wav",
-    "battle_spell_tidy_up_MAIN.wav"
+    "battle_spell_tidy_up_HIT",
+    "battle_spell_tidy_up_MAIN"
   ],
   "halloween_goopy": [
-    "battle_spell_sugar_rush_HIT.wav",
-    "battle_spell_sugar_rush_MAIN.wav"
+    "battle_spell_sugar_rush_HIT",
+    "battle_spell_sugar_rush_MAIN"
   ],
   "mighty_pet_furdinand": [
-    "battle_spell_bark_of_protection.wav"
+    "battle_spell_bark_of_protection"
   ],
   "mighty_pet_cupcake": [
-    "battle_spell_grand_heist.wav"
+    "battle_spell_grand_heist"
   ],
   "mighty_pet_cinnamon": [
-    "battle_spell_frozen_wind_HIT.wav",
-    "battle_spell_frozen_wind_MAIN.wav"
+    "battle_spell_frozen_wind_HIT",
+    "battle_spell_frozen_wind_MAIN"
   ],
   "mighty_pet_snowball": [
-    "battle_attack-arrows.wav",
-    "battle_spell_feral_arrows_HIT.wav",
-    "battle_spell_feral_arrows_MAIN.wav"
+    "battle_attack-arrows",
+    "battle_spell_feral_arrows_HIT",
+    "battle_spell_feral_arrows_MAIN"
   ],
   "mighty_pet_chomper": [
-    "battle_attack-ice.wav",
-    "battle_spell_slice_and_dice_HIT.wav",
-    "battle_spell_slice_and_dice_MAIN.wav"
+    "battle_attack-ice",
+    "battle_spell_slice_and_dice_HIT",
+    "battle_spell_slice_and_dice_MAIN"
   ],
   "mighty_pet_hachiko": [
-    "battle_spell_strike_of_a_thousand_howls_HIT.wav",
-    "battle_spell_strike_of_a_thousand_howls_MAIN.wav"
+    "battle_spell_strike_of_a_thousand_howls_HIT",
+    "battle_spell_strike_of_a_thousand_howls_MAIN"
   ],
   "dark_god_morax": [
-    "battle_spell_scythe_of_sorceries_hit.wav",
-    "battle_spell_scythe_of_sorceries_main.wav"
+    "battle_spell_scythe_of_sorceries_hit",
+    "battle_spell_scythe_of_sorceries_main"
   ],
   "pirate_anne": [
-    "battle_spell_cannon_blast_hit.wav",
-    "battle_spell_cannon_blast_main.wav"
+    "battle_spell_cannon_blast_hit",
+    "battle_spell_cannon_blast_main"
   ],
   "mighty_pet_ribbit": [
-    "battle_spell_amphibian_sword_sting_HIT.wav",
-    "battle_spell_amphibian_sword_sting_MAIN.wav"
+    "battle_spell_amphibian_sword_sting_HIT",
+    "battle_spell_amphibian_sword_sting_MAIN"
   ],
   "mighty_pet_rufus": [
-    "battle_spell_furry_loggers_swing_HIT.wav",
-    "battle_spell_furry_loggers_swing_MAIN.wav"
+    "battle_spell_furry_loggers_swing_HIT",
+    "battle_spell_furry_loggers_swing_MAIN"
   ],
   "mighty_pet_waddles": [
-    "battle_spell_spear_of_loyalty.wav"
+    "battle_spell_spear_of_loyalty"
   ],
   "mighty_pet_luna": [
-    "battle_spell_lunar_blessing.wav"
+    "battle_spell_lunar_blessing"
   ],
   "mighty_pet_toto": [
-    "battle_spell_puppy_tales.wav"
+    "battle_spell_puppy_tales"
   ],
   "mighty_pet_barkley": [
-    "battle_spell_missile_mania_HIT.wav",
-    "battle_spell_missile_mania_MAIN.wav"
+    "battle_spell_missile_mania_HIT",
+    "battle_spell_missile_mania_MAIN"
   ],
   "mighty_pet_bubbles": [
-    "battle_spell_spectral_visions.wav"
+    "battle_spell_spectral_visions"
   ],
   "ice_god_balur": [
-    "battle_spell_double_flail_mayhem.wav"
+    "battle_spell_double_flail_mayhem"
   ],
   "masquerade_fortuna": [
-    "battle_spell_bad_fortune_HIT.wav",
-    "battle_spell_bad_fortune_MAIN.wav"
+    "battle_spell_bad_fortune_HIT",
+    "battle_spell_bad_fortune_MAIN"
   ],
   "masquerade_jove": [
-    "battle_spell_strike_from_the_skies_HIT.wav",
-    "battle_spell_strike_from_the_skies_MAIN.wav"
+    "battle_spell_strike_from_the_skies_HIT",
+    "battle_spell_strike_from_the_skies_MAIN"
   ],
   "bard_celimene": [
-    "battle_spell_moonlight_sonata.wav"
+    "battle_spell_moonlight_sonata"
   ],
   "bard_ogima": [
-    "battle_spell_rhythm_of_havoc_HIT.wav",
-    "battle_spell_rhythm_of_havoc_MAIN.wav"
+    "battle_spell_rhythm_of_havoc_HIT",
+    "battle_spell_rhythm_of_havoc_MAIN"
   ],
   "bard_belladonna": [
-    "battle_spell_mystical_concerto.wav"
+    "battle_spell_mystical_concerto"
   ],
   "bard_garyas": [
-    "battle_spell_the_mighty_crescendo.wav"
+    "battle_spell_the_mighty_crescendo"
   ],
   "bard_zarel": [
-    "battle_spell_tambourine_solo_HIT.wav",
-    "battle_spell_tambourine_solo_MAIN.wav"
+    "battle_spell_tambourine_solo_HIT",
+    "battle_spell_tambourine_solo_MAIN"
   ],
   "mystery_enigmo": [
-    "battle_spell_absorbed_underlings.wav"
+    "battle_spell_absorbed_underlings"
   ],
   "ninja_ekanite": [
-    "battle_spell_order_ambush_hit.wav",
-    "battle_spell_order_ambush_main.wav"
+    "battle_spell_order_ambush_hit",
+    "battle_spell_order_ambush_main"
   ],
   "ninja_azurite": [
-    "battle_spell_light_grenades_HIT.wav",
-    "battle_spell_light_grenades_MAIN.wav"
+    "battle_spell_light_grenades_HIT",
+    "battle_spell_light_grenades_MAIN"
   ],
   "ninja_kushanku": [
-    "battle_spell_tumbling_dragon.wav"
+    "battle_spell_tumbling_dragon"
   ],
   "ninja_oniwakamaru": [
-    "battle_spell_standing_fortress.wav"
+    "battle_spell_standing_fortress"
   ],
   "ninja_serandite": [
-    "battle_spell_burning_ashes_hit.wav",
-    "battle_spell_burning_ashes_main.wav"
+    "battle_spell_burning_ashes_hit",
+    "battle_spell_burning_ashes_main"
   ],
   "ninja_myoinni": [
-    "battle_spell_resolute_spirit_HIT.wav",
-    "battle_spell_resolute_spirit_MAIN.wav"
+    "battle_spell_resolute_spirit_HIT",
+    "battle_spell_resolute_spirit_MAIN"
   ],
   "ninja_morganite": [
-    "battle_spell_cursed_fumes_HIT.wav",
-    "battle_spell_cursed_fumes_MAIN.wav"
+    "battle_spell_cursed_fumes_HIT",
+    "battle_spell_cursed_fumes_MAIN"
   ],
   "ninja_tametomo": [
-    "battle_spell_splintering_shot_HIT.wav",
-    "battle_spell_splintering_shot_MAIN.wav"
+    "battle_spell_splintering_shot_HIT",
+    "battle_spell_splintering_shot_MAIN"
   ],
   "ninja_kinsaishi": [
-    "battle_attack-lightning.wav",
-    "battle_spell_lightning_stream.wav"
+    "battle_attack-lightning",
+    "battle_spell_lightning_stream"
   ],
   "ninja_amethyst": [
-    "battle_spell_assassins_in_the_night_hit.wav",
-    "battle_spell_assassins_in_the_night_main.wav"
+    "battle_spell_assassins_in_the_night_hit",
+    "battle_spell_assassins_in_the_night_main"
   ],
   "nomad_female_assassin_costume_dancer": [],
   "s3_odin_costume_champion": [
-    "battle_spell_fury_of_grimnir.wav"
+    "battle_spell_fury_of_grimnir"
   ],
   "s3_tyr_costume_savage": [
-    "battle_adamantite_claw_2_HITS.wav",
-    "battle_adamantite_claw_ALKU_EDIT.wav"
+    "battle_adamantite_claw_2_HITS",
+    "battle_adamantite_claw_ALKU_EDIT"
   ],
   "s3_frigg_costume_clairvoyance": [
-    "battle_brittling_force.wav"
+    "battle_brittling_force"
   ],
   "s3_thor_costume_conduit": [
-    "battle_spell_power_of_mjolnir.wav"
+    "battle_spell_power_of_mjolnir"
   ],
   "s3_fenrir_costume_guardian": [
-    "battle_gargantuan_bite_1b_EDIT.wav"
+    "battle_gargantuan_bite_1b_EDIT"
   ],
   "ice_god_perseus_costume_frozen": [],
   "dark_god_hel_costume_omen": [],
   "s3_fura_costume_herbalist": [
-    "nightglade_pollen.wav"
+    "nightglade_pollen"
   ],
   "s3_almur_costume_lord": [
-    "shadow_sweep.wav"
+    "shadow_sweep"
   ],
   "s3_nordri_costume_explorer": [
-    "battle_frosty_axes_ALKU_EDIT.wav",
-    "battle_frosty_axes_HIT_EDIT.wav"
+    "battle_frosty_axes_ALKU_EDIT",
+    "battle_frosty_axes_HIT_EDIT"
   ],
   "s3_ei_dunn_costume_shield": [
-    "battle_tainted_axe_EDIT.wav"
+    "battle_tainted_axe_EDIT"
   ],
   "s2_junglehunter_costume_party": [
-    "battle_martial_prowess.wav"
+    "battle_martial_prowess"
   ],
   "s2_mercenary_woman_costume_dancer": [
-    "battle_chain_strike_HIT.wav",
-    "battle_chain_strike_POHJA.wav"
+    "battle_chain_strike_HIT",
+    "battle_chain_strike_POHJA"
   ],
   "blackguard_commander_costume_feather": [],
   "undead_female_warrior_costume_rococo": [],
@@ -1816,8 +1816,8 @@
   "blackguard_knight_costume_healer": [],
   "dwarven_guard_costume_tavern": [],
   "orc_gladiator_costume_sage": [
-    "battle_shattering_warcryb.wav",
-    "battle_spell_warcry_of_the_jungle.wav"
+    "battle_shattering_warcryb",
+    "battle_spell_warcry_of_the_jungle"
   ],
   "forest_woodsman_warrior_costume_highlander": [],
   "royal_female_knight_costume_prospector": [],
@@ -1829,181 +1829,181 @@
   "nomad_female_captain_costume_thief": [],
   "elven_archer_costume_raven": [],
   "forest_female_elf_costume_fairy": [
-    "battle_eclipse_shield.wav"
+    "battle_eclipse_shield"
   ],
   "nomad_female_lord_costume_wicked": [],
   "nordic_male_lord_costume_injustice": [],
   "cultist_sorceress_costume_snake": [],
   "royal_knight_commander_costume_gryphon": [
-    "battle_attack-ice.wav"
+    "battle_attack-ice"
   ],
   "dark_god_aeron_costume_periwig": [
-    "battle_nethershield_v2.wav"
+    "battle_nethershield_v2"
   ],
   "ice_god_october_costume_farmer": [],
   "fire_god_ares_costume_keymaster": [],
   "fire_god_zimkitha_costume_adventurer": [
-    "battle_dawn_strikeb.wav"
+    "battle_dawn_strikeb"
   ],
   "s2_skyllaros_costume_reef": [
-    "battle_immortal_annihilator_ALKU.wav",
-    "battle_immortal_annihilator_RAY2.wav"
+    "battle_immortal_annihilator_ALKU",
+    "battle_immortal_annihilator_RAY2"
   ],
   "s2_hammerhead_hulk_costume_emerald": [
-    "battle_black_tide.wav"
+    "battle_black_tide"
   ],
   "s2_noble_lady_costume_warrior": [
-    "battle_dark_mirror3b.wav"
+    "battle_dark_mirror3b"
   ],
   "s2_tanuki_raccoon_costume_merchant": [],
   "s2_chameleon_mage_costume_alchemist": [
-    "battle_spell_tidal_waves_HIT.wav",
-    "battle_spell_tidal_waves_MAIN.wav"
+    "battle_spell_tidal_waves_HIT",
+    "battle_spell_tidal_waves_MAIN"
   ],
   "s2_triton_costume_champion": [
-    "battle_heroic_noble.wav"
+    "battle_heroic_noble"
   ],
   "s2_chameleon_chief_costume_heavyweight": [],
   "s2_proteus_costume_farseer": [
-    "battle_scar_of_the_depths.wav"
+    "battle_scar_of_the_depths"
   ],
   "s2_fiji_mermaid_costume_hunter": [
-    "battle_song_of_regression.wav"
+    "battle_song_of_regression"
   ],
   "s2_demon_master_costume_steppe": [],
   "fire_god_natalya_costume_seamstress": [],
   "holy_god_delilah_costume_guardian": [
-    "battle_summon_temple_guardiansa.wav"
+    "battle_summon_temple_guardiansa"
   ],
   "forest_god_zeline_costume_avian": [
-    "battle_emerald_flash.wav"
+    "battle_emerald_flash"
   ],
   "holy_god_musashi_costume_prisoner": [
-    "battle_dragon_fang_ALKU.wav",
-    "battle_dragon_fang_HIT.wav"
+    "battle_dragon_fang_ALKU",
+    "battle_dragon_fang_HIT"
   ],
   "forest_god_evelyn_costume_huntress": [
-    "battle_shattering_warcryb.wav"
+    "battle_shattering_warcryb"
   ],
   "witch_king_costume_cosmic": [
-    "battle_soul_cage.wav",
-    "battle_soul_cage_HIT.wav"
+    "battle_soul_cage",
+    "battle_soul_cage_HIT"
   ],
   "dark_god_september_costume_engineer": [
-    "battle_bleeding_edge.wav"
+    "battle_bleeding_edge"
   ],
   "forest_god_gregorion_costume_alchemist": [
-    "battle_unwavering_focus2.wav"
+    "battle_unwavering_focus2"
   ],
   "s4_professor_lidenbrock_costume_jeweler": [
-    "battle_spell_glorious_grace.wav"
+    "battle_spell_glorious_grace"
   ],
   "s4_elizabeth_costume_bride": [
-    "battle_spell_widows_kiss_hit.wav",
-    "battle_spell_widows_kiss_start.wav"
+    "battle_spell_widows_kiss_hit",
+    "battle_spell_widows_kiss_start"
   ],
   "s4_phileas_fogg_costume_engineer": [
-    "battle_spell_valiant_lunge.wav"
+    "battle_spell_valiant_lunge"
   ],
   "s4_doctor_moreau_costume_scribe": [
-    "battle_spell_blinding_wisdom.wav"
+    "battle_spell_blinding_wisdom"
   ],
   "s4_lepiota_costume_undying": [
-    "battle_spell_abyssal_incantation.wav"
+    "battle_spell_abyssal_incantation"
   ],
   "s4_garjammal_costume_kite": [
-    "battle_spell_flail_of_destruction.wav"
+    "battle_spell_flail_of_destruction"
   ],
   "s3_alfrike_costume_hatter": [
-    "battle_cube_of_dark_realm_ALKU_EDIT.wav",
-    "battle_cube_of_dark_realm_hit1_edit.wav"
+    "battle_cube_of_dark_realm_ALKU_EDIT",
+    "battle_cube_of_dark_realm_hit1_edit"
   ],
   "s3_bera_costume_conjurer": [
-    "battle_disir_of_dusk.wav"
+    "battle_disir_of_dusk"
   ],
   "kalevala_kullervo_costume_battle_scarred": [
-    "battle_spell_heirloom_dagger.wav"
+    "battle_spell_heirloom_dagger"
   ],
   "kalevala_aino_costume_water_maiden": [
-    "battle_spell_summer_carol.wav"
+    "battle_spell_summer_carol"
   ],
   "kalevala_mielikki_costume_bear_protector": [
-    "battle_spell_sprite_ballad.wav"
+    "battle_spell_sprite_ballad"
   ],
   "s3_loki_female_costume_mother": [
-    "battle_attack-ice.wav",
-    "battle_tricksters_malice.wav"
+    "battle_attack-ice",
+    "battle_tricksters_malice"
   ],
   "s4_morris_costume_potter": [
-    "battle_spell_dig_a_hole.wav"
+    "battle_spell_dig_a_hole"
   ],
   "s3_ratatoskr_costume_architect": [],
   "s3_norns_costume_puppeteers": [
-    "battle_twist_of_fate_EDIT.wav"
+    "battle_twist_of_fate_EDIT"
   ],
   "s3_loki_fish_costume_dapper": [
-    "battle_spell_tricksters_transformation.wav"
+    "battle_spell_tricksters_transformation"
   ],
   "s4_aouda_costume_lotus": [
-    "battle_spell_blade_of_bundelkhand.wav"
+    "battle_spell_blade_of_bundelkhand"
   ],
   "s4_morel_costume_sage": [
-    "battle_spell_deathly_glaive.wav"
+    "battle_spell_deathly_glaive"
   ],
   "s4_octros_costume_suitor": [
-    "battle_spell_the_hallowed_blade.wav"
+    "battle_spell_the_hallowed_blade"
   ],
   "s4_xnolphod_costume_jailer": [
-    "battle_spell_ancient_enchantment.wav"
+    "battle_spell_ancient_enchantment"
   ],
   "s4_passepartout_costume_artist": [
-    "battle_spell_helping_hands.wav"
+    "battle_spell_helping_hands"
   ],
   "s4_mack_costume_novelist": [
-    "battle_spell_halflings_wit.wav"
+    "battle_spell_halflings_wit"
   ],
   "s4_tettukh_costume_cheerleader": [
-    "battle_spell_crippling_grapple.wav"
+    "battle_spell_crippling_grapple"
   ],
   "s4_griffin_costume_priest": [
-    "battle_spell_invisible_strike.wav"
+    "battle_spell_invisible_strike"
   ],
   "s4_rokkamush_costume_mason": [
-    "battle_spell_blind_rage.wav"
+    "battle_spell_blind_rage"
   ],
   "s4_zila_lei_costume_dancer": [
-    "battle_spell_fishbone_blades.wav"
+    "battle_spell_fishbone_blades"
   ],
   "fables_puss_in_boots_costume_highwaycat": [
-    "battle_attack-ice.wav",
-    "battle_three_blind_mice.wav"
+    "battle_attack-ice",
+    "battle_three_blind_mice"
   ],
   "fables_hansel_costume_vampire_hunter": [
-    "battle_witch_killer.wav"
+    "battle_witch_killer"
   ],
   "s4_helo_costume_baker": [
-    "battle_spell_healthiest_catch.wav"
+    "battle_spell_healthiest_catch"
   ],
   "s4_poppy_costume_lodger": [
-    "battle_spell_ricochet_bolt_hit.wav",
-    "battle_spell_ricochet_bolt_start.wav"
+    "battle_spell_ricochet_bolt_hit",
+    "battle_spell_ricochet_bolt_start"
   ],
   "s4_vollermork_costume_bartender": [
-    "battle_spell_thresher_worms_hit.wav",
-    "battle_spell_thresher_worms_start.wav"
+    "battle_spell_thresher_worms_hit",
+    "battle_spell_thresher_worms_start"
   ],
   "wonderland_queen_costume_benefactor": [
-    "battle_queen_of_cards.wav"
+    "battle_queen_of_cards"
   ],
   "wonderland_cheshire_cat_costume_malicious": [
-    "battle_dazzling_grin_V2.wav"
+    "battle_dazzling_grin_V2"
   ],
   "nordic_male_lord_costume_cute": [],
   "pirate_lady_costume_queen": [
-    "battle_moonlight_serenade_danger.wav"
+    "battle_moonlight_serenade_danger"
   ],
   "pirate_cabin_boy_costume_paper": [
-    "battle_buccaneers_blade.wav"
+    "battle_buccaneers_blade"
   ],
   "lizardman_trapper_costume_fisher": [],
   "oriental_falconer_costume_cub": [],
@@ -2011,73 +2011,73 @@
   "oriental_monkey_captain_costume_reveller": [],
   "pirate_dread_captain_costume_rotten": [],
   "s4_gramps_costume_gardener": [
-    "battle_spell_elders_remedy.wav"
+    "battle_spell_elders_remedy"
   ],
   "cultist_sorceress_costume_cute": [],
   "nomad_female_lord_costume_cute": [],
   "oriental_female_mystic_costume_cute": [],
   "lionman_barbarian_costume_cute": [],
   "magitech_sniper_costume_cute": [
-    "battle_shock_bolt.wav"
+    "battle_shock_bolt"
   ],
   "forest_male_elf_costume_cute": [
-    "battle_crescent_spear.wav"
+    "battle_crescent_spear"
   ],
   "forest_titan_costume_cute": [],
   "nordic_ice_enchantress_costume_cute": [],
   "oriental_enchanted_monk_costume_cute": [],
   "exalted_female_statue_costume_cute": [],
   "forest_female_elf_costume_cute": [
-    "battle_eclipse_shield.wav"
+    "battle_eclipse_shield"
   ],
   "tribal_chief_costume_cute": [],
   "oriental_warrior_king_costume_cute": [],
   "elven_archer_costume_cute": [],
   "s4_russula_costume_painter": [
-    "battle_spell_vengeful_backstab_hit.wav",
-    "battle_spell_vengeful_backstab_start.wav"
+    "battle_spell_vengeful_backstab_hit",
+    "battle_spell_vengeful_backstab_start"
   ],
   "exalted_warrior_costume_cute": [],
   "nomad_female_captain_costume_cute": [],
   "underworld_champion_costume_cute": [],
   "cultist_inventor_costume_cute": [],
   "royal_knight_commander_costume_cute": [
-    "battle_attack-ice.wav"
+    "battle_attack-ice"
   ],
   "s4_kravekrush_costume_grillmaster": [
-    "battle_spell_inevitable_demise.wav"
+    "battle_spell_inevitable_demise"
   ],
   "s4_lughaidh_costume_deathless": [
-    "battle_spell_transcendental_frame.wav"
+    "battle_spell_transcendental_frame"
   ],
   "s4_zenobia_costume_floral": [
-    "battle_spell_dual_sting.wav"
+    "battle_spell_dual_sting"
   ],
   "s4_captain_nemo_costume_machinist": [],
   "s4_congalach_costume_kelp": [
-    "battle_spell_spectres_flail_HIT.wav",
-    "battle_spell_spectres_flail_MAIN.wav"
+    "battle_spell_spectres_flail_HIT",
+    "battle_spell_spectres_flail_MAIN"
   ],
   "s4_hannah_costume_drover": [
-    "battle_spell_corrupting_idol.wav"
+    "battle_spell_corrupting_idol"
   ],
   "s4_zekena_costume_vines": [
-    "battle_spell_swift_stingers.wav"
+    "battle_spell_swift_stingers"
   ],
   "s4_akkorog_costume_football": [
-    "battle_spell_colossal_chops.wav"
+    "battle_spell_colossal_chops"
   ],
   "s4_exeera_costume_hierophant": [
-    "battle_spell_saturated_suffering_HIT.wav",
-    "battle_spell_saturated_suffering_MAIN.wav"
+    "battle_spell_saturated_suffering_HIT",
+    "battle_spell_saturated_suffering_MAIN"
   ],
   "s4_hulda_costume_nurse": [
-    "battle_spell_pet_larva2.wav"
+    "battle_spell_pet_larva2"
   ],
   "s4_xenda_costume_flame": [],
   "orc_gladiator_costume_cute": [
-    "battle_shattering_warcryb.wav",
-    "battle_spell_warcry_of_the_jungle.wav"
+    "battle_shattering_warcryb",
+    "battle_spell_warcry_of_the_jungle"
   ],
   "elven_captain_costume_cute": [],
   "nordic_ancestral_warrior_costume_cute": [],
@@ -2087,34 +2087,34 @@
   "nordic_swordman_costume_cute": [],
   "cultist_mage_costume_cute": [],
   "nomad_mage_costume_cute": [
-    "battle_attack-fireball.wav",
-    "battle_attack_fireball_short.wav"
+    "battle_attack-fireball",
+    "battle_attack_fireball_short"
   ],
   "dwarwen_brewmaster_costume_cute": [],
   "oriental_female_templar_costume_cute": [],
   "oriental_female_mage_costume_cute": [],
   "blackguard_female_captain_costume_cute": [],
   "s5_ahmose_costume_reborn": [
-    "battle_spell_ancient_mirror.wav"
+    "battle_spell_ancient_mirror"
   ],
   "s5_anubis_costume_dancefloor": [
-    "battle_spell_mark_of_anubis_HIT.wav",
-    "battle_spell_mark_of_anubis_MAIN.wav"
+    "battle_spell_mark_of_anubis_HIT",
+    "battle_spell_mark_of_anubis_MAIN"
   ],
   "s5_hathor_costume_starlit": [
-    "battle_spell_motherly_care.wav"
+    "battle_spell_motherly_care"
   ],
   "s5_hetepheres_costume_spa": [
-    "battle_spell_bewildering_riddle_HIT.wav",
-    "battle_spell_bewildering_riddle_MAIN.wav"
+    "battle_spell_bewildering_riddle_HIT",
+    "battle_spell_bewildering_riddle_MAIN"
   ],
   "s5_horus_costume_golden": [
-    "battle_spell_unrelenting_hunter_HIT.wav",
-    "battle_spell_unrelenting_hunter_MAIN.wav"
+    "battle_spell_unrelenting_hunter_HIT",
+    "battle_spell_unrelenting_hunter_MAIN"
   ],
   "s5_maat_costume_river": [
-    "battle_spell_bringer_of_order_hit.wav",
-    "battle_spell_bringer_of_order_main.wav"
+    "battle_spell_bringer_of_order_hit",
+    "battle_spell_bringer_of_order_main"
   ],
   "nomad_axe_adventurer_costume_cute": [],
   "undead_captain_warrior_costume_cute": [],
@@ -2125,14 +2125,14 @@
   "forest_female_spirit_costume_cute": [],
   "nordic_chained_werewolf_costume_cute": [],
   "easter_archie_costume_gallant": [
-    "battle_spell_fabled_llama_ballad_HIT.wav",
-    "battle_spell_fabled_llama_ballad_MAIN.wav"
+    "battle_spell_fabled_llama_ballad_HIT",
+    "battle_spell_fabled_llama_ballad_MAIN"
   ],
   "easter_jasper_costume_fisherman": [
-    "battle_spell_petals_of_nourishment.wav"
+    "battle_spell_petals_of_nourishment"
   ],
   "wonderland_hatter_costume_tea": [
-    "battle_mad_as_a_hatter_V2.wav"
+    "battle_mad_as_a_hatter_V2"
   ],
   "orc_troopmaster_costume_cute": [],
   "oriental_falconer_costume_cute": [],
@@ -2143,7 +2143,7 @@
   "forest_archer_costume_cute": [],
   "goblin_fighter_costume_cute": [],
   "forest_friar_costume_cute": [
-    "battle_have_faith.wav"
+    "battle_have_faith"
   ],
   "nomad_female_shaman_costume_cute": [],
   "dwarven_smasher_costume_cute": [],
@@ -2162,759 +2162,759 @@
   "blackguard_skulker_costume_cute": [],
   "undead_running_skeleton_costume_cute": [],
   "s5_cleopatra_costume_feline": [
-    "battle_spell_channeler_of_the_gods.wav"
+    "battle_spell_channeler_of_the_gods"
   ],
   "s5_tetisheri_costume_molten": [
-    "battle_spell_ancient_spell_hit.wav",
-    "battle_spell_ancient_spell_main.wav"
+    "battle_spell_ancient_spell_hit",
+    "battle_spell_ancient_spell_main"
   ],
   "s5_meresankh_costume_disco": [
-    "battle_spell_impossible_riddle_hit.wav",
-    "battle_spell_impossible_riddle_main.wav"
+    "battle_spell_impossible_riddle_hit",
+    "battle_spell_impossible_riddle_main"
   ],
   "s5_sobek_costume_guardian": [
-    "battle_spell_jaws_of_the_river.wav"
+    "battle_spell_jaws_of_the_river"
   ],
   "s5_bastet_costume_forest": [
-    "battle_spell_quick_and_nimble_HIT.wav",
-    "battle_spell_quick_and_nimble_MAIN.wav"
+    "battle_spell_quick_and_nimble_HIT",
+    "battle_spell_quick_and_nimble_MAIN"
   ],
   "s5_azmia_costume_dancing": [
-    "battle_spell_counterstance.wav"
+    "battle_spell_counterstance"
   ],
   "s5_ahhotep_costume_champion": [
-    "battle_spell_mummy_slash_HIT.wav",
-    "battle_spell_mummy_slash_MAIN.wav"
+    "battle_spell_mummy_slash_HIT",
+    "battle_spell_mummy_slash_MAIN"
   ],
   "s5_aqeela_costume_sorcerer": [
-    "battle_spell_one_jump_ahead_HIT.wav",
-    "battle_spell_one_jump_ahead_MAIN.wav"
+    "battle_spell_one_jump_ahead_HIT",
+    "battle_spell_one_jump_ahead_MAIN"
   ],
   "s5_eset_costume_goldensun": [
-    "battle_spell_holy_aura_hit.wav",
-    "battle_spell_holy_aura_main.wav"
+    "battle_spell_holy_aura_hit",
+    "battle_spell_holy_aura_main"
   ],
   "s5_el_naddaha_costume_sea": [
-    "battle_spell_luring_song_HIT.wav",
-    "battle_spell_luring_song_MAIN.wav"
+    "battle_spell_luring_song_HIT",
+    "battle_spell_luring_song_MAIN"
   ],
   "s5_set_costume_tyrant": [
-    "battle_spell_legions_of_darkness.wav"
+    "battle_spell_legions_of_darkness"
   ],
   "s5_khonshu_costume_knight": [
-    "battle_spell_midnight_strike.wav"
+    "battle_spell_midnight_strike"
   ],
   "s5_papyros_costume_colossus": [
-    "battle_spell_summon_sand_golems.wav"
+    "battle_spell_summon_sand_golems"
   ],
   "s5_khafre_costume_aquatic": [
-    "battle_spell_perplexing_riddle.wav"
+    "battle_spell_perplexing_riddle"
   ],
   "s5_khepri_costume_overlord": [
-    "battle_spell_scarab_bombardment_HIT.wav",
-    "battle_spell_scarab_bombardment_MAIN.wav"
+    "battle_spell_scarab_bombardment_HIT",
+    "battle_spell_scarab_bombardment_MAIN"
   ],
   "s5_junaid_costume_champion": [
-    "battle_spell_slash_and_support.wav"
+    "battle_spell_slash_and_support"
   ],
   "s5_ptolemy_costume_log": [
-    "battle_spell_divine_connection.wav"
+    "battle_spell_divine_connection"
   ],
   "s5_rekhetre_costume_artist": [
-    "battle_spell_puzzling_riddle.wav"
+    "battle_spell_puzzling_riddle"
   ],
   "s5_waqas_costume_blade": [
-    "battle_spell_unyielding_protector.wav"
+    "battle_spell_unyielding_protector"
   ],
   "s5_faiez_costume_miner": [
-    "battle_spell_plentiful_harvest.wav"
+    "battle_spell_plentiful_harvest"
   ],
   "s5_jarif_costume_curator": [
-    "battle_spell_disabling_decree.wav"
+    "battle_spell_disabling_decree"
   ],
   "s5_sekhmet_costume_warden": [
-    "battle_spell_pounce_of_the_lioness.wav"
+    "battle_spell_pounce_of_the_lioness"
   ],
   "s5_bennu_costume_heron": [
-    "battle_spell_divine_reflection.wav"
+    "battle_spell_divine_reflection"
   ],
   "s5_scoratek_costume_sentinel": [
-    "battle_spell_scarab_throw.wav"
+    "battle_spell_scarab_throw"
   ],
   "kingdom_diaochan_costume_flowers": [
-    "battle_spell_ladys_charm.wav"
+    "battle_spell_ladys_charm"
   ],
   "kingdom_zhuge_liang_costume_crane": [
-    "battle_spell_martial_masterstroke.wav"
+    "battle_spell_martial_masterstroke"
   ],
   "kingdom_zhang_fei_costume_bear_slayer": [
-    "battle_spell_viper_blade.wav"
+    "battle_spell_viper_blade"
   ],
   "kingdom_sun_quan_costume_fire_bat": [
-    "battle_spell_command_to_advance_HIT.wav",
-    "battle_spell_command_to_advance_MAIN3.wav"
+    "battle_spell_command_to_advance_HIT",
+    "battle_spell_command_to_advance_MAIN3"
   ],
   "kingdom_lu_bu_costume_tiger_lord": [
-    "battle_spell_disrupting_charge_HIT.wav",
-    "battle_spell_disrupting_charge_MAIN.wav"
+    "battle_spell_disrupting_charge_HIT",
+    "battle_spell_disrupting_charge_MAIN"
   ],
   "kingdom_zhou_yu_costume_white_raven": [
-    "battle_spell_scion_sword.wav"
+    "battle_spell_scion_sword"
   ],
   "kingdom_wang_yuanji_costume_artisan": [
-    "battle_spell_nobles_empathy1.wav"
+    "battle_spell_nobles_empathy1"
   ],
   "musketeer_dartagnan": [
-    "battle_spell_flaming_rapier.wav"
+    "battle_spell_flaming_rapier"
   ],
   "musketeer_aramis": [
-    "battle_spell_charmers_blades_hit.wav",
-    "battle_spell_charmers_blades_main.wav"
+    "battle_spell_charmers_blades_hit",
+    "battle_spell_charmers_blades_main"
   ],
   "musketeer_rochefort": [
-    "battle_spell_dishonorable_ploy.wav"
+    "battle_spell_dishonorable_ploy"
   ],
   "monster_hunter_otis": [
-    "battle_spell_dauntless_bladestorm_HIT.wav",
-    "battle_spell_dauntless_bladestorm_MAIN.wav"
+    "battle_spell_dauntless_bladestorm_HIT",
+    "battle_spell_dauntless_bladestorm_MAIN"
   ],
   "monster_hunter_goretooth": [
-    "battle_spell_titantooth_blade.wav"
+    "battle_spell_titantooth_blade"
   ],
   "monster_hunter_dabria": [
-    "battle_spell_liturgy_of_the_fallen.wav"
+    "battle_spell_liturgy_of_the_fallen"
   ],
   "monster_hunter_sorrow": [
-    "battle_attack-ice.wav",
-    "battle_spell_icebound_ritual.wav"
+    "battle_attack-ice",
+    "battle_spell_icebound_ritual"
   ],
   "monster_hunter_staintongue": [
-    "battle_spell_mallet_swing_of_the_beast_hit.wav",
-    "battle_spell_mallet_swing_of_the_beast_main.wav"
+    "battle_spell_mallet_swing_of_the_beast_hit",
+    "battle_spell_mallet_swing_of_the_beast_main"
   ],
   "monster_hunter_bogart": [
-    "battle_spell_bone_club_clonk_HIT.wav",
-    "battle_spell_bone_club_clonk_MAIN.wav"
+    "battle_spell_bone_club_clonk_HIT",
+    "battle_spell_bone_club_clonk_MAIN"
   ],
   "monster_hunter_numbskull": [
-    "battle_spell_cracked_skull_strike_hit.wav",
-    "battle_spell_cracked_skull_strike_main.wav"
+    "battle_spell_cracked_skull_strike_hit",
+    "battle_spell_cracked_skull_strike_main"
   ],
   "monster_hunter_basil": [
-    "battle_spell_squeak_of_protection.wav"
+    "battle_spell_squeak_of_protection"
   ],
   "monster_hunter_greel": [
-    "battle_spell_stubby_reap.wav"
+    "battle_spell_stubby_reap"
   ],
   "musketeer_athos": [
-    "battle_spell_piercing_shot.wav"
+    "battle_spell_piercing_shot"
   ],
   "christmas_augustus": [
-    "battle_spell_wisdom_of_the_gnomes.wav"
+    "battle_spell_wisdom_of_the_gnomes"
   ],
   "christmas_tinsel": [
-    "battle_spell_malevolent_toys_HIT.wav",
-    "battle_spell_malevolent_toys_MAIN.wav"
+    "battle_spell_malevolent_toys_HIT",
+    "battle_spell_malevolent_toys_MAIN"
   ],
   "christmas_peppermint": [
-    "battle_spell_putrid_perfume_HIT.wav",
-    "battle_spell_putrid_perfume_MAIN.wav"
+    "battle_spell_putrid_perfume_HIT",
+    "battle_spell_putrid_perfume_MAIN"
   ],
   "christmas_holly": [
-    "battle_spell_hearty_stew.wav"
+    "battle_spell_hearty_stew"
   ],
   "christmas_buster": [
-    "battle_spell_frosty_punches_HIT.wav",
-    "battle_spell_frosty_punches_HIT_3_Sound.wav",
-    "battle_spell_frosty_punches_MAIN.wav"
+    "battle_spell_frosty_punches_HIT",
+    "battle_spell_frosty_punches_HIT_3_Sound",
+    "battle_spell_frosty_punches_MAIN"
   ],
   "musketeer_cardinal_richelieu": [
-    "battle_spell_web_of_spies_hit.wav",
-    "battle_spell_web_of_spies_main.wav"
+    "battle_spell_web_of_spies_hit",
+    "battle_spell_web_of_spies_main"
   ],
   "musketeer_villiers": [
-    "battle_spell_the_dukes_investigation_hit.wav",
-    "battle_spell_the_dukes_investigation_main.wav"
+    "battle_spell_the_dukes_investigation_hit",
+    "battle_spell_the_dukes_investigation_main"
   ],
   "musketeer_milady_de_winter": [
-    "battle_spell_masterful_manipulation_HIT.wav",
-    "battle_spell_masterful_manipulation_MAIN.wav"
+    "battle_spell_masterful_manipulation_HIT",
+    "battle_spell_masterful_manipulation_MAIN"
   ],
   "musketeer_planchet": [
-    "battle_attack-ice.wav",
-    "battle_spell_piercing_practice_slash.wav"
+    "battle_attack-ice",
+    "battle_spell_piercing_practice_slash"
   ],
   "journey_erlang_shen": [
-    "battle_spell_deteriorating_morale_HIT.wav",
-    "battle_spell_deteriorating_morale_MAIN.wav"
+    "battle_spell_deteriorating_morale_HIT",
+    "battle_spell_deteriorating_morale_MAIN"
   ],
   "fire_god_roughian_and_nurgib": [],
   "s4_xenda": [],
   "musketeer_porthos": [
-    "battle_spell_musketeers_mead_hit.wav",
-    "battle_spell_musketeers_mead_main.wav"
+    "battle_spell_musketeers_mead_hit",
+    "battle_spell_musketeers_mead_main"
   ],
   "musketeer_queen_anne": [
-    "battle_spell_the_queens_speech.wav"
+    "battle_spell_the_queens_speech"
   ],
   "musketeer_kitty": [],
   "musketeer_felton": [],
   "musketeer_constance": [
-    "battle_spell_sword_dance_hit.wav",
-    "battle_spell_sword_dance_main.wav"
+    "battle_spell_sword_dance_hit",
+    "battle_spell_sword_dance_main"
   ],
   "lunar_new_year_laohu": [
-    "battle_spell_fierce_fu_jow_pai.wav"
+    "battle_spell_fierce_fu_jow_pai"
   ],
   "lunar_new_year_xiaotu": [
-    "battle_spell_reverse_recovery.wav"
+    "battle_spell_reverse_recovery"
   ],
   "nature_god_viselus": [
-    "battle_spell_withering_seasons_hit.wav",
-    "battle_spell_withering_seasons_main.wav"
+    "battle_spell_withering_seasons_hit",
+    "battle_spell_withering_seasons_main"
   ],
   "guardian_hippo": [
-    "battle_spell_brutal_support.wav"
+    "battle_spell_brutal_support"
   ],
   "valentines_cupido": [
-    "battle_spell_love_conquers_all_HIT.wav",
-    "battle_spell_love_conquers_all_MAIN.wav"
+    "battle_spell_love_conquers_all_HIT",
+    "battle_spell_love_conquers_all_MAIN"
   ],
   "valentines_himeros": [
-    "battle_spell_grips_of_longing.wav"
+    "battle_spell_grips_of_longing"
   ],
   "valentines_eros": [
-    "battle_spell_arrow_of_desire.wav"
+    "battle_spell_arrow_of_desire"
   ],
   "valentines_anteros": [
-    "battle_spell_love_at_first_sight_HIT.wav",
-    "battle_spell_love_at_first_sight_MAIN.wav"
+    "battle_spell_love_at_first_sight_HIT",
+    "battle_spell_love_at_first_sight_MAIN"
   ],
   "valentines_phthonus": [
-    "battle_spell_potions_of_covetous_desire_HIT.wav",
-    "battle_spell_potions_of_covetous_desire_MAIN.wav"
+    "battle_spell_potions_of_covetous_desire_HIT",
+    "battle_spell_potions_of_covetous_desire_MAIN"
   ],
   "valentines_elba": [
-    "battle_spell_vanguard_of_passion.wav"
+    "battle_spell_vanguard_of_passion"
   ],
   "valentines_kabeiroi": [
-    "battle_spell_tough_love_HIT.wav",
-    "battle_spell_tough_love_MAIN.wav"
+    "battle_spell_tough_love_HIT",
+    "battle_spell_tough_love_MAIN"
   ],
   "valentines_matchmaker_dodgrom": [
-    "battle_spell_looking_for_love.wav"
+    "battle_spell_looking_for_love"
   ],
   "valentines_voluptas": [],
   "valentines_zarola": [
-    "battle_spell_punishing_shot_HIT.wav",
-    "battle_spell_punishing_shot_MAIN.wav"
+    "battle_spell_punishing_shot_HIT",
+    "battle_spell_punishing_shot_MAIN"
   ],
   "journey_xiong_shanjun": [
-    "battle_spell_fury_of_the_mountain_lord_HIT.wav",
-    "battle_spell_fury_of_the_mountain_lord_MAIN.wav"
+    "battle_spell_fury_of_the_mountain_lord_HIT",
+    "battle_spell_fury_of_the_mountain_lord_MAIN"
   ],
   "journey_nineheaded_beast": [
-    "battle_spell_wrath_of_the_nine_beaks_HIT.wav",
-    "battle_spell_wrath_of_the_nine_beaks_MAIN.wav"
+    "battle_spell_wrath_of_the_nine_beaks_HIT",
+    "battle_spell_wrath_of_the_nine_beaks_MAIN"
   ],
   "journey_heifeng_guai": [
-    "battle_spell_black_tassel_spear_sting.wav"
+    "battle_spell_black_tassel_spear_sting"
   ],
   "journey_general_yin": [
-    "battle_spell_enchanted_axe_swing_HIT.wav",
-    "battle_spell_enchanted_axe_swing_MAIN.wav"
+    "battle_spell_enchanted_axe_swing_HIT",
+    "battle_spell_enchanted_axe_swing_MAIN"
   ],
   "monster_hunter_mistweaver": [
-    "battle_spell_misty_punches_HIT.wav",
-    "battle_spell_misty_punches_MAIN.wav"
+    "battle_spell_misty_punches_HIT",
+    "battle_spell_misty_punches_MAIN"
   ],
   "monster_hunter_bonecrusher": [
-    "battle_spell_fury_of_the_silverback.wav"
+    "battle_spell_fury_of_the_silverback"
   ],
   "journey_queen_guowang": [
-    "battle_spell_the_queens_radiance_HIT.wav",
-    "battle_spell_the_queens_radiance_MAIN.wav"
+    "battle_spell_the_queens_radiance_HIT",
+    "battle_spell_the_queens_radiance_MAIN"
   ],
   "holy_god_gilligan": [
-    "battle_spell_reckless_charge_hit.wav",
-    "battle_spell_reckless_charge_main.wav"
+    "battle_spell_reckless_charge_hit",
+    "battle_spell_reckless_charge_main"
   ],
   "s5_meresankh": [
-    "battle_spell_impossible_riddle_hit.wav",
-    "battle_spell_impossible_riddle_main.wav"
+    "battle_spell_impossible_riddle_hit",
+    "battle_spell_impossible_riddle_main"
   ],
   "monster_hunter_hurricane": [
-    "battle_spell_firestone_daggers_HIT.wav",
-    "battle_spell_firestone_daggers_MAIN.wav"
+    "battle_spell_firestone_daggers_HIT",
+    "battle_spell_firestone_daggers_MAIN"
   ],
   "monster_hunter_knuckles": [
-    "battle_spell_jungle_riposte.wav"
+    "battle_spell_jungle_riposte"
   ],
   "monster_hunter_thunderclap": [
-    "battle_spell_warcry_of_the_jungle.wav"
+    "battle_spell_warcry_of_the_jungle"
   ],
   "monster_hunter_cedar": [
-    "battle_spell_titanbone_chain_slash_HIT.wav",
-    "battle_spell_titanbone_chain_slash_MAIN.wav"
+    "battle_spell_titanbone_chain_slash_HIT",
+    "battle_spell_titanbone_chain_slash_MAIN"
   ],
   "monster_hunter_tremor": [
-    "battle_spell_protective_stance.wav"
+    "battle_spell_protective_stance"
   ],
   "easter_jasper": [
-    "battle_spell_petals_of_nourishment.wav"
+    "battle_spell_petals_of_nourishment"
   ],
   "easter_archie": [
-    "battle_spell_fabled_llama_ballad_HIT.wav",
-    "battle_spell_fabled_llama_ballad_MAIN.wav"
+    "battle_spell_fabled_llama_ballad_HIT",
+    "battle_spell_fabled_llama_ballad_MAIN"
   ],
   "dark_god_turgruk": [
-    "battle_spell_marked_aim.wav"
+    "battle_spell_marked_aim"
   ],
   "knights_green_knight": [
-    "battle_spell_omen_of_retribution_HIT.wav",
-    "battle_spell_omen_of_retribution_MAIN.wav"
+    "battle_spell_omen_of_retribution_HIT",
+    "battle_spell_omen_of_retribution_MAIN"
   ],
   "ice_god_suzuna": [
-    "battle_spell_easy_breezy_aura_HIT.wav",
-    "battle_spell_easy_breezy_aura_MAIN.wav"
+    "battle_spell_easy_breezy_aura_HIT",
+    "battle_spell_easy_breezy_aura_MAIN"
   ],
   "magic_becky": [
-    "battle_spell_wand_of_mana_control_1.wav",
-    "battle_spell_wand_of_mana_control_2.wav"
+    "battle_spell_wand_of_mana_control_1",
+    "battle_spell_wand_of_mana_control_2"
   ],
   "magic_willow": [
-    "battle_spell_levitating_lunchbox_deluxe.wav"
+    "battle_spell_levitating_lunchbox_deluxe"
   ],
   "magic_ray": [
-    "battle_spell_blazing_slam_dunk_1_HIT.wav",
-    "battle_spell_blazing_slam_dunk_1_MAIN.wav",
-    "battle_spell_blazing_slam_dunk_2.wav"
+    "battle_spell_blazing_slam_dunk_1_HIT",
+    "battle_spell_blazing_slam_dunk_1_MAIN",
+    "battle_spell_blazing_slam_dunk_2"
   ],
   "magic_camilla": [
-    "battle_spell_mechanical_augmentations_1.wav",
-    "battle_spell_mechanical_augmentations_2.wav"
+    "battle_spell_mechanical_augmentations_1",
+    "battle_spell_mechanical_augmentations_2"
   ],
   "magic_ulius": [
-    "battle_spell_scroll_of_equations.wav"
+    "battle_spell_scroll_of_equations"
   ],
   "magic_telonius": [
-    "battle_spell_poem_of_the_centaurs.wav"
+    "battle_spell_poem_of_the_centaurs"
   ],
   "magic_vaishali": [
-    "battle_spell_pawns_of_divinity.wav"
+    "battle_spell_pawns_of_divinity"
   ],
   "magic_jett": [
-    "battle_spell_vapors_of_the_underworld_1.wav",
-    "battle_spell_vapors_of_the_underworld_2.wav"
+    "battle_spell_vapors_of_the_underworld_1",
+    "battle_spell_vapors_of_the_underworld_2"
   ],
   "magic_lucy": [
-    "battle_spell_mageball_blast_1.wav",
-    "battle_spell_mageball_blast_2.wav"
+    "battle_spell_mageball_blast_1",
+    "battle_spell_mageball_blast_2"
   ],
   "magic_roxia": [
-    "battle_spell_ancient_ritual_1.wav",
-    "battle_spell_ancient_ritual_2.wav"
+    "battle_spell_ancient_ritual_1",
+    "battle_spell_ancient_ritual_2"
   ],
   "masquerade_februus": [
-    "battle_spell_remedies_and_diseases_hit.wav",
-    "battle_spell_remedies_and_diseases_main.wav"
+    "battle_spell_remedies_and_diseases_hit",
+    "battle_spell_remedies_and_diseases_main"
   ],
   "masquerade_carmenta": [
-    "battle_spell_master_of_ailments_hit.wav",
-    "battle_spell_master_of_ailments_main.wav"
+    "battle_spell_master_of_ailments_hit",
+    "battle_spell_master_of_ailments_main"
   ],
   "masquerade_jana": [
-    "battle_spell_the_two_sides_of_the_moon.wav"
+    "battle_spell_the_two_sides_of_the_moon"
   ],
   "masquerade_aradia": [
-    "battle_spell_wicked_witchcraft_hit.wav",
-    "battle_spell_wicked_witchcraft_main.wav"
+    "battle_spell_wicked_witchcraft_hit",
+    "battle_spell_wicked_witchcraft_main"
   ],
   "masquerade_umbria": [
-    "battle_spell_spreading_shadow.wav"
+    "battle_spell_spreading_shadow"
   ],
   "masquerade_cel": [
-    "battle_spell_summon_rock_golems.wav"
+    "battle_spell_summon_rock_golems"
   ],
   "masquerade_alessia": [
-    "battle_spell_bewitched_daggers_hit.wav",
-    "battle_spell_bewitched_daggers_main.wav"
+    "battle_spell_bewitched_daggers_hit",
+    "battle_spell_bewitched_daggers_main"
   ],
   "masquerade_fosco": [],
   "s5_sneferu": [
-    "battle_spell_disheartening_riddle_hit.wav",
-    "battle_spell_disheartening_riddle_main.wav"
+    "battle_spell_disheartening_riddle_hit",
+    "battle_spell_disheartening_riddle_main"
   ],
   "fire_god_skargremar": [
-    "battle_spell_halting_counter_strike_HIT.wav",
-    "battle_spell_halting_counter_strike_MAIN.wav"
+    "battle_spell_halting_counter_strike_HIT",
+    "battle_spell_halting_counter_strike_MAIN"
   ],
   "tales1_galapago": [
-    "battle_spell_testudo_roll_HIT.wav",
-    "battle_spell_testudo_roll_MAIN.wav"
+    "battle_spell_testudo_roll_HIT",
+    "battle_spell_testudo_roll_MAIN"
   ],
   "tales1_lasalle": [
-    "battle_spell_flanking_maneuver.wav"
+    "battle_spell_flanking_maneuver"
   ],
   "tales1_ephyra": [
-    "battle_spell_seabed_pirouette.wav"
+    "battle_spell_seabed_pirouette"
   ],
   "tales1_phorcys": [
-    "battle_attack-rally.wav",
-    "battle_spell_rally_of_the_deep.wav"
+    "battle_attack-rally",
+    "battle_spell_rally_of_the_deep"
   ],
   "tales1_phorcys_costume_warrior_god": [
-    "battle_attack-rally.wav",
-    "battle_spell_rally_of_the_deep.wav"
+    "battle_attack-rally",
+    "battle_spell_rally_of_the_deep"
   ],
   "tales1_thalassa": [
-    "battle_spell_oceans_embrace_HIT.wav",
-    "battle_spell_oceans_embrace_MAIN.wav"
+    "battle_spell_oceans_embrace_HIT",
+    "battle_spell_oceans_embrace_MAIN"
   ],
   "tales1_ceto": [
-    "battle_spell_tidal_vortex_HIT.wav",
-    "battle_spell_tidal_vortex_MAIN.wav"
+    "battle_spell_tidal_vortex_HIT",
+    "battle_spell_tidal_vortex_MAIN"
   ],
   "tales1_sharkhai": [
-    "battle_spell_critical_tactics.wav"
+    "battle_spell_critical_tactics"
   ],
   "tales1_mulgog": [
-    "battle_spell_noxious_cleave_HIT.wav",
-    "battle_spell_noxious_cleave_MAIN.wav"
+    "battle_spell_noxious_cleave_HIT",
+    "battle_spell_noxious_cleave_MAIN"
   ],
   "tales1_bagreg": [
-    "battle_spell_burning_javelin_HIT.wav",
-    "battle_spell_burning_javelin_MAIN.wav"
+    "battle_spell_burning_javelin_HIT",
+    "battle_spell_burning_javelin_MAIN"
   ],
   "nature_god_cinisia": [
-    "battle_spell_fury_of_ash_HIT.wav",
-    "battle_spell_fury_of_ash_MAIN.wav"
+    "battle_spell_fury_of_ash_HIT",
+    "battle_spell_fury_of_ash_MAIN"
   ],
   "journey_change": [
-    "battle_spell_lunar_locket_main.wav"
+    "battle_spell_lunar_locket_main"
   ],
   "beachparty_dolrak": [
-    "battle_spell_sunscreen_blast.wav"
+    "battle_spell_sunscreen_blast"
   ],
   "beachparty_itham": [
-    "battle_spell_cannonball_splash_HIT.wav",
-    "battle_spell_cannonball_splash_MAIN.wav"
+    "battle_spell_cannonball_splash_HIT",
+    "battle_spell_cannonball_splash_MAIN"
   ],
   "beachparty_misty": [
-    "battle_spell_seastar_burst_HIT.wav",
-    "battle_spell_seastar_burst_MAIN.wav"
+    "battle_spell_seastar_burst_HIT",
+    "battle_spell_seastar_burst_MAIN"
   ],
   "beachparty_flip": [
-    "battle_spell_to_the_rescue.wav"
+    "battle_spell_to_the_rescue"
   ],
   "beachparty_davey_wavey": [
-    "battle_spell_waters_of_nourishment_MAIN.wav"
+    "battle_spell_waters_of_nourishment_MAIN"
   ],
   "beachparty_zenukwa": [
-    "battle_attack-ice.wav",
-    "battle_spell_ice_cream_smash.wav"
+    "battle_attack-ice",
+    "battle_spell_ice_cream_smash"
   ],
   "beachparty_mazoga": [
-    "battle_spell_super_duper_spray_hit.wav",
-    "battle_spell_super_duper_spray_main.wav"
+    "battle_spell_super_duper_spray_hit",
+    "battle_spell_super_duper_spray_main"
   ],
   "beachparty_serena": [
-    "battle_spell_spreading_gossip_hit.wav",
-    "battle_spell_spreading_gossip_main.wav"
+    "battle_spell_spreading_gossip_hit",
+    "battle_spell_spreading_gossip_main"
   ],
   "beachparty_andy_jay": [
-    "battle_spell_blazing_rave_dance_HIT.wav",
-    "battle_spell_blazing_rave_dance_MAIN.wav"
+    "battle_spell_blazing_rave_dance_HIT",
+    "battle_spell_blazing_rave_dance_MAIN"
   ],
   "beachparty_mortimer": [
-    "battle_spell_tidal_waves_HIT.wav",
-    "battle_spell_tidal_waves_MAIN.wav"
+    "battle_spell_tidal_waves_HIT",
+    "battle_spell_tidal_waves_MAIN"
   ],
   "construct_ferrus": [],
   "construct_haulstone": [
-    "battle_spell_bag_of_necessities.wav"
+    "battle_spell_bag_of_necessities"
   ],
   "ballerina_odette": [
-    "battle_spell_dance_of_the_swan.wav"
+    "battle_spell_dance_of_the_swan"
   ],
   "ballerina_phantom_of_the_opera": [
-    "battle_spell_ballad_of_obsession_HIT.wav",
-    "battle_spell_ballad_of_obsession_MAIN.wav"
+    "battle_spell_ballad_of_obsession_HIT",
+    "battle_spell_ballad_of_obsession_MAIN"
   ],
   "ballerina_firmin": [
-    "battle_attack-ice.wav",
-    "battle_spell_voice_of_authority_HIT.wav",
-    "battle_spell_voice_of_authority_MAIN.wav"
+    "battle_attack-ice",
+    "battle_spell_voice_of_authority_HIT",
+    "battle_spell_voice_of_authority_MAIN"
   ],
   "ballerina_madame_giry": [],
   "ballerina_christine_daae": [
-    "battle_spell_ballad_of_passion_HIT.wav",
-    "battle_spell_ballad_of_passion_MAIN.wav"
+    "battle_spell_ballad_of_passion_HIT",
+    "battle_spell_ballad_of_passion_MAIN"
   ],
   "ballerina_raul": [
-    "battle_spell_ballad_of_attraction_HIT.wav",
-    "battle_spell_ballad_of_attraction_MAIN.wav"
+    "battle_spell_ballad_of_attraction_HIT",
+    "battle_spell_ballad_of_attraction_MAIN"
   ],
   "ballerina_prince_siegfried": [
-    "battle_spell_dance_of_the_heron.wav"
+    "battle_spell_dance_of_the_heron"
   ],
   "ballerina_von_rothbart": [],
   "ballerina_swan_maiden": [
-    "battle_spell_dance_of_the_little_swan.wav"
+    "battle_spell_dance_of_the_little_swan"
   ],
   "ballerina_odile": [],
   "ballerina_meg_giry": [
-    "battle_spell_deceptive_smalltalk.wav"
+    "battle_spell_deceptive_smalltalk"
   ],
   "ballerina_daroga": [
-    "battle_spell_echoes_of_the_opera.wav"
+    "battle_spell_echoes_of_the_opera"
   ],
   "ballerina_charlotta": [
-    "battle_spell_ballad_of_condemnation.wav"
+    "battle_spell_ballad_of_condemnation"
   ],
   "ballerina_armand": [
-    "battle_spell_make_them_harmless_hit.wav",
-    "battle_spell_make_them_harmless_main.wav"
+    "battle_spell_make_them_harmless_hit",
+    "battle_spell_make_them_harmless_main"
   ],
   "construct_blue_mage": [
-    "battle_spell_star_construct_HIT.wav",
-    "battle_spell_star_construct_MAIN.wav"
+    "battle_spell_star_construct_HIT",
+    "battle_spell_star_construct_MAIN"
   ],
   "journey_sha_wujing": [
-    "battle_spell_prayer_of_the_desert.wav"
+    "battle_spell_prayer_of_the_desert"
   ],
   "journey_xiwangmu": [
-    "battle_spell_peach_of_immortality_HIT.wav",
-    "battle_spell_peach_of_immortality_MAIN.wav"
+    "battle_spell_peach_of_immortality_HIT",
+    "battle_spell_peach_of_immortality_MAIN"
   ],
   "construct_japanese_doll": [
-    "battle_spell_songs_of_the_cherry_tree_HIT.wav",
-    "battle_spell_songs_of_the_cherry_tree_MAIN.wav"
+    "battle_spell_songs_of_the_cherry_tree_HIT",
+    "battle_spell_songs_of_the_cherry_tree_MAIN"
   ],
   "construct_brimstone": [
-    "battle_spell_infernal_flames_HIT.wav",
-    "battle_spell_infernal_flames_MAIN.wav"
+    "battle_spell_infernal_flames_HIT",
+    "battle_spell_infernal_flames_MAIN"
   ],
   "construct_bonechill": [
-    "battle_spell_frost_and_rime_HIT.wav",
-    "battle_spell_frost_and_rime_MAIN.wav"
+    "battle_spell_frost_and_rime_HIT",
+    "battle_spell_frost_and_rime_MAIN"
   ],
   "kalevala_ukkonen": [
-    "battle_spell_chords_of_distortion_HIT.wav",
-    "battle_spell_chords_of_distortion_MAIN.wav"
+    "battle_spell_chords_of_distortion_HIT",
+    "battle_spell_chords_of_distortion_MAIN"
   ],
   "elemental_xavier": [
-    "battle_spell_cascading_whirlwind_HIT.wav",
-    "battle_spell_cascading_whirlwind_MAIN.wav"
+    "battle_spell_cascading_whirlwind_HIT",
+    "battle_spell_cascading_whirlwind_MAIN"
   ],
   "elemental_zione": [
-    "battle_spell_express_delivery.wav"
+    "battle_spell_express_delivery"
   ],
   "elemental_zuni": [
-    "battle_spell_hoverboard_slam.wav"
+    "battle_spell_hoverboard_slam"
   ],
   "holy_god_ithar": [
-    "battle_spell_stupendous_break_in.wav"
+    "battle_spell_stupendous_break_in"
   ],
   "ice_god_areax": [
-    "battle_spell_radiating_frost_HIT.wav",
-    "battle_spell_radiating_frost_MAIN.wav"
+    "battle_spell_radiating_frost_HIT",
+    "battle_spell_radiating_frost_MAIN"
   ],
   "dark_god_uthragan": [
-    "battle_spell_venomous_claws_hit.wav",
-    "battle_spell_venomous_claws_main.wav"
+    "battle_spell_venomous_claws_hit",
+    "battle_spell_venomous_claws_main"
   ],
   "construct_shacklebolt": [
-    "battle_spell_ironbound_fury.wav",
-    "battle_spell_ironbound_fury_HIT.wav",
-    "battle_spell_ironbound_fury_MAIN.wav"
+    "battle_spell_ironbound_fury",
+    "battle_spell_ironbound_fury_HIT",
+    "battle_spell_ironbound_fury_MAIN"
   ],
   "construct_rustbeak": [
-    "battle_spell_swooping_support.wav"
+    "battle_spell_swooping_support"
   ],
   "tales1_ultrox": [
-    "battle_spell_sinister_enlace_HIT.wav",
-    "battle_spell_sinister_enlace_MAIN.wav"
+    "battle_spell_sinister_enlace_HIT",
+    "battle_spell_sinister_enlace_MAIN"
   ],
   "tales1_gelert": [
-    "battle_spell_whirlpool_dash.wav"
+    "battle_spell_whirlpool_dash"
   ],
   "tales1_jaco": [
-    "battle_spell_dubious_merchandise_HIT.wav",
-    "battle_spell_dubious_merchandise_MAIN.wav"
+    "battle_spell_dubious_merchandise_HIT",
+    "battle_spell_dubious_merchandise_MAIN"
   ],
   "construct_nocturne": [
-    "battle_spell_void_bomb.wav"
+    "battle_spell_void_bomb"
   ],
   "elemental_alfie": [
-    "battle_spell_enchanted_symphony_HIT.wav",
-    "battle_spell_enchanted_symphony_MAIN.wav"
+    "battle_spell_enchanted_symphony_HIT",
+    "battle_spell_enchanted_symphony_MAIN"
   ],
   "elemental_quinn": [
-    "battle_spell_pineapple_barbeque.wav"
+    "battle_spell_pineapple_barbeque"
   ],
   "elemental_linus": [
-    "battle_spell_shackles_of_the_sea_HIT.wav",
-    "battle_spell_shackles_of_the_sea_MAIN.wav"
+    "battle_spell_shackles_of_the_sea_HIT",
+    "battle_spell_shackles_of_the_sea_MAIN"
   ],
   "construct_shaal": [
-    "battle_spell_reversed_lifeforce_HIT.wav",
-    "battle_spell_reversed_lifeforce_MAIN.wav"
+    "battle_spell_reversed_lifeforce_HIT",
+    "battle_spell_reversed_lifeforce_MAIN"
   ],
   "fables_frog_prince": [
-    "battle_attack-poison.wav",
-    "battle_spell_royal_poisoner_HIT.wav",
-    "battle_spell_royal_poisoner_MAIN.wav"
+    "battle_attack-poison",
+    "battle_spell_royal_poisoner_HIT",
+    "battle_spell_royal_poisoner_MAIN"
   ],
   "construct_frond": [
-    "battle_spell_fury_of_the_ancient_forest_HIT.wav",
-    "battle_spell_fury_of_the_ancient_forest_MAIN.wav"
+    "battle_spell_fury_of_the_ancient_forest_HIT",
+    "battle_spell_fury_of_the_ancient_forest_MAIN"
   ],
   "construct_nautica": [
-    "battle_spell_pathfinders_compass.wav"
+    "battle_spell_pathfinders_compass"
   ],
   "construct_hornfel": [
-    "battle_spell_bulwark_charge.wav"
+    "battle_spell_bulwark_charge"
   ],
   "construct_tenebrae": [
-    "battle_spell_rod_of_torment.wav"
+    "battle_spell_rod_of_torment"
   ],
   "goblin_madhammer": [
-    "battle_spell_heedless_hammer_flurry_HIT.wav",
-    "battle_spell_heedless_hammer_flurry_MAIN.wav"
+    "battle_spell_heedless_hammer_flurry_HIT",
+    "battle_spell_heedless_hammer_flurry_MAIN"
   ],
   "goblin_deadboot": [
-    "battle_spell_unhallowed_spirits.wav"
+    "battle_spell_unhallowed_spirits"
   ],
   "goblin_darkfeather": [
-    "battle_spell_the_eagles_blessing.wav"
+    "battle_spell_the_eagles_blessing"
   ],
   "goblin_kettle": [
-    "battle_spell_dubious_cuisine_1.wav",
-    "battle_spell_dubious_cuisine_2_HIT.wav",
-    "battle_spell_dubious_cuisine_2_MAIN.wav"
+    "battle_spell_dubious_cuisine_1",
+    "battle_spell_dubious_cuisine_2_HIT",
+    "battle_spell_dubious_cuisine_2_MAIN"
   ],
   "goblin_smarttongue": [
-    "battle_spell_goblin_serenade.wav"
+    "battle_spell_goblin_serenade"
   ],
   "goblin_boom_and_fang": [
-    "battle_spell_boar_call.wav"
+    "battle_spell_boar_call"
   ],
   "goblin_goldie": [
-    "battle_spell_magic_mirror_of_power.wav"
+    "battle_spell_magic_mirror_of_power"
   ],
   "goblin_boots": [
-    "battle_spell_hammer_thump_HIT.wav",
-    "battle_spell_hammer_thump_MAIN.wav"
+    "battle_spell_hammer_thump_HIT",
+    "battle_spell_hammer_thump_MAIN"
   ],
   "tales1_gestalt": [
-    "battle_spell_underwater_magma_cube_HIT.wav",
-    "battle_spell_underwater_magma_cube_MAIN.wav"
+    "battle_spell_underwater_magma_cube_HIT",
+    "battle_spell_underwater_magma_cube_MAIN"
   ],
   "tales1_persa": [
-    "battle_spell_oceans_ruin.wav"
+    "battle_spell_oceans_ruin"
   ],
   "tales1_persa_costume_jellyfish_noble": [
-    "battle_spell_oceans_ruin.wav"
+    "battle_spell_oceans_ruin"
   ],
   "kalevala_ukkonen_costume_ukkonen_infernal": [
-    "battle_spell_chords_of_distortion_HIT.wav",
-    "battle_spell_chords_of_distortion_MAIN.wav"
+    "battle_spell_chords_of_distortion_HIT",
+    "battle_spell_chords_of_distortion_MAIN"
   ],
   "kalevala_vainamoinen_costume_vainamoinen_sage": [
-    "battle_spell_song_of_the_morass.wav"
+    "battle_spell_song_of_the_morass"
   ],
   "tales1_gestalt_costume_pearls": [
-    "battle_spell_underwater_magma_cube_HIT.wav",
-    "battle_spell_underwater_magma_cube_MAIN.wav"
+    "battle_spell_underwater_magma_cube_HIT",
+    "battle_spell_underwater_magma_cube_MAIN"
   ],
   "tales1_galapago_costume_quarry": [
-    "battle_spell_testudo_roll_HIT.wav",
-    "battle_spell_testudo_roll_MAIN.wav"
+    "battle_spell_testudo_roll_HIT",
+    "battle_spell_testudo_roll_MAIN"
   ],
   "tales1_thalassa_costume_crystals": [
-    "battle_spell_oceans_embrace_HIT.wav",
-    "battle_spell_oceans_embrace_MAIN.wav"
+    "battle_spell_oceans_embrace_HIT",
+    "battle_spell_oceans_embrace_MAIN"
   ],
   "tales1_lasalle_costume_jockey": [
-    "battle_spell_flanking_maneuver.wav"
+    "battle_spell_flanking_maneuver"
   ],
   "kingdom_cao_cao_costume_ice": [
-    "battle_spell_order_to_overwhelm_HIT.wav",
-    "battle_spell_order_to_overwhelm_MAIN2.wav"
+    "battle_spell_order_to_overwhelm_HIT",
+    "battle_spell_order_to_overwhelm_MAIN2"
   ],
   "kingdom_guan_yu_costume_dragon": [
-    "battle_spell_green_dragon_crescent_blade.wav"
+    "battle_spell_green_dragon_crescent_blade"
   ],
   "kingdom_liu_bei_costume_nature": [
-    "battle_spell_call_to_arms_HIT.wav",
-    "battle_spell_call_to_arms_MAIN.wav"
+    "battle_spell_call_to_arms_HIT",
+    "battle_spell_call_to_arms_MAIN"
   ],
   "tales1_medea_costume_goddess": [
-    "battle_spell_shatter_psyche_HIT.wav",
-    "battle_spell_shatter_psyche_MAIN.wav"
+    "battle_spell_shatter_psyche_HIT",
+    "battle_spell_shatter_psyche_MAIN"
   ],
   "tales1_atlanteia_costume_siren": [
-    "battle_spell_aphotic_maw_HIT.wav",
-    "battle_spell_aphotic_maw_MAIN.wav"
+    "battle_spell_aphotic_maw_HIT",
+    "battle_spell_aphotic_maw_MAIN"
   ],
   "tales1_domiventus_costume_supreme": [
-    "battle_spell_supernova.wav",
-    "battle_spell_supernova_aeternus_HIT.wav",
-    "battle_spell_supernova_aeternus_MAIN.wav"
+    "battle_spell_supernova",
+    "battle_spell_supernova_aeternus_HIT",
+    "battle_spell_supernova_aeternus_MAIN"
   ],
   "tales1_spartoi_costume_guard": [
-    "battle_spell_overwhelming_raid_HIT.wav",
-    "battle_spell_overwhelming_raid_MAIN.wav"
+    "battle_spell_overwhelming_raid_HIT",
+    "battle_spell_overwhelming_raid_MAIN"
   ],
   "tales1_sharkhai_costume_butcher": [
-    "battle_spell_critical_tactics.wav"
+    "battle_spell_critical_tactics"
   ],
   "tales1_mulgog_costume_bard": [
-    "battle_spell_noxious_cleave_HIT.wav",
-    "battle_spell_noxious_cleave_MAIN.wav"
+    "battle_spell_noxious_cleave_HIT",
+    "battle_spell_noxious_cleave_MAIN"
   ],
   "tales1_jaco_costume_alchemist": [
-    "battle_spell_dubious_merchandise_HIT.wav",
-    "battle_spell_dubious_merchandise_MAIN.wav"
+    "battle_spell_dubious_merchandise_HIT",
+    "battle_spell_dubious_merchandise_MAIN"
   ],
   "tales1_bagreg_costume_scout": [
-    "battle_spell_burning_javelin_HIT.wav",
-    "battle_spell_burning_javelin_MAIN.wav"
+    "battle_spell_burning_javelin_HIT",
+    "battle_spell_burning_javelin_MAIN"
   ],
   "halloween_alucard_costume_mafia": [
-    "battle_spell_vampiric_curse.wav"
+    "battle_spell_vampiric_curse"
   ],
   "castle_wolf_quenell_costume_wood": [
-    "battle_spell_howling_sword.wav"
+    "battle_spell_howling_sword"
   ],
   "castle_wolf_wolfgang_costume_treasure": [
-    "battle_spell_commanders_gauntlet.wav"
+    "battle_spell_commanders_gauntlet"
   ],
   "castle_wolf_ferant_costume_fire": [
-    "battle_spell_feral_revenge.wav"
+    "battle_spell_feral_revenge"
   ],
   "circus_emilio_costume_frog": [
-    "battle_spell_flames_and_rejuvenation.wav"
+    "battle_spell_flames_and_rejuvenation"
   ],
   "villain_toxicandra_costume_rose": [
-    "battle_spell_accelerated_growth.wav"
+    "battle_spell_accelerated_growth"
   ],
   "villain_karnov_costume_jammies": [
-    "battle_spell_total_beatdown_hit.wav",
-    "battle_spell_total_beatdown_start.wav"
+    "battle_spell_total_beatdown_hit",
+    "battle_spell_total_beatdown_start"
   ],
   "villain_dark_lord_costume_astronomer": [],
   "slayer_senan_costume_tentacles": [],
   "slayer_saoirse_costume_knight": [
-    "battle_spell_fracturing_slash.wav"
+    "battle_spell_fracturing_slash"
   ],
   "slayer_caitlin_costume_crusader": [
-    "battle_spell_dispelling_willpower.wav"
+    "battle_spell_dispelling_willpower"
   ],
   "christmas_mr_pengi_costume_snowboarder": [
-    "battle_spell_herring_blaster_HIT.wav",
-    "battle_spell_herring_blaster_MAIN.wav"
+    "battle_spell_herring_blaster_HIT",
+    "battle_spell_herring_blaster_MAIN"
   ],
   "lionman_barbarian_costume_glass": [],
   "nordic_male_lord_costume_glass": [],
@@ -2922,16 +2922,16 @@
   "cultist_sorceress_costume_glass": [],
   "nordic_ancestral_warrior_costume_glass": [],
   "orc_gladiator_costume_glass": [
-    "battle_shattering_warcryb.wav",
-    "battle_spell_warcry_of_the_jungle.wav"
+    "battle_shattering_warcryb",
+    "battle_spell_warcry_of_the_jungle"
   ],
   "oriental_panda_berserker_costume_glass": [],
   "nomad_mage_costume_glass": [
-    "battle_attack-fireball.wav",
-    "battle_attack_fireball_short.wav"
+    "battle_attack-fireball",
+    "battle_attack_fireball_short"
   ],
   "forest_male_elf_costume_glass": [
-    "battle_crescent_spear.wav"
+    "battle_crescent_spear"
   ],
   "underworld_champion_costume_glass": [],
   "oriental_warrior_king_costume_glass": [],
@@ -2940,7 +2940,7 @@
   "oriental_enchanted_monk_costume_glass": [],
   "elven_archer_costume_glass": [],
   "magitech_sniper_costume_glass": [
-    "battle_shock_bolt.wav"
+    "battle_shock_bolt"
   ],
   "tribal_chief_costume_glass": [],
   "nordic_ice_enchantress_costume_glass": [],
@@ -2966,1039 +2966,1039 @@
   "forest_archer_costume_glass": [],
   "nordic_chained_werewolf_costume_glass": [],
   "forest_friar_costume_glass": [
-    "battle_have_faith.wav"
+    "battle_have_faith"
   ],
   "tales1_ceto_costume_queen": [
-    "battle_spell_tidal_vortex_HIT.wav",
-    "battle_spell_tidal_vortex_MAIN.wav"
+    "battle_spell_tidal_vortex_HIT",
+    "battle_spell_tidal_vortex_MAIN"
   ],
   "tales1_ephyra_costume_reef": [
-    "battle_spell_seabed_pirouette.wav"
+    "battle_spell_seabed_pirouette"
   ],
   "tales1_gelert_costume_scavenger": [
-    "battle_spell_whirlpool_dash.wav"
+    "battle_spell_whirlpool_dash"
   ],
   "tales1_ultrox_costume_ethereal": [
-    "battle_spell_sinister_enlace_HIT.wav",
-    "battle_spell_sinister_enlace_MAIN.wav"
+    "battle_spell_sinister_enlace_HIT",
+    "battle_spell_sinister_enlace_MAIN"
   ],
   "tales1_aqualith_costume_purple": [
-    "battle_spell_close_order_formation.wav"
+    "battle_spell_close_order_formation"
   ],
   "magic_milena_costume_ice": [
-    "battle_spell_restoration_and_annihilation.wav"
+    "battle_spell_restoration_and_annihilation"
   ],
   "magic_agrafena_costume_dark": [
-    "battle_spell_arcane_shock.wav"
+    "battle_spell_arcane_shock"
   ],
   "elemental_ignazio_costume_medic": [
-    "battle_spell_purifying_flame.wav"
+    "battle_spell_purifying_flame"
   ],
   "elemental_jequn_costume_gilded": [
-    "battle_spell_archaic_sacred_symbol_HIT.wav",
-    "battle_spell_archaic_sacred_symbol_MAIN.wav"
+    "battle_spell_archaic_sacred_symbol_HIT",
+    "battle_spell_archaic_sacred_symbol_MAIN"
   ],
   "beachparty_flip_costume_donut": [
-    "battle_spell_to_the_rescue.wav"
+    "battle_spell_to_the_rescue"
   ],
   "tales1_domiventus": [
-    "battle_spell_supernova.wav",
-    "battle_spell_supernova_aeternus_HIT.wav",
-    "battle_spell_supernova_aeternus_MAIN.wav"
+    "battle_spell_supernova",
+    "battle_spell_supernova_aeternus_HIT",
+    "battle_spell_supernova_aeternus_MAIN"
   ],
   "tales1_spartoi": [
-    "battle_spell_overwhelming_raid_HIT.wav",
-    "battle_spell_overwhelming_raid_MAIN.wav"
+    "battle_spell_overwhelming_raid_HIT",
+    "battle_spell_overwhelming_raid_MAIN"
   ],
   "tales1_atlanteia": [
-    "battle_spell_aphotic_maw_HIT.wav",
-    "battle_spell_aphotic_maw_MAIN.wav"
+    "battle_spell_aphotic_maw_HIT",
+    "battle_spell_aphotic_maw_MAIN"
   ],
   "tales1_medea": [
-    "battle_spell_shatter_psyche_HIT.wav",
-    "battle_spell_shatter_psyche_MAIN.wav"
+    "battle_spell_shatter_psyche_HIT",
+    "battle_spell_shatter_psyche_MAIN"
   ],
   "tales1_aqualith": [
-    "battle_spell_close_order_formation.wav"
+    "battle_spell_close_order_formation"
   ],
   "wonderland_tweedles": [
-    "battle_spell_dum_and_dee_HIT.wav",
-    "battle_spell_dum_and_dee_MAIN.wav"
+    "battle_spell_dum_and_dee_HIT",
+    "battle_spell_dum_and_dee_MAIN"
   ],
   "elemental_nova": [
-    "battle_spell_healing_fire_spirits_hit.wav",
-    "battle_spell_healing_fire_spirits_main.wav"
+    "battle_spell_healing_fire_spirits_hit",
+    "battle_spell_healing_fire_spirits_main"
   ],
   "elemental_lexi": [],
   "elemental_zaria": [
-    "battle_spell_cataclysmic_divination_hit.wav",
-    "battle_spell_cataclysmic_divination_main.wav"
+    "battle_spell_cataclysmic_divination_hit",
+    "battle_spell_cataclysmic_divination_main"
   ],
   "elemental_farrah": [
-    "battle_spell_piercing_falcon_hit.wav",
-    "battle_spell_piercing_falcon_main.wav"
+    "battle_spell_piercing_falcon_hit",
+    "battle_spell_piercing_falcon_main"
   ],
   "castle_bear_torben": [
-    "battle_spell_mark_the_prey.wav"
+    "battle_spell_mark_the_prey"
   ],
   "castle_bear_teddy": [
-    "battle_spell_the_call_to_hibernate_hit.wav",
-    "battle_spell_the_call_to_hibernate_main.wav"
+    "battle_spell_the_call_to_hibernate_hit",
+    "battle_spell_the_call_to_hibernate_main"
   ],
   "castle_stag_xiamara": [
-    "battle_spell_power_of_the_forest_hit.wav",
-    "battle_spell_power_of_the_forest_main.wav"
+    "battle_spell_power_of_the_forest_hit",
+    "battle_spell_power_of_the_forest_main"
   ],
   "castle_stag_lysanor": [
-    "battle_spell_sapphire_eyes.wav"
+    "battle_spell_sapphire_eyes"
   ],
   "goblin_fizzcoil": [
-    "battle_spell_shady_concerto_HIT.wav",
-    "battle_spell_shady_concerto_MAIN.wav"
+    "battle_spell_shady_concerto_HIT",
+    "battle_spell_shady_concerto_MAIN"
   ],
   "goblin_pepperflame": [
-    "battle_spell_chords_of_havoc_HIT.wav",
-    "battle_spell_chords_of_havoc_MAIN.wav"
+    "battle_spell_chords_of_havoc_HIT",
+    "battle_spell_chords_of_havoc_MAIN"
   ],
   "goblin_leafwizzle": [
-    "battle_spell_flute_of_enchantment.wav"
+    "battle_spell_flute_of_enchantment"
   ],
   "goblin_acidfire": [
-    "battle_attack-poison.wav",
-    "battle_spell_poisonous_mist_hit.wav",
-    "battle_spell_poisonous_mist_main.wav"
+    "battle_attack-poison",
+    "battle_spell_poisonous_mist_hit",
+    "battle_spell_poisonous_mist_main"
   ],
   "goblin_grimsteel": [
-    "battle_spell_spirits_of_the_mountain_HIT.wav",
-    "battle_spell_spirits_of_the_mountain_MAIN.wav"
+    "battle_spell_spirits_of_the_mountain_HIT",
+    "battle_spell_spirits_of_the_mountain_MAIN"
   ],
   "goblin_rocket": [
-    "battle_spell_goblin_explosives_hit.wav",
-    "battle_spell_goblin_explosives_main.wav"
+    "battle_spell_goblin_explosives_hit",
+    "battle_spell_goblin_explosives_main"
   ],
   "goblin_scrollbeast": [
-    "battle_spell_boar_of_fury_hit.wav",
-    "battle_spell_boar_of_fury_main.wav"
+    "battle_spell_boar_of_fury_hit",
+    "battle_spell_boar_of_fury_main"
   ],
   "castle_bear_humbert": [
-    "battle_spell_mending_bronze_axe.wav"
+    "battle_spell_mending_bronze_axe"
   ],
   "castle_bear_winnie": [
-    "battle_spell_ursine_protection.wav"
+    "battle_spell_ursine_protection"
   ],
   "castle_bear_armel": [
-    "battle_spell_frostbite.wav"
+    "battle_spell_frostbite"
   ],
   "castle_bear_koda": [
-    "battle_spell_feral_swing.wav"
+    "battle_spell_feral_swing"
   ],
   "castle_bear_yona": [],
   "castle_bear_bearnadette": [
-    "battle_spell_cursed_painting_hit.wav",
-    "battle_spell_cursed_painting_main.wav"
+    "battle_spell_cursed_painting_hit",
+    "battle_spell_cursed_painting_main"
   ],
   "castle_stag_daemon": [
-    "battle_spell_blood_petals.wav"
+    "battle_spell_blood_petals"
   ],
   "castle_stag_cecilia": [
-    "battle_spell_aura_of_twilight_HIT.wav",
-    "battle_spell_aura_of_twilight_MAIN.wav"
+    "battle_spell_aura_of_twilight_HIT",
+    "battle_spell_aura_of_twilight_MAIN"
   ],
   "castle_stag_siofra": [
-    "battle_spell_gilded_antlers.wav"
+    "battle_spell_gilded_antlers"
   ],
   "castle_stag_alvar": [
-    "battle_spell_scroll_of_new_beginnings_hit.wav",
-    "battle_spell_scroll_of_new_beginnings_main.wav"
+    "battle_spell_scroll_of_new_beginnings_hit",
+    "battle_spell_scroll_of_new_beginnings_main"
   ],
   "castle_stag_raleigh": [
-    "battles_spell_tome_of_the_stag.wav"
+    "battles_spell_tome_of_the_stag"
   ],
   "castle_stag_fawn": [
-    "battle_spell_evading_dash.wav"
+    "battle_spell_evading_dash"
   ],
   "astral_starwalker": [
-    "battle_spell_scepter_of_constellations_hit.wav",
-    "battle_spell_scepter_of_constellations_main.wav"
+    "battle_spell_scepter_of_constellations_hit",
+    "battle_spell_scepter_of_constellations_main"
   ],
   "astral_sparklight": [
-    "battle_spell_enchanted_elven_sword_hit.wav",
-    "battle_spell_enchanted_elven_sword_main.wav"
+    "battle_spell_enchanted_elven_sword_hit",
+    "battle_spell_enchanted_elven_sword_main"
   ],
   "nature_god_leadria": [
-    "battle_spell_spirit_of_spring.wav"
+    "battle_spell_spirit_of_spring"
   ],
   "pirate_boatswain": [
-    "battle_spell_pirates_vengeance_hit.wav",
-    "battle_spell_pirates_vengeance_main.wav"
+    "battle_spell_pirates_vengeance_hit",
+    "battle_spell_pirates_vengeance_main"
   ],
   "fire_god_neema": [
-    "battle_spell_fire_tiger_hit.wav",
-    "battle_spell_fire_tiger_main.wav"
+    "battle_spell_fire_tiger_hit",
+    "battle_spell_fire_tiger_main"
   ],
   "elemental_ironmaw": [
-    "battle_spell_chains_of_light_hit.wav",
-    "battle_spell_chains_of_light_main.wav"
+    "battle_spell_chains_of_light_hit",
+    "battle_spell_chains_of_light_main"
   ],
   "elemental_desmond": [
-    "battle_spell_jade_blades.wav"
+    "battle_spell_jade_blades"
   ],
   "christmas_ginger": [
-    "battle_spell_hasty_trigger_finger.wav"
+    "battle_spell_hasty_trigger_finger"
   ],
   "christmas_zappa": [
-    "battle_spell_blue_shroom_wand.wav"
+    "battle_spell_blue_shroom_wand"
   ],
   "christmas_cookie": [
-    "battle_spell_mystery_potions_hit.wav",
-    "battle_spell_mystery_potions_main.wav"
+    "battle_spell_mystery_potions_hit",
+    "battle_spell_mystery_potions_main"
   ],
   "christmas_dizzy": [
-    "battle_spell_gloomy_tune_hit.wav",
-    "battle_spell_gloomy_tune_main.wav"
+    "battle_spell_gloomy_tune_hit",
+    "battle_spell_gloomy_tune_main"
   ],
   "christmas_jolly": [
-    "battle_spell_birch_blessing.wav"
+    "battle_spell_birch_blessing"
   ],
   "shadow_hysteria": [
-    "battle_spell_eye_of_yog-sir.wav"
+    "battle_spell_eye_of_yog-sir"
   ],
   "shadow_burton": [
-    "battle_spell_petrifying_knuckles_hit.wav",
-    "battle_spell_petrifying_knuckles_main.wav"
+    "battle_spell_petrifying_knuckles_hit",
+    "battle_spell_petrifying_knuckles_main"
   ],
   "shadow_omen": [
-    "battle_spell_ritual_of_the_deep.wav"
+    "battle_spell_ritual_of_the_deep"
   ],
   "shadow_abigail": [
-    "battle_spell_whispers_of_xulu.wav"
+    "battle_spell_whispers_of_xulu"
   ],
   "shadow_rashan": [
-    "battle_spell_cuts_of_hulu_HIT.wav",
-    "battle_spell_cuts_of_hulu_MAIN.wav"
+    "battle_spell_cuts_of_hulu_HIT",
+    "battle_spell_cuts_of_hulu_MAIN"
   ],
   "shadow_wulfstan": [
-    "battle_spell_eldritch_sign_bolts_HIT.wav",
-    "battle_spell_eldritch_sign_bolts_MAIN.wav"
+    "battle_spell_eldritch_sign_bolts_HIT",
+    "battle_spell_eldritch_sign_bolts_MAIN"
   ],
   "shadow_atwood": [
-    "battle_spell_jewel_of_the_deep_hit.wav",
-    "battle_spell_jewel_of_the_deep_main.wav"
+    "battle_spell_jewel_of_the_deep_hit",
+    "battle_spell_jewel_of_the_deep_main"
   ],
   "shadow_zavinia": [
-    "battle_spell_darts_of_the_deep_hit.wav",
-    "battle_spell_darts_of_the_deep_main.wav"
+    "battle_spell_darts_of_the_deep_hit",
+    "battle_spell_darts_of_the_deep_main"
   ],
   "shadow_penelope": [
-    "battle_spell_cut_cure_and_craze_hit.wav",
-    "battle_spell_cut_cure_and_craze_main.wav"
+    "battle_spell_cut_cure_and_craze_hit",
+    "battle_spell_cut_cure_and_craze_main"
   ],
   "shadow_melancholia": [
-    "battle_spell_grim_awakening.wav"
+    "battle_spell_grim_awakening"
   ],
   "shadow_asketel": [
-    "battle_spell_necronomicon_page_13_hit.wav",
-    "battle_spell_necronomicon_page_13_main.wav"
+    "battle_spell_necronomicon_page_13_hit",
+    "battle_spell_necronomicon_page_13_main"
   ],
   "shadow_hunter": [
-    "battle_spell_merciless_execution_MAIN.wav"
+    "battle_spell_merciless_execution_MAIN"
   ],
   "shadow_dolores": [
-    "battle_spell_yellow_signs.wav"
+    "battle_spell_yellow_signs"
   ],
   "shadow_rosanna": [
-    "battle_spell_last_words_hit.wav",
-    "battle_spell_last_words_main.wav"
+    "battle_spell_last_words_hit",
+    "battle_spell_last_words_main"
   ],
   "shadow_shoggo": [
-    "battle_spell_lantern_of_insanity_hit.wav",
-    "battle_spell_lantern_of_insanity_main.wav"
+    "battle_spell_lantern_of_insanity_hit",
+    "battle_spell_lantern_of_insanity_main"
   ],
   "shadow_cthuwu": [
-    "battle_spell_brain_link.wav"
+    "battle_spell_brain_link"
   ],
   "elemental_jolt": [
-    "battle_attack-lightning.wav",
-    "battle_spell_chain_lightning_hit.wav",
-    "battle_spell_chain_lightning_main.wav"
+    "battle_attack-lightning",
+    "battle_spell_chain_lightning_hit",
+    "battle_spell_chain_lightning_main"
   ],
   "journey_xie_zi_jing": [
-    "battle_spell_wrathful_sting_HIT.wav",
-    "battle_spell_wrathful_sting_MAIN.wav"
+    "battle_spell_wrathful_sting_HIT",
+    "battle_spell_wrathful_sting_MAIN"
   ],
   "journey_tang_sanzang": [
-    "battle_spell_golden_cicada.wav"
+    "battle_spell_golden_cicada"
   ],
   "owl_relius": [
-    "battle_spell_mixed_green_herbs.wav"
+    "battle_spell_mixed_green_herbs"
   ],
   "owl_timius": [
-    "battle_spell_for_queen_and_hollow_HIT.wav",
-    "battle_spell_for_queen_and_hollow_MAIN.wav"
+    "battle_spell_for_queen_and_hollow_HIT",
+    "battle_spell_for_queen_and_hollow_MAIN"
   ],
   "owl_ommodus": [
-    "battle_spell_poleaxe_of_the_law_HIT.wav",
-    "battle_spell_poleaxe_of_the_law_MAIN.wav"
+    "battle_spell_poleaxe_of_the_law_HIT",
+    "battle_spell_poleaxe_of_the_law_MAIN"
   ],
   "owl_livia": [
-    "battle_spell_rites_of_inner_knowledge.wav"
+    "battle_spell_rites_of_inner_knowledge"
   ],
   "owl_verus": [
-    "battle_spell_swooping_talon_HIT.wav",
-    "battle_spell_swooping_talon_MAIN.wav"
+    "battle_spell_swooping_talon_HIT",
+    "battle_spell_swooping_talon_MAIN"
   ],
   "owl_lodius": [],
   "owl_mariol": [
-    "battle_spell_healing_mirror.wav"
+    "battle_spell_healing_mirror"
   ],
   "owl_juliani": [
-    "battle_spell_scroll_of_spite_HIT.wav",
-    "battle_spell_scroll_of_spite_MAIN.wav"
+    "battle_spell_scroll_of_spite_HIT",
+    "battle_spell_scroll_of_spite_MAIN"
   ],
   "owl_pertinax": [
-    "battle_spell_vengeance_of_owlhalla.wav"
+    "battle_spell_vengeance_of_owlhalla"
   ],
   "owl_cennius": [
-    "battle_spell_blade_wings_hit.wav",
-    "battle_spell_blade_wings_main.wav"
+    "battle_spell_blade_wings_hit",
+    "battle_spell_blade_wings_main"
   ],
   "owl_eron": [
-    "battle_spell_a_song_of_hoot_and_holler_hit.wav",
-    "battle_spell_a_song_of_hoot_and_holler_main.wav"
+    "battle_spell_a_song_of_hoot_and_holler_hit",
+    "battle_spell_a_song_of_hoot_and_holler_main"
   ],
   "owl_olbec": [
-    "battle_spell_ill_fated_experiment.wav"
+    "battle_spell_ill_fated_experiment"
   ],
   "owl_paeia": [
-    "battle_spell_owls_blessing.wav"
+    "battle_spell_owls_blessing"
   ],
   "owl_featherino": [
-    "battle_spell_jack_of_owl_trades_HIT.wav",
-    "battle_spell_jack_of_owl_trades_MAIN.wav"
+    "battle_spell_jack_of_owl_trades_HIT",
+    "battle_spell_jack_of_owl_trades_MAIN"
   ],
   "holy_god_zora": [
-    "battle_attack-rally.wav",
-    "battle_spell_dawnlight_rally.wav"
+    "battle_attack-rally",
+    "battle_spell_dawnlight_rally"
   ],
   "ice_god_callum": [
-    "battle_spell_hunters_instinct.wav"
+    "battle_spell_hunters_instinct"
   ],
   "champions_satori": [
-    "battle_spell_thousand_palm_strikes_HIT.wav",
-    "battle_spell_thousand_palm_strikes_MAIN.wav"
+    "battle_spell_thousand_palm_strikes_HIT",
+    "battle_spell_thousand_palm_strikes_MAIN"
   ],
   "owl_fulvia": [
-    "battle_spell_royal_assault_HIT.wav",
-    "battle_spell_royal_assault_MAIN.wav"
+    "battle_spell_royal_assault_HIT",
+    "battle_spell_royal_assault_MAIN"
   ],
   "elemental_niki": [
-    "battle_spell_pain_harvest_HIT.wav",
-    "battle_spell_pain_harvest_MAIN.wav"
+    "battle_spell_pain_harvest_HIT",
+    "battle_spell_pain_harvest_MAIN"
   ],
   "elemental_gastille": [
-    "battle_spell_elemental_corruption.wav"
+    "battle_spell_elemental_corruption"
   ],
   "champions_norman": [
-    "battle_spell_unstoppable_charge_hit.wav",
-    "battle_spell_unstoppable_charge_main.wav"
+    "battle_spell_unstoppable_charge_hit",
+    "battle_spell_unstoppable_charge_main"
   ],
   "dark_god_anoushka": [
-    "battle_spell_strange_incense.wav"
+    "battle_spell_strange_incense"
   ],
   "champions_nogu": [
-    "battle_spell_the_perfect_throw_hit.wav",
-    "battle_spell_the_perfect_throw_main.wav"
+    "battle_spell_the_perfect_throw_hit",
+    "battle_spell_the_perfect_throw_main"
   ],
   "champions_ramona": [
-    "battle_spell_three_little_rams_main.wav"
+    "battle_spell_three_little_rams_main"
   ],
   "lunar_new_year_gongniu": [
-    "battle_spell_rejuvenating_elixir.wav"
+    "battle_spell_rejuvenating_elixir"
   ],
   "lunar_new_year_qinglong": [
-    "battle_spell_confident_strategy.wav"
+    "battle_spell_confident_strategy"
   ],
   "gargoyle_garten": [
-    "battle_spell_bone_club_party_HIT.wav",
-    "battle_spell_bone_club_party_MAIN.wav"
+    "battle_spell_bone_club_party_HIT",
+    "battle_spell_bone_club_party_MAIN"
   ],
   "gargoyle_pophit": [
-    "battle_spell_one_hit_wonder_HIT.wav",
-    "battle_spell_one_hit_wonder_MAIN.wav"
+    "battle_spell_one_hit_wonder_HIT",
+    "battle_spell_one_hit_wonder_MAIN"
   ],
   "wonderland_knave_of_hearts": [
-    "battle_spell_stolen_tarts_hit.wav",
-    "battle_spell_stolen_tarts_main.wav"
+    "battle_spell_stolen_tarts_hit",
+    "battle_spell_stolen_tarts_main"
   ],
   "guardian_elephant": [
-    "battle_attack-arrows.wav",
-    "battle_spell_rain_of_arrows_HIT.wav",
-    "battle_spell_rain_of_arrows_MAIN.wav"
+    "battle_attack-arrows",
+    "battle_spell_rain_of_arrows_HIT",
+    "battle_spell_rain_of_arrows_MAIN"
   ],
   "fables_cinderella": [
-    "battle_spell_fairy_godmothers_blessing.wav"
+    "battle_spell_fairy_godmothers_blessing"
   ],
   "champions_lazara": [
-    "battle_spell_home_run_HIT.wav",
-    "battle_spell_home_run_MAIN.wav"
+    "battle_spell_home_run_HIT",
+    "battle_spell_home_run_MAIN"
   ],
   "astral_melodymuse": [
-    "battle_spell_moonlight_crescendo.wav"
+    "battle_spell_moonlight_crescendo"
   ],
   "astral_hammerclang": [
-    "battle_spell_celestial_anvil.wav"
+    "battle_spell_celestial_anvil"
   ],
   "astral_moonbell": [
-    "battle_spell_astral_summon.wav"
+    "battle_spell_astral_summon"
   ],
   "astral_demilune": [
-    "battle_spell_moon_crush_beam_hit.wav",
-    "battle_spell_moon_crush_beam_main.wav"
+    "battle_spell_moon_crush_beam_hit",
+    "battle_spell_moon_crush_beam_main"
   ],
   "astral_mooncure": [
-    "battle_spell_astral_myrrh.wav"
+    "battle_spell_astral_myrrh"
   ],
   "astral_moonflower": [
-    "battle_spell_leafglow_bloom.wav"
+    "battle_spell_leafglow_bloom"
   ],
   "astral_dreadstar": [
-    "battle_spell_astral_dominion_HIT.wav",
-    "battle_spell_astral_dominion_MAIN.wav"
+    "battle_spell_astral_dominion_HIT",
+    "battle_spell_astral_dominion_MAIN"
   ],
   "astral_starlass": [
-    "battle_spell_power_wave_hit.wav",
-    "battle_spell_power_wave_main.wav"
+    "battle_spell_power_wave_hit",
+    "battle_spell_power_wave_main"
   ],
   "astral_lemonwood": [
-    "battle_spell_wandering_star_shot_HIT.wav",
-    "battle_spell_wandering_star_shot_MAIN.wav"
+    "battle_spell_wandering_star_shot_HIT",
+    "battle_spell_wandering_star_shot_MAIN"
   ],
   "astral_voidstar": [
-    "battle_spell_paragon_of_constellations.wav"
+    "battle_spell_paragon_of_constellations"
   ],
   "astral_lionstring": [
-    "battle_spell_cloth_of_constellations_HIT.wav",
-    "battle_spell_cloth_of_constellations_MAIN.wav"
+    "battle_spell_cloth_of_constellations_HIT",
+    "battle_spell_cloth_of_constellations_MAIN"
   ],
   "astral_starswift": [
-    "battle_spell_starplay_HIT.wav",
-    "battle_spell_starplay_MAIN.wav"
+    "battle_spell_starplay_HIT",
+    "battle_spell_starplay_MAIN"
   ],
   "fire_god_zarga": [
-    "battle_spell_thousand_cuts.wav"
+    "battle_spell_thousand_cuts"
   ],
   "easter_timothy": [
-    "battle_spell_adventure_awaits.wav"
+    "battle_spell_adventure_awaits"
   ],
   "easter_miss_ethel": [
-    "battle_spell_mooing_for_a_fight_hit.wav",
-    "battle_spell_mooing_for_a_fight_main.wav"
+    "battle_spell_mooing_for_a_fight_hit",
+    "battle_spell_mooing_for_a_fight_main"
   ],
   "elemental_grilka": [
-    "battle_spell_holy_hibiscus_ale.wav"
+    "battle_spell_holy_hibiscus_ale"
   ],
   "elemental_craum": [
-    "battle_spell_call_of_the_elements_hit.wav",
-    "battle_spell_call_of_the_elements_main.wav"
+    "battle_spell_call_of_the_elements_hit",
+    "battle_spell_call_of_the_elements_main"
   ],
   "elemental_nylora": [
-    "battle_attack-ice.wav",
-    "battle_spell_ice_and_slice.wav"
+    "battle_attack-ice",
+    "battle_spell_ice_and_slice"
   ],
   "elemental_ash": [
-    "battle_spell_ruby_rush_MAIN.wav"
+    "battle_spell_ruby_rush_MAIN"
   ],
   "elemental_vander": [
-    "battle_spell_gloom_grenades.wav"
+    "battle_spell_gloom_grenades"
   ],
   "garrison_theodosius": [
-    "battle_spell_reporting_for_duty.wav"
+    "battle_spell_reporting_for_duty"
   ],
   "garrison_iocantha": [
-    "battle_spell_aces_high_hit.wav",
-    "battle_spell_aces_high_main.wav"
+    "battle_spell_aces_high_hit",
+    "battle_spell_aces_high_main"
   ],
   "garrison_frank_fangs_brimwell": [
-    "battle_spell_esprit_de_corps_hit.wav",
-    "battle_spell_esprit_de_corps_main.wav"
+    "battle_spell_esprit_de_corps_hit",
+    "battle_spell_esprit_de_corps_main"
   ],
   "garrison_vanya": [
-    "battle_spell_sense_of_wonder.wav"
+    "battle_spell_sense_of_wonder"
   ],
   "garrison_shimmerscale": [
-    "battle_spell_rude_awakening_hit.wav",
-    "battle_spell_rude_awakening_main.wav"
+    "battle_spell_rude_awakening_hit",
+    "battle_spell_rude_awakening_main"
   ],
   "garrison_greg": [
-    "battle_spell_scale_of_the_newt_hit.wav",
-    "battle_spell_scale_of_the_newt_main.wav"
+    "battle_spell_scale_of_the_newt_hit",
+    "battle_spell_scale_of_the_newt_main"
   ],
   "garrison_william": [
-    "battle_spell_situational_awareness_hit.wav",
-    "battle_spell_situational_awareness_main.wav"
+    "battle_spell_situational_awareness_hit",
+    "battle_spell_situational_awareness_main"
   ],
   "gargoyle_uwe": [
-    "battle_spell_chain_blasm_strike_HIT.wav",
-    "battle_spell_chain_blasm_strike_MAIN.wav"
+    "battle_spell_chain_blasm_strike_HIT",
+    "battle_spell_chain_blasm_strike_MAIN"
   ],
   "gargoyle_vonreine": [
-    "battle_spell_firing_on_all_cylinders_hit.wav",
-    "battle_spell_firing_on_all_cylinders_main.wav"
+    "battle_spell_firing_on_all_cylinders_hit",
+    "battle_spell_firing_on_all_cylinders_main"
   ],
   "gargoyle_vincent": [
-    "battle_spell_cold_fire_hit.wav",
-    "battle_spell_cold_fire_main.wav"
+    "battle_spell_cold_fire_hit",
+    "battle_spell_cold_fire_main"
   ],
   "gargoyle_mena": [
-    "battle_spell_fluff_in_the_air_hit.wav",
-    "battle_spell_fluff_in_the_air_main.wav"
+    "battle_spell_fluff_in_the_air_hit",
+    "battle_spell_fluff_in_the_air_main"
   ],
   "gargoyle_betty": [
-    "battle_spell_pointy_darts_hit.wav",
-    "battle_spell_pointy_darts_main.wav"
+    "battle_spell_pointy_darts_hit",
+    "battle_spell_pointy_darts_main"
   ],
   "gargoyle_guffa": [
-    "battle_spell_reflecting_stance.wav"
+    "battle_spell_reflecting_stance"
   ],
   "gargoyle_hilda": [
-    "battle_spell_drain_strike_MAIN.wav"
+    "battle_spell_drain_strike_MAIN"
   ],
   "gargoyle_grumbl": [
-    "battle_spell_moon_boomerang.wav"
+    "battle_spell_moon_boomerang"
   ],
   "construct_rhineglow": [
-    "battle_spell_first_law_of_thermodynamics.wav"
+    "battle_spell_first_law_of_thermodynamics"
   ],
   "construct_carta": [
-    "battle_spell_unerring_course.wav"
+    "battle_spell_unerring_course"
   ],
   "garrison_caelen": [
-    "battle_spell_soothing_melody_hit.wav",
-    "battle_spell_soothing_melody_main.wav"
+    "battle_spell_soothing_melody_hit",
+    "battle_spell_soothing_melody_main"
   ],
   "nature_god_bo_and_runt": [],
   "garrison_violet_potts": [
-    "battle_spell_lucky_coin.wav"
+    "battle_spell_lucky_coin"
   ],
   "construct_scoria": [
-    "battle_spell_cauterizing_touch_hit.wav",
-    "battle_spell_cauterizing_touch_main.wav"
+    "battle_spell_cauterizing_touch_hit",
+    "battle_spell_cauterizing_touch_main"
   ],
   "construct_skarn": [
-    "battle_spell_searing_frost_hit.wav",
-    "battle_spell_searing_frost_main.wav"
+    "battle_spell_searing_frost_hit",
+    "battle_spell_searing_frost_main"
   ],
   "construct_gwynn": [
-    "battle_spell_high_energy_field_MAIN.wav"
+    "battle_spell_high_energy_field_MAIN"
   ],
   "champions_mistra": [
-    "battle_spell_cut_down_the_competition.wav"
+    "battle_spell_cut_down_the_competition"
   ],
   "monster_hunter_thura": [
-    "battle_spell_guiding_arrow_hit.wav"
+    "battle_spell_guiding_arrow_hit"
   ],
   "monster_hunter_dubhain": [
-    "battle_spell_thundering_strike_MAIN.wav"
+    "battle_spell_thundering_strike_MAIN"
   ],
   "astral_cosmicspeaker": [
-    "battle_spell_constellation_crush_MAIN.wav"
+    "battle_spell_constellation_crush_MAIN"
   ],
   "holy_god_aviana": [
-    "battle_spell_falcon_screech_hit.wav",
-    "battle_spell_falcon_screech_main.wav"
+    "battle_spell_falcon_screech_hit",
+    "battle_spell_falcon_screech_main"
   ],
   "ice_god_sini": [
-    "battle_spell_conjure_the_azure_spirit.wav"
+    "battle_spell_conjure_the_azure_spirit"
   ],
   "dark_god_sir_casmir": [
-    "battle_spell_guardians_retaliation_MAIN.wav"
+    "battle_spell_guardians_retaliation_MAIN"
   ],
   "slime_gunktus": [
-    "battle_spell_blob_of_fury_MAIN.wav"
+    "battle_spell_blob_of_fury_MAIN"
   ],
   "slime_fungustine": [
-    "battle_spell_revitalizing_sludge.wav"
+    "battle_spell_revitalizing_sludge"
   ],
   "kalevala_otso": [
-    "battle_spell_boreal_bash.wav"
+    "battle_spell_boreal_bash"
   ],
   "monster_hunter_ruadh": [
-    "battle_spell_scourge_of_the_strong_hit.wav",
-    "battle_spell_scourge_of_the_strong_main.wav"
+    "battle_spell_scourge_of_the_strong_hit",
+    "battle_spell_scourge_of_the_strong_main"
   ],
   "monster_hunter_sigyn": [
-    "battle_spell_chitin_cage.wav"
+    "battle_spell_chitin_cage"
   ],
   "monster_hunter_sune": [
-    "battle_spell_primeval_glaive_hit.wav",
-    "battle_spell_primeval_glaive_main.wav"
+    "battle_spell_primeval_glaive_hit",
+    "battle_spell_primeval_glaive_main"
   ],
   "slime_sludgus": [
-    "battle_spell_dance_of_the_slimy.wav"
+    "battle_spell_dance_of_the_slimy"
   ],
   "slime_slimgo": [
-    "battle_spell_throwing_daggers_HIT.wav",
-    "battle_spell_throwing_daggers_MAIN.wav"
+    "battle_spell_throwing_daggers_HIT",
+    "battle_spell_throwing_daggers_MAIN"
   ],
   "slime_gooze": [
-    "battle_spell_alchemy_experiment_MAIN.wav"
+    "battle_spell_alchemy_experiment_MAIN"
   ],
   "slime_gooldron": [
-    "battle_spell_slime_serving_MAIN.wav"
+    "battle_spell_slime_serving_MAIN"
   ],
   "slime_charmione": [
-    "battle_spell_perfume_cloud_hit.wav",
-    "battle_spell_perfume_cloud_main.wav"
+    "battle_spell_perfume_cloud_hit",
+    "battle_spell_perfume_cloud_main"
   ],
   "slime_knightus": [
-    "battle_spell_slime_coated_sword.wav"
+    "battle_spell_slime_coated_sword"
   ],
   "slime_mucktus": [
-    "battle_spell_insidious_goo_hit.wav",
-    "battle_spell_insidious_goo_main.wav"
+    "battle_spell_insidious_goo_hit",
+    "battle_spell_insidious_goo_main"
   ],
   "slime_gooric": [
-    "battle_spell_reviving_touch.wav"
+    "battle_spell_reviving_touch"
   ],
   "faun_verity": [
-    "battle_spell_red_shoes_hit.wav",
-    "battle_spell_red_shoes_main.wav"
+    "battle_spell_red_shoes_hit",
+    "battle_spell_red_shoes_main"
   ],
   "tales2_regin": [
-    "battle_spell_master_plan_hit.wav",
-    "battle_spell_master_plan_main.wav"
+    "battle_spell_master_plan_hit",
+    "battle_spell_master_plan_main"
   ],
   "tales2_dularfulr": [
-    "battle_spell_nights_whisper.wav"
+    "battle_spell_nights_whisper"
   ],
   "tales2_gandr": [
-    "battle_spell_spearwand_gale_hit.wav",
-    "battle_spell_spearwand_gale_main.wav"
+    "battle_spell_spearwand_gale_hit",
+    "battle_spell_spearwand_gale_main"
   ],
   "tales2_ott": [
-    "battle_spell_saga_of_protection_MAIN.wav"
+    "battle_spell_saga_of_protection_MAIN"
   ],
   "tales2_aethslegaur": [
-    "battle_spell_mana_immolation_hit.wav",
-    "battle_spell_mana_immolation_main.wav"
+    "battle_spell_mana_immolation_hit",
+    "battle_spell_mana_immolation_main"
   ],
   "tales2_dagr": [
-    "battle_spell_blazing_venom_hit.wav",
-    "battle_spell_blazing_venom_main.wav"
+    "battle_spell_blazing_venom_hit",
+    "battle_spell_blazing_venom_main"
   ],
   "tales2_hreidmarr": [
-    "battle_spell_dwarven_kings_levy_hit.wav",
-    "battle_spell_dwarven_kings_levy_multi.wav"
+    "battle_spell_dwarven_kings_levy_hit",
+    "battle_spell_dwarven_kings_levy_multi"
   ],
   "tales2_andvari": [
-    "battle_spell_saga_of_deliverance.wav"
+    "battle_spell_saga_of_deliverance"
   ],
   "tales2_fjalar": [
-    "battle_attack-ice.wav",
-    "battle_spell_poetic_justice_hit.wav",
-    "battle_spell_poetic_justice_main.wav"
+    "battle_attack-ice",
+    "battle_spell_poetic_justice_hit",
+    "battle_spell_poetic_justice_main"
   ],
   "tales2_helgi": [
-    "battle_spell_dwarven_flourish_hit.wav",
-    "battle_spell_dwarven_flourish_main.wav"
+    "battle_spell_dwarven_flourish_hit",
+    "battle_spell_dwarven_flourish_main"
   ],
   "tales2_fafnir": [
-    "battle_attack-ice.wav",
-    "battle_spell_lance_of_avarice_hit.wav",
-    "battle_spell_lance_of_avarice_main.wav"
+    "battle_attack-ice",
+    "battle_spell_lance_of_avarice_hit",
+    "battle_spell_lance_of_avarice_main"
   ],
   "tales2_hogne": [
-    "battle_spell_glacial_fissure_cleave_hit.wav",
-    "battle_spell_glacial_fissure_cleave_main.wav"
+    "battle_spell_glacial_fissure_cleave_hit",
+    "battle_spell_glacial_fissure_cleave_main"
   ],
   "tales2_thrivaldi": [
-    "battle_spell_glacial_atmosphere_hit.wav",
-    "battle_spell_glacial_atmosphere_main.wav"
+    "battle_spell_glacial_atmosphere_hit",
+    "battle_spell_glacial_atmosphere_main"
   ],
   "tales2_dain": [
-    "battle_attack-ice.wav",
-    "battle_spell_iceberg_aura.wav"
+    "battle_attack-ice",
+    "battle_spell_iceberg_aura"
   ],
   "faun_saskia": [
-    "battle_spell_rejuvenating_leap.wav"
+    "battle_spell_rejuvenating_leap"
   ],
   "faun_gideon": [
-    "battle_spell_purifying_light.wav"
+    "battle_spell_purifying_light"
   ],
   "faun_peregrine": [
-    "battle_spell_feyfire_slash_hit.wav",
-    "battle_spell_feyfire_slash_main.wav"
+    "battle_spell_feyfire_slash_hit",
+    "battle_spell_feyfire_slash_main"
   ],
   "faun_tamlin": [
-    "battle_spell_disquieting_tune_hit.wav",
-    "battle_spell_disquieting_tune_main.wav"
+    "battle_spell_disquieting_tune_hit",
+    "battle_spell_disquieting_tune_main"
   ],
   "fox_whitefang": [
-    "battle_spell_never_ending_winter_hit.wav",
-    "battle_spell_never_ending_winter_main.wav"
+    "battle_spell_never_ending_winter_hit",
+    "battle_spell_never_ending_winter_main"
   ],
   "fox_rust": [
-    "battle_spell_cover_slam_hit.wav",
-    "battle_spell_cover_slam_main.wav"
+    "battle_spell_cover_slam_hit",
+    "battle_spell_cover_slam_main"
   ],
   "fox_shadowfang": [
-    "battle_spell_bone_toss_HIT.wav",
-    "battle_spell_bone_toss_MAIN.wav"
+    "battle_spell_bone_toss_HIT",
+    "battle_spell_bone_toss_MAIN"
   ],
   "fox_swiftpaw": [
-    "battle_spell_swift_little_friends.wav"
+    "battle_spell_swift_little_friends"
   ],
   "ninja_nomad": [
-    "battle_spell_silent_takedown_HIT.wav",
-    "battle_spell_silent_takedown_MAIN.wav"
+    "battle_spell_silent_takedown_HIT",
+    "battle_spell_silent_takedown_MAIN"
   ],
   "ninja_tora": [
-    "battle_spell_hunt_for_prey_hit.wav",
-    "battle_spell_hunt_for_prey_main.wav"
+    "battle_spell_hunt_for_prey_hit",
+    "battle_spell_hunt_for_prey_main"
   ],
   "ninja_iga": [
-    "battle_spell_kunai_assault.wav"
+    "battle_spell_kunai_assault"
   ],
   "ninja_chikao": [
-    "battle_spell_fatal_dreams_MAIN.wav"
+    "battle_spell_fatal_dreams_MAIN"
   ],
   "monster_hunter_revna": [
-    "battle_spell_cloak_of_feathers.wav"
+    "battle_spell_cloak_of_feathers"
   ],
   "garrison_dima": [
-    "battle_spell_spotting_trouble_hit.wav",
-    "battle_spell_spotting_trouble_main.wav"
+    "battle_spell_spotting_trouble_hit",
+    "battle_spell_spotting_trouble_main"
   ],
   "garrison_pip": [
-    "battle_spell_reckless_sword_swings_HIT.wav",
-    "battle_spell_reckless_sword_swings_MAIN.wav"
+    "battle_spell_reckless_sword_swings_HIT",
+    "battle_spell_reckless_sword_swings_MAIN"
   ],
   "ninja_umeko": [
-    "battle_spell_noxious_blossom_HIT.wav",
-    "battle_spell_noxious_blossom_MAIN.wav"
+    "battle_spell_noxious_blossom_HIT",
+    "battle_spell_noxious_blossom_MAIN"
   ],
   "ninja_aurum": [
-    "battle_spell_rending_dagger_hit.wav",
-    "battle_spell_rending_dagger_main.wav"
+    "battle_spell_rending_dagger_hit",
+    "battle_spell_rending_dagger_main"
   ],
   "nature_god_chloris": [
-    "battle_spell_invigorating_pollen.wav"
+    "battle_spell_invigorating_pollen"
   ],
   "ninja_satsui": [
-    "battle_spell_shade_cloak_hit.wav",
-    "battle_spell_shade_cloak_main.wav"
+    "battle_spell_shade_cloak_hit",
+    "battle_spell_shade_cloak_main"
   ],
   "ninja_sawano": [
-    "battle_spell_purifying_ki.wav"
+    "battle_spell_purifying_ki"
   ],
   "ninja_ito": [
-    "battle_spell_suppressing_ki_hit.wav",
-    "battle_spell_suppressing_ki_main.wav"
+    "battle_spell_suppressing_ki_hit",
+    "battle_spell_suppressing_ki_main"
   ],
   "ninja_malum": [
-    "battle_spell_lacerating_leap_HIT.wav",
-    "battle_spell_lacerating_leap_MAIN.wav"
+    "battle_spell_lacerating_leap_HIT",
+    "battle_spell_lacerating_leap_MAIN"
   ],
   "ninja_osamu": [
-    "battle_spell_iron_discipline_cut_HIT.wav",
-    "battle_spell_iron_discipline_cut_MAIN.wav"
+    "battle_spell_iron_discipline_cut_HIT",
+    "battle_spell_iron_discipline_cut_MAIN"
   ],
   "fox_ashen": [],
   "fox_spiff": [
-    "battle_spell_fierce_pierce_hit.wav",
-    "battle_spell_fierce_pierce_main.wav"
+    "battle_spell_fierce_pierce_hit",
+    "battle_spell_fierce_pierce_main"
   ],
   "fox_sable": [
-    "battle_spell_Ill_bring_you_back.wav"
+    "battle_spell_Ill_bring_you_back"
   ],
   "fox_silverpaw": [
-    "battle_spell_greed_and_bribery_hit.wav",
-    "battle_spell_greed_and_bribery_main.wav"
+    "battle_spell_greed_and_bribery_hit",
+    "battle_spell_greed_and_bribery_main"
   ],
   "faun_ysabel": [
-    "battle_spell_lash_of_the_whip_hit.wav",
-    "battle_spell_lash_of_the_whip_main.wav"
+    "battle_spell_lash_of_the_whip_hit",
+    "battle_spell_lash_of_the_whip_main"
   ],
   "faun_araminta": [
-    "battle_spell_forceful_advance_hit.wav",
-    "battle_spell_forceful_advance_main.wav"
+    "battle_spell_forceful_advance_hit",
+    "battle_spell_forceful_advance_main"
   ],
   "halloween_wayne": [
-    "battle_spell_blood_illusion_hit.wav",
-    "battle_spell_blood_illusion_main.wav"
+    "battle_spell_blood_illusion_hit",
+    "battle_spell_blood_illusion_main"
   ],
   "halloween_chester": [
-    "battle_spell_horrifying_wail_hit.wav",
-    "battle_spell_horrifying_wail_main.wav"
+    "battle_spell_horrifying_wail_hit",
+    "battle_spell_horrifying_wail_main"
   ],
   "ice_god_mene": [
-    "battle_spell_freezing_fairy_mist_hit.wav",
-    "battle_spell_freezing_fairy_mist_main.wav"
+    "battle_spell_freezing_fairy_mist_hit",
+    "battle_spell_freezing_fairy_mist_main"
   ],
   "ice_god_claeg": [
-    "battle_spell_strength_of_the_accursed.wav"
+    "battle_spell_strength_of_the_accursed"
   ],
   "holy_god_may": [
-    "battle_spell_bounty_of_the_spring_HIT.wav",
-    "battle_spell_bounty_of_the_spring_MAIN.wav"
+    "battle_spell_bounty_of_the_spring_HIT",
+    "battle_spell_bounty_of_the_spring_MAIN"
   ],
   "garrison_rosalind": [
-    "battle_spell_a_moment_of_joy.wav"
+    "battle_spell_a_moment_of_joy"
   ],
   "garrison_fergus": [
-    "battle_spell_keep_the_peace_hit.wav",
-    "battle_spell_keep_the_peace_main.wav"
+    "battle_spell_keep_the_peace_hit",
+    "battle_spell_keep_the_peace_main"
   ],
   "beowulf_hrothgar": [
-    "battle_spell_the_kings_feast_hit.wav",
-    "battle_spell_the_kings_feast_main.wav"
+    "battle_spell_the_kings_feast_hit",
+    "battle_spell_the_kings_feast_main"
   ],
   "beowulf_wealhtheow": [
-    "battle_spell_cup_of_mead_MAIN.wav"
+    "battle_spell_cup_of_mead_MAIN"
   ],
   "monster_hunter_amund": [
-    "battle_spell_carve_the_bones_hit.wav",
-    "battle_spell_carve_the_bones_main.wav"
+    "battle_spell_carve_the_bones_hit",
+    "battle_spell_carve_the_bones_main"
   ],
   "garrison_kolya": [
-    "battle_spell_laundry_day_hit.wav",
-    "battle_spell_laundry_day_main.wav"
+    "battle_spell_laundry_day_hit",
+    "battle_spell_laundry_day_main"
   ],
   "bard_balafon": [
-    "battle_spell_magical_balan_HIT.wav",
-    "battle_spell_magical_balan_MAIN.wav"
+    "battle_spell_magical_balan_HIT",
+    "battle_spell_magical_balan_MAIN"
   ],
   "bard_astrid": [
-    "battle_spell_booming_mend.wav"
+    "battle_spell_booming_mend"
   ],
   "bard_bonzo": [
-    "battle_spell_odd_drum_roll_hit.wav",
-    "battle_spell_odd_drum_roll_main.wav"
+    "battle_spell_odd_drum_roll_hit",
+    "battle_spell_odd_drum_roll_main"
   ],
   "bard_bhaltair": [
-    "battle_spell_joyful_noise_MAIN.wav"
+    "battle_spell_joyful_noise_MAIN"
   ],
   "christmas_albin": [],
   "christmas_ottilia": [
-    "battle_spell_mistletoe_medley_HIT.wav",
-    "battle_spell_mistletoe_medley_MAIN.wav"
+    "battle_spell_mistletoe_medley_HIT",
+    "battle_spell_mistletoe_medley_MAIN"
   ],
   "holy_god_faeona": [
-    "battle_spell_revitalizing_orb_MAIN.wav"
+    "battle_spell_revitalizing_orb_MAIN"
   ],
   "dark_god_zed": [
-    "battle_spell_lance_thrust_hit.wav",
-    "battle_spell_lance_thrust_main.wav"
+    "battle_spell_lance_thrust_hit",
+    "battle_spell_lance_thrust_main"
   ],
   "faun_bramble": [
-    "battle_spell_sylvan_blessings.wav"
+    "battle_spell_sylvan_blessings"
   ],
   "faun_isidore": [
-    "battle_spell_flurry_of_blows_hit.wav",
-    "battle_spell_flurry_of_blows_main.wav"
+    "battle_spell_flurry_of_blows_hit",
+    "battle_spell_flurry_of_blows_main"
   ],
   "faun_ascian": [
-    "battle_spell_portents_of_future_HIT.wav",
-    "battle_spell_portents_of_future_MAIN.wav"
+    "battle_spell_portents_of_future_HIT",
+    "battle_spell_portents_of_future_MAIN"
   ],
   "faun_myrtle": [
-    "battle_spell_a_rare_cultivar_hit.wav",
-    "battle_spell_a_rare_cultivar_main.wav"
+    "battle_spell_a_rare_cultivar_hit",
+    "battle_spell_a_rare_cultivar_main"
   ],
   "moth_tealmoine": [
-    "battle_spell_bizarre_mist_MAIN.wav"
+    "battle_spell_bizarre_mist_MAIN"
   ],
   "moth_satinpimenter": [
-    "battle_spell_toxic_incense_hit.wav",
-    "battle_spell_toxic_incense_main.wav"
+    "battle_spell_toxic_incense_hit",
+    "battle_spell_toxic_incense_main"
   ],
   "moth_mortewitch": [
-    "battle_spell_hungering_grave_hit.wav",
-    "battle_spell_hungering_grave_main.wav"
+    "battle_spell_hungering_grave_hit",
+    "battle_spell_hungering_grave_main"
   ],
   "moth_grovevert": [
-    "battle_spell_adorable_pest_hit.wav",
-    "battle_spell_adorable_pest_main.wav"
+    "battle_spell_adorable_pest_hit",
+    "battle_spell_adorable_pest_main"
   ],
   "moth_pepperbleu": [
-    "battle_spell_dusk_till_dawn_hit.wav",
-    "battle_spell_dusk_till_dawn_main.wav"
+    "battle_spell_dusk_till_dawn_hit",
+    "battle_spell_dusk_till_dawn_main"
   ],
   "garrison_maisie": [
-    "battle_spell_join_in_joyful_song.wav"
+    "battle_spell_join_in_joyful_song"
   ],
   "garrison_archibald": [
-    "battle_spell_suspicious_stew_HIT.wav",
-    "battle_spell_suspicious_stew_MAIN.wav"
+    "battle_spell_suspicious_stew_HIT",
+    "battle_spell_suspicious_stew_MAIN"
   ],
   "garrison_frostsnout": [
-    "battle_spell_raising_morale_hit.wav",
-    "battle_spell_raising_morale_main.wav"
+    "battle_spell_raising_morale_hit",
+    "battle_spell_raising_morale_main"
   ],
   "astral_dwarf_salniss": [
-    "battle_spell_doublebarreled_starstick_HIT.wav",
-    "battle_spell_doublebarreled_starstick_MAIN.wav"
+    "battle_spell_doublebarreled_starstick_HIT",
+    "battle_spell_doublebarreled_starstick_MAIN"
   ],
   "astral_dwarf_maegwyn": [
-    "battle_spell_astral_brew.wav"
+    "battle_spell_astral_brew"
   ],
   "astral_dwarf_pluth": [
-    "battle_spell_planar_time_widget_hit.wav",
-    "battle_spell_planar_time_widget_main.wav"
+    "battle_spell_planar_time_widget_hit",
+    "battle_spell_planar_time_widget_main"
   ],
   "astral_dwarf_quari": [
-    "battle_spell_frozen_path_hit.wav",
-    "battle_spell_frozen_path_main.wav"
+    "battle_spell_frozen_path_hit",
+    "battle_spell_frozen_path_main"
   ],
   "astral_dwarf_vard": [
-    "battle_spell_power_of_the_void_hit.wav",
-    "battle_spell_power_of_the_void_main.wav"
+    "battle_spell_power_of_the_void_hit",
+    "battle_spell_power_of_the_void_main"
   ],
   "moth_shyombre": [
-    "battle_spell_shadow_sidestep_hit.wav",
-    "battle_spell_shadow_sidestep_main.wav"
+    "battle_spell_shadow_sidestep_hit",
+    "battle_spell_shadow_sidestep_main"
   ],
   "moth_rosepetite": [
-    "battle_spell_joyful_palette_HIT.wav",
-    "battle_spell_joyful_palette_MAIN.wav"
+    "battle_spell_joyful_palette_HIT",
+    "battle_spell_joyful_palette_MAIN"
   ],
   "nature_god_mystia": [
-    "battle_spell_mesmerizing_mirror_hit.wav",
-    "battle_spell_mesmerizing_mirror_main.wav"
+    "battle_spell_mesmerizing_mirror_hit",
+    "battle_spell_mesmerizing_mirror_main"
   ],
   "lunar_new_year_xiaoqing": [
-    "battle_spell_warding_off_evil.wav"
+    "battle_spell_warding_off_evil"
   ],
   "lunar_new_year_baishu": [
-    "battle_spell_masterful_balance_HIT.wav",
-    "battle_spell_masterful_balance_MAIN.wav"
+    "battle_spell_masterful_balance_HIT",
+    "battle_spell_masterful_balance_MAIN"
   ],
   "moth_chunkyroi": [
-    "battle_spell_prosperity_for_domain.wav"
+    "battle_spell_prosperity_for_domain"
   ],
   "moth_limeboire": [
-    "battle_spell_dozy_mead_hit.wav",
-    "battle_spell_dozy_mead_main.wav"
+    "battle_spell_dozy_mead_hit",
+    "battle_spell_dozy_mead_main"
   ],
   "faun_jolyon": [
-    "battle_spell_charm_of_protection.wav"
+    "battle_spell_charm_of_protection"
   ],
   "faun_philomena": [
-    "battle_spell_enchanting_melody_hit.wav",
-    "battle_spell_enchanting_melody_main.wav"
+    "battle_spell_enchanting_melody_hit",
+    "battle_spell_enchanting_melody_main"
   ],
   "faun_yolanda": [
-    "battle_spell_captivating_illusions_hit.wav",
-    "battle_spell_captivating_illusions_main.wav"
+    "battle_spell_captivating_illusions_hit",
+    "battle_spell_captivating_illusions_main"
   ],
   "faun_maud": [
-    "battle_spell_here_catch_hit.wav",
-    "battle_spell_here_catch_main.wav"
+    "battle_spell_here_catch_hit",
+    "battle_spell_here_catch_main"
   ],
   "garrison_flamehide": [
-    "battle_spell_calling_the_bluff_HIT.wav",
-    "battle_spell_calling_the_bluff_MAIN.wav"
+    "battle_spell_calling_the_bluff_HIT",
+    "battle_spell_calling_the_bluff_MAIN"
   ],
   "garrison_iarlaith": [
-    "battle_spell_ring_around_the_rosie_hit.wav",
-    "battle_spell_ring_around_the_rosie_main.wav"
+    "battle_spell_ring_around_the_rosie_hit",
+    "battle_spell_ring_around_the_rosie_main"
   ],
   "garrison_ciara": [
-    "battle_spell_strict_standards_hit.wav",
-    "battle_spell_strict_standards_main.wav"
+    "battle_spell_strict_standards_hit",
+    "battle_spell_strict_standards_main"
   ],
   "beowulf_beowulf": [
-    "battle_spell_battle_boast_HIT.wav",
-    "battle_spell_battle_boast_MAIN.wav"
+    "battle_spell_battle_boast_HIT",
+    "battle_spell_battle_boast_MAIN"
   ],
   "beowulf_ecgtheow": [
-    "battle_spell_challenge_the_strongest_MAIN.wav"
+    "battle_spell_challenge_the_strongest_MAIN"
   ],
   "beowulf_modthryth": [
-    "battle_spell_chilling_counterattack.wav"
+    "battle_spell_chilling_counterattack"
   ],
   "beowulf_aeschere": [
-    "battle_spell_wise_mans_counsel_hit.wav",
-    "battle_spell_wise_mans_counsel_main.wav"
+    "battle_spell_wise_mans_counsel_hit",
+    "battle_spell_wise_mans_counsel_main"
   ],
   "beowulf_unferth": [
-    "battle_spell_tempered_blade_hit.wav",
-    "battle_spell_tempered_blade_main.wav"
+    "battle_spell_tempered_blade_hit",
+    "battle_spell_tempered_blade_main"
   ],
   "beowulf_grendel": [
-    "battle_spell_gruesome_charge_hit.wav",
-    "battle_spell_gruesome_charge_main.wav"
+    "battle_spell_gruesome_charge_hit",
+    "battle_spell_gruesome_charge_main"
   ],
   "beowulf_nithgaest": [
-    "battle_spell_rush_of_flame_HIT.wav",
-    "battle_spell_rush_of_flame_MAIN.wav"
+    "battle_spell_rush_of_flame_HIT",
+    "battle_spell_rush_of_flame_MAIN"
   ],
   "fire_god_eliane": [
-    "battle_spell_flame_surge_hit.wav",
-    "battle_spell_flame_surge_main.wav"
+    "battle_spell_flame_surge_hit",
+    "battle_spell_flame_surge_main"
   ],
   "bard_darkbeat": [
-    "battle_spell_struck_by_thunder_hit.wav",
-    "battle_spell_struck_by_thunder_main.wav"
+    "battle_spell_struck_by_thunder_hit",
+    "battle_spell_struck_by_thunder_main"
   ],
   "bard_dunnar_hart": [],
   "wild_cat_leonie": [
-    "battle_spell_claws_of_the_lioness_hit.wav",
-    "battle_spell_claws_of_the_lioness_main.wav"
+    "battle_spell_claws_of_the_lioness_hit",
+    "battle_spell_claws_of_the_lioness_main"
   ],
   "wild_cat_rajesh": [
-    "battle_spell_royal_meatball_buffet.wav"
+    "battle_spell_royal_meatball_buffet"
   ],
   "wild_cat_lennart": [
-    "battle_spell_pursuing_shot_hit.wav",
-    "battle_spell_pursuing_shot_main.wav"
+    "battle_spell_pursuing_shot_hit",
+    "battle_spell_pursuing_shot_main"
   ],
   "easter_viscount_cluckwood": [
-    "battle_spell_insurmountable_flux_HIT.wav",
-    "battle_spell_insurmountable_flux_MAIN.wav"
+    "battle_spell_insurmountable_flux_HIT",
+    "battle_spell_insurmountable_flux_MAIN"
   ],
   "easter_sadie": [
-    "battle_spell_silencing_stick_up_hit.wav",
-    "battle_spell_silencing_stick_up_main.wav"
+    "battle_spell_silencing_stick_up_hit",
+    "battle_spell_silencing_stick_up_main"
   ],
   "fox_ember": [
-    "battle_spell_firewall_hit.wav",
-    "battle_spell_firewall_main.wav"
+    "battle_spell_firewall_hit",
+    "battle_spell_firewall_main"
   ],
   "fox_foxley": [
-    "battle_attack-arrows.wav",
-    "battle_spell_barbed_arrows_hit.wav",
-    "battle_spell_barbed_arrows_main.wav"
+    "battle_attack-arrows",
+    "battle_spell_barbed_arrows_hit",
+    "battle_spell_barbed_arrows_main"
   ],
   "slime_magistine": [
-    "battle_spell_slimy_balls_HIT.wav",
-    "battle_spell_slimy_balls_MAIN.wav"
+    "battle_spell_slimy_balls_HIT",
+    "battle_spell_slimy_balls_MAIN"
   ],
   "slime_goorian": [
-    "battle_spell_bone_slam_hit.wav",
-    "battle_spell_bone_slam_main.wav"
+    "battle_spell_bone_slam_hit",
+    "battle_spell_bone_slam_main"
   ],
   "astral_dwarf_haumri": [
-    "battle_spell_star_trail_hit.wav",
-    "battle_spell_star_trail_main.wav"
+    "battle_spell_star_trail_hit",
+    "battle_spell_star_trail_main"
   ],
   "astral_dwarf_ixinn": [
-    "battle_spell_planetary_charge_hit.wav",
-    "battle_spell_planetary_charge_main.wav"
+    "battle_spell_planetary_charge_hit",
+    "battle_spell_planetary_charge_main"
   ],
   "astral_dwarf_gongoth": [
-    "battle_spell_twilight_star_strike_MAIN.wav"
+    "battle_spell_twilight_star_strike_MAIN"
   ],
   "astral_dwarf_ceris": [
-    "battle_spell_spell_lock_hit.wav",
-    "battle_spell_spell_lock_main.wav"
+    "battle_spell_spell_lock_hit",
+    "battle_spell_spell_lock_main"
   ],
   "astral_dwarf_errin": [
-    "battle_spell_mischievous_tiein_hit.wav",
-    "battle_spell_mischievous_tiein_main.wav"
+    "battle_spell_mischievous_tiein_hit",
+    "battle_spell_mischievous_tiein_main"
   ],
   "astral_dwarf_chires": [
-    "battle_spell_astral_pastries.wav"
+    "battle_spell_astral_pastries"
   ],
   "mimic_training_hero_red": [],
   "mimic_training_hero_blue": [],
@@ -4006,64 +4006,64 @@
   "mimic_training_hero_yellow": [],
   "mimic_training_hero_purple": [],
   "outlaw_song_jiang": [
-    "battle_spell_righteous_strike_hit.wav",
-    "battle_spell_righteous_strike_main.wav"
+    "battle_spell_righteous_strike_hit",
+    "battle_spell_righteous_strike_main"
   ],
   "outlaw_li_kui": [
-    "battle_spell_whirlwind_blows_hit.wav",
-    "battle_spell_whirlwind_blows_main.wav"
+    "battle_spell_whirlwind_blows_hit",
+    "battle_spell_whirlwind_blows_main"
   ],
   "outlaw_ruan_xiaoqi": [
-    "battle_spell_perilous_waters_HIT.wav",
-    "battle_spell_perilous_waters_MAIN.wav"
+    "battle_spell_perilous_waters_HIT",
+    "battle_spell_perilous_waters_MAIN"
   ],
   "outlaw_gu_dasao": [
-    "battle_spell_intimidating_stance_hit.wav",
-    "battle_spell_intimidating_stance_main.wav"
+    "battle_spell_intimidating_stance_hit",
+    "battle_spell_intimidating_stance_main"
   ],
   "outlaw_liu_tang": [
-    "battle_spell_rough_and_tumble_hit.wav",
-    "battle_spell_rough_and_tumble_main.wav"
+    "battle_spell_rough_and_tumble_hit",
+    "battle_spell_rough_and_tumble_main"
   ],
   "magic_carpet_zazha": [
-    "battle_spell_soaring_blast_hit.wav",
-    "battle_spell_soaring_blast_main.wav"
+    "battle_spell_soaring_blast_hit",
+    "battle_spell_soaring_blast_main"
   ],
   "dark_god_akilius": [
-    "battle_spell_coiling_whip_hit.wav",
-    "battle_spell_coiling_whip_main.wav"
+    "battle_spell_coiling_whip_hit",
+    "battle_spell_coiling_whip_main"
   ],
   "magic_carpet_elyssa": [
-    "battle_spell_picnic_in_the_sky.wav"
+    "battle_spell_picnic_in_the_sky"
   ],
   "magic_carpet_naeem": [
-    "battle_spell_countering_hammock_hit.wav",
-    "battle_spell_countering_hammock_main.wav"
+    "battle_spell_countering_hammock_hit",
+    "battle_spell_countering_hammock_main"
   ],
   "magic_carpet_manpip": [
-    "battle_spell_kindled_carpet_main.wav"
+    "battle_spell_kindled_carpet_main"
   ],
   "magic_carpet_bertha": [
-    "battle_spell_sewing_back_together_HIT.wav",
-    "battle_spell_sewing_back_together_MAIN.wav"
+    "battle_spell_sewing_back_together_HIT",
+    "battle_spell_sewing_back_together_MAIN"
   ],
   "moth_auricarc": [
-    "battle_spell_riches_to_poor_HIT.wav",
-    "battle_spell_riches_to_poor_MAIN.wav"
+    "battle_spell_riches_to_poor_HIT",
+    "battle_spell_riches_to_poor_MAIN"
   ],
   "moth_chimister": [
-    "battle_spell_mutating_mixture_hit.wav",
-    "battle_spell_mutating_mixture_main.wav"
+    "battle_spell_mutating_mixture_hit",
+    "battle_spell_mutating_mixture_main"
   ],
   "fox_nibbles": [
-    "battle_spell_paw_in_every_pie.wav"
+    "battle_spell_paw_in_every_pie"
   ],
   "slime_goldrip": [
-    "battle_spell_coins_of_pain_main.wav"
+    "battle_spell_coins_of_pain_main"
   ],
   "mahayoddha_bhima": [],
   "mahayoddha_chitrangada": [
-    "battle_spell_gift_of_rejuvenation_HIT.wav",
-    "battle_spell_gift_of_rejuvenation_MAIN.wav"
+    "battle_spell_gift_of_rejuvenation_HIT",
+    "battle_spell_gift_of_rejuvenation_MAIN"
   ]
 }
