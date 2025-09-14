@@ -4944,6 +4944,120 @@
                 "canBeAscendedToDate": 6311458800
             },
             {
+                "id": "yellow_legendary_divine_cleric",
+                "element": "Yellow",
+                "rarity": 5,
+                "primaryClass": "Cleric",
+                "secondaryClass": "Paladin",
+                "passiveSkill": "resist_debuffs_legendary_troop",
+                "firstTroopStatDefinition": {
+                    "stat": "AttackMultiplier",
+                    "baseValuePerMil": 1150,
+                    "maxValuePerMil": 1350,
+                    "levelUpStepPerMil": 10
+                },
+                "secondTroopStatDefinition": {
+                    "stat": "DefenseMultiplier",
+                    "baseValuePerMil": 1140,
+                    "maxValuePerMil": 1250,
+                    "levelUpStepPerMil": 10
+                },
+                "thirdTroopStatDefinition": {
+                    "stat": "HealthMultiplier",
+                    "baseValuePerMil": 1170,
+                    "maxValuePerMil": 1300,
+                    "levelUpStepPerMil": 10
+                },
+                "fourthTroopStatDefinition": {
+                    "stat": "ManaBonus",
+                    "baseValuePerMil": 1050,
+                    "maxValuePerMil": 1150,
+                    "levelUpStepPerMil": 20
+                },
+                "firstClassPairBonusDefinition": {
+                    "stat": "AttackMultiplier",
+                    "baseValuePerMil": 1010,
+                    "maxValuePerMil": 1110,
+                    "levelUpStepPerMil": 50,
+                    "isClassPairBonus": true
+                },
+                "secondClassPairBonusDefinition": {
+                    "stat": "DefenseMultiplier",
+                    "baseValuePerMil": 1010,
+                    "maxValuePerMil": 1110,
+                    "levelUpStepPerMil": 50,
+                    "isClassPairBonus": true
+                },
+                "thirdClassPairBonusDefinition": {
+                    "stat": "HealthMultiplier",
+                    "baseValuePerMil": 1050,
+                    "maxValuePerMil": 1150,
+                    "levelUpStepPerMil": 100,
+                    "isClassPairBonus": true
+                },
+                "versionSafe": true,
+                "origin": "",
+                "canBeReceivedDate": 805359600,
+                "canBeAscendedToDate": 6311458800
+            },
+            {
+                "id": "yellow_legendary_tree_spirit",
+                "element": "Yellow",
+                "rarity": 5,
+                "primaryClass": "Druid",
+                "secondaryClass": "Wizard",
+                "passiveSkill": "status_effect_defense_addition_legendary_troop",
+                "firstTroopStatDefinition": {
+                    "stat": "AttackMultiplier",
+                    "baseValuePerMil": 1150,
+                    "maxValuePerMil": 1310,
+                    "levelUpStepPerMil": 10
+                },
+                "secondTroopStatDefinition": {
+                    "stat": "DefenseMultiplier",
+                    "baseValuePerMil": 1140,
+                    "maxValuePerMil": 1290,
+                    "levelUpStepPerMil": 10
+                },
+                "thirdTroopStatDefinition": {
+                    "stat": "HealthMultiplier",
+                    "baseValuePerMil": 1170,
+                    "maxValuePerMil": 1300,
+                    "levelUpStepPerMil": 10
+                },
+                "fourthTroopStatDefinition": {
+                    "stat": "ManaBonus",
+                    "baseValuePerMil": 1050,
+                    "maxValuePerMil": 1150,
+                    "levelUpStepPerMil": 20
+                },
+                "firstClassPairBonusDefinition": {
+                    "stat": "AttackMultiplier",
+                    "baseValuePerMil": 1010,
+                    "maxValuePerMil": 1110,
+                    "levelUpStepPerMil": 50,
+                    "isClassPairBonus": true
+                },
+                "secondClassPairBonusDefinition": {
+                    "stat": "DefenseMultiplier",
+                    "baseValuePerMil": 1010,
+                    "maxValuePerMil": 1110,
+                    "levelUpStepPerMil": 50,
+                    "isClassPairBonus": true
+                },
+                "thirdClassPairBonusDefinition": {
+                    "stat": "HealthMultiplier",
+                    "baseValuePerMil": 1050,
+                    "maxValuePerMil": 1150,
+                    "levelUpStepPerMil": 100,
+                    "isClassPairBonus": true
+                },
+                "versionSafe": true,
+                "origin": "",
+                "canBeReceivedDate": 810802800,
+                "canBeAscendedToDate": 6311458800
+            },
+            {
                 "id": "yellow_legendary_swashbuckler",
                 "element": "Yellow",
                 "rarity": 5,
@@ -5058,6 +5172,63 @@
                 "canBeAscendedToDate": 9467132400
             },
             {
+                "id": "yellow_legendary_master_assassin",
+                "element": "Yellow",
+                "rarity": 5,
+                "primaryClass": "Rogue",
+                "secondaryClass": "Fighter",
+                "passiveSkill": "status_effect_attack_addition_legendary_troop",
+                "firstTroopStatDefinition": {
+                    "stat": "AttackMultiplier",
+                    "baseValuePerMil": 1140,
+                    "maxValuePerMil": 1270,
+                    "levelUpStepPerMil": 10
+                },
+                "secondTroopStatDefinition": {
+                    "stat": "DefenseMultiplier",
+                    "baseValuePerMil": 1150,
+                    "maxValuePerMil": 1330,
+                    "levelUpStepPerMil": 10
+                },
+                "thirdTroopStatDefinition": {
+                    "stat": "HealthMultiplier",
+                    "baseValuePerMil": 1170,
+                    "maxValuePerMil": 1300,
+                    "levelUpStepPerMil": 10
+                },
+                "fourthTroopStatDefinition": {
+                    "stat": "ManaBonus",
+                    "baseValuePerMil": 1050,
+                    "maxValuePerMil": 1150,
+                    "levelUpStepPerMil": 20
+                },
+                "firstClassPairBonusDefinition": {
+                    "stat": "AttackMultiplier",
+                    "baseValuePerMil": 1010,
+                    "maxValuePerMil": 1110,
+                    "levelUpStepPerMil": 50,
+                    "isClassPairBonus": true
+                },
+                "secondClassPairBonusDefinition": {
+                    "stat": "DefenseMultiplier",
+                    "baseValuePerMil": 1010,
+                    "maxValuePerMil": 1110,
+                    "levelUpStepPerMil": 50,
+                    "isClassPairBonus": true
+                },
+                "thirdClassPairBonusDefinition": {
+                    "stat": "HealthMultiplier",
+                    "baseValuePerMil": 1050,
+                    "maxValuePerMil": 1150,
+                    "levelUpStepPerMil": 100,
+                    "isClassPairBonus": true
+                },
+                "versionSafe": true,
+                "origin": "",
+                "canBeReceivedDate": 808210800,
+                "canBeAscendedToDate": 6311458800
+            },
+            {
                 "id": "yellow_legendary_hunter_mage",
                 "element": "Yellow",
                 "rarity": 5,
@@ -5169,6 +5340,120 @@
                 "versionSafe": true,
                 "origin": "",
                 "canBeReceivedDate": 802940400,
+                "canBeAscendedToDate": 6311458800
+            },
+            {
+                "id": "red_legendary_divine_cleric",
+                "element": "Red",
+                "rarity": 5,
+                "primaryClass": "Cleric",
+                "secondaryClass": "Paladin",
+                "passiveSkill": "resist_debuffs_legendary_troop",
+                "firstTroopStatDefinition": {
+                    "stat": "AttackMultiplier",
+                    "baseValuePerMil": 1150,
+                    "maxValuePerMil": 1350,
+                    "levelUpStepPerMil": 10
+                },
+                "secondTroopStatDefinition": {
+                    "stat": "DefenseMultiplier",
+                    "baseValuePerMil": 1140,
+                    "maxValuePerMil": 1250,
+                    "levelUpStepPerMil": 10
+                },
+                "thirdTroopStatDefinition": {
+                    "stat": "HealthMultiplier",
+                    "baseValuePerMil": 1170,
+                    "maxValuePerMil": 1300,
+                    "levelUpStepPerMil": 10
+                },
+                "fourthTroopStatDefinition": {
+                    "stat": "ManaBonus",
+                    "baseValuePerMil": 1050,
+                    "maxValuePerMil": 1150,
+                    "levelUpStepPerMil": 20
+                },
+                "firstClassPairBonusDefinition": {
+                    "stat": "AttackMultiplier",
+                    "baseValuePerMil": 1010,
+                    "maxValuePerMil": 1110,
+                    "levelUpStepPerMil": 50,
+                    "isClassPairBonus": true
+                },
+                "secondClassPairBonusDefinition": {
+                    "stat": "DefenseMultiplier",
+                    "baseValuePerMil": 1010,
+                    "maxValuePerMil": 1110,
+                    "levelUpStepPerMil": 50,
+                    "isClassPairBonus": true
+                },
+                "thirdClassPairBonusDefinition": {
+                    "stat": "HealthMultiplier",
+                    "baseValuePerMil": 1050,
+                    "maxValuePerMil": 1150,
+                    "levelUpStepPerMil": 100,
+                    "isClassPairBonus": true
+                },
+                "versionSafe": true,
+                "origin": "",
+                "canBeReceivedDate": 805359600,
+                "canBeAscendedToDate": 6311458800
+            },
+            {
+                "id": "red_legendary_tree_spirit",
+                "element": "Red",
+                "rarity": 5,
+                "primaryClass": "Druid",
+                "secondaryClass": "Wizard",
+                "passiveSkill": "status_effect_defense_addition_legendary_troop",
+                "firstTroopStatDefinition": {
+                    "stat": "AttackMultiplier",
+                    "baseValuePerMil": 1150,
+                    "maxValuePerMil": 1310,
+                    "levelUpStepPerMil": 10
+                },
+                "secondTroopStatDefinition": {
+                    "stat": "DefenseMultiplier",
+                    "baseValuePerMil": 1140,
+                    "maxValuePerMil": 1290,
+                    "levelUpStepPerMil": 10
+                },
+                "thirdTroopStatDefinition": {
+                    "stat": "HealthMultiplier",
+                    "baseValuePerMil": 1170,
+                    "maxValuePerMil": 1300,
+                    "levelUpStepPerMil": 10
+                },
+                "fourthTroopStatDefinition": {
+                    "stat": "ManaBonus",
+                    "baseValuePerMil": 1050,
+                    "maxValuePerMil": 1150,
+                    "levelUpStepPerMil": 20
+                },
+                "firstClassPairBonusDefinition": {
+                    "stat": "AttackMultiplier",
+                    "baseValuePerMil": 1010,
+                    "maxValuePerMil": 1110,
+                    "levelUpStepPerMil": 50,
+                    "isClassPairBonus": true
+                },
+                "secondClassPairBonusDefinition": {
+                    "stat": "DefenseMultiplier",
+                    "baseValuePerMil": 1010,
+                    "maxValuePerMil": 1110,
+                    "levelUpStepPerMil": 50,
+                    "isClassPairBonus": true
+                },
+                "thirdClassPairBonusDefinition": {
+                    "stat": "HealthMultiplier",
+                    "baseValuePerMil": 1050,
+                    "maxValuePerMil": 1150,
+                    "levelUpStepPerMil": 100,
+                    "isClassPairBonus": true
+                },
+                "versionSafe": true,
+                "origin": "",
+                "canBeReceivedDate": 810802800,
                 "canBeAscendedToDate": 6311458800
             },
             {
@@ -5286,6 +5571,63 @@
                 "canBeAscendedToDate": 9467132400
             },
             {
+                "id": "red_legendary_master_assassin",
+                "element": "Red",
+                "rarity": 5,
+                "primaryClass": "Rogue",
+                "secondaryClass": "Fighter",
+                "passiveSkill": "status_effect_attack_addition_legendary_troop",
+                "firstTroopStatDefinition": {
+                    "stat": "AttackMultiplier",
+                    "baseValuePerMil": 1140,
+                    "maxValuePerMil": 1270,
+                    "levelUpStepPerMil": 10
+                },
+                "secondTroopStatDefinition": {
+                    "stat": "DefenseMultiplier",
+                    "baseValuePerMil": 1150,
+                    "maxValuePerMil": 1330,
+                    "levelUpStepPerMil": 10
+                },
+                "thirdTroopStatDefinition": {
+                    "stat": "HealthMultiplier",
+                    "baseValuePerMil": 1170,
+                    "maxValuePerMil": 1300,
+                    "levelUpStepPerMil": 10
+                },
+                "fourthTroopStatDefinition": {
+                    "stat": "ManaBonus",
+                    "baseValuePerMil": 1050,
+                    "maxValuePerMil": 1150,
+                    "levelUpStepPerMil": 20
+                },
+                "firstClassPairBonusDefinition": {
+                    "stat": "AttackMultiplier",
+                    "baseValuePerMil": 1010,
+                    "maxValuePerMil": 1110,
+                    "levelUpStepPerMil": 50,
+                    "isClassPairBonus": true
+                },
+                "secondClassPairBonusDefinition": {
+                    "stat": "DefenseMultiplier",
+                    "baseValuePerMil": 1010,
+                    "maxValuePerMil": 1110,
+                    "levelUpStepPerMil": 50,
+                    "isClassPairBonus": true
+                },
+                "thirdClassPairBonusDefinition": {
+                    "stat": "HealthMultiplier",
+                    "baseValuePerMil": 1050,
+                    "maxValuePerMil": 1150,
+                    "levelUpStepPerMil": 100,
+                    "isClassPairBonus": true
+                },
+                "versionSafe": true,
+                "origin": "",
+                "canBeReceivedDate": 808210800,
+                "canBeAscendedToDate": 6311458800
+            },
+            {
                 "id": "red_legendary_hunter_mage",
                 "element": "Red",
                 "rarity": 5,
@@ -5397,6 +5739,120 @@
                 "versionSafe": true,
                 "origin": "",
                 "canBeReceivedDate": 802940400,
+                "canBeAscendedToDate": 6311458800
+            },
+            {
+                "id": "purple_legendary_divine_cleric",
+                "element": "Purple",
+                "rarity": 5,
+                "primaryClass": "Cleric",
+                "secondaryClass": "Paladin",
+                "passiveSkill": "resist_debuffs_legendary_troop",
+                "firstTroopStatDefinition": {
+                    "stat": "AttackMultiplier",
+                    "baseValuePerMil": 1150,
+                    "maxValuePerMil": 1350,
+                    "levelUpStepPerMil": 10
+                },
+                "secondTroopStatDefinition": {
+                    "stat": "DefenseMultiplier",
+                    "baseValuePerMil": 1140,
+                    "maxValuePerMil": 1250,
+                    "levelUpStepPerMil": 10
+                },
+                "thirdTroopStatDefinition": {
+                    "stat": "HealthMultiplier",
+                    "baseValuePerMil": 1170,
+                    "maxValuePerMil": 1300,
+                    "levelUpStepPerMil": 10
+                },
+                "fourthTroopStatDefinition": {
+                    "stat": "ManaBonus",
+                    "baseValuePerMil": 1050,
+                    "maxValuePerMil": 1150,
+                    "levelUpStepPerMil": 20
+                },
+                "firstClassPairBonusDefinition": {
+                    "stat": "AttackMultiplier",
+                    "baseValuePerMil": 1010,
+                    "maxValuePerMil": 1110,
+                    "levelUpStepPerMil": 50,
+                    "isClassPairBonus": true
+                },
+                "secondClassPairBonusDefinition": {
+                    "stat": "DefenseMultiplier",
+                    "baseValuePerMil": 1010,
+                    "maxValuePerMil": 1110,
+                    "levelUpStepPerMil": 50,
+                    "isClassPairBonus": true
+                },
+                "thirdClassPairBonusDefinition": {
+                    "stat": "HealthMultiplier",
+                    "baseValuePerMil": 1050,
+                    "maxValuePerMil": 1150,
+                    "levelUpStepPerMil": 100,
+                    "isClassPairBonus": true
+                },
+                "versionSafe": true,
+                "origin": "",
+                "canBeReceivedDate": 805359600,
+                "canBeAscendedToDate": 6311458800
+            },
+            {
+                "id": "purple_legendary_tree_spirit",
+                "element": "Purple",
+                "rarity": 5,
+                "primaryClass": "Druid",
+                "secondaryClass": "Wizard",
+                "passiveSkill": "status_effect_defense_addition_legendary_troop",
+                "firstTroopStatDefinition": {
+                    "stat": "AttackMultiplier",
+                    "baseValuePerMil": 1150,
+                    "maxValuePerMil": 1310,
+                    "levelUpStepPerMil": 10
+                },
+                "secondTroopStatDefinition": {
+                    "stat": "DefenseMultiplier",
+                    "baseValuePerMil": 1140,
+                    "maxValuePerMil": 1290,
+                    "levelUpStepPerMil": 10
+                },
+                "thirdTroopStatDefinition": {
+                    "stat": "HealthMultiplier",
+                    "baseValuePerMil": 1170,
+                    "maxValuePerMil": 1300,
+                    "levelUpStepPerMil": 10
+                },
+                "fourthTroopStatDefinition": {
+                    "stat": "ManaBonus",
+                    "baseValuePerMil": 1050,
+                    "maxValuePerMil": 1150,
+                    "levelUpStepPerMil": 20
+                },
+                "firstClassPairBonusDefinition": {
+                    "stat": "AttackMultiplier",
+                    "baseValuePerMil": 1010,
+                    "maxValuePerMil": 1110,
+                    "levelUpStepPerMil": 50,
+                    "isClassPairBonus": true
+                },
+                "secondClassPairBonusDefinition": {
+                    "stat": "DefenseMultiplier",
+                    "baseValuePerMil": 1010,
+                    "maxValuePerMil": 1110,
+                    "levelUpStepPerMil": 50,
+                    "isClassPairBonus": true
+                },
+                "thirdClassPairBonusDefinition": {
+                    "stat": "HealthMultiplier",
+                    "baseValuePerMil": 1050,
+                    "maxValuePerMil": 1150,
+                    "levelUpStepPerMil": 100,
+                    "isClassPairBonus": true
+                },
+                "versionSafe": true,
+                "origin": "",
+                "canBeReceivedDate": 810802800,
                 "canBeAscendedToDate": 6311458800
             },
             {
@@ -5514,6 +5970,63 @@
                 "canBeAscendedToDate": 9467132400
             },
             {
+                "id": "purple_legendary_master_assassin",
+                "element": "Purple",
+                "rarity": 5,
+                "primaryClass": "Rogue",
+                "secondaryClass": "Fighter",
+                "passiveSkill": "status_effect_attack_addition_legendary_troop",
+                "firstTroopStatDefinition": {
+                    "stat": "AttackMultiplier",
+                    "baseValuePerMil": 1140,
+                    "maxValuePerMil": 1270,
+                    "levelUpStepPerMil": 10
+                },
+                "secondTroopStatDefinition": {
+                    "stat": "DefenseMultiplier",
+                    "baseValuePerMil": 1150,
+                    "maxValuePerMil": 1330,
+                    "levelUpStepPerMil": 10
+                },
+                "thirdTroopStatDefinition": {
+                    "stat": "HealthMultiplier",
+                    "baseValuePerMil": 1170,
+                    "maxValuePerMil": 1300,
+                    "levelUpStepPerMil": 10
+                },
+                "fourthTroopStatDefinition": {
+                    "stat": "ManaBonus",
+                    "baseValuePerMil": 1050,
+                    "maxValuePerMil": 1150,
+                    "levelUpStepPerMil": 20
+                },
+                "firstClassPairBonusDefinition": {
+                    "stat": "AttackMultiplier",
+                    "baseValuePerMil": 1010,
+                    "maxValuePerMil": 1110,
+                    "levelUpStepPerMil": 50,
+                    "isClassPairBonus": true
+                },
+                "secondClassPairBonusDefinition": {
+                    "stat": "DefenseMultiplier",
+                    "baseValuePerMil": 1010,
+                    "maxValuePerMil": 1110,
+                    "levelUpStepPerMil": 50,
+                    "isClassPairBonus": true
+                },
+                "thirdClassPairBonusDefinition": {
+                    "stat": "HealthMultiplier",
+                    "baseValuePerMil": 1050,
+                    "maxValuePerMil": 1150,
+                    "levelUpStepPerMil": 100,
+                    "isClassPairBonus": true
+                },
+                "versionSafe": true,
+                "origin": "",
+                "canBeReceivedDate": 808210800,
+                "canBeAscendedToDate": 6311458800
+            },
+            {
                 "id": "purple_legendary_hunter_mage",
                 "element": "Purple",
                 "rarity": 5,
@@ -5625,6 +6138,120 @@
                 "versionSafe": true,
                 "origin": "",
                 "canBeReceivedDate": 802940400,
+                "canBeAscendedToDate": 6311458800
+            },
+            {
+                "id": "green_legendary_divine_cleric",
+                "element": "Green",
+                "rarity": 5,
+                "primaryClass": "Cleric",
+                "secondaryClass": "Paladin",
+                "passiveSkill": "resist_debuffs_legendary_troop",
+                "firstTroopStatDefinition": {
+                    "stat": "AttackMultiplier",
+                    "baseValuePerMil": 1150,
+                    "maxValuePerMil": 1350,
+                    "levelUpStepPerMil": 10
+                },
+                "secondTroopStatDefinition": {
+                    "stat": "DefenseMultiplier",
+                    "baseValuePerMil": 1140,
+                    "maxValuePerMil": 1250,
+                    "levelUpStepPerMil": 10
+                },
+                "thirdTroopStatDefinition": {
+                    "stat": "HealthMultiplier",
+                    "baseValuePerMil": 1170,
+                    "maxValuePerMil": 1300,
+                    "levelUpStepPerMil": 10
+                },
+                "fourthTroopStatDefinition": {
+                    "stat": "ManaBonus",
+                    "baseValuePerMil": 1050,
+                    "maxValuePerMil": 1150,
+                    "levelUpStepPerMil": 20
+                },
+                "firstClassPairBonusDefinition": {
+                    "stat": "AttackMultiplier",
+                    "baseValuePerMil": 1010,
+                    "maxValuePerMil": 1110,
+                    "levelUpStepPerMil": 50,
+                    "isClassPairBonus": true
+                },
+                "secondClassPairBonusDefinition": {
+                    "stat": "DefenseMultiplier",
+                    "baseValuePerMil": 1010,
+                    "maxValuePerMil": 1110,
+                    "levelUpStepPerMil": 50,
+                    "isClassPairBonus": true
+                },
+                "thirdClassPairBonusDefinition": {
+                    "stat": "HealthMultiplier",
+                    "baseValuePerMil": 1050,
+                    "maxValuePerMil": 1150,
+                    "levelUpStepPerMil": 100,
+                    "isClassPairBonus": true
+                },
+                "versionSafe": true,
+                "origin": "",
+                "canBeReceivedDate": 805359600,
+                "canBeAscendedToDate": 6311458800
+            },
+            {
+                "id": "green_legendary_tree_spirit",
+                "element": "Green",
+                "rarity": 5,
+                "primaryClass": "Druid",
+                "secondaryClass": "Wizard",
+                "passiveSkill": "status_effect_defense_addition_legendary_troop",
+                "firstTroopStatDefinition": {
+                    "stat": "AttackMultiplier",
+                    "baseValuePerMil": 1150,
+                    "maxValuePerMil": 1310,
+                    "levelUpStepPerMil": 10
+                },
+                "secondTroopStatDefinition": {
+                    "stat": "DefenseMultiplier",
+                    "baseValuePerMil": 1140,
+                    "maxValuePerMil": 1290,
+                    "levelUpStepPerMil": 10
+                },
+                "thirdTroopStatDefinition": {
+                    "stat": "HealthMultiplier",
+                    "baseValuePerMil": 1170,
+                    "maxValuePerMil": 1300,
+                    "levelUpStepPerMil": 10
+                },
+                "fourthTroopStatDefinition": {
+                    "stat": "ManaBonus",
+                    "baseValuePerMil": 1050,
+                    "maxValuePerMil": 1150,
+                    "levelUpStepPerMil": 20
+                },
+                "firstClassPairBonusDefinition": {
+                    "stat": "AttackMultiplier",
+                    "baseValuePerMil": 1010,
+                    "maxValuePerMil": 1110,
+                    "levelUpStepPerMil": 50,
+                    "isClassPairBonus": true
+                },
+                "secondClassPairBonusDefinition": {
+                    "stat": "DefenseMultiplier",
+                    "baseValuePerMil": 1010,
+                    "maxValuePerMil": 1110,
+                    "levelUpStepPerMil": 50,
+                    "isClassPairBonus": true
+                },
+                "thirdClassPairBonusDefinition": {
+                    "stat": "HealthMultiplier",
+                    "baseValuePerMil": 1050,
+                    "maxValuePerMil": 1150,
+                    "levelUpStepPerMil": 100,
+                    "isClassPairBonus": true
+                },
+                "versionSafe": true,
+                "origin": "",
+                "canBeReceivedDate": 810802800,
                 "canBeAscendedToDate": 6311458800
             },
             {
@@ -5742,6 +6369,63 @@
                 "canBeAscendedToDate": 9467132400
             },
             {
+                "id": "green_legendary_master_assassin",
+                "element": "Green",
+                "rarity": 5,
+                "primaryClass": "Rogue",
+                "secondaryClass": "Fighter",
+                "passiveSkill": "status_effect_attack_addition_legendary_troop",
+                "firstTroopStatDefinition": {
+                    "stat": "AttackMultiplier",
+                    "baseValuePerMil": 1140,
+                    "maxValuePerMil": 1270,
+                    "levelUpStepPerMil": 10
+                },
+                "secondTroopStatDefinition": {
+                    "stat": "DefenseMultiplier",
+                    "baseValuePerMil": 1150,
+                    "maxValuePerMil": 1330,
+                    "levelUpStepPerMil": 10
+                },
+                "thirdTroopStatDefinition": {
+                    "stat": "HealthMultiplier",
+                    "baseValuePerMil": 1170,
+                    "maxValuePerMil": 1300,
+                    "levelUpStepPerMil": 10
+                },
+                "fourthTroopStatDefinition": {
+                    "stat": "ManaBonus",
+                    "baseValuePerMil": 1050,
+                    "maxValuePerMil": 1150,
+                    "levelUpStepPerMil": 20
+                },
+                "firstClassPairBonusDefinition": {
+                    "stat": "AttackMultiplier",
+                    "baseValuePerMil": 1010,
+                    "maxValuePerMil": 1110,
+                    "levelUpStepPerMil": 50,
+                    "isClassPairBonus": true
+                },
+                "secondClassPairBonusDefinition": {
+                    "stat": "DefenseMultiplier",
+                    "baseValuePerMil": 1010,
+                    "maxValuePerMil": 1110,
+                    "levelUpStepPerMil": 50,
+                    "isClassPairBonus": true
+                },
+                "thirdClassPairBonusDefinition": {
+                    "stat": "HealthMultiplier",
+                    "baseValuePerMil": 1050,
+                    "maxValuePerMil": 1150,
+                    "levelUpStepPerMil": 100,
+                    "isClassPairBonus": true
+                },
+                "versionSafe": true,
+                "origin": "",
+                "canBeReceivedDate": 808210800,
+                "canBeAscendedToDate": 6311458800
+            },
+            {
                 "id": "green_legendary_hunter_mage",
                 "element": "Green",
                 "rarity": 5,
@@ -5853,6 +6537,120 @@
                 "versionSafe": true,
                 "origin": "",
                 "canBeReceivedDate": 802940400,
+                "canBeAscendedToDate": 6311458800
+            },
+            {
+                "id": "blue_legendary_divine_cleric",
+                "element": "Blue",
+                "rarity": 5,
+                "primaryClass": "Cleric",
+                "secondaryClass": "Paladin",
+                "passiveSkill": "resist_debuffs_legendary_troop",
+                "firstTroopStatDefinition": {
+                    "stat": "AttackMultiplier",
+                    "baseValuePerMil": 1150,
+                    "maxValuePerMil": 1350,
+                    "levelUpStepPerMil": 10
+                },
+                "secondTroopStatDefinition": {
+                    "stat": "DefenseMultiplier",
+                    "baseValuePerMil": 1140,
+                    "maxValuePerMil": 1250,
+                    "levelUpStepPerMil": 10
+                },
+                "thirdTroopStatDefinition": {
+                    "stat": "HealthMultiplier",
+                    "baseValuePerMil": 1170,
+                    "maxValuePerMil": 1300,
+                    "levelUpStepPerMil": 10
+                },
+                "fourthTroopStatDefinition": {
+                    "stat": "ManaBonus",
+                    "baseValuePerMil": 1050,
+                    "maxValuePerMil": 1150,
+                    "levelUpStepPerMil": 20
+                },
+                "firstClassPairBonusDefinition": {
+                    "stat": "AttackMultiplier",
+                    "baseValuePerMil": 1010,
+                    "maxValuePerMil": 1110,
+                    "levelUpStepPerMil": 50,
+                    "isClassPairBonus": true
+                },
+                "secondClassPairBonusDefinition": {
+                    "stat": "DefenseMultiplier",
+                    "baseValuePerMil": 1010,
+                    "maxValuePerMil": 1110,
+                    "levelUpStepPerMil": 50,
+                    "isClassPairBonus": true
+                },
+                "thirdClassPairBonusDefinition": {
+                    "stat": "HealthMultiplier",
+                    "baseValuePerMil": 1050,
+                    "maxValuePerMil": 1150,
+                    "levelUpStepPerMil": 100,
+                    "isClassPairBonus": true
+                },
+                "versionSafe": true,
+                "origin": "",
+                "canBeReceivedDate": 805359600,
+                "canBeAscendedToDate": 6311458800
+            },
+            {
+                "id": "blue_legendary_tree_spirit",
+                "element": "Blue",
+                "rarity": 5,
+                "primaryClass": "Druid",
+                "secondaryClass": "Wizard",
+                "passiveSkill": "status_effect_defense_addition_legendary_troop",
+                "firstTroopStatDefinition": {
+                    "stat": "AttackMultiplier",
+                    "baseValuePerMil": 1150,
+                    "maxValuePerMil": 1310,
+                    "levelUpStepPerMil": 10
+                },
+                "secondTroopStatDefinition": {
+                    "stat": "DefenseMultiplier",
+                    "baseValuePerMil": 1140,
+                    "maxValuePerMil": 1290,
+                    "levelUpStepPerMil": 10
+                },
+                "thirdTroopStatDefinition": {
+                    "stat": "HealthMultiplier",
+                    "baseValuePerMil": 1170,
+                    "maxValuePerMil": 1300,
+                    "levelUpStepPerMil": 10
+                },
+                "fourthTroopStatDefinition": {
+                    "stat": "ManaBonus",
+                    "baseValuePerMil": 1050,
+                    "maxValuePerMil": 1150,
+                    "levelUpStepPerMil": 20
+                },
+                "firstClassPairBonusDefinition": {
+                    "stat": "AttackMultiplier",
+                    "baseValuePerMil": 1010,
+                    "maxValuePerMil": 1110,
+                    "levelUpStepPerMil": 50,
+                    "isClassPairBonus": true
+                },
+                "secondClassPairBonusDefinition": {
+                    "stat": "DefenseMultiplier",
+                    "baseValuePerMil": 1010,
+                    "maxValuePerMil": 1110,
+                    "levelUpStepPerMil": 50,
+                    "isClassPairBonus": true
+                },
+                "thirdClassPairBonusDefinition": {
+                    "stat": "HealthMultiplier",
+                    "baseValuePerMil": 1050,
+                    "maxValuePerMil": 1150,
+                    "levelUpStepPerMil": 100,
+                    "isClassPairBonus": true
+                },
+                "versionSafe": true,
+                "origin": "",
+                "canBeReceivedDate": 810802800,
                 "canBeAscendedToDate": 6311458800
             },
             {
@@ -5968,6 +6766,63 @@
                 "origin": "",
                 "canBeReceivedDate": 800348400,
                 "canBeAscendedToDate": 9467132400
+            },
+            {
+                "id": "blue_legendary_master_assassin",
+                "element": "Blue",
+                "rarity": 5,
+                "primaryClass": "Rogue",
+                "secondaryClass": "Fighter",
+                "passiveSkill": "status_effect_attack_addition_legendary_troop",
+                "firstTroopStatDefinition": {
+                    "stat": "AttackMultiplier",
+                    "baseValuePerMil": 1140,
+                    "maxValuePerMil": 1270,
+                    "levelUpStepPerMil": 10
+                },
+                "secondTroopStatDefinition": {
+                    "stat": "DefenseMultiplier",
+                    "baseValuePerMil": 1150,
+                    "maxValuePerMil": 1330,
+                    "levelUpStepPerMil": 10
+                },
+                "thirdTroopStatDefinition": {
+                    "stat": "HealthMultiplier",
+                    "baseValuePerMil": 1170,
+                    "maxValuePerMil": 1300,
+                    "levelUpStepPerMil": 10
+                },
+                "fourthTroopStatDefinition": {
+                    "stat": "ManaBonus",
+                    "baseValuePerMil": 1050,
+                    "maxValuePerMil": 1150,
+                    "levelUpStepPerMil": 20
+                },
+                "firstClassPairBonusDefinition": {
+                    "stat": "AttackMultiplier",
+                    "baseValuePerMil": 1010,
+                    "maxValuePerMil": 1110,
+                    "levelUpStepPerMil": 50,
+                    "isClassPairBonus": true
+                },
+                "secondClassPairBonusDefinition": {
+                    "stat": "DefenseMultiplier",
+                    "baseValuePerMil": 1010,
+                    "maxValuePerMil": 1110,
+                    "levelUpStepPerMil": 50,
+                    "isClassPairBonus": true
+                },
+                "thirdClassPairBonusDefinition": {
+                    "stat": "HealthMultiplier",
+                    "baseValuePerMil": 1050,
+                    "maxValuePerMil": 1150,
+                    "levelUpStepPerMil": 100,
+                    "isClassPairBonus": true
+                },
+                "versionSafe": true,
+                "origin": "",
+                "canBeReceivedDate": 808210800,
+                "canBeAscendedToDate": 6311458800
             },
             {
                 "id": "blue_legendary_hunter_mage",
@@ -6099,6 +6954,13 @@
             }
         ],
         "families": [
+            {
+                "id": "institute",
+                "familyEffects": [
+                    "mana_generation_multiplier_institute",
+                    "health_multiplier_forsaken_and_institute"
+                ]
+            },
             {
                 "id": "stag_pve",
                 "familyEffects": [
@@ -6803,7 +7665,15 @@
             {
                 "id": "vegetable",
                 "familyEffects": [
-                    "attack_multiplier"
+                    "parasite_attack_multiplier_from_summoner_vegetable",
+                    "parasite_health_multiplier_from_summoner_vegetable"
+                ]
+            },
+            {
+                "id": "forsaken",
+                "familyEffects": [
+                    "critical_multiplier_forsaken",
+                    "health_multiplier_forsaken_and_institute"
                 ]
             }
         ],
@@ -26262,6 +27132,45 @@
                 ]
             },
             {
+                "id": "mimic_boss_hungry2",
+                "element": "Red",
+                "baseHealth": 550,
+                "baseAttack": 300,
+                "baseDefense": 200,
+                "manaSpeedId": "average",
+                "passiveSkills": [
+                    "resist_special_blocking",
+                    "resist_parasites_mimic",
+                    "mimic_dread_damage_minions",
+                    "resist_insanity"
+                ],
+                "type": "Boss",
+                "turnsToAttackPerMil": 2000,
+                "specialIds": [
+                    "mimic_special2"
+                ],
+                "assetsIdOverride": "mimic_boss_hungry"
+            },
+            {
+                "id": "mimic_boss_hungry3",
+                "element": "Red",
+                "baseHealth": 480,
+                "baseAttack": 275,
+                "baseDefense": 150,
+                "manaSpeedId": "slow",
+                "passiveSkills": [
+                    "resist_special_blocking",
+                    "resist_status_effect_damage",
+                    "resist_stop_mana_generation"
+                ],
+                "type": "Boss",
+                "turnsToAttackPerMil": 2000,
+                "specialIds": [
+                    "mimic_special"
+                ],
+                "assetsIdOverride": "mimic_boss_hungry"
+            },
+            {
                 "id": "mimic_dark",
                 "element": "Purple",
                 "baseHealth": 160,
@@ -29172,6 +30081,45 @@
                 ]
             },
             {
+                "id": "mimic_boss_guardian2",
+                "element": "Blue",
+                "baseHealth": 550,
+                "baseAttack": 300,
+                "baseDefense": 200,
+                "manaSpeedId": "average",
+                "passiveSkills": [
+                    "resist_special_blocking",
+                    "resist_parasites_mimic",
+                    "mimic_dread_damage_minions",
+                    "resist_insanity"
+                ],
+                "type": "Boss",
+                "turnsToAttackPerMil": 2000,
+                "specialIds": [
+                    "mimic_special2"
+                ],
+                "assetsIdOverride": "mimic_boss_guardian"
+            },
+            {
+                "id": "mimic_boss_guardian3",
+                "element": "Blue",
+                "baseHealth": 480,
+                "baseAttack": 275,
+                "baseDefense": 150,
+                "manaSpeedId": "slow",
+                "passiveSkills": [
+                    "resist_special_blocking",
+                    "resist_possession",
+                    "resist_stop_mana_generation"
+                ],
+                "type": "Boss",
+                "turnsToAttackPerMil": 2000,
+                "specialIds": [
+                    "mimic_special"
+                ],
+                "assetsIdOverride": "mimic_boss_guardian"
+            },
+            {
                 "id": "mimic_boss_swamp",
                 "element": "Green",
                 "baseHealth": 480,
@@ -29188,6 +30136,45 @@
                 "specialIds": [
                     "mimic_special"
                 ]
+            },
+            {
+                "id": "mimic_boss_swamp2",
+                "element": "Green",
+                "baseHealth": 550,
+                "baseAttack": 300,
+                "baseDefense": 200,
+                "manaSpeedId": "average",
+                "passiveSkills": [
+                    "resist_special_blocking",
+                    "resist_parasites_mimic",
+                    "mimic_dread_damage_minions",
+                    "resist_insanity"
+                ],
+                "type": "Boss",
+                "turnsToAttackPerMil": 2000,
+                "specialIds": [
+                    "mimic_special2"
+                ],
+                "assetsIdOverride": "mimic_boss_swamp"
+            },
+            {
+                "id": "mimic_boss_swamp3",
+                "element": "Green",
+                "baseHealth": 480,
+                "baseAttack": 275,
+                "baseDefense": 150,
+                "manaSpeedId": "slow",
+                "passiveSkills": [
+                    "resist_special_blocking",
+                    "resist_defense_modifier_debuffs",
+                    "resist_all_mana_debuffs"
+                ],
+                "type": "Boss",
+                "turnsToAttackPerMil": 2000,
+                "specialIds": [
+                    "mimic_special"
+                ],
+                "assetsIdOverride": "mimic_boss_swamp"
             },
             {
                 "id": "ice_god_miki",
@@ -30200,6 +31187,45 @@
                 ]
             },
             {
+                "id": "mimic_boss_golden2",
+                "element": "Yellow",
+                "baseHealth": 550,
+                "baseAttack": 300,
+                "baseDefense": 200,
+                "manaSpeedId": "average",
+                "passiveSkills": [
+                    "resist_special_blocking",
+                    "resist_parasites_mimic",
+                    "mimic_dread_damage_minions",
+                    "resist_insanity"
+                ],
+                "type": "Boss",
+                "turnsToAttackPerMil": 2000,
+                "specialIds": [
+                    "mimic_special2"
+                ],
+                "assetsIdOverride": "mimic_boss_golden"
+            },
+            {
+                "id": "mimic_boss_golden3",
+                "element": "Yellow",
+                "baseHealth": 480,
+                "baseAttack": 275,
+                "baseDefense": 150,
+                "manaSpeedId": "slow",
+                "passiveSkills": [
+                    "resist_special_blocking",
+                    "resist_defense_modifier_debuffs",
+                    "resist_stop_mana_generation"
+                ],
+                "type": "Boss",
+                "turnsToAttackPerMil": 2000,
+                "specialIds": [
+                    "mimic_special"
+                ],
+                "assetsIdOverride": "mimic_boss_golden"
+            },
+            {
                 "id": "mimic_boss_cursed",
                 "element": "Purple",
                 "baseHealth": 480,
@@ -30216,6 +31242,45 @@
                 "specialIds": [
                     "mimic_special"
                 ]
+            },
+            {
+                "id": "mimic_boss_cursed2",
+                "element": "Purple",
+                "baseHealth": 550,
+                "baseAttack": 300,
+                "baseDefense": 200,
+                "manaSpeedId": "average",
+                "passiveSkills": [
+                    "resist_special_blocking",
+                    "resist_parasites_mimic",
+                    "mimic_dread_damage_minions",
+                    "resist_insanity"
+                ],
+                "type": "Boss",
+                "turnsToAttackPerMil": 2000,
+                "specialIds": [
+                    "mimic_special2"
+                ],
+                "assetsIdOverride": "mimic_boss_cursed"
+            },
+            {
+                "id": "mimic_boss_cursed3",
+                "element": "Purple",
+                "baseHealth": 480,
+                "baseAttack": 275,
+                "baseDefense": 150,
+                "manaSpeedId": "slow",
+                "passiveSkills": [
+                    "resist_special_blocking",
+                    "resist_insanity",
+                    "resist_stop_mana_generation"
+                ],
+                "type": "Boss",
+                "turnsToAttackPerMil": 2000,
+                "specialIds": [
+                    "mimic_special"
+                ],
+                "assetsIdOverride": "mimic_boss_cursed"
             },
             {
                 "id": "fluffy_gargoyles_big_green",
@@ -31692,7 +32757,6 @@
                 "specialIds": [
                     "nebula_orb_ultimate_boss"
                 ],
-                "sourceHeroId": "dragon_stargazer",
                 "mode": "Dragon"
             },
             {
@@ -33078,6 +34142,67 @@
                 ]
             },
             {
+                "id": "guestip2_enemy1",
+                "element": "Red",
+                "baseHealth": 180,
+                "baseAttack": 270,
+                "baseDefense": 160,
+                "manaSpeedId": "fast",
+                "type": "Elite",
+                "turnsToAttackPerMil": 2000,
+                "specialIds": [
+                    "guestip2_gun_elite_skill"
+                ]
+            },
+            {
+                "id": "guestip2_enemy2",
+                "element": "Red",
+                "family": "",
+                "baseHealth": 180,
+                "baseAttack": 270,
+                "baseDefense": 160,
+                "manaSpeedId": "fast",
+                "aetherGift": "",
+                "type": "Normal",
+                "turnsToAttackPerMil": 2000,
+                "specialIds": [],
+                "customBackgroundId": "",
+                "sourceHeroId": "",
+                "lootIdOverride": ""
+            },
+            {
+                "id": "guestip2_enemy3",
+                "element": "Red",
+                "family": "",
+                "baseHealth": 180,
+                "baseAttack": 270,
+                "baseDefense": 160,
+                "manaSpeedId": "fast",
+                "aetherGift": "",
+                "type": "Normal",
+                "turnsToAttackPerMil": 2000,
+                "specialIds": [],
+                "customBackgroundId": "",
+                "sourceHeroId": "",
+                "lootIdOverride": ""
+            },
+            {
+                "id": "guestip2_enemy4",
+                "element": "Red",
+                "family": "",
+                "baseHealth": 180,
+                "baseAttack": 270,
+                "baseDefense": 160,
+                "manaSpeedId": "fast",
+                "aetherGift": "",
+                "type": "Normal",
+                "turnsToAttackPerMil": 2000,
+                "specialIds": [],
+                "customBackgroundId": "",
+                "sourceHeroId": "",
+                "lootIdOverride": ""
+            },
+            {
                 "id": "tales1_deadly_boss_giant_crab",
                 "element": "Green",
                 "baseHealth": 460,
@@ -33374,6 +34499,292 @@
                     "arrows_of_frost"
                 ],
                 "sourceHeroId": "kalevala_joukahainen_costume_frozen"
+            },
+            {
+                "id": "guestip2_boss1",
+                "element": "Red",
+                "baseHealth": 480,
+                "baseAttack": 275,
+                "baseDefense": 150,
+                "manaSpeedId": "slow",
+                "type": "Boss",
+                "turnsToAttackPerMil": 3000,
+                "specialIds": [
+                    "guestip2_boss1_special"
+                ]
+            },
+            {
+                "id": "guestip2_boss2",
+                "element": "Purple",
+                "baseHealth": 480,
+                "baseAttack": 275,
+                "baseDefense": 150,
+                "manaSpeedId": "slow",
+                "type": "UltimateBoss",
+                "turnsToAttackPerMil": 3000,
+                "specialIds": [
+                    "guestip2_boss2_special"
+                ]
+            },
+            {
+                "id": "guestip2_boss3",
+                "element": "Blue",
+                "baseHealth": 480,
+                "baseAttack": 275,
+                "baseDefense": 150,
+                "manaSpeedId": "slow",
+                "type": "Boss",
+                "turnsToAttackPerMil": 3000,
+                "specialIds": [
+                    "guestip2_boss3_special_1"
+                ]
+            },
+            {
+                "id": "guestip2_boss3_phase2",
+                "element": "Blue",
+                "baseHealth": 480,
+                "baseAttack": 275,
+                "baseDefense": 150,
+                "manaSpeedId": "slow",
+                "type": "Boss",
+                "turnsToAttackPerMil": 3000,
+                "specialIds": [
+                    "guestip2_boss3_special_2"
+                ],
+                "assetsIdOverride": "guestip2_boss3"
+            },
+            {
+                "id": "guestip2_boss4",
+                "element": "Purple",
+                "baseHealth": 480,
+                "baseAttack": 275,
+                "baseDefense": 150,
+                "manaSpeedId": "slow",
+                "type": "UltimateBoss",
+                "turnsToAttackPerMil": 3000,
+                "specialIds": [
+                    "guestip2_boss4_special"
+                ]
+            },
+            {
+                "id": "guestip2_boss5",
+                "element": "Red",
+                "baseHealth": 480,
+                "baseAttack": 275,
+                "baseDefense": 150,
+                "manaSpeedId": "slow",
+                "type": "Boss",
+                "turnsToAttackPerMil": 3000,
+                "specialIds": [
+                    "guestip2_boss5_special"
+                ]
+            },
+            {
+                "id": "guestip2_boss6",
+                "element": "Yellow",
+                "baseHealth": 480,
+                "baseAttack": 275,
+                "baseDefense": 150,
+                "manaSpeedId": "slow",
+                "type": "Boss",
+                "turnsToAttackPerMil": 3000,
+                "specialIds": [
+                    "guestip2_boss6_special"
+                ]
+            },
+            {
+                "id": "guestip2_boss7",
+                "element": "Purple",
+                "baseHealth": 480,
+                "baseAttack": 275,
+                "baseDefense": 150,
+                "manaSpeedId": "slow",
+                "type": "Boss",
+                "turnsToAttackPerMil": 3000,
+                "specialIds": [
+                    "guestip2_boss7_special_1"
+                ]
+            },
+            {
+                "id": "guestip2_boss7_phase2",
+                "element": "Purple",
+                "baseHealth": 480,
+                "baseAttack": 275,
+                "baseDefense": 150,
+                "manaSpeedId": "slow",
+                "type": "UltimateBoss",
+                "turnsToAttackPerMil": 3000,
+                "specialIds": [
+                    "guestip2_boss7_special_2"
+                ],
+                "assetsIdOverride": "guestip2_boss7"
+            },
+            {
+                "id": "guestip2_boss7_phase3",
+                "element": "Purple",
+                "baseHealth": 480,
+                "baseAttack": 275,
+                "baseDefense": 150,
+                "manaSpeedId": "slow",
+                "type": "UltimateBoss",
+                "turnsToAttackPerMil": 3000,
+                "specialIds": [
+                    "guestip2_boss7_special_3"
+                ],
+                "assetsIdOverride": "guestip2_boss7"
+            },
+            {
+                "id": "guestip2_enemy5",
+                "element": "Red",
+                "baseHealth": 180,
+                "baseAttack": 270,
+                "baseDefense": 160,
+                "manaSpeedId": "fast",
+                "type": "Normal",
+                "turnsToAttackPerMil": 2000,
+                "specialIds": []
+            },
+            {
+                "id": "guestip2_enemy6",
+                "element": "Red",
+                "baseHealth": 180,
+                "baseAttack": 270,
+                "baseDefense": 160,
+                "manaSpeedId": "fast",
+                "type": "Normal",
+                "turnsToAttackPerMil": 2000,
+                "specialIds": []
+            },
+            {
+                "id": "guestip2_enemy7",
+                "element": "Red",
+                "baseHealth": 180,
+                "baseAttack": 270,
+                "baseDefense": 160,
+                "manaSpeedId": "fast",
+                "type": "Normal",
+                "turnsToAttackPerMil": 2000,
+                "specialIds": []
+            },
+            {
+                "id": "guestip2_enemy8",
+                "element": "Red",
+                "baseHealth": 180,
+                "baseAttack": 270,
+                "baseDefense": 160,
+                "manaSpeedId": "fast",
+                "type": "Normal",
+                "turnsToAttackPerMil": 2000,
+                "specialIds": []
+            },
+            {
+                "id": "guestip2_enemy9",
+                "element": "Red",
+                "baseHealth": 180,
+                "baseAttack": 270,
+                "baseDefense": 160,
+                "manaSpeedId": "fast",
+                "type": "Elite",
+                "turnsToAttackPerMil": 2000,
+                "specialIds": [
+                    "guestip2_beast_elite_skill"
+                ]
+            },
+            {
+                "id": "guestip2_enemy10",
+                "element": "Red",
+                "baseHealth": 180,
+                "baseAttack": 270,
+                "baseDefense": 160,
+                "manaSpeedId": "fast",
+                "type": "Normal",
+                "turnsToAttackPerMil": 2000,
+                "specialIds": []
+            },
+            {
+                "id": "guestip2_enemy11",
+                "element": "Red",
+                "baseHealth": 180,
+                "baseAttack": 270,
+                "baseDefense": 160,
+                "manaSpeedId": "fast",
+                "type": "Elite",
+                "turnsToAttackPerMil": 2000,
+                "specialIds": [
+                    "guestip2_gun_elite_skill"
+                ]
+            },
+            {
+                "id": "guestip2_enemy12",
+                "element": "Red",
+                "baseHealth": 180,
+                "baseAttack": 270,
+                "baseDefense": 160,
+                "manaSpeedId": "fast",
+                "type": "Normal",
+                "turnsToAttackPerMil": 2000,
+                "specialIds": []
+            },
+            {
+                "id": "guestip2_enemy13",
+                "element": "Red",
+                "baseHealth": 180,
+                "baseAttack": 270,
+                "baseDefense": 160,
+                "manaSpeedId": "fast",
+                "type": "Normal",
+                "turnsToAttackPerMil": 2000,
+                "specialIds": []
+            },
+            {
+                "id": "guestip2_enemy14",
+                "element": "Red",
+                "baseHealth": 180,
+                "baseAttack": 270,
+                "baseDefense": 160,
+                "manaSpeedId": "fast",
+                "type": "Normal",
+                "turnsToAttackPerMil": 2000,
+                "specialIds": []
+            },
+            {
+                "id": "guestip2_enemy15",
+                "element": "Red",
+                "baseHealth": 180,
+                "baseAttack": 270,
+                "baseDefense": 160,
+                "manaSpeedId": "fast",
+                "type": "Elite",
+                "turnsToAttackPerMil": 2000,
+                "specialIds": [
+                    "guestip2_beast_elite_skill"
+                ]
+            },
+            {
+                "id": "guestip2_enemy16",
+                "element": "Purple",
+                "baseHealth": 180,
+                "baseAttack": 270,
+                "baseDefense": 160,
+                "manaSpeedId": "fast",
+                "type": "Elite",
+                "turnsToAttackPerMil": 2000,
+                "specialIds": [
+                    "guestip2_caster_elite_skill"
+                ]
+            },
+            {
+                "id": "guestip2_enemy17",
+                "element": "Red",
+                "baseHealth": 180,
+                "baseAttack": 270,
+                "baseDefense": 160,
+                "manaSpeedId": "fast",
+                "type": "Elite",
+                "turnsToAttackPerMil": 2000,
+                "specialIds": [
+                    "guestip2_gun_elite_skill"
+                ]
             }
         ],
         "rewardExtraFoodMaximum": 120,
@@ -34325,6 +35736,79 @@
                 ],
                 "buffToRemove": "MinorDebuff",
                 "buffToRemoveSideAffected": "Allies"
+            },
+            {
+                "id": "dragon_rallying_breath",
+                "directEffects": [
+                    {
+                        "sideAffected": "Allies",
+                        "effectType": "HealthBoost",
+                        "fixedPower": 45,
+                        "fixedPowerIncrementPerLevel": 45
+                    }
+                ],
+                "statusEffects": [
+                    {
+                        "id": "dragon_support_skill_berserk_rallying_breath",
+                        "sideAffected": "Allies",
+                        "statusTargetType": "All",
+                        "turns": 5
+                    }
+                ]
+            },
+            {
+                "id": "dragon_draining_blaze",
+                "directEffects": [],
+                "statusEffects": [
+                    {
+                        "id": "dragon_support_skill_burn_draining_blaze",
+                        "sideAffected": "Enemies",
+                        "statusTargetType": "All",
+                        "turns": 5
+                    },
+                    {
+                        "id": "dragon_support_skill_healing_reduction_draining_blaze",
+                        "sideAffected": "Enemies",
+                        "statusTargetType": "All",
+                        "turns": 5
+                    }
+                ]
+            },
+            {
+                "id": "dragon_shocking_blaze",
+                "directEffects": [
+                    {
+                        "effectType": "ReduceMaxHealth",
+                        "fixedPower": 45,
+                        "fixedPowerIncrementPerLevel": 45
+                    }
+                ],
+                "statusEffects": [
+                    {
+                        "id": "dragon_support_skill_defense_down_shocking_blaze",
+                        "sideAffected": "Enemies",
+                        "statusTargetType": "All",
+                        "turns": 5
+                    }
+                ]
+            },
+            {
+                "id": "dragon_autumn_blaze",
+                "directEffects": [],
+                "statusEffects": [
+                    {
+                        "id": "dragon_support_skill_burn_autumn_blaze",
+                        "sideAffected": "Enemies",
+                        "statusTargetType": "All",
+                        "turns": 5
+                    },
+                    {
+                        "id": "dragon_support_skill_berserk_defense_debuff_autumn_blaze",
+                        "sideAffected": "Enemies",
+                        "statusTargetType": "All",
+                        "turns": 5
+                    }
+                ]
             }
         ]
     }

@@ -4254,6 +4254,18 @@
                     },
                     {
                         "itemType": "Costume",
+                        "id": "item_magic_nadezhda_costume_postmaster",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 5,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 805014000,
+                        "costumeId": "magic_nadezhda_costume_postmaster",
+                        "parentHeroId": "magic_nadezhda"
+                    },
+                    {
+                        "itemType": "Costume",
                         "id": "item_magic_agrafena_costume_dark",
                         "gameModes": [
                             "Classic"
@@ -4338,6 +4350,18 @@
                     },
                     {
                         "itemType": "Costume",
+                        "id": "item_circus_director_zuri_costume_clown",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 5,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 807951600,
+                        "costumeId": "circus_director_zuri_costume_clown",
+                        "parentHeroId": "circus_director_zuri"
+                    },
+                    {
+                        "itemType": "Costume",
                         "id": "item_castle_wolf_ferant_costume_fire",
                         "gameModes": [
                             "Classic"
@@ -4347,6 +4371,78 @@
                         "canBeReceivedDate": 787734000,
                         "costumeId": "castle_wolf_ferant_costume_fire",
                         "parentHeroId": "castle_wolf_ferant"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_undead_horned_skeleton_costume_glass",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 3,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 810543600,
+                        "costumeId": "undead_horned_skeleton_costume_glass",
+                        "parentHeroId": "undead_horned_skeleton"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_lizardman_warrior_costume_glass",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 3,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 810543600,
+                        "costumeId": "lizardman_warrior_costume_glass",
+                        "parentHeroId": "lizardman_warrior"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_dwarven_smasher_costume_glass",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 3,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 808124400,
+                        "costumeId": "dwarven_smasher_costume_glass",
+                        "parentHeroId": "dwarven_smasher"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_orc_warrior_costume_glass",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 3,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 808124400,
+                        "costumeId": "orc_warrior_costume_glass",
+                        "parentHeroId": "orc_warrior"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_goblin_fighter_costume_glass",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 3,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 805964400,
+                        "costumeId": "goblin_fighter_costume_glass",
+                        "parentHeroId": "goblin_fighter"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_nomad_female_shaman_costume_glass",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 3,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 805964400,
+                        "costumeId": "nomad_female_shaman_costume_glass",
+                        "parentHeroId": "nomad_female_shaman"
                     },
                     {
                         "itemType": "Costume",
@@ -4467,6 +4563,78 @@
                         "canBeReceivedDate": 794991600,
                         "costumeId": "forest_female_druid_costume_glass",
                         "parentHeroId": "forest_female_druid"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_blackguard_commander_costume_glass",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 4,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 810543600,
+                        "costumeId": "blackguard_commander_costume_glass",
+                        "parentHeroId": "blackguard_commander"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_nomad_female_assassin_costume_glass",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 4,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 810543600,
+                        "costumeId": "nomad_female_assassin_costume_glass",
+                        "parentHeroId": "nomad_female_assassin"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_oriental_monkey_captain_costume_glass",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 4,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 808124400,
+                        "costumeId": "oriental_monkey_captain_costume_glass",
+                        "parentHeroId": "oriental_monkey_captain"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_royal_female_knight_costume_glass",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 4,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 808124400,
+                        "costumeId": "royal_female_knight_costume_glass",
+                        "parentHeroId": "royal_female_knight"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_oriental_falconer_costume_glass",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 4,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 805964400,
+                        "costumeId": "oriental_falconer_costume_glass",
+                        "parentHeroId": "oriental_falconer"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_blackguard_knight_costume_glass",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 4,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 805964400,
+                        "costumeId": "blackguard_knight_costume_glass",
+                        "parentHeroId": "blackguard_knight"
                     },
                     {
                         "itemType": "Costume",
@@ -4599,6 +4767,42 @@
                         "canBeReceivedDate": 794991600,
                         "costumeId": "oriental_female_templar_costume_glass",
                         "parentHeroId": "oriental_female_templar"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_forest_titan_costume_glass",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 5,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 810543600,
+                        "costumeId": "forest_titan_costume_glass",
+                        "parentHeroId": "forest_titan"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_exalted_female_statue_costume_glass",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 5,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 808124400,
+                        "costumeId": "exalted_female_statue_costume_glass",
+                        "parentHeroId": "exalted_female_statue"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_nomad_female_lord_costume_glass",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 5,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 805964400,
+                        "costumeId": "nomad_female_lord_costume_glass",
+                        "parentHeroId": "nomad_female_lord"
                     },
                     {
                         "itemType": "Costume",
@@ -5206,6 +5410,18 @@
                         "canBeReceivedDate": 800521200,
                         "costumeId": "s5_set_costume_tyrant",
                         "parentHeroId": "s5_set"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_s5_sneferu_costume_vanquisher",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 5,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 805446000,
+                        "costumeId": "s5_sneferu_costume_vanquisher",
+                        "parentHeroId": "s5_sneferu"
                     },
                     {
                         "itemType": "Costume",
@@ -9730,6 +9946,18 @@
                     },
                     {
                         "itemType": "Costume",
+                        "id": "item_circus_eiora_and_fluffy_costume_dark",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 5,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 807951600,
+                        "costumeId": "circus_eiora_and_fluffy_costume_dark",
+                        "parentHeroId": "circus_eiora_and_fluffy"
+                    },
+                    {
+                        "itemType": "Costume",
                         "id": "item_christmas_mr_pengi_costume_snowboarder",
                         "gameModes": [
                             "Classic"
@@ -9838,6 +10066,42 @@
                     },
                     {
                         "itemType": "Costume",
+                        "id": "item_elemental_roz_costume_disco",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 5,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 806137200,
+                        "costumeId": "elemental_roz_costume_disco",
+                        "parentHeroId": "elemental_roz"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_elemental_zengar_costume_farmer",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 5,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 808297200,
+                        "costumeId": "elemental_zengar_costume_farmer",
+                        "parentHeroId": "elemental_zengar"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_elemental_griffex_costume_camera",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 5,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 809679600,
+                        "costumeId": "elemental_griffex_costume_camera",
+                        "parentHeroId": "elemental_griffex"
+                    },
+                    {
+                        "itemType": "Costume",
                         "id": "item_beachparty_flip_costume_donut",
                         "gameModes": [
                             "Classic"
@@ -9847,6 +10111,90 @@
                         "canBeReceivedDate": 802249200,
                         "costumeId": "beachparty_flip_costume_donut",
                         "parentHeroId": "beachparty_flip"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_magic_ray_costume_spiky",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 5,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 806569200,
+                        "costumeId": "magic_ray_costume_spiky",
+                        "parentHeroId": "magic_ray"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_magic_vaishali_costume_chef",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 5,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 808988400,
+                        "costumeId": "magic_vaishali_costume_chef",
+                        "parentHeroId": "magic_vaishali"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_kalevala_louhi_costume_mistress",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 5,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 807001200,
+                        "costumeId": "kalevala_louhi_costume_mistress",
+                        "parentHeroId": "kalevala_louhi"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_kalevala_ilmarinen_costume_gold",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 5,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 807001200,
+                        "costumeId": "kalevala_ilmarinen_costume_gold",
+                        "parentHeroId": "kalevala_ilmarinen"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_kalevala_lemminkainen_costume_swan",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 4,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 807001200,
+                        "costumeId": "kalevala_lemminkainen_costume_swan",
+                        "parentHeroId": "kalevala_lemminkainen"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_kalevala_joukahainen_costume_frozen",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 3,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 807001200,
+                        "costumeId": "kalevala_joukahainen_costume_frozen",
+                        "parentHeroId": "kalevala_joukahainen"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_elemental_doxan_costume_hacker",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 5,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 810284400,
+                        "costumeId": "elemental_doxan_costume_hacker",
+                        "parentHeroId": "elemental_doxan"
                     },
                     {
                         "itemType": "Refill",
@@ -14643,8 +14991,8 @@
                                         "dragon_mortar_and_pestle": 4
                                     }
                                 },
-                                "trainingTime": 345600,
-                                "trainingTimeSkipPrice": 2016,
+                                "trainingTime": 172800,
+                                "trainingTimeSkipPrice": 1008,
                                 "rare": false
                             },
                             {
@@ -14675,14 +15023,15 @@
                                         "dragon_mortar_and_pestle": 2
                                     }
                                 },
-                                "trainingTime": 518400,
+                                "trainingTime": 345600,
                                 "trainingTimeSkipPrice": 2016,
                                 "rare": true
                             }
                         ],
                         "claimAllLevelRequirement": 10
                     }
-                ]
+                ],
+                "classicAndTrainerDragonsOnly": true
             },
             "barracks": {
                 "maxTroopLevels": [
@@ -16213,7 +16562,7 @@
                         "xpMultiplierForCostumePerMil": 750
                     }
                 ],
-                "sameElementSacrificeXpBonusPerMil": 200,
+                "sameElementSacrificeXpBonusPerMil": 1200,
                 "estimatedAverageSacrificeAmountPerLevelPerMil": 2000,
                 "aetherGiftMinLimitBreakLevel": 2,
                 "aetherGiftEnabled": true,
@@ -16305,7 +16654,7 @@
                                 "baseSacrificeXp": 2800,
                                 "sacrificeXpPerLevel": 31,
                                 "levelsIncreasedOnUpgrade": 3,
-                                "teamCost": 8
+                                "teamCost": 6
                             }
                         ]
                     },
@@ -16349,7 +16698,7 @@
                                 "baseSacrificeXp": 7650,
                                 "sacrificeXpPerLevel": 45,
                                 "levelsIncreasedOnUpgrade": 3,
-                                "teamCost": 15
+                                "teamCost": 12
                             }
                         ]
                     },
@@ -16393,7 +16742,7 @@
                                 "baseSacrificeXp": 12000,
                                 "sacrificeXpPerLevel": 60,
                                 "levelsIncreasedOnUpgrade": 3,
-                                "teamCost": 26
+                                "teamCost": 20
                             }
                         ]
                     }
@@ -16415,7 +16764,7 @@
                                 "baseSacrificeXp": 2800,
                                 "sacrificeXpPerLevel": 31,
                                 "levelsIncreasedOnUpgrade": 3,
-                                "teamCost": 8
+                                "teamCost": 6
                             },
                             {
                                 "maxLevel": 60,
@@ -16425,7 +16774,7 @@
                                 "baseSacrificeXp": 2800,
                                 "sacrificeXpPerLevel": 31,
                                 "levelsIncreasedOnUpgrade": 3,
-                                "teamCost": 8
+                                "teamCost": 6
                             }
                         ]
                     },
@@ -16439,7 +16788,7 @@
                                 "baseSacrificeXp": 7650,
                                 "sacrificeXpPerLevel": 45,
                                 "levelsIncreasedOnUpgrade": 3,
-                                "teamCost": 15
+                                "teamCost": 12
                             },
                             {
                                 "maxLevel": 80,
@@ -16449,7 +16798,7 @@
                                 "baseSacrificeXp": 7650,
                                 "sacrificeXpPerLevel": 45,
                                 "levelsIncreasedOnUpgrade": 3,
-                                "teamCost": 15
+                                "teamCost": 12
                             }
                         ]
                     },
@@ -16463,7 +16812,7 @@
                                 "baseSacrificeXp": 12000,
                                 "sacrificeXpPerLevel": 60,
                                 "levelsIncreasedOnUpgrade": 3,
-                                "teamCost": 26
+                                "teamCost": 20
                             },
                             {
                                 "maxLevel": 90,
@@ -16473,7 +16822,7 @@
                                 "baseSacrificeXp": 12000,
                                 "sacrificeXpPerLevel": 60,
                                 "levelsIncreasedOnUpgrade": 3,
-                                "teamCost": 26
+                                "teamCost": 20
                             }
                         ]
                     }
@@ -17206,7 +17555,7 @@
                         "xpMultiplierForCostumePerMil": 750
                     }
                 ],
-                "sameElementSacrificeXpBonusPerMil": 200,
+                "sameElementSacrificeXpBonusPerMil": 1200,
                 "estimatedAverageSacrificeAmountPerLevelPerMil": 2000,
                 "parametersPerAscensionLevelPerRarity": [
                     {
@@ -20641,28 +20990,28 @@
                             {
                                 "bonusLevels": [
                                     {
-                                        "attackBonusPerMil": 10,
-                                        "defenseBonusPerMil": 10,
-                                        "healthBonusPerMil": 10,
+                                        "attackBonusPerMil": 350,
+                                        "defenseBonusPerMil": 350,
+                                        "healthBonusPerMil": 400,
                                         "manaBonusPerMil": 10
                                     },
                                     {
-                                        "attackBonusPerMil": 15,
-                                        "defenseBonusPerMil": 10,
-                                        "healthBonusPerMil": 20,
-                                        "manaBonusPerMil": 10
+                                        "attackBonusPerMil": 400,
+                                        "defenseBonusPerMil": 400,
+                                        "healthBonusPerMil": 450,
+                                        "manaBonusPerMil": 20
                                     },
                                     {
-                                        "attackBonusPerMil": 15,
-                                        "defenseBonusPerMil": 10,
-                                        "healthBonusPerMil": 30,
-                                        "manaBonusPerMil": 10
+                                        "attackBonusPerMil": 450,
+                                        "defenseBonusPerMil": 450,
+                                        "healthBonusPerMil": 500,
+                                        "manaBonusPerMil": 30
                                     },
                                     {
-                                        "attackBonusPerMil": 20,
-                                        "defenseBonusPerMil": 20,
-                                        "healthBonusPerMil": 40,
-                                        "manaBonusPerMil": 10
+                                        "attackBonusPerMil": 500,
+                                        "defenseBonusPerMil": 500,
+                                        "healthBonusPerMil": 550,
+                                        "manaBonusPerMil": 50
                                     }
                                 ]
                             }
@@ -21500,6 +21849,51 @@
                         ]
                     },
                     {
+                        "id": "magic_2025",
+                        "statBonuses": [
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": [
+                                    {
+                                        "attackBonusPerMil": 340,
+                                        "defenseBonusPerMil": 340,
+                                        "healthBonusPerMil": 340,
+                                        "manaBonusPerMil": 10
+                                    },
+                                    {
+                                        "attackBonusPerMil": 370,
+                                        "defenseBonusPerMil": 370,
+                                        "healthBonusPerMil": 370,
+                                        "manaBonusPerMil": 10
+                                    },
+                                    {
+                                        "attackBonusPerMil": 400,
+                                        "defenseBonusPerMil": 400,
+                                        "healthBonusPerMil": 400,
+                                        "manaBonusPerMil": 10
+                                    },
+                                    {
+                                        "attackBonusPerMil": 430,
+                                        "defenseBonusPerMil": 430,
+                                        "healthBonusPerMil": 430,
+                                        "manaBonusPerMil": 10
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
                         "id": "elemental",
                         "statBonuses": [
                             {
@@ -21673,6 +22067,186 @@
                                         "attackBonusPerMil": 250,
                                         "defenseBonusPerMil": 250,
                                         "healthBonusPerMil": 300,
+                                        "manaBonusPerMil": 50
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "festival_b_2025",
+                        "statBonuses": [
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": [
+                                    {
+                                        "attackBonusPerMil": 450,
+                                        "defenseBonusPerMil": 450,
+                                        "healthBonusPerMil": 470,
+                                        "manaBonusPerMil": 10
+                                    },
+                                    {
+                                        "attackBonusPerMil": 500,
+                                        "defenseBonusPerMil": 500,
+                                        "healthBonusPerMil": 520,
+                                        "manaBonusPerMil": 20
+                                    },
+                                    {
+                                        "attackBonusPerMil": 550,
+                                        "defenseBonusPerMil": 550,
+                                        "healthBonusPerMil": 570,
+                                        "manaBonusPerMil": 30
+                                    },
+                                    {
+                                        "attackBonusPerMil": 600,
+                                        "defenseBonusPerMil": 600,
+                                        "healthBonusPerMil": 620,
+                                        "manaBonusPerMil": 50
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "elemental_aug_2025",
+                        "statBonuses": [
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": [
+                                    {
+                                        "attackBonusPerMil": 280,
+                                        "defenseBonusPerMil": 280,
+                                        "healthBonusPerMil": 300,
+                                        "manaBonusPerMil": 20
+                                    },
+                                    {
+                                        "attackBonusPerMil": 320,
+                                        "defenseBonusPerMil": 320,
+                                        "healthBonusPerMil": 350,
+                                        "manaBonusPerMil": 30
+                                    },
+                                    {
+                                        "attackBonusPerMil": 360,
+                                        "defenseBonusPerMil": 360,
+                                        "healthBonusPerMil": 400,
+                                        "manaBonusPerMil": 40
+                                    },
+                                    {
+                                        "attackBonusPerMil": 400,
+                                        "defenseBonusPerMil": 400,
+                                        "healthBonusPerMil": 450,
+                                        "manaBonusPerMil": 50
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "magic_aug_2025",
+                        "statBonuses": [
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": [
+                                    {
+                                        "attackBonusPerMil": 260,
+                                        "defenseBonusPerMil": 260,
+                                        "healthBonusPerMil": 260,
+                                        "manaBonusPerMil": 10
+                                    },
+                                    {
+                                        "attackBonusPerMil": 280,
+                                        "defenseBonusPerMil": 280,
+                                        "healthBonusPerMil": 280,
+                                        "manaBonusPerMil": 10
+                                    },
+                                    {
+                                        "attackBonusPerMil": 300,
+                                        "defenseBonusPerMil": 300,
+                                        "healthBonusPerMil": 300,
+                                        "manaBonusPerMil": 10
+                                    },
+                                    {
+                                        "attackBonusPerMil": 320,
+                                        "defenseBonusPerMil": 320,
+                                        "healthBonusPerMil": 320,
+                                        "manaBonusPerMil": 10
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "elemental_aug_2025_less",
+                        "statBonuses": [
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": [
+                                    {
+                                        "attackBonusPerMil": 280,
+                                        "defenseBonusPerMil": 280,
+                                        "healthBonusPerMil": 310,
+                                        "manaBonusPerMil": 20
+                                    },
+                                    {
+                                        "attackBonusPerMil": 320,
+                                        "defenseBonusPerMil": 320,
+                                        "healthBonusPerMil": 350,
+                                        "manaBonusPerMil": 30
+                                    },
+                                    {
+                                        "attackBonusPerMil": 360,
+                                        "defenseBonusPerMil": 360,
+                                        "healthBonusPerMil": 390,
+                                        "manaBonusPerMil": 40
+                                    },
+                                    {
+                                        "attackBonusPerMil": 400,
+                                        "defenseBonusPerMil": 400,
+                                        "healthBonusPerMil": 430,
                                         "manaBonusPerMil": 50
                                     }
                                 ]
