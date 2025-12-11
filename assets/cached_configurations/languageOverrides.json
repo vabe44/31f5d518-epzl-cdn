@@ -4,564 +4,200 @@
             "Italian": {
                 "overrideEntries": [
                     {
-                        "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
-                        "text": "[#!]Battle Item 5*[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.battleitem.5",
-                        "text": "[#!]Battle Items 5*[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
-                        "text": "[#!]Medium Food Bundle[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.foodbundle.3",
-                        "text": "[#!]Medium Food Bundles[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
-                        "text": "[#!]Medium Iron Bundle[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.ironbundle.3",
-                        "text": "[#!]Medium Iron Bundles[#]"
+                        "key": "notifications.titanhunter",
+                        "text": "💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
                     }
                 ]
             },
             "Russian": {
                 "overrideEntries": [
                     {
-                        "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
-                        "text": "[#!]Battle Item 5*[#]"
+                        "key": "notifications.titanhunter",
+                        "text": "💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
                     },
                     {
-                        "key": "chest.bonus.disclaimer.reward.battleitem.5",
-                        "text": "[#!]Battle Items 5*[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
-                        "text": "[#!]Medium Food Bundle[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.foodbundle.3",
-                        "text": "[#!]Medium Food Bundles[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
-                        "text": "[#!]Medium Iron Bundle[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.ironbundle.3",
-                        "text": "[#!]Medium Iron Bundles[#]"
+                        "key": "specials.v2.bigminion.aberration_big_minion.single",
+                        "text": "Призывает мегаприслужника-мутанта с {FAMILIARHEALTHPERCENT} % здоровья и {FAMILIARATTACK} % атаки, получаемых от героя.\n\nКаждый удар мегаприслужника-мутанта дает цели следующий недуг:"
                     }
                 ]
             },
             "Polish": {
                 "overrideEntries": [
                     {
-                        "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
-                        "text": "[#!]Battle Item 5*[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.battleitem.5",
-                        "text": "[#!]Battle Items 5*[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
-                        "text": "[#!]Medium Food Bundle[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.foodbundle.3",
-                        "text": "[#!]Medium Food Bundles[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
-                        "text": "[#!]Medium Iron Bundle[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.ironbundle.3",
-                        "text": "[#!]Medium Iron Bundles[#]"
+                        "key": "notifications.titanhunter",
+                        "text": "💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
                     }
                 ]
             },
             "ChineseTraditional": {
                 "overrideEntries": [
                     {
-                        "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
-                        "text": "[#!]Battle Item 5*[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.battleitem.5",
-                        "text": "[#!]Battle Items 5*[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
-                        "text": "[#!]Medium Food Bundle[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.foodbundle.3",
-                        "text": "[#!]Medium Food Bundles[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
-                        "text": "[#!]Medium Iron Bundle[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.ironbundle.3",
-                        "text": "[#!]Medium Iron Bundles[#]"
+                        "key": "notifications.titanhunter",
+                        "text": "💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
                     }
                 ]
             },
             "Korean": {
                 "overrideEntries": [
                     {
-                        "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
-                        "text": "[#!]Battle Item 5*[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.battleitem.5",
-                        "text": "[#!]Battle Items 5*[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
-                        "text": "[#!]Medium Food Bundle[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.foodbundle.3",
-                        "text": "[#!]Medium Food Bundles[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
-                        "text": "[#!]Medium Iron Bundle[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.ironbundle.3",
-                        "text": "[#!]Medium Iron Bundles[#]"
+                        "key": "notifications.titanhunter",
+                        "text": "💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
                     }
                 ]
             },
             "German": {
                 "overrideEntries": [
                     {
-                        "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
-                        "text": "[#!]Battle Item 5*[#]"
+                        "key": "notifications.titanhunter",
+                        "text": "💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
                     },
                     {
-                        "key": "chest.bonus.disclaimer.reward.battleitem.5",
-                        "text": "[#!]Battle Items 5*[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
-                        "text": "[#!]Medium Food Bundle[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.foodbundle.3",
-                        "text": "[#!]Medium Food Bundles[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
-                        "text": "[#!]Medium Iron Bundle[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.ironbundle.3",
-                        "text": "[#!]Medium Iron Bundles[#]"
+                        "key": "specials.v2.bigminion.aberration_big_minion.single",
+                        "text": "Beschwört einen Abweichungs-Mega-Lakaien mit {FAMILIARHEALTHPERCENT} % LP und {FAMILIARATTACK} % Angriff vom Wirker.\n\nJeder Treffer eines Abweichungs-Mega-Lakaien verleiht dem Ziel folgende negative Statusänderung:"
                     }
                 ]
             },
             "Japanese": {
                 "overrideEntries": [
                     {
-                        "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
-                        "text": "[#!]Battle Item 5*[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.battleitem.5",
-                        "text": "[#!]Battle Items 5*[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
-                        "text": "[#!]Medium Food Bundle[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.foodbundle.3",
-                        "text": "[#!]Medium Food Bundles[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
-                        "text": "[#!]Medium Iron Bundle[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.ironbundle.3",
-                        "text": "[#!]Medium Iron Bundles[#]"
+                        "key": "notifications.titanhunter",
+                        "text": "💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
                     }
                 ]
             },
             "Swedish": {
                 "overrideEntries": [
                     {
-                        "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
-                        "text": "[#!]Battle Item 5*[#]"
+                        "key": "notifications.titanhunter",
+                        "text": "💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
                     },
                     {
-                        "key": "chest.bonus.disclaimer.reward.battleitem.5",
-                        "text": "[#!]Battle Items 5*[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
-                        "text": "[#!]Medium Food Bundle[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.foodbundle.3",
-                        "text": "[#!]Medium Food Bundles[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
-                        "text": "[#!]Medium Iron Bundle[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.ironbundle.3",
-                        "text": "[#!]Medium Iron Bundles[#]"
+                        "key": "specials.v2.bigminion.aberration_big_minion.single",
+                        "text": "Åkallar en monstrummegaundersåte med {FAMILIARHEALTHPERCENT} % hälsa och {FAMILIARATTACK} % attack som ärvs från anfallaren. \n\nVarje träff från en monstrummegaundersåte ger målet följande negativa statuseffekt:"
                     }
                 ]
             },
             "Turkish": {
                 "overrideEntries": [
                     {
-                        "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
-                        "text": "[#!]Battle Item 5*[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.battleitem.5",
-                        "text": "[#!]Battle Items 5*[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
-                        "text": "[#!]Medium Food Bundle[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.foodbundle.3",
-                        "text": "[#!]Medium Food Bundles[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
-                        "text": "[#!]Medium Iron Bundle[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.ironbundle.3",
-                        "text": "[#!]Medium Iron Bundles[#]"
+                        "key": "notifications.titanhunter",
+                        "text": "💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
                     }
                 ]
             },
             "English": {
                 "overrideEntries": [
                     {
-                        "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
-                        "text": "[#!]Battle Item 5*[#]"
+                        "key": "notifications.titanhunter",
+                        "text": "💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
                     },
                     {
-                        "key": "chest.bonus.disclaimer.reward.battleitem.5",
-                        "text": "[#!]Battle Items 5*[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
-                        "text": "[#!]Medium Food Bundle[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.foodbundle.3",
-                        "text": "[#!]Medium Food Bundles[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
-                        "text": "[#!]Medium Iron Bundle[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.ironbundle.3",
-                        "text": "[#!]Medium Iron Bundles[#]"
+                        "key": "lottery.description.long.season5",
+                        "text": "The [#!]Dunes Summon[#] features three Legendary Season V Heroes. There is also a chance to get the current Hero of the Month.\n\nThe Dunes Summon has an increased chance for [#!]Legendary[#] Heroes.\n\nSummons can be done with gems or [#!]Dunes Coins[#] which can be obtained by completing [#!]Season V stages[#] for the first time. A single summon costs 100 Dunes Coins.\n\nAfter every {0} summons a [#!]Dynasty of Dunes Bonus Chest[#] is granted. You can claim a maximum of [#!]{1}[#] chests during each Dunes Summon event."
                     }
                 ]
             },
             "Arabic": {
                 "overrideEntries": [
                     {
-                        "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
-                        "text": "[#!]Battle Item 5*[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.battleitem.5",
-                        "text": "[#!]Battle Items 5*[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
-                        "text": "[#!]Medium Food Bundle[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.foodbundle.3",
-                        "text": "[#!]Medium Food Bundles[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
-                        "text": "[#!]Medium Iron Bundle[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.ironbundle.3",
-                        "text": "[#!]Medium Iron Bundles[#]"
+                        "key": "notifications.titanhunter",
+                        "text": "💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
                     }
                 ]
             },
             "French": {
                 "overrideEntries": [
                     {
-                        "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
-                        "text": "[#!]Battle Item 5*[#]"
+                        "key": "notifications.titanhunter",
+                        "text": "💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
                     },
                     {
-                        "key": "chest.bonus.disclaimer.reward.battleitem.5",
-                        "text": "[#!]Battle Items 5*[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
-                        "text": "[#!]Medium Food Bundle[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.foodbundle.3",
-                        "text": "[#!]Medium Food Bundles[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
-                        "text": "[#!]Medium Iron Bundle[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.ironbundle.3",
-                        "text": "[#!]Medium Iron Bundles[#]"
+                        "key": "specials.v2.bigminion.aberration_big_minion.single",
+                        "text": "Invoque un méga sbire aberration avec {FAMILIARHEALTHPERCENT} % de PV et {FAMILIARATTACK} % d'attaque hérités du lanceur.\n\nChaque coup d'un méga sbire aberration donne l'effet négatif suivant à la cible :"
                     }
                 ]
             },
             "Portuguese": {
                 "overrideEntries": [
                     {
-                        "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
-                        "text": "[#!]Battle Item 5*[#]"
+                        "key": "notifications.titanhunter",
+                        "text": "💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
                     },
                     {
-                        "key": "chest.bonus.disclaimer.reward.battleitem.5",
-                        "text": "[#!]Battle Items 5*[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
-                        "text": "[#!]Medium Food Bundle[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.foodbundle.3",
-                        "text": "[#!]Medium Food Bundles[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
-                        "text": "[#!]Medium Iron Bundle[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.ironbundle.3",
-                        "text": "[#!]Medium Iron Bundles[#]"
+                        "key": "specials.v2.bigminion.aberration_big_minion.single",
+                        "text": "Convoca um ajudante mega Aberração. O ajudante herda {FAMILIARHEALTHPERCENT}% de PV e {FAMILIARATTACK}% de ataque do invocador.\n\nCada ataque de um ajudante mega Aberração dá ao alvo o seguinte mal de status:"
                     }
                 ]
             },
             "Indonesian": {
                 "overrideEntries": [
                     {
-                        "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
-                        "text": "[#!]Battle Item 5*[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.battleitem.5",
-                        "text": "[#!]Battle Items 5*[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
-                        "text": "[#!]Medium Food Bundle[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.foodbundle.3",
-                        "text": "[#!]Medium Food Bundles[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
-                        "text": "[#!]Medium Iron Bundle[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.ironbundle.3",
-                        "text": "[#!]Medium Iron Bundles[#]"
+                        "key": "notifications.titanhunter",
+                        "text": "💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
                     }
                 ]
             },
             "Finnish": {
                 "overrideEntries": [
                     {
-                        "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
-                        "text": "[#!]Battle Item 5*[#]"
+                        "key": "notifications.titanhunter",
+                        "text": "💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
                     },
                     {
-                        "key": "chest.bonus.disclaimer.reward.battleitem.5",
-                        "text": "[#!]Battle Items 5*[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
-                        "text": "[#!]Medium Food Bundle[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.foodbundle.3",
-                        "text": "[#!]Medium Food Bundles[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
-                        "text": "[#!]Medium Iron Bundle[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.ironbundle.3",
-                        "text": "[#!]Medium Iron Bundles[#]"
+                        "key": "specials.v2.bigminion.aberration_big_minion.single",
+                        "text": "Kutsuu hirvitys-megakäskyläisen, joka perii loitsijalta {FAMILIARHEALTHPERCENT} % terveyttä ja {FAMILIARATTACK} % hyökkäystä.\n\nJokainen hirvitys-megakäskyläisen osuma aiheuttaa kohteelle seuraavan vaivan:"
                     }
                 ]
             },
             "Danish": {
                 "overrideEntries": [
                     {
-                        "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
-                        "text": "[#!]Battle Item 5*[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.battleitem.5",
-                        "text": "[#!]Battle Items 5*[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
-                        "text": "[#!]Medium Food Bundle[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.foodbundle.3",
-                        "text": "[#!]Medium Food Bundles[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
-                        "text": "[#!]Medium Iron Bundle[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.ironbundle.3",
-                        "text": "[#!]Medium Iron Bundles[#]"
+                        "key": "notifications.titanhunter",
+                        "text": "💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
                     }
                 ]
             },
             "Spanish": {
                 "overrideEntries": [
                     {
-                        "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
-                        "text": "[#!]Battle Item 5*[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.battleitem.5",
-                        "text": "[#!]Battle Items 5*[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
-                        "text": "[#!]Medium Food Bundle[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.foodbundle.3",
-                        "text": "[#!]Medium Food Bundles[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
-                        "text": "[#!]Medium Iron Bundle[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.ironbundle.3",
-                        "text": "[#!]Medium Iron Bundles[#]"
+                        "key": "notifications.titanhunter",
+                        "text": "💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
                     }
                 ]
             },
             "Norwegian": {
                 "overrideEntries": [
                     {
-                        "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
-                        "text": "[#!]Battle Item 5*[#]"
+                        "key": "notifications.titanhunter",
+                        "text": "💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
                     },
                     {
-                        "key": "chest.bonus.disclaimer.reward.battleitem.5",
-                        "text": "[#!]Battle Items 5*[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
-                        "text": "[#!]Medium Food Bundle[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.foodbundle.3",
-                        "text": "[#!]Medium Food Bundles[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
-                        "text": "[#!]Medium Iron Bundle[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.ironbundle.3",
-                        "text": "[#!]Medium Iron Bundles[#]"
+                        "key": "specials.v2.bigminion.aberration_big_minion.single",
+                        "text": "Påkaller en avviker-megaundersått med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angrep nedarvet fra brukeren. \n\nHvert treff fra en avviker-megaundersått påfører målet følgende statuslidelse:"
                     }
                 ]
             },
             "Dutch": {
                 "overrideEntries": [
                     {
-                        "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
-                        "text": "[#!]Battle Item 5*[#]"
+                        "key": "notifications.titanhunter",
+                        "text": "💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
                     },
                     {
-                        "key": "chest.bonus.disclaimer.reward.battleitem.5",
-                        "text": "[#!]Battle Items 5*[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
-                        "text": "[#!]Medium Food Bundle[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.foodbundle.3",
-                        "text": "[#!]Medium Food Bundles[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
-                        "text": "[#!]Medium Iron Bundle[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.ironbundle.3",
-                        "text": "[#!]Medium Iron Bundles[#]"
+                        "key": "specials.v2.bigminion.aberration_big_minion.single",
+                        "text": "Roept een atypische megavolgeling aan met {FAMILIARHEALTHPERCENT}% gezondheid en {FAMILIARATTACK}% aanval van de spreukspreker.\n\nElke treffer van de atypische megavolgeling geeft het doelwit het volgende negatieve statuseffect:"
                     }
                 ]
             },
             "ChineseSimplified": {
                 "overrideEntries": [
                     {
-                        "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
-                        "text": "[#!]Battle Item 5*[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.battleitem.5",
-                        "text": "[#!]Battle Items 5*[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
-                        "text": "[#!]Medium Food Bundle[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.foodbundle.3",
-                        "text": "[#!]Medium Food Bundles[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
-                        "text": "[#!]Medium Iron Bundle[#]"
-                    },
-                    {
-                        "key": "chest.bonus.disclaimer.reward.ironbundle.3",
-                        "text": "[#!]Medium Iron Bundles[#]"
+                        "key": "notifications.titanhunter",
+                        "text": "💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
                     }
                 ]
             }
         }
     },
-    "languageOverridesConfigId": -1919859663
+    "languageOverridesConfigId": 1472731602
 }

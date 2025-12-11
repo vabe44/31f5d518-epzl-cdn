@@ -282,8 +282,8 @@
                         "yellowCost": {
                             "fish": 491000,
                             "itemToCount": {
-                                "dragon_topaz_eagle_statue": 4,
                                 "dragon_topaz_hammer": 4,
+                                "dragon_topaz_eagle_statue": 4,
                                 "dragon_feathered_headdress": 2
                             }
                         },
@@ -370,8 +370,8 @@
                         "yellowCost": {
                             "fish": 491000,
                             "itemToCount": {
-                                "dragon_topaz_eagle_statue": 4,
                                 "dragon_topaz_hammer": 4,
+                                "dragon_topaz_eagle_statue": 4,
                                 "dragon_feathered_headdress": 2
                             }
                         },
@@ -461,8 +461,8 @@
                         "yellowCost": {
                             "fish": 1274000,
                             "itemToCount": {
-                                "dragon_topaz_pendant": 6,
                                 "dragon_uncut_topaz": 4,
+                                "dragon_topaz_pendant": 6,
                                 "dragon_dragonstone_pendant": 1,
                                 "dragon_rainbow_chalice": 1
                             }
@@ -4167,6 +4167,90 @@
             "inventory": {
                 "items": [
                     {
+                        "itemType": "Costume",
+                        "id": "item_musketeer_felton_costume_pirate",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 3,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 816246000,
+                        "costumeId": "musketeer_felton_costume_pirate",
+                        "parentHeroId": "musketeer_felton"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_s2_oceanus_costume_volcano",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 5,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 814690800,
+                        "costumeId": "s2_oceanus_costume_volcano",
+                        "parentHeroId": "s2_oceanus"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_tales2_helgi_costume_combatant",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 3,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 813826800,
+                        "costumeId": "tales2_helgi_costume_combatant",
+                        "parentHeroId": "tales2_helgi"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_tales2_fjalar_costume_undead",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 4,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 813826800,
+                        "costumeId": "tales2_fjalar_costume_undead",
+                        "parentHeroId": "tales2_fjalar"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_tales2_ott_costume_herbalist",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 5,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 813826800,
+                        "costumeId": "tales2_ott_costume_herbalist",
+                        "parentHeroId": "tales2_ott"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_musketeer_aramis_costume_boulanger",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 5,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 816246000,
+                        "costumeId": "musketeer_aramis_costume_boulanger",
+                        "parentHeroId": "musketeer_aramis"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_halloween_edwin_costume_mafia",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 5,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 813222000,
+                        "costumeId": "halloween_edwin_costume_mafia",
+                        "parentHeroId": "halloween_edwin"
+                    },
+                    {
                         "itemType": "LureBonus",
                         "id": "lure_bonus_season2",
                         "gameModes": [
@@ -4215,6 +4299,16 @@
                         "rarity": 3,
                         "gemValue": 500,
                         "season": "UntoldTales1"
+                    },
+                    {
+                        "itemType": "LureBonus",
+                        "id": "lure_bonus_untoldtales2",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 3,
+                        "gemValue": 500,
+                        "season": "UntoldTales2"
                     },
                     {
                         "itemType": "Costume",
@@ -4371,6 +4465,54 @@
                         "canBeReceivedDate": 787734000,
                         "costumeId": "castle_wolf_ferant_costume_fire",
                         "parentHeroId": "castle_wolf_ferant"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_royal_knight_costume_glass",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 3,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 817369200,
+                        "costumeId": "royal_knight_costume_glass",
+                        "parentHeroId": "royal_knight"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_blackguard_skulker_costume_glass",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 3,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 817369200,
+                        "costumeId": "blackguard_skulker_costume_glass",
+                        "parentHeroId": "blackguard_skulker"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_oriental_female_guard_costume_glass",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 3,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 813308400,
+                        "costumeId": "oriental_female_guard_costume_glass",
+                        "parentHeroId": "oriental_female_guard"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_nordic_mage_costume_glass",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 3,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 813308400,
+                        "costumeId": "nordic_mage_costume_glass",
+                        "parentHeroId": "nordic_mage"
                     },
                     {
                         "itemType": "Costume",
@@ -4563,6 +4705,30 @@
                         "canBeReceivedDate": 794991600,
                         "costumeId": "forest_female_druid_costume_glass",
                         "parentHeroId": "forest_female_druid"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_undead_female_warrior_costume_glass",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 4,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 817369200,
+                        "costumeId": "undead_female_warrior_costume_glass",
+                        "parentHeroId": "undead_female_warrior"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_dwarven_guard_costume_glass",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 4,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 813308400,
+                        "costumeId": "dwarven_guard_costume_glass",
+                        "parentHeroId": "dwarven_guard"
                     },
                     {
                         "itemType": "Costume",
@@ -4767,6 +4933,30 @@
                         "canBeReceivedDate": 794991600,
                         "costumeId": "oriental_female_templar_costume_glass",
                         "parentHeroId": "oriental_female_templar"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_royal_knight_commander_costume_glass",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 5,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 817369200,
+                        "costumeId": "royal_knight_commander_costume_glass",
+                        "parentHeroId": "royal_knight_commander"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_cultist_inventor_costume_glass",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 5,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 813308400,
+                        "costumeId": "cultist_inventor_costume_glass",
+                        "parentHeroId": "cultist_inventor"
                     },
                     {
                         "itemType": "Costume",
@@ -5252,6 +5442,7 @@
                             "Classic"
                         ],
                         "rarity": 5,
+                        "notAllowedAsLoot": true,
                         "canBeReceivedDate": 781081200,
                         "costumeId": "kingdom_guan_yu_costume_dragon",
                         "parentHeroId": "kingdom_guan_yu"
@@ -5263,6 +5454,7 @@
                             "Classic"
                         ],
                         "rarity": 5,
+                        "notAllowedAsLoot": true,
                         "canBeReceivedDate": 775897200,
                         "costumeId": "kingdom_cao_cao_costume_ice",
                         "parentHeroId": "kingdom_cao_cao"
@@ -6557,6 +6749,146 @@
                         "gemValue": 80000,
                         "typeOfTome": "LimitBreak",
                         "targetedLimitBreakLevel": 1
+                    },
+                    {
+                        "itemType": "Tome",
+                        "id": "tome_levels_red_lesser",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 4,
+                        "gemValue": 8000,
+                        "canBeReceivedDate": 816246000,
+                        "typeOfTome": "ElementalLevelUp",
+                        "effectAmount": 20,
+                        "increaseSpecialLevel": true,
+                        "requiredElement": "Red"
+                    },
+                    {
+                        "itemType": "Tome",
+                        "id": "tome_levels_green_lesser",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 4,
+                        "gemValue": 8000,
+                        "canBeReceivedDate": 816246000,
+                        "typeOfTome": "ElementalLevelUp",
+                        "effectAmount": 20,
+                        "increaseSpecialLevel": true,
+                        "requiredElement": "Green"
+                    },
+                    {
+                        "itemType": "Tome",
+                        "id": "tome_levels_blue_lesser",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 4,
+                        "gemValue": 8000,
+                        "canBeReceivedDate": 816246000,
+                        "typeOfTome": "ElementalLevelUp",
+                        "effectAmount": 20,
+                        "increaseSpecialLevel": true,
+                        "requiredElement": "Blue"
+                    },
+                    {
+                        "itemType": "Tome",
+                        "id": "tome_levels_purple_lesser",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 4,
+                        "gemValue": 8000,
+                        "canBeReceivedDate": 816246000,
+                        "typeOfTome": "ElementalLevelUp",
+                        "effectAmount": 20,
+                        "increaseSpecialLevel": true,
+                        "requiredElement": "Purple"
+                    },
+                    {
+                        "itemType": "Tome",
+                        "id": "tome_levels_yellow_lesser",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 4,
+                        "gemValue": 8000,
+                        "canBeReceivedDate": 816246000,
+                        "typeOfTome": "ElementalLevelUp",
+                        "effectAmount": 20,
+                        "increaseSpecialLevel": true,
+                        "requiredElement": "Yellow"
+                    },
+                    {
+                        "itemType": "Tome",
+                        "id": "tome_levels_red_greater",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 5,
+                        "gemValue": 20000,
+                        "canBeReceivedDate": 816246000,
+                        "typeOfTome": "ElementalLevelUp",
+                        "increaseSpecialLevel": true,
+                        "limitBreakEffectAmount": 5,
+                        "requiredElement": "Red"
+                    },
+                    {
+                        "itemType": "Tome",
+                        "id": "tome_levels_green_greater",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 5,
+                        "gemValue": 20000,
+                        "canBeReceivedDate": 816246000,
+                        "typeOfTome": "ElementalLevelUp",
+                        "increaseSpecialLevel": true,
+                        "limitBreakEffectAmount": 5,
+                        "requiredElement": "Green"
+                    },
+                    {
+                        "itemType": "Tome",
+                        "id": "tome_levels_blue_greater",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 5,
+                        "gemValue": 20000,
+                        "canBeReceivedDate": 816246000,
+                        "typeOfTome": "ElementalLevelUp",
+                        "increaseSpecialLevel": true,
+                        "limitBreakEffectAmount": 5,
+                        "requiredElement": "Blue"
+                    },
+                    {
+                        "itemType": "Tome",
+                        "id": "tome_levels_purple_greater",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 5,
+                        "gemValue": 20000,
+                        "canBeReceivedDate": 816246000,
+                        "typeOfTome": "ElementalLevelUp",
+                        "increaseSpecialLevel": true,
+                        "limitBreakEffectAmount": 5,
+                        "requiredElement": "Purple"
+                    },
+                    {
+                        "itemType": "Tome",
+                        "id": "tome_levels_yellow_greater",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 5,
+                        "gemValue": 20000,
+                        "canBeReceivedDate": 816246000,
+                        "typeOfTome": "ElementalLevelUp",
+                        "increaseSpecialLevel": true,
+                        "limitBreakEffectAmount": 5,
+                        "requiredElement": "Yellow"
                     },
                     {
                         "itemType": "Costume",
@@ -10197,6 +10529,114 @@
                         "parentHeroId": "elemental_doxan"
                     },
                     {
+                        "itemType": "Costume",
+                        "id": "item_elemental_zandria_costume_planet",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 5,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 816073200,
+                        "costumeId": "elemental_zandria_costume_planet",
+                        "parentHeroId": "elemental_zandria"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_elemental_xandrella_costume_idol",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 5,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 818406000,
+                        "costumeId": "elemental_xandrella_costume_idol",
+                        "parentHeroId": "elemental_xandrella"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_magic_becky_costume_gothic",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 5,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 811407600,
+                        "costumeId": "magic_becky_costume_gothic",
+                        "parentHeroId": "magic_becky"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_halloween_ana_belle_costume_mafia",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 4,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 813222000,
+                        "costumeId": "halloween_ana_belle_costume_mafia",
+                        "parentHeroId": "halloween_ana_belle"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_magic_camilla_costume_flower",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 5,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 814172400,
+                        "costumeId": "magic_camilla_costume_flower",
+                        "parentHeroId": "magic_camilla"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_magic_cristobal_costume_emerald",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 5,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 815468400,
+                        "costumeId": "magic_cristobal_costume_emerald",
+                        "parentHeroId": "magic_cristobal"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_musketeer_villiers_costume_jester",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 4,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 816246000,
+                        "costumeId": "musketeer_villiers_costume_jester",
+                        "parentHeroId": "musketeer_villiers"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_tales2_regin_costume_omen",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 5,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 813826800,
+                        "costumeId": "tales2_regin_costume_omen",
+                        "parentHeroId": "tales2_regin"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_s2_tethys_costume_steel",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 5,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 814690800,
+                        "costumeId": "s2_tethys_costume_steel",
+                        "parentHeroId": "s2_tethys"
+                    },
+                    {
                         "itemType": "Refill",
                         "id": "refill_energy_pvp_full",
                         "gameModes": [
@@ -10701,17 +11141,6 @@
                     },
                     {
                         "itemType": "LotteryToken",
-                        "id": "lottery_league_coin",
-                        "gameModes": [
-                            "Classic"
-                        ],
-                        "rarity": 4,
-                        "gemValue": 3,
-                        "canBeReceivedDate": 748335600,
-                        "amountForSummon": 100
-                    },
-                    {
-                        "itemType": "LotteryToken",
                         "id": "lottery_item_ascension",
                         "gameModes": [
                             "Classic"
@@ -10761,6 +11190,18 @@
                         ],
                         "rarity": 4,
                         "gemValue": 50,
+                        "amountForSummon": 100
+                    },
+                    {
+                        "itemType": "LotteryToken",
+                        "id": "lottery_seasonal_summon_spirit_halloween",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 4,
+                        "gemValue": 50,
+                        "canBeReceivedDate": 813222000,
+                        "hideInInventory": true,
                         "amountForSummon": 100
                     },
                     {
@@ -13461,6 +13902,54 @@
                         "typeOfRefill": "Recruits",
                         "typeOfRefillAmount": "Specific",
                         "refillAmount": 100
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_magic_ulius_costume_buccaneer",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 5,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 817801200,
+                        "costumeId": "magic_ulius_costume_buccaneer",
+                        "parentHeroId": "magic_ulius"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_christmas_ginger_costume_gift_wrapper",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 5,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 817887600,
+                        "costumeId": "christmas_ginger_costume_gift_wrapper",
+                        "parentHeroId": "christmas_ginger"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_christmas_elf_costume_gift_bookkeper",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 4,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 817887600,
+                        "costumeId": "christmas_elf_costume_gift_bookkeper",
+                        "parentHeroId": "christmas_elf"
+                    },
+                    {
+                        "itemType": "Costume",
+                        "id": "item_christmas_reindeer_costume_knightly_steed",
+                        "gameModes": [
+                            "Classic"
+                        ],
+                        "rarity": 3,
+                        "notAllowedAsLoot": true,
+                        "canBeReceivedDate": 817887600,
+                        "costumeId": "christmas_reindeer_costume_knightly_steed",
+                        "parentHeroId": "christmas_reindeer"
                     }
                 ]
             },
@@ -13537,8 +14026,8 @@
                                 "craftingCost": {
                                     "iron": 5790,
                                     "itemToCount": {
-                                        "item_crystal_shard": 1,
                                         "item_metal_ores": 2,
+                                        "item_crystal_shard": 1,
                                         "item_crypt_mushroom": 1
                                     }
                                 },
@@ -16092,13 +16581,8 @@
                         "trainingTime": 32400,
                         "trainingTimeSkipPrice": 290,
                         "rare": false,
-                        "includedExtraHeroes": [
-                            "pirate_vodnik",
-                            "knights_bauchan",
-                            "guardian_bat",
-                            "wonderland_bear",
-                            "fables_pixie"
-                        ]
+                        "nonClassicHeroChancePerMil": 50,
+                        "youngestNonClassicHeroAgeInDays": 730
                     },
                     {
                         "id": "academy6",
@@ -16186,18 +16670,8 @@
                         "trainingTime": 216000,
                         "trainingTimeSkipPrice": 1100,
                         "rare": false,
-                        "includedExtraHeroes": [
-                            "pirate_cabin_boy",
-                            "pirate_first_mate",
-                            "knights_merlin",
-                            "knights_sir_lancelot",
-                            "guardian_falcon_priest",
-                            "guardian_jackal_assassin",
-                            "wonderland_captain",
-                            "wonderland_cheshire_cat",
-                            "fables_gretel",
-                            "fables_hansel"
-                        ]
+                        "nonClassicHeroChancePerMil": 50,
+                        "youngestNonClassicHeroAgeInDays": 730
                     },
                     {
                         "id": "academy9",
@@ -16250,58 +16724,10 @@
                         "trainingTimeSkipPrice": 3080,
                         "rare": true,
                         "catalystRarity": 5,
-                        "eventHeroChancePerMil": 50,
+                        "nonClassicHeroChancePerMil": 50,
+                        "youngestNonClassicHeroAgeInDays": 730,
                         "costumeChancePerMil": 50,
-                        "includedExtraHeroes": [
-                            "pirate_swashbuckler",
-                            "pirate_lady",
-                            "pirate_dread_captain",
-                            "fables_boss_wolf",
-                            "fables_red_hood",
-                            "fables_rumpelstiltskin",
-                            "guardian_cat_warrior",
-                            "guardian_owl_gentleman",
-                            "guardian_gorilla_chieftain",
-                            "knights_guinevere",
-                            "knights_king_arthur",
-                            "knights_morgan_le_fay",
-                            "s2_junglehunter",
-                            "s2_hammerhead_hulk",
-                            "s2_mercenary_woman",
-                            "s2_noble_lady",
-                            "s2_fox_girl",
-                            "s2_cursed_samurai",
-                            "s2_skyllaros",
-                            "s2_ariel",
-                            "s2_poseidon",
-                            "s2_ursena",
-                            "wonderland_alice",
-                            "wonderland_queen",
-                            "wonderland_hatter",
-                            "sand_queen",
-                            "sand_king",
-                            "sand_roc",
-                            "vampire_king",
-                            "halloween_vanda",
-                            "halloween_francine",
-                            "christmas_santa",
-                            "christmas_mrs_claus",
-                            "christmas_krampus",
-                            "christmas_mr_pengi",
-                            "easter_killhare",
-                            "rabbit_blue",
-                            "easter_sir_roostley",
-                            "easter_jasper",
-                            "easter_archie",
-                            "christmas_augustus",
-                            "christmas_tinsel",
-                            "christmas_peppermint",
-                            "halloween_alucard",
-                            "halloween_miriam_and_midnight",
-                            "halloween_matilda",
-                            "kalevala_ilmarinen",
-                            "kalevala_louhi"
-                        ]
+                        "youngestCostumeAgeInDays": 365
                     }
                 ],
                 "actionsAllowedPerLevel": [
@@ -16525,9 +16951,9 @@
             },
             "heroLevelUp": {
                 "mode": "Classic",
-                "specialLevelUpChancePerSameCharacterSacrificePerMil": 250,
+                "specialLevelUpChancePerSameCharacterSacrificePerMil": 1000,
                 "specialLevelUpChanceMultiplierPerSameColorSacrificePerMil": 2000,
-                "specialLevelUpChanceMultiplierPerSacrificeRarityPerMil": 10,
+                "specialLevelUpChanceMultiplierPerSacrificeRarityPerMil": 50,
                 "specialLevelUpChanceMultiplierAtMaxAscensionPerMil": 5000,
                 "receivedXpForCostumeMultiplierPerMil": 2000,
                 "levelUpFoodCostForCostumeMultiplierPerMil": 750,
@@ -16563,6 +16989,13 @@
                     }
                 ],
                 "sameElementSacrificeXpBonusPerMil": 1200,
+                "duplicateHeroSacrificeXpBonusMultiplierPerMilPerRarity": [
+                    0,
+                    0,
+                    10000,
+                    25000,
+                    50000
+                ],
                 "estimatedAverageSacrificeAmountPerLevelPerMil": 2000,
                 "aetherGiftMinLimitBreakLevel": 2,
                 "aetherGiftEnabled": true,
@@ -17416,9 +17849,9 @@
                             "food": 3300,
                             "iron": 3600,
                             "itemToCount": {
-                                "hero_hidden_blade": 1,
-                                "hero_limitbreak_epic_red": 3,
                                 "hero_limitbreak_rare_red": 6,
+                                "hero_limitbreak_epic_red": 3,
+                                "hero_hidden_blade": 1,
                                 "hero_chainmail_shirt": 5
                             }
                         },
@@ -17427,8 +17860,8 @@
                             "iron": 3600,
                             "itemToCount": {
                                 "hero_sturdy_shield": 1,
-                                "hero_limitbreak_epic_green": 3,
                                 "hero_limitbreak_rare_green": 6,
+                                "hero_limitbreak_epic_green": 3,
                                 "hero_scabbard": 5
                             }
                         },
@@ -17472,9 +17905,9 @@
                             "food": 5750,
                             "iron": 5750,
                             "itemToCount": {
-                                "hero_limitbreak_epic_red": 3,
-                                "hero_limitbreak_rare_red": 5,
                                 "hero_mystic_rings": 1,
+                                "hero_limitbreak_rare_red": 5,
+                                "hero_limitbreak_epic_red": 3,
                                 "hero_limitbreak_legendary_red": 1
                             }
                         },
@@ -17482,9 +17915,9 @@
                             "food": 5750,
                             "iron": 5750,
                             "itemToCount": {
+                                "hero_limitbreak_rare_green": 5,
                                 "hero_limitbreak_epic_green": 3,
                                 "hero_limitbreak_legendary_green": 1,
-                                "hero_limitbreak_rare_green": 5,
                                 "hero_mysterious_tonic": 1
                             }
                         },
@@ -17503,8 +17936,8 @@
                             "iron": 5750,
                             "itemToCount": {
                                 "hero_limitbreak_rare_yellow": 5,
-                                "hero_limitbreak_legendary_yellow": 1,
                                 "hero_poison_darts": 1,
+                                "hero_limitbreak_legendary_yellow": 1,
                                 "hero_limitbreak_epic_yellow": 3
                             }
                         },
@@ -17556,6 +17989,13 @@
                     }
                 ],
                 "sameElementSacrificeXpBonusPerMil": 1200,
+                "duplicateHeroSacrificeXpBonusMultiplierPerMilPerRarity": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
                 "estimatedAverageSacrificeAmountPerLevelPerMil": 2000,
                 "parametersPerAscensionLevelPerRarity": [
                     {
@@ -19124,8 +19564,8 @@
                         "blueCost": {
                             "food": 273000,
                             "itemToCount": {
-                                "hero_battle_manual": 3,
                                 "hero_strong_rope": 3,
+                                "hero_battle_manual": 3,
                                 "hero_tall_boots": 2
                             }
                         },
@@ -19217,8 +19657,8 @@
                         "blueCost": {
                             "food": 273000,
                             "itemToCount": {
-                                "hero_battle_manual": 3,
                                 "hero_strong_rope": 3,
+                                "hero_battle_manual": 3,
                                 "hero_tall_boots": 2
                             }
                         },
@@ -19792,8 +20232,8 @@
                         },
                         "greenCost": {
                             "itemToCount": {
-                                "hero_limitbreak_epic_green": 20,
                                 "hero_limitbreak_legendary_green": 5,
+                                "hero_limitbreak_epic_green": 20,
                                 "hero_limitbreak_rare_green": 35
                             }
                         },
@@ -19905,8 +20345,8 @@
                         },
                         "greenCost": {
                             "itemToCount": {
-                                "hero_limitbreak_epic_green": 5,
                                 "hero_limitbreak_legendary_green": 1,
+                                "hero_limitbreak_epic_green": 5,
                                 "hero_limitbreak_rare_green": 10,
                                 "hero_limitbreak_alpha": 10
                             }
@@ -20630,9 +21070,27 @@
                                         "manaBonusPerMil": 50
                                     },
                                     {
-                                        "attackBonusPerMil": 170,
-                                        "defenseBonusPerMil": 170,
-                                        "healthBonusPerMil": 220,
+                                        "attackBonusPerMil": 180,
+                                        "defenseBonusPerMil": 180,
+                                        "healthBonusPerMil": 230,
+                                        "manaBonusPerMil": 50
+                                    },
+                                    {
+                                        "attackBonusPerMil": 200,
+                                        "defenseBonusPerMil": 200,
+                                        "healthBonusPerMil": 250,
+                                        "manaBonusPerMil": 50
+                                    },
+                                    {
+                                        "attackBonusPerMil": 220,
+                                        "defenseBonusPerMil": 220,
+                                        "healthBonusPerMil": 270,
+                                        "manaBonusPerMil": 50
+                                    },
+                                    {
+                                        "attackBonusPerMil": 250,
+                                        "defenseBonusPerMil": 250,
+                                        "healthBonusPerMil": 300,
                                         "manaBonusPerMil": 50
                                     }
                                 ]
@@ -20734,6 +21192,30 @@
                                         "defenseBonusPerMil": 190,
                                         "healthBonusPerMil": 240,
                                         "manaBonusPerMil": 50
+                                    },
+                                    {
+                                        "attackBonusPerMil": 210,
+                                        "defenseBonusPerMil": 210,
+                                        "healthBonusPerMil": 250,
+                                        "manaBonusPerMil": 50
+                                    },
+                                    {
+                                        "attackBonusPerMil": 240,
+                                        "defenseBonusPerMil": 240,
+                                        "healthBonusPerMil": 260,
+                                        "manaBonusPerMil": 50
+                                    },
+                                    {
+                                        "attackBonusPerMil": 270,
+                                        "defenseBonusPerMil": 270,
+                                        "healthBonusPerMil": 280,
+                                        "manaBonusPerMil": 50
+                                    },
+                                    {
+                                        "attackBonusPerMil": 300,
+                                        "defenseBonusPerMil": 300,
+                                        "healthBonusPerMil": 300,
+                                        "manaBonusPerMil": 50
                                     }
                                 ]
                             },
@@ -20834,6 +21316,30 @@
                                         "defenseBonusPerMil": 750,
                                         "healthBonusPerMil": 780,
                                         "manaBonusPerMil": 50
+                                    },
+                                    {
+                                        "attackBonusPerMil": 760,
+                                        "defenseBonusPerMil": 760,
+                                        "healthBonusPerMil": 800,
+                                        "manaBonusPerMil": 50
+                                    },
+                                    {
+                                        "attackBonusPerMil": 790,
+                                        "defenseBonusPerMil": 790,
+                                        "healthBonusPerMil": 820,
+                                        "manaBonusPerMil": 50
+                                    },
+                                    {
+                                        "attackBonusPerMil": 820,
+                                        "defenseBonusPerMil": 820,
+                                        "healthBonusPerMil": 840,
+                                        "manaBonusPerMil": 50
+                                    },
+                                    {
+                                        "attackBonusPerMil": 850,
+                                        "defenseBonusPerMil": 850,
+                                        "healthBonusPerMil": 850,
+                                        "manaBonusPerMil": 50
                                     }
                                 ]
                             }
@@ -20867,6 +21373,24 @@
                                         "defenseBonusPerMil": 30,
                                         "healthBonusPerMil": 60,
                                         "manaBonusPerMil": 50
+                                    },
+                                    {
+                                        "attackBonusPerMil": 30,
+                                        "defenseBonusPerMil": 30,
+                                        "healthBonusPerMil": 60,
+                                        "manaBonusPerMil": 50
+                                    },
+                                    {
+                                        "attackBonusPerMil": 30,
+                                        "defenseBonusPerMil": 30,
+                                        "healthBonusPerMil": 60,
+                                        "manaBonusPerMil": 50
+                                    },
+                                    {
+                                        "attackBonusPerMil": 30,
+                                        "defenseBonusPerMil": 30,
+                                        "healthBonusPerMil": 60,
+                                        "manaBonusPerMil": 50
                                     }
                                 ]
                             },
@@ -20889,6 +21413,30 @@
                                         "defenseBonusPerMil": 20,
                                         "healthBonusPerMil": 50,
                                         "manaBonusPerMil": 30
+                                    },
+                                    {
+                                        "attackBonusPerMil": 30,
+                                        "defenseBonusPerMil": 30,
+                                        "healthBonusPerMil": 60,
+                                        "manaBonusPerMil": 50
+                                    },
+                                    {
+                                        "attackBonusPerMil": 30,
+                                        "defenseBonusPerMil": 30,
+                                        "healthBonusPerMil": 60,
+                                        "manaBonusPerMil": 50
+                                    },
+                                    {
+                                        "attackBonusPerMil": 30,
+                                        "defenseBonusPerMil": 30,
+                                        "healthBonusPerMil": 60,
+                                        "manaBonusPerMil": 50
+                                    },
+                                    {
+                                        "attackBonusPerMil": 30,
+                                        "defenseBonusPerMil": 30,
+                                        "healthBonusPerMil": 60,
+                                        "manaBonusPerMil": 50
                                     },
                                     {
                                         "attackBonusPerMil": 30,
@@ -21319,6 +21867,30 @@
                                         "defenseBonusPerMil": 230,
                                         "healthBonusPerMil": 430,
                                         "manaBonusPerMil": 30
+                                    },
+                                    {
+                                        "attackBonusPerMil": 280,
+                                        "defenseBonusPerMil": 260,
+                                        "healthBonusPerMil": 450,
+                                        "manaBonusPerMil": 50
+                                    },
+                                    {
+                                        "attackBonusPerMil": 280,
+                                        "defenseBonusPerMil": 260,
+                                        "healthBonusPerMil": 450,
+                                        "manaBonusPerMil": 50
+                                    },
+                                    {
+                                        "attackBonusPerMil": 280,
+                                        "defenseBonusPerMil": 260,
+                                        "healthBonusPerMil": 450,
+                                        "manaBonusPerMil": 50
+                                    },
+                                    {
+                                        "attackBonusPerMil": 280,
+                                        "defenseBonusPerMil": 260,
+                                        "healthBonusPerMil": 450,
+                                        "manaBonusPerMil": 50
                                     },
                                     {
                                         "attackBonusPerMil": 280,
@@ -21768,35 +22340,79 @@
                                 "bonusLevels": []
                             },
                             {
-                                "bonusLevels": []
-                            },
-                            {
-                                "bonusLevels": []
+                                "bonusLevels": [
+                                    {
+                                        "attackBonusPerMil": 140,
+                                        "defenseBonusPerMil": 140,
+                                        "healthBonusPerMil": 190,
+                                        "manaBonusPerMil": 10
+                                    },
+                                    {
+                                        "attackBonusPerMil": 170,
+                                        "defenseBonusPerMil": 170,
+                                        "healthBonusPerMil": 220,
+                                        "manaBonusPerMil": 30
+                                    },
+                                    {
+                                        "attackBonusPerMil": 200,
+                                        "defenseBonusPerMil": 200,
+                                        "healthBonusPerMil": 250,
+                                        "manaBonusPerMil": 50
+                                    }
+                                ]
                             },
                             {
                                 "bonusLevels": [
                                     {
-                                        "attackBonusPerMil": 240,
-                                        "defenseBonusPerMil": 240,
-                                        "healthBonusPerMil": 240,
+                                        "attackBonusPerMil": 160,
+                                        "defenseBonusPerMil": 160,
+                                        "healthBonusPerMil": 160,
                                         "manaBonusPerMil": 10
                                     },
                                     {
-                                        "attackBonusPerMil": 270,
-                                        "defenseBonusPerMil": 270,
-                                        "healthBonusPerMil": 270,
+                                        "attackBonusPerMil": 190,
+                                        "defenseBonusPerMil": 190,
+                                        "healthBonusPerMil": 190,
                                         "manaBonusPerMil": 20
+                                    },
+                                    {
+                                        "attackBonusPerMil": 220,
+                                        "defenseBonusPerMil": 220,
+                                        "healthBonusPerMil": 220,
+                                        "manaBonusPerMil": 30
+                                    },
+                                    {
+                                        "attackBonusPerMil": 250,
+                                        "defenseBonusPerMil": 250,
+                                        "healthBonusPerMil": 250,
+                                        "manaBonusPerMil": 50
+                                    }
+                                ]
+                            },
+                            {
+                                "bonusLevels": [
+                                    {
+                                        "attackBonusPerMil": 280,
+                                        "defenseBonusPerMil": 280,
+                                        "healthBonusPerMil": 290,
+                                        "manaBonusPerMil": 10
                                     },
                                     {
                                         "attackBonusPerMil": 310,
                                         "defenseBonusPerMil": 310,
-                                        "healthBonusPerMil": 310,
+                                        "healthBonusPerMil": 320,
+                                        "manaBonusPerMil": 20
+                                    },
+                                    {
+                                        "attackBonusPerMil": 340,
+                                        "defenseBonusPerMil": 340,
+                                        "healthBonusPerMil": 350,
                                         "manaBonusPerMil": 30
                                     },
                                     {
-                                        "attackBonusPerMil": 350,
-                                        "defenseBonusPerMil": 350,
-                                        "healthBonusPerMil": 350,
+                                        "attackBonusPerMil": 370,
+                                        "defenseBonusPerMil": 370,
+                                        "healthBonusPerMil": 380,
                                         "manaBonusPerMil": 50
                                     }
                                 ]
@@ -22068,6 +22684,30 @@
                                         "defenseBonusPerMil": 250,
                                         "healthBonusPerMil": 300,
                                         "manaBonusPerMil": 50
+                                    },
+                                    {
+                                        "attackBonusPerMil": 250,
+                                        "defenseBonusPerMil": 250,
+                                        "healthBonusPerMil": 300,
+                                        "manaBonusPerMil": 50
+                                    },
+                                    {
+                                        "attackBonusPerMil": 250,
+                                        "defenseBonusPerMil": 250,
+                                        "healthBonusPerMil": 300,
+                                        "manaBonusPerMil": 50
+                                    },
+                                    {
+                                        "attackBonusPerMil": 250,
+                                        "defenseBonusPerMil": 250,
+                                        "healthBonusPerMil": 300,
+                                        "manaBonusPerMil": 50
+                                    },
+                                    {
+                                        "attackBonusPerMil": 250,
+                                        "defenseBonusPerMil": 250,
+                                        "healthBonusPerMil": 300,
+                                        "manaBonusPerMil": 50
                                     }
                                 ]
                             }
@@ -22247,6 +22887,568 @@
                                         "attackBonusPerMil": 400,
                                         "defenseBonusPerMil": 400,
                                         "healthBonusPerMil": 430,
+                                        "manaBonusPerMil": 50
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "tales2",
+                        "statBonuses": [
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": [
+                                    {
+                                        "attackBonusPerMil": 10,
+                                        "defenseBonusPerMil": 10,
+                                        "healthBonusPerMil": 20,
+                                        "manaBonusPerMil": 10
+                                    },
+                                    {
+                                        "attackBonusPerMil": 10,
+                                        "defenseBonusPerMil": 10,
+                                        "healthBonusPerMil": 30,
+                                        "manaBonusPerMil": 10
+                                    },
+                                    {
+                                        "attackBonusPerMil": 50,
+                                        "defenseBonusPerMil": 50,
+                                        "healthBonusPerMil": 50,
+                                        "manaBonusPerMil": 10
+                                    }
+                                ]
+                            },
+                            {
+                                "bonusLevels": [
+                                    {
+                                        "attackBonusPerMil": 60,
+                                        "defenseBonusPerMil": 60,
+                                        "healthBonusPerMil": 60,
+                                        "manaBonusPerMil": 10
+                                    },
+                                    {
+                                        "attackBonusPerMil": 80,
+                                        "defenseBonusPerMil": 80,
+                                        "healthBonusPerMil": 80,
+                                        "manaBonusPerMil": 10
+                                    },
+                                    {
+                                        "attackBonusPerMil": 100,
+                                        "defenseBonusPerMil": 100,
+                                        "healthBonusPerMil": 100,
+                                        "manaBonusPerMil": 10
+                                    },
+                                    {
+                                        "attackBonusPerMil": 120,
+                                        "defenseBonusPerMil": 120,
+                                        "healthBonusPerMil": 120,
+                                        "manaBonusPerMil": 10
+                                    }
+                                ]
+                            },
+                            {
+                                "bonusLevels": [
+                                    {
+                                        "attackBonusPerMil": 10,
+                                        "defenseBonusPerMil": 10,
+                                        "healthBonusPerMil": 30,
+                                        "manaBonusPerMil": 10
+                                    },
+                                    {
+                                        "attackBonusPerMil": 30,
+                                        "defenseBonusPerMil": 30,
+                                        "healthBonusPerMil": 50,
+                                        "manaBonusPerMil": 20
+                                    },
+                                    {
+                                        "attackBonusPerMil": 50,
+                                        "defenseBonusPerMil": 50,
+                                        "healthBonusPerMil": 70,
+                                        "manaBonusPerMil": 30
+                                    },
+                                    {
+                                        "attackBonusPerMil": 70,
+                                        "defenseBonusPerMil": 70,
+                                        "healthBonusPerMil": 90,
+                                        "manaBonusPerMil": 50
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "magic_sep_2025",
+                        "statBonuses": [
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": [
+                                    {
+                                        "attackBonusPerMil": 320,
+                                        "defenseBonusPerMil": 320,
+                                        "healthBonusPerMil": 340,
+                                        "manaBonusPerMil": 10
+                                    },
+                                    {
+                                        "attackBonusPerMil": 350,
+                                        "defenseBonusPerMil": 350,
+                                        "healthBonusPerMil": 370,
+                                        "manaBonusPerMil": 10
+                                    },
+                                    {
+                                        "attackBonusPerMil": 380,
+                                        "defenseBonusPerMil": 380,
+                                        "healthBonusPerMil": 400,
+                                        "manaBonusPerMil": 10
+                                    },
+                                    {
+                                        "attackBonusPerMil": 410,
+                                        "defenseBonusPerMil": 410,
+                                        "healthBonusPerMil": 430,
+                                        "manaBonusPerMil": 10
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "halloween_2025",
+                        "statBonuses": [
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": [
+                                    {
+                                        "attackBonusPerMil": 120,
+                                        "defenseBonusPerMil": 120,
+                                        "healthBonusPerMil": 120,
+                                        "manaBonusPerMil": 10
+                                    },
+                                    {
+                                        "attackBonusPerMil": 130,
+                                        "defenseBonusPerMil": 130,
+                                        "healthBonusPerMil": 130,
+                                        "manaBonusPerMil": 20
+                                    },
+                                    {
+                                        "attackBonusPerMil": 140,
+                                        "defenseBonusPerMil": 140,
+                                        "healthBonusPerMil": 140,
+                                        "manaBonusPerMil": 30
+                                    },
+                                    {
+                                        "attackBonusPerMil": 150,
+                                        "defenseBonusPerMil": 150,
+                                        "healthBonusPerMil": 150,
+                                        "manaBonusPerMil": 50
+                                    }
+                                ]
+                            },
+                            {
+                                "bonusLevels": [
+                                    {
+                                        "attackBonusPerMil": 230,
+                                        "defenseBonusPerMil": 230,
+                                        "healthBonusPerMil": 230,
+                                        "manaBonusPerMil": 10
+                                    },
+                                    {
+                                        "attackBonusPerMil": 280,
+                                        "defenseBonusPerMil": 280,
+                                        "healthBonusPerMil": 280,
+                                        "manaBonusPerMil": 20
+                                    },
+                                    {
+                                        "attackBonusPerMil": 330,
+                                        "defenseBonusPerMil": 330,
+                                        "healthBonusPerMil": 330,
+                                        "manaBonusPerMil": 30
+                                    },
+                                    {
+                                        "attackBonusPerMil": 380,
+                                        "defenseBonusPerMil": 380,
+                                        "healthBonusPerMil": 380,
+                                        "manaBonusPerMil": 50
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "magic_oct_2025",
+                        "statBonuses": [
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": [
+                                    {
+                                        "attackBonusPerMil": 420,
+                                        "defenseBonusPerMil": 420,
+                                        "healthBonusPerMil": 420,
+                                        "manaBonusPerMil": 10
+                                    },
+                                    {
+                                        "attackBonusPerMil": 450,
+                                        "defenseBonusPerMil": 450,
+                                        "healthBonusPerMil": 450,
+                                        "manaBonusPerMil": 10
+                                    },
+                                    {
+                                        "attackBonusPerMil": 480,
+                                        "defenseBonusPerMil": 480,
+                                        "healthBonusPerMil": 480,
+                                        "manaBonusPerMil": 10
+                                    },
+                                    {
+                                        "attackBonusPerMil": 510,
+                                        "defenseBonusPerMil": 510,
+                                        "healthBonusPerMil": 510,
+                                        "manaBonusPerMil": 10
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "magic_nov_2025",
+                        "statBonuses": [
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": [
+                                    {
+                                        "attackBonusPerMil": 540,
+                                        "defenseBonusPerMil": 540,
+                                        "healthBonusPerMil": 550,
+                                        "manaBonusPerMil": 10
+                                    },
+                                    {
+                                        "attackBonusPerMil": 570,
+                                        "defenseBonusPerMil": 570,
+                                        "healthBonusPerMil": 580,
+                                        "manaBonusPerMil": 10
+                                    },
+                                    {
+                                        "attackBonusPerMil": 600,
+                                        "defenseBonusPerMil": 600,
+                                        "healthBonusPerMil": 610,
+                                        "manaBonusPerMil": 10
+                                    },
+                                    {
+                                        "attackBonusPerMil": 630,
+                                        "defenseBonusPerMil": 630,
+                                        "healthBonusPerMil": 640,
+                                        "manaBonusPerMil": 10
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "elemental_nov_2025",
+                        "statBonuses": [
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": [
+                                    {
+                                        "attackBonusPerMil": 360,
+                                        "defenseBonusPerMil": 360,
+                                        "healthBonusPerMil": 370,
+                                        "manaBonusPerMil": 20
+                                    },
+                                    {
+                                        "attackBonusPerMil": 400,
+                                        "defenseBonusPerMil": 400,
+                                        "healthBonusPerMil": 410,
+                                        "manaBonusPerMil": 30
+                                    },
+                                    {
+                                        "attackBonusPerMil": 440,
+                                        "defenseBonusPerMil": 440,
+                                        "healthBonusPerMil": 450,
+                                        "manaBonusPerMil": 40
+                                    },
+                                    {
+                                        "attackBonusPerMil": 460,
+                                        "defenseBonusPerMil": 460,
+                                        "healthBonusPerMil": 470,
+                                        "manaBonusPerMil": 50
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "musketeer",
+                        "statBonuses": [
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": [
+                                    {
+                                        "attackBonusPerMil": 110,
+                                        "defenseBonusPerMil": 110,
+                                        "healthBonusPerMil": 110,
+                                        "manaBonusPerMil": 10
+                                    },
+                                    {
+                                        "attackBonusPerMil": 130,
+                                        "defenseBonusPerMil": 130,
+                                        "healthBonusPerMil": 130,
+                                        "manaBonusPerMil": 30
+                                    },
+                                    {
+                                        "attackBonusPerMil": 150,
+                                        "defenseBonusPerMil": 150,
+                                        "healthBonusPerMil": 150,
+                                        "manaBonusPerMil": 50
+                                    }
+                                ]
+                            },
+                            {
+                                "bonusLevels": [
+                                    {
+                                        "attackBonusPerMil": 120,
+                                        "defenseBonusPerMil": 120,
+                                        "healthBonusPerMil": 140,
+                                        "manaBonusPerMil": 10
+                                    },
+                                    {
+                                        "attackBonusPerMil": 130,
+                                        "defenseBonusPerMil": 130,
+                                        "healthBonusPerMil": 160,
+                                        "manaBonusPerMil": 20
+                                    },
+                                    {
+                                        "attackBonusPerMil": 140,
+                                        "defenseBonusPerMil": 140,
+                                        "healthBonusPerMil": 180,
+                                        "manaBonusPerMil": 30
+                                    },
+                                    {
+                                        "attackBonusPerMil": 150,
+                                        "defenseBonusPerMil": 150,
+                                        "healthBonusPerMil": 200,
+                                        "manaBonusPerMil": 50
+                                    }
+                                ]
+                            },
+                            {
+                                "bonusLevels": [
+                                    {
+                                        "attackBonusPerMil": 460,
+                                        "defenseBonusPerMil": 460,
+                                        "healthBonusPerMil": 510,
+                                        "manaBonusPerMil": 10
+                                    },
+                                    {
+                                        "attackBonusPerMil": 390,
+                                        "defenseBonusPerMil": 390,
+                                        "healthBonusPerMil": 540,
+                                        "manaBonusPerMil": 20
+                                    },
+                                    {
+                                        "attackBonusPerMil": 520,
+                                        "defenseBonusPerMil": 520,
+                                        "healthBonusPerMil": 570,
+                                        "manaBonusPerMil": 30
+                                    },
+                                    {
+                                        "attackBonusPerMil": 550,
+                                        "defenseBonusPerMil": 550,
+                                        "healthBonusPerMil": 600,
+                                        "manaBonusPerMil": 50
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "magic_nov_2025_ulius",
+                        "statBonuses": [
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": [
+                                    {
+                                        "attackBonusPerMil": 320,
+                                        "defenseBonusPerMil": 320,
+                                        "healthBonusPerMil": 330,
+                                        "manaBonusPerMil": 10
+                                    },
+                                    {
+                                        "attackBonusPerMil": 340,
+                                        "defenseBonusPerMil": 340,
+                                        "healthBonusPerMil": 360,
+                                        "manaBonusPerMil": 10
+                                    },
+                                    {
+                                        "attackBonusPerMil": 360,
+                                        "defenseBonusPerMil": 360,
+                                        "healthBonusPerMil": 390,
+                                        "manaBonusPerMil": 10
+                                    },
+                                    {
+                                        "attackBonusPerMil": 380,
+                                        "defenseBonusPerMil": 380,
+                                        "healthBonusPerMil": 420,
+                                        "manaBonusPerMil": 10
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "valentines",
+                        "statBonuses": [
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": []
+                            },
+                            {
+                                "bonusLevels": [
+                                    {
+                                        "attackBonusPerMil": 10,
+                                        "defenseBonusPerMil": 10,
+                                        "healthBonusPerMil": 20,
+                                        "manaBonusPerMil": 10
+                                    },
+                                    {
+                                        "attackBonusPerMil": 20,
+                                        "defenseBonusPerMil": 20,
+                                        "healthBonusPerMil": 30,
+                                        "manaBonusPerMil": 30
+                                    },
+                                    {
+                                        "attackBonusPerMil": 30,
+                                        "defenseBonusPerMil": 30,
+                                        "healthBonusPerMil": 40,
+                                        "manaBonusPerMil": 50
+                                    }
+                                ]
+                            },
+                            {
+                                "bonusLevels": [
+                                    {
+                                        "attackBonusPerMil": 120,
+                                        "defenseBonusPerMil": 120,
+                                        "healthBonusPerMil": 120,
+                                        "manaBonusPerMil": 10
+                                    },
+                                    {
+                                        "attackBonusPerMil": 130,
+                                        "defenseBonusPerMil": 130,
+                                        "healthBonusPerMil": 130,
+                                        "manaBonusPerMil": 20
+                                    },
+                                    {
+                                        "attackBonusPerMil": 140,
+                                        "defenseBonusPerMil": 140,
+                                        "healthBonusPerMil": 140,
+                                        "manaBonusPerMil": 30
+                                    },
+                                    {
+                                        "attackBonusPerMil": 150,
+                                        "defenseBonusPerMil": 150,
+                                        "healthBonusPerMil": 150,
+                                        "manaBonusPerMil": 50
+                                    }
+                                ]
+                            },
+                            {
+                                "bonusLevels": [
+                                    {
+                                        "attackBonusPerMil": 460,
+                                        "defenseBonusPerMil": 460,
+                                        "healthBonusPerMil": 460,
+                                        "manaBonusPerMil": 10
+                                    },
+                                    {
+                                        "attackBonusPerMil": 490,
+                                        "defenseBonusPerMil": 490,
+                                        "healthBonusPerMil": 490,
+                                        "manaBonusPerMil": 20
+                                    },
+                                    {
+                                        "attackBonusPerMil": 500,
+                                        "defenseBonusPerMil": 500,
+                                        "healthBonusPerMil": 500,
+                                        "manaBonusPerMil": 30
+                                    },
+                                    {
+                                        "attackBonusPerMil": 530,
+                                        "defenseBonusPerMil": 530,
+                                        "healthBonusPerMil": 530,
                                         "manaBonusPerMil": 50
                                     }
                                 ]
