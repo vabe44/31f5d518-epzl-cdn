@@ -29173,6 +29173,26 @@
                 "origin": "Halloween2025"
             },
             {
+                "id": "mimic_aether_blue",
+                "element": "Red",
+                "family": "mimic",
+                "baseHealth": 1097,
+                "baseAttack": 647,
+                "baseDefense": 647,
+                "manaSpeedId": "slow",
+                "passiveSkills": [
+                    "mimic_aether_blue",
+                    "never_miss_special"
+                ],
+                "classType": "Sorcerer",
+                "aetherGift": "aether_bulwark",
+                "rarity": 5,
+                "specialId": "aether_mimic_bite_blue",
+                "canBeReceivedDate": 818665300,
+                "origin": "SecretSummonAetherMimicBlue",
+                "forceUseCostumeLevelUpAndUpgradeCosts": true
+            },
+            {
                 "id": "mimic_aether_red",
                 "element": "Red",
                 "family": "mimic",
