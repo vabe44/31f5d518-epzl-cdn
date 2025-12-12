@@ -29176,7 +29176,7 @@
                 "id": "mimic_aether_blue",
                 "element": "Red",
                 "family": "mimic",
-                "baseHealth": 1097,
+                "baseHealth": 1098,
                 "baseAttack": 647,
                 "baseDefense": 647,
                 "manaSpeedId": "slow",
