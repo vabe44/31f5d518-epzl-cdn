@@ -60,7 +60,7 @@
                 "baseHealth": 1031,
                 "aetherGift": "aether_special_boost",
                 "classType": "Paladin",
-                "manaSpeedId": "Fast",
+                "manaSpeedId": "fast",
                 "specialId": "piercing_hit",
                 "passiveSkills": [
                     "glass_reflect_debuffs"
