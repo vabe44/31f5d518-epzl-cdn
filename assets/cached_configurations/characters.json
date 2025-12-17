@@ -2,7 +2,7 @@
     "charactersConfig": {
         "heroes": [
             {
-                "id": "titan_hunter_adelitza",
+                "id": "titan_hunter_adelitza_broken",
                 "element": "Red",
                 "name": "Adelitza",
                 "family": "titan_hunter",
