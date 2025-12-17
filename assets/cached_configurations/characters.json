@@ -9,7 +9,7 @@
                 "baseAttack": 1312,
                 "baseDefense": 1297,
                 "baseHealth": 2263,
-                "speed": "fast",
+                "manaSpeedId": "fast",
                 "passiveSkills": [
                     "titan_hunter_hunting_flare_on_special_cast",
                     "tile_enhancement_red_on_special_titan_hunter_parent"
@@ -35,7 +35,7 @@
                 "baseAttack": 1328,
                 "baseDefense": 1273,
                 "baseHealth": 2259,
-                "speed": "very_fast",
+                "manaSpeedId": "very_fast",
                 "passiveSkills": [
                     "resist_bleed",
                     "righteous_rebellion_parent",
@@ -62,7 +62,7 @@
                 "baseDefense": 1204,
                 "baseHealth": 2210,
                 "classType": "Druid",
-                "speed": "fast",
+                "manaSpeedId": "fast",
                 "specialId": "eclipse_shield",
                 "passiveSkills": [
                     "glass_reflect_debuffs"
@@ -87,7 +87,7 @@
                 "baseHealth": 1031,
                 "aetherGift": "aether_special_boost",
                 "classType": "Paladin",
-                "speed": "Fast",
+                "manaSpeedId": "Fast",
                 "specialId": "piercing_hit",
                 "passiveSkills": [
                     "glass_reflect_debuffs"
@@ -111,7 +111,7 @@
                 "element": "Blue",
                 "family": "classic",
                 "classType": "Fighter",
-                "speed": "fast",
+                "manaSpeedId": "fast",
                 "specialId": "chilling_slash",
                 "passiveSkills": [
                     "glass_reflect_debuffs"
