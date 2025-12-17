@@ -2,29 +2,6 @@
     "charactersConfig": {
         "heroes": [
             {
-                "id": "titan_hunter_adelitza_broken",
-                "element": "Red",
-                "name": "Adelitza",
-                "family": "titan_hunter",
-                "baseAttack": 1312,
-                "baseDefense": 1297,
-                "baseHealth": 2263,
-                "manaSpeedId": "fast",
-                "passiveSkills": [
-                    "titan_hunter_hunting_flare_on_special_cast",
-                    "tile_enhancement_red_on_special_titan_hunter_parent"
-                ],
-                "classType": "Monk",
-                "aetherGift": "aether_attack",
-                "rarity": 5,
-                "specialId": "crimson_hunt",
-                "canBeReceivedDate": 819270000,
-                "fancy_name": "Vanguard of the Rainforest",
-                "skill": "Crimson Hunt",
-                "source": "Titan Hunter Summon",
-                "Release date": "2025-12-16"
-            },
-            {
                 "name": "Lin Chong",
                 "fancy_name": "Panther Head of Water Margin",
                 "id": "outlaw_lin_chong",
