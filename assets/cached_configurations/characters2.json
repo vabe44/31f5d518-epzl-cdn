@@ -1,30 +1,185 @@
 {
     "charactersConfig": {
         "heroes": [
-                {
-                    "name": "Boboo Sang",
-                    "fancy_name": "Elder Peddler Slime",
-                    "id": "slime_boboosang",
-                    "element": "Blue",
-                    "family": "outlaw",
-                    "baseAttack": 1328,
-                    "baseDefense": 1273,
-                    "baseHealth": 2259,
-                    "manaSpeedId": "slow",
-                    "passiveSkills": [
-                        "summon_slime_minion_on_damage_blue",
-                        "summon_slime_minion_on_death_blue"
-                    ],
-                    "classType": "Cleric",
-                    "aetherGift": "aether_ailment_shield",
-                    "rarity": 5,
-                    "specialId": "debt_drain_boboosang",
-                    "origin": "SuperElemental",
-                    "canBeReceivedDate": 819097200,
-                    "skill": "Debt Drain",
-                    "source": "Super Elementals",
-                    "Release date": "2025-12-14"
-                },
+            {
+                "id": "titan_hunter_adelitza",
+                "element": "Red",
+                "family": "titan_hunter",
+                "baseHealth": 2224,
+                "baseAttack": 1320,
+                "baseDefense": 1310,
+                "manaSpeedId": "fast",
+                "passiveSkills": [
+                    "titan_hunter_hunting_flare_on_special_cast",
+                    "tile_enhancement_red_on_special_titan_hunter_parent"
+                ],
+                "classType": "Monk",
+                "aetherGift": "aether_attack",
+                "rarity": 5,
+                "specialId": "crimson_hunt",
+                "canBeReceivedDate": 814518000,
+                "origin": "AstralElves"
+            },
+            {
+                "id": "astral_demon_turundh",
+                "element": "Green",
+                "family": "astral_demons",
+                "baseHealth": 2224,
+                "baseAttack": 1320,
+                "baseDefense": 1310,
+                "manaSpeedId": "fast",
+                "passiveSkills": [
+                    "never_miss_special",
+                    "resist_all_mana_debuffs_and_reductions",
+                    "mana_generation_modifier_all_enemies_more_sources"
+                ],
+                "classType": "Sorcerer",
+                "aetherGift": "aether_attack",
+                "rarity": 5,
+                "specialId": "judgment_and_penance",
+                "canBeReceivedDate": 814518000,
+                "origin": "AstralElves"
+            },
+            {
+                "id": "construct_sizzleomatic",
+                "element": "Red",
+                "family": "construct",
+                "baseHealth": 2261,
+                "baseAttack": 1308,
+                "baseDefense": 1306,
+                "manaSpeedId": "slow",
+                "passiveSkills": [
+                    "minion_core",
+                    "resist_special_blocking_with_health_boost_and_mana"
+                ],
+                "classType": "Wizard",
+                "aetherGift": "aether_regen",
+                "rarity": 5,
+                "specialId": "burning_wok",
+                "canBeReceivedDate": 741250800,
+                "origin": "CovenantSummon"
+            },
+            {
+                "id": "construct_hotspin",
+                "element": "Red",
+                "family": "construct",
+                "baseHealth": 1445,
+                "baseAttack": 816,
+                "baseDefense": 796,
+                "manaSpeedId": "average",
+                "passiveSkills": [
+                    "minion_core",
+                    "resist_special_blocking_with_health_boost_and_mana"
+                ],
+                "classType": "Barbarian",
+                "aetherGift": "aether_counterattack",
+                "rarity": 5,
+                "specialId": "burning_spin",
+                "canBeReceivedDate": 741250800,
+                "origin": "CovenantSummon"
+            },
+            {
+                "id": "construct_hotspin",
+                "element": "Red",
+                "family": "construct",
+                "baseHealth": 1445,
+                "baseAttack": 816,
+                "baseDefense": 796,
+                "manaSpeedId": "average",
+                "passiveSkills": [
+                    "minion_core",
+                    "resist_special_blocking_with_health_boost_and_mana"
+                ],
+                "classType": "Barbarian",
+                "aetherGift": "aether_counterattack",
+                "rarity": 4,
+                "specialId": "burning_spin",
+                "canBeReceivedDate": 741250800,
+                "origin": "CovenantSummon"
+            },
+            {
+                "id": "construct_ironvein",
+                "element": "Green",
+                "family": "construct",
+                "baseHealth": 976,
+                "baseAttack": 542,
+                "baseDefense": 524,
+                "manaSpeedId": "average",
+                "passiveSkills": [
+                    "minion_core",
+                    "resist_special_blocking_with_health_boost_and_mana"
+                ],
+                "classType": "Fighter",
+                "aetherGift": "aether_attack",
+                "rarity": 5,
+                "specialId": "squire_strike",
+                "canBeReceivedDate": 741250800,
+                "origin": "CovenantSummon"
+            },
+            {
+                "id": "beauty_beast_dominique",
+                "element": "Blue",
+                "family": "beauty_beast",
+                "baseHealth": 2263,
+                "baseAttack": 1330,
+                "baseDefense": 1271,
+                "manaSpeedId": "fast",
+                "passiveSkills": [
+                    "convert_incoming_damage_to_heal",
+                    "heal_on_expired_or_cleared_debuff",
+                    "reduce_revival_health_all_enemies"
+                ],
+                "classType": "Fighter",
+                "aetherGift": "aether_regen",
+                "rarity": 5,
+                "specialId": "righteous_revenge",
+                "canBeReceivedDate": 816246000,
+                "origin": "AllianceQuestMusketeers"
+            },
+            {
+                "id": "musketeer_athos_costume_farrier",
+                "element": "Green",
+                "family": "musketeer",
+                "baseHealth": 2483,
+                "baseAttack": 1332,
+                "baseDefense": 1142,
+                "manaSpeedId": "very_fast",
+                "passiveSkills": [
+                    "damage_all_enemies_on_cover_or_special_damage_received_costume",
+                    "resist_defense_modifier_debuffs"
+                ],
+                "classType": "Fighter",
+                "aetherGift": "aether_special_boost",
+                "rarity": 5,
+                "specialId": "piercing_shot",
+                "canBeReceivedDate": 819097200,
+                "origin": "AllianceQuestMusketeers",
+                "parentHeroId": "musketeer_athos"
+            },
+            {
+                "name": "Boboo Sang",
+                "fancy_name": "Elder Peddler Slime",
+                "id": "slime_boboosang",
+                "element": "Blue",
+                "family": "outlaw",
+                "baseAttack": 1299,
+                "baseDefense": 1312,
+                "baseHealth": 2261,
+                "manaSpeedId": "slow",
+                "passiveSkills": [
+                    "summon_slime_minion_on_damage_blue",
+                    "summon_slime_minion_on_death_blue"
+                ],
+                "classType": "Cleric",
+                "aetherGift": "aether_ailment_shield",
+                "rarity": 5,
+                "specialId": "debt_drain_boboosang",
+                "origin": "SuperElemental",
+                "canBeReceivedDate": 819097200,
+                "skill": "Debt Drain",
+                "source": "Super Elementals",
+                "Release date": "2025-12-14"
+            },
             {
                 "name": "Lin Chong",
                 "fancy_name": "Panther Head of Water Margin",
