@@ -73,25 +73,6 @@
                 ],
                 "classType": "Barbarian",
                 "aetherGift": "aether_counterattack",
-                "rarity": 5,
-                "specialId": "burning_spin",
-                "canBeReceivedDate": 819097200,
-                "origin": "CovenantSummon"
-            },
-            {
-                "id": "construct_hotspin",
-                "element": "Red",
-                "family": "construct",
-                "baseHealth": 1445,
-                "baseAttack": 816,
-                "baseDefense": 796,
-                "manaSpeedId": "average",
-                "passiveSkills": [
-                    "minion_core",
-                    "resist_special_blocking_with_health_boost_and_mana"
-                ],
-                "classType": "Barbarian",
-                "aetherGift": "aether_counterattack",
                 "rarity": 4,
                 "specialId": "burning_spin",
                 "canBeReceivedDate": 819097200,
