@@ -17,7 +17,7 @@
                 "aetherGift": "aether_attack",
                 "rarity": 5,
                 "specialId": "crimson_hunt",
-                "canBeReceivedDate": 819097200,
+                "canBeReceivedDate": 819269600,
                 "origin": "AstralElves"
             },
             {
@@ -37,7 +37,7 @@
                 "aetherGift": "aether_attack",
                 "rarity": 5,
                 "specialId": "judgment_and_penance",
-                "canBeReceivedDate": 819097200,
+                "canBeReceivedDate": 819962400,
                 "origin": "AstralElves"
             },
             {
@@ -56,7 +56,7 @@
                 "aetherGift": "aether_regen",
                 "rarity": 5,
                 "specialId": "burning_wok",
-                "canBeReceivedDate": 819097200,
+                "canBeReceivedDate": 819876000,
                 "origin": "CovenantSummon"
             },
             {
@@ -75,7 +75,7 @@
                 "aetherGift": "aether_counterattack",
                 "rarity": 4,
                 "specialId": "burning_spin",
-                "canBeReceivedDate": 819097200,
+                "canBeReceivedDate": 819876000,
                 "origin": "CovenantSummon"
             },
             {
@@ -94,7 +94,7 @@
                 "aetherGift": "aether_attack",
                 "rarity": 5,
                 "specialId": "squire_strike",
-                "canBeReceivedDate": 819097200,
+                "canBeReceivedDate": 819876000,
                 "origin": "CovenantSummon"
             },
             {
@@ -114,7 +114,7 @@
                 "aetherGift": "aether_regen",
                 "rarity": 5,
                 "specialId": "righteous_revenge",
-                "canBeReceivedDate": 819097200,
+                "canBeReceivedDate": 819528000,
                 "origin": "AllianceQuestMusketeers"
             },
             {
@@ -133,7 +133,7 @@
                 "aetherGift": "aether_special_boost",
                 "rarity": 5,
                 "specialId": "piercing_shot",
-                "canBeReceivedDate": 819097200,
+                "canBeReceivedDate": 819528000,
                 "origin": "AllianceQuestMusketeers",
                 "parentHeroId": "musketeer_athos"
             },
@@ -156,7 +156,7 @@
                 "rarity": 5,
                 "specialId": "debt_drain_boboosang",
                 "origin": "SuperElemental",
-                "canBeReceivedDate": 819097200,
+                "canBeReceivedDate": 819700800,
                 "skill": "Debt Drain",
                 "source": "Super Elementals",
                 "Release date": "2025-12-14"
