@@ -2,23 +2,148 @@
     "charactersConfig": {
         "heroes": [
             {
-                "id": "titan_hunter_adelitza",
+                "id": "mahayoddha_jyoti",
                 "element": "Red",
-                "family": "titan_hunter",
-                "baseHealth": 2224,
-                "baseAttack": 1320,
-                "baseDefense": 1310,
-                "manaSpeedId": "fast",
+                "family": "mahayoddha",
+                "baseHealth": 2282,
+                "baseAttack": 1303,
+                "baseDefense": 1314,
+                "manaSpeedId": "average",
                 "passiveSkills": [
-                    "titan_hunter_hunting_flare_on_special_cast",
-                    "tile_enhancement_red_on_special_titan_hunter_parent"
+                    "resist_negative_minion_and_mega_minion_effects",
+                    "mana_on_damage_received"
                 ],
-                "classType": "Monk",
+                "classType": "Sorcerer",
+                "aetherGift": "aether_special_armor",
+                "rarity": 5,
+                "specialId": "fiery_performance",
+                "canBeReceivedDate": 820566000,
+                "origin": "Temple",
+                "Release date": "2026-01-01"
+            },
+            {
+                "id": "fire_god_andre",
+                "element": "Red",
+                "family": "hotm2026",
+                "baseHealth": 1845,
+                "baseAttack": 1233,
+                "baseDefense": 1264,
+                "manaSpeedId": "slow",
+                "passiveSkills": [
+                    "healthboost_on_enemy_special",
+                    "resist_defense_modifier_debuffs"
+                ],
+                "classType": "Paladin",
+                "aetherGift": "aether_regen",
+                "rarity": 5,
+                "specialId": "oath_of_templar",
+                "canBeReceivedDate": 820566000,
+                "origin": "MonthlyHeroJanuary2026",
+                "Release date": "2026-01-01"
+            },
+            {
+                "id": "wild_cat_catalina",
+                "element": "Red",
+                "family": "wild_cat",
+                "baseHealth": 2263,
+                "baseAttack": 1402,
+                "baseDefense": 1196,
+                "manaSpeedId": "average",
+                "passiveSkills": [
+                    "resist_all_defense_effects",
+                    "revive_chance_nine_lives"
+                ],
+                "classType": "Cleric",
                 "aetherGift": "aether_attack",
                 "rarity": 5,
-                "specialId": "crimson_hunt",
-                "canBeReceivedDate": 819269600,
-                "origin": "AstralElves"
+                "specialId": "regal_claws",
+                "canBeReceivedDate": 820393200,
+                "origin": "WildernessSummon",
+                "Release date": "2025-12-30"
+            },
+            {
+                "id": "wild_cat_tunes",
+                "element": "Yellow",
+                "family": "wild_cat",
+                "baseHealth": 1440,
+                "baseAttack": 847,
+                "baseDefense": 762,
+                "manaSpeedId": "average",
+                "passiveSkills": [
+                    "resist_all_defense_effects",
+                    "revive_chance_nine_lives"
+                ],
+                "classType": "Cleric",
+                "aetherGift": "aether_regen",
+                "rarity": 4,
+                "specialId": "ocarina_windsong",
+                "canBeReceivedDate": 820393200,
+                "origin": "WildernessSummon",
+                "Release date": "2025-12-30"
+            },
+            {
+                "id": "forsaken_inanis",
+                "element": "Yellow",
+                "family": "forsaken",
+                "baseHealth": 2202,
+                "baseAttack": 1345,
+                "baseDefense": 1293,
+                "manaSpeedId": "very_fast",
+                "passiveSkills": [
+                    "damage_increase_by_insanity"
+                ],
+                "classType": "Fighter",
+                "aetherGift": "aether_dodge",
+                "rarity": 5,
+                "specialId": "severed_seal",
+                "canBeReceivedDate": 820220400,
+                "origin": "ShadowQuest",
+                "Release date": "2025-12-28"
+            },
+            {
+                "id": "magic_carpet_jwala",
+                "element": "Red",
+                "family": "magic_carpet",
+                "baseHealth": 2263,
+                "baseAttack": 1324,
+                "baseDefense": 1289,
+                "manaSpeedId": "average",
+                "passiveSkills": [
+                    "reduce_big_minion_health",
+                    "fly_magic_carpet",
+                    "debuffs_to_buffs_on_special_cast_magic_carpet"
+                ],
+                "classType": "Barbarian",
+                "aetherGift": "aether_rage",
+                "rarity": 5,
+                "specialId": "magmatic_burns",
+                "canBeReceivedDate": 820134000,
+                "origin": "TowerMagic",
+                "Release date": "2025-12-27"
+            },
+            {
+                "id": "magic_telonius_costume_brew",
+                "element": "Green",
+                "family": "magic",
+                "baseHealth": 2286,
+                "baseAttack": 1323,
+                "baseDefense": 1271,
+                "manaSpeedId": "charge_magic",
+                "passiveSkills": [
+                    "magic_mana_regen_stack_on_special_costume",
+                    "magic_damage_on_full_charge_costume"
+                ],
+                "classType": "Sorcerer",
+                "aetherGift": "aether_defense",
+                "costumeBonusPassiveSkillIds": [
+                    "reduce_big_minion_health"
+                ],
+                "rarity": 5,
+                "specialId": "poem_of_the_centaurs",
+                "canBeReceivedDate": 820134000,
+                "origin": "TowerMagic",
+                "parentHeroId": "magic_telonius",
+                "Release date": "2025-12-27"
             },
             {
                 "id": "astral_demon_turundh",
@@ -37,8 +162,9 @@
                 "aetherGift": "aether_attack",
                 "rarity": 5,
                 "specialId": "judgment_and_penance",
-                "canBeReceivedDate": 819962400,
-                "origin": "AstralElves"
+                "canBeReceivedDate": 819874800,
+                "origin": "AstralElves",
+                "Release date": "2025-12-24"
             },
             {
                 "id": "construct_sizzleomatic",
@@ -56,8 +182,9 @@
                 "aetherGift": "aether_regen",
                 "rarity": 5,
                 "specialId": "burning_wok",
-                "canBeReceivedDate": 819876000,
-                "origin": "CovenantSummon"
+                "canBeReceivedDate": 819788400,
+                "origin": "CovenantSummon",
+                "Release date": "2025-12-23"
             },
             {
                 "id": "construct_hotspin",
@@ -75,8 +202,9 @@
                 "aetherGift": "aether_counterattack",
                 "rarity": 4,
                 "specialId": "burning_spin",
-                "canBeReceivedDate": 819876000,
-                "origin": "CovenantSummon"
+                "canBeReceivedDate": 819788400,
+                "origin": "CovenantSummon",
+                "Release date": "2025-12-23"
             },
             {
                 "id": "construct_ironvein",
@@ -92,50 +220,11 @@
                 ],
                 "classType": "Fighter",
                 "aetherGift": "aether_attack",
-                "rarity": 5,
+                "rarity": 3,
                 "specialId": "squire_strike",
-                "canBeReceivedDate": 819876000,
-                "origin": "CovenantSummon"
-            },
-            {
-                "id": "beauty_beast_dominique",
-                "element": "Blue",
-                "family": "beauty_beast",
-                "baseHealth": 2263,
-                "baseAttack": 1330,
-                "baseDefense": 1271,
-                "manaSpeedId": "fast",
-                "passiveSkills": [
-                    "convert_incoming_damage_to_heal",
-                    "heal_on_expired_or_cleared_debuff",
-                    "reduce_revival_health_all_enemies"
-                ],
-                "classType": "Fighter",
-                "aetherGift": "aether_regen",
-                "rarity": 5,
-                "specialId": "righteous_revenge",
-                "canBeReceivedDate": 819528000,
-                "origin": "AllianceQuestMusketeers"
-            },
-            {
-                "id": "musketeer_athos_costume_farrier",
-                "element": "Green",
-                "family": "musketeer",
-                "baseHealth": 2483,
-                "baseAttack": 1332,
-                "baseDefense": 1142,
-                "manaSpeedId": "very_fast",
-                "passiveSkills": [
-                    "damage_all_enemies_on_cover_or_special_damage_received_costume",
-                    "resist_defense_modifier_debuffs"
-                ],
-                "classType": "Fighter",
-                "aetherGift": "aether_special_boost",
-                "rarity": 5,
-                "specialId": "piercing_shot",
-                "canBeReceivedDate": 819528000,
-                "origin": "AllianceQuestMusketeers",
-                "parentHeroId": "musketeer_athos"
+                "canBeReceivedDate": 819788400,
+                "origin": "CovenantSummon",
+                "Release date": "2025-12-23"
             },
             {
                 "name": "Boboo Sang",
@@ -156,10 +245,72 @@
                 "rarity": 5,
                 "specialId": "debt_drain_boboosang",
                 "origin": "SuperElemental",
-                "canBeReceivedDate": 819700800,
+                "canBeReceivedDate": 819615600,
                 "skill": "Debt Drain",
                 "source": "Super Elementals",
-                "Release date": "2025-12-14"
+                "Release date": "2025-12-21"
+            },
+            {
+                "id": "beauty_beast_dominique",
+                "element": "Blue",
+                "family": "beauty_beast",
+                "baseHealth": 2263,
+                "baseAttack": 1330,
+                "baseDefense": 1271,
+                "manaSpeedId": "fast",
+                "passiveSkills": [
+                    "convert_incoming_damage_to_heal",
+                    "heal_on_expired_or_cleared_debuff",
+                    "reduce_revival_health_all_enemies"
+                ],
+                "classType": "Fighter",
+                "aetherGift": "aether_regen",
+                "rarity": 5,
+                "specialId": "righteous_revenge",
+                "canBeReceivedDate": 819356400,
+                "origin": "AllianceQuestMusketeers",
+                "Release date": "2025-12-18"
+            },
+            {
+                "id": "musketeer_athos_costume_farrier",
+                "element": "Green",
+                "family": "musketeer",
+                "baseHealth": 2483,
+                "baseAttack": 1332,
+                "baseDefense": 1142,
+                "manaSpeedId": "very_fast",
+                "passiveSkills": [
+                    "damage_all_enemies_on_cover_or_special_damage_received_costume",
+                    "resist_defense_modifier_debuffs"
+                ],
+                "classType": "Fighter",
+                "aetherGift": "aether_special_boost",
+                "rarity": 5,
+                "specialId": "piercing_shot",
+                "canBeReceivedDate": 819356400,
+                "origin": "AllianceQuestMusketeers",
+                "parentHeroId": "musketeer_athos",
+                "Release date": "2025-12-18"
+            },
+            {
+                "id": "titan_hunter_adelitza",
+                "element": "Red",
+                "family": "titan_hunter",
+                "baseHealth": 2224,
+                "baseAttack": 1320,
+                "baseDefense": 1310,
+                "manaSpeedId": "fast",
+                "passiveSkills": [
+                    "titan_hunter_hunting_flare_on_special_cast",
+                    "tile_enhancement_red_on_special_titan_hunter_parent"
+                ],
+                "classType": "Monk",
+                "aetherGift": "aether_attack",
+                "rarity": 5,
+                "specialId": "crimson_hunt",
+                "canBeReceivedDate": 819183600,
+                "origin": "TitanHunters",
+                "Release date": "2025-12-16"
             },
             {
                 "name": "Lin Chong",
@@ -181,10 +332,10 @@
                 "rarity": 5,
                 "specialId": "punishing_strike",
                 "origin": "KingdomWar",
-                "canBeReceivedDate": 819097200,
+                "canBeReceivedDate": 818924400,
                 "skill": "Punishing Strike",
                 "source": "Three Kingdoms Summon",
-                "Release date": "2025-12-14"
+                "Release date": "2025-12-13"
             },
             {
                 "name": "Kadilen Glass",
