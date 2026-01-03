@@ -17,7 +17,7 @@
                 "aetherGift": "aether_special_armor",
                 "rarity": 5,
                 "specialId": "fiery_performance",
-                "canBeReceivedDate": 820563600,
+                "canBeReceivedDate": 820566000,
                 "origin": "Temple",
                 "Release date": "2026-01-01"
             },
@@ -37,7 +37,7 @@
                 "aetherGift": "aether_regen",
                 "rarity": 5,
                 "specialId": "oath_of_templar",
-                "canBeReceivedDate": 820563600,
+                "canBeReceivedDate": 820566000,
                 "origin": "MonthlyHeroJanuary2026",
                 "Release date": "2026-01-01"
             },
@@ -57,7 +57,7 @@
                 "aetherGift": "aether_attack",
                 "rarity": 5,
                 "specialId": "regal_claws",
-                "canBeReceivedDate": 820391400,
+                "canBeReceivedDate": 820393200,
                 "origin": "WildernessSummon",
                 "Release date": "2025-12-30"
             },
@@ -77,7 +77,7 @@
                 "aetherGift": "aether_regen",
                 "rarity": 4,
                 "specialId": "ocarina_windsong",
-                "canBeReceivedDate": 820391400,
+                "canBeReceivedDate": 820393200,
                 "origin": "WildernessSummon",
                 "Release date": "2025-12-30"
             },
@@ -96,7 +96,7 @@
                 "aetherGift": "aether_dodge",
                 "rarity": 5,
                 "specialId": "severed_seal",
-                "canBeReceivedDate": 819218400,
+                "canBeReceivedDate": 820220400,
                 "origin": "ShadowQuest",
                 "Release date": "2025-12-28"
             },
@@ -117,7 +117,7 @@
                 "aetherGift": "aether_rage",
                 "rarity": 5,
                 "specialId": "magmatic_burns",
-                "canBeReceivedDate": 819138000,
+                "canBeReceivedDate": 820134000,
                 "origin": "TowerMagic",
                 "Release date": "2025-12-27"
             },
@@ -140,7 +140,7 @@
                 ],
                 "rarity": 5,
                 "specialId": "poem_of_the_centaurs",
-                "canBeReceivedDate": 819138000,
+                "canBeReceivedDate": 820134000,
                 "origin": "TowerMagic",
                 "parentHeroId": "magic_telonius",
                 "Release date": "2025-12-27"
@@ -182,7 +182,7 @@
                 "aetherGift": "aether_regen",
                 "rarity": 5,
                 "specialId": "burning_wok",
-                "canBeReceivedDate": 818967600,
+                "canBeReceivedDate": 819788400,
                 "origin": "CovenantSummon",
                 "Release date": "2025-12-23"
             },
@@ -202,7 +202,7 @@
                 "aetherGift": "aether_counterattack",
                 "rarity": 4,
                 "specialId": "burning_spin",
-                "canBeReceivedDate": 818967600,
+                "canBeReceivedDate": 819788400,
                 "origin": "CovenantSummon",
                 "Release date": "2025-12-23"
             },
@@ -222,7 +222,7 @@
                 "aetherGift": "aether_attack",
                 "rarity": 3,
                 "specialId": "squire_strike",
-                "canBeReceivedDate": 818967600,
+                "canBeReceivedDate": 819788400,
                 "origin": "CovenantSummon",
                 "Release date": "2025-12-23"
             },
@@ -245,7 +245,7 @@
                 "rarity": 5,
                 "specialId": "debt_drain_boboosang",
                 "origin": "SuperElemental",
-                "canBeReceivedDate": 818863600,
+                "canBeReceivedDate": 819615600,
                 "skill": "Debt Drain",
                 "source": "Super Elementals",
                 "Release date": "2025-12-21"
@@ -267,7 +267,7 @@
                 "aetherGift": "aether_regen",
                 "rarity": 5,
                 "specialId": "righteous_revenge",
-                "canBeReceivedDate": 819323600,
+                "canBeReceivedDate": 819356400,
                 "origin": "AllianceQuestMusketeers",
                 "Release date": "2025-12-18"
             },
@@ -287,7 +287,7 @@
                 "aetherGift": "aether_special_boost",
                 "rarity": 5,
                 "specialId": "piercing_shot",
-                "canBeReceivedDate": 819323600,
+                "canBeReceivedDate": 819356400,
                 "origin": "AllianceQuestMusketeers",
                 "parentHeroId": "musketeer_athos",
                 "Release date": "2025-12-18"
