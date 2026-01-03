@@ -2,6 +2,143 @@
     "charactersConfig": {
         "heroes": [
             {
+                "id": "mahayoddha_jyoti",
+                "element": "Red",
+                "family": "mahayoddha",
+                "baseHealth": 2282,
+                "baseAttack": 1303,
+                "baseDefense": 1314,
+                "manaSpeedId": "average",
+                "passiveSkills": [
+                    "resist_negative_minion_and_mega_minion_effects",
+                    "mana_on_damage_received"
+                ],
+                "classType": "Sorcerer",
+                "aetherGift": "aether_special_armor",
+                "rarity": 5,
+                "specialId": "fiery_performance",
+                "canBeReceivedDate": 820824000,
+                "origin": "Temple"
+            },
+            {
+                "id": "fire_god_andre",
+                "element": "Red",
+                "family": "hotm2026",
+                "baseHealth": 1845,
+                "baseAttack": 1233,
+                "baseDefense": 1264,
+                "manaSpeedId": "slow",
+                "passiveSkills": [
+                    "healthboost_on_enemy_special",
+                    "resist_defense_modifier_debuffs"
+                ],
+                "classType": "Paladin",
+                "aetherGift": "aether_regen",
+                "rarity": 5,
+                "specialId": "oath_of_templar",
+                "canBeReceivedDate": 820824000,
+                "origin": "MonthlyHeroJanuary2026"
+            },
+            {
+                "id": "wild_cat_catalina",
+                "element": "Red",
+                "family": "wild_cat",
+                "baseHealth": 2263,
+                "baseAttack": 1402,
+                "baseDefense": 1196,
+                "manaSpeedId": "average",
+            "passiveSkills": [
+                "resist_all_defense_effects",
+                "revive_chance_nine_lives"
+            ],
+                "classType": "Cleric",
+                "aetherGift": "aether_attack",
+                "rarity": 5,
+                "specialId": "regal_claws",
+                "canBeReceivedDate": 820479600,
+                "origin": "WildernessSummon"
+            },
+            {
+                "id": "wild_cat_tunes",
+                "element": "Yellow",
+                "family": "wild_cat",
+                "baseHealth": 1440,
+                "baseAttack": 847,
+                "baseDefense": 762,
+                "manaSpeedId": "average",
+            "passiveSkills": [
+                "resist_all_defense_effects",
+                "revive_chance_nine_lives"
+            ],
+                "classType": "Cleric",
+                "aetherGift": "aether_regen",
+                "rarity": 4,
+                "specialId": "ocarina_windsong",
+                "canBeReceivedDate": 820479600,
+                "origin": "WildernessSummon"
+            },
+            {
+                "id": "forsaken_inanis",
+                "element": "Yellow",
+                "family": "forsaken",
+                "baseHealth": 2202,
+                "baseAttack": 1345,
+                "baseDefense": 1293,
+                "manaSpeedId": "very_fast",
+                "passiveSkills": [
+                    "damage_increase_by_insanity"
+                ],
+                "classType": "Fighter",
+                "aetherGift": "aether_dodge",
+                "rarity": 5,
+                "specialId": "severed_seal",
+                "canBeReceivedDate": 820306800,
+                "origin": "ShadowQuest"
+            },
+            {
+                "id": "magic_carpet_jwala",
+                "element": "Red",
+                "family": "magic_carpet",
+                "baseHealth": 2263,
+                "baseAttack": 1324,
+                "baseDefense": 1289,
+                "manaSpeedId": "average",
+                "passiveSkills": [
+                    "reduce_big_minion_health",
+                    "fly_magic_carpet",
+                    "debuffs_to_buffs_on_special_cast_magic_carpet"
+                ],
+                "classType": "Barbarian",
+                "aetherGift": "aether_rage",
+                "rarity": 5,
+                "specialId": "magmatic_burns",
+                "canBeReceivedDate": 820220400,
+                "origin": "TowerMagic"
+            },
+            {
+                "id": "magic_telonius_costume_brew",
+                "element": "Green",
+                "family": "magic",
+                "baseHealth": 2286,
+                "baseAttack": 1323,
+                "baseDefense": 1271,
+                "manaSpeedId": "charge_magic",
+                "passiveSkills": [
+                    "magic_mana_regen_stack_on_special_costume",
+                    "magic_damage_on_full_charge_costume"
+                ],
+                "classType": "Sorcerer",
+                "aetherGift": "aether_defense",
+                "costumeBonusPassiveSkillIds": [
+                    "reduce_big_minion_health"
+                ],
+                "rarity": 5,
+                "specialId": "poem_of_the_centaurs",
+                "canBeReceivedDate": 820220400,
+                "origin": "TowerMagic",
+                "parentHeroId": "magic_telonius"
+            },
+            {
                 "id": "titan_hunter_adelitza",
                 "element": "Red",
                 "family": "titan_hunter",
@@ -18,7 +155,7 @@
                 "rarity": 5,
                 "specialId": "crimson_hunt",
                 "canBeReceivedDate": 819269600,
-                "origin": "AstralElves"
+                "origin": "TitanHunters"
             },
             {
                 "id": "astral_demon_turundh",
@@ -92,7 +229,7 @@
                 ],
                 "classType": "Fighter",
                 "aetherGift": "aether_attack",
-                "rarity": 5,
+                "rarity": 3,
                 "specialId": "squire_strike",
                 "canBeReceivedDate": 819876000,
                 "origin": "CovenantSummon"
