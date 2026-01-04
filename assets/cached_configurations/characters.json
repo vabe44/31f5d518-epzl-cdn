@@ -1,6 +1,26 @@
 {
     "charactersConfig": {
         "heroes": [
+                        {
+                "id": "elemental_anzia_costume_jailer",
+                "element": "Blue",
+                "family": "super_elemental",
+                "baseHealth": 2676,
+                "baseAttack": 1200,
+                "baseDefense": 1236,
+                "manaSpeedId": "average",
+                "passiveSkills": [
+                    "strong_troop_damage_modifier_costume"
+                ],
+                "classType": "Monk",
+                "aetherGift": "aether_regen",
+                "rarity": 5,
+                "specialId": "radiant_comeback",
+                "canBeReceivedDate": 820652400,
+                "origin": "SuperElemental",
+                "parentHeroId": "elemental_anzia",
+                "Release date": "2026-01-02"
+            },
             {
                 "id": "mahayoddha_jyoti",
                 "element": "Red",
