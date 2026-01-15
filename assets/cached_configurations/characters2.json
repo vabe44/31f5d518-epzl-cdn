@@ -18,7 +18,7 @@
                 "aetherGift": "aether_attack",
                 "rarity": 5,
                 "specialId": "double_strike",
-                "canBeReceivedDate": 820652401,
+                "canBeReceivedDate": 821602800,
                 "origin": "KingdomWar"
             },
             {
@@ -36,7 +36,7 @@
                 "aetherGift": "aether_special_boost",
                 "rarity": 5,
                 "specialId": "volatile_crystal_conduit",
-                "canBeReceivedDate": 820652401,
+                "canBeReceivedDate": 821430000,
                 "origin": "ShadowQuest"
             },
             {
@@ -56,7 +56,7 @@
                 "aetherGift": "aether_defense",
                 "rarity": 5,
                 "specialId": "generous_gifts",
-                "canBeReceivedDate": 820652401,
+                "canBeReceivedDate": 821257200,
                 "origin": "RecurringBeowulf"
             },
             {
@@ -75,7 +75,7 @@
                 "aetherGift": "aether_bulwark",
                 "rarity": 5,
                 "specialId": "aether_mimic_bite_yellow",
-                "canBeReceivedDate": 820652401,
+                "canBeReceivedDate": 820998000,
                 "origin": "SecretSummonAetherMimicYellow",
                 "forceUseCostumeLevelUpAndUpgradeCosts": true
             },
@@ -95,7 +95,7 @@
                 "aetherGift": "aether_rage",
                 "rarity": 5,
                 "specialId": "first_frost",
-                "canBeReceivedDate": 820652401,
+                "canBeReceivedDate": 820911600,
                 "origin": "MonsterIsland1",
                 "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
             },
