@@ -2,6 +2,66 @@
     "charactersConfig": {
         "heroes": [
             {
+                "id": "nordic_male_lord_costume_stylish",
+                "element": "Red",
+                "family": "classic",
+                "baseHealth": 2362,
+                "baseAttack": 1417,
+                "baseDefense": 1253,
+                "manaSpeedId": "slow",
+                "passiveSkills": [
+                    "stylish"
+                ],
+                "classType": "Barbarian",
+                "hasImprovedTalentSkill": true,
+                "aetherGift": "aether_rage",
+                "rarity": 5,
+                "specialId": "stylish_eruption",
+                "canBeReceivedDate": 821862000,
+                "origin": "Season1",
+                "parentHeroId": "nordic_male_lord"
+            },
+            {
+                "id": "cultist_sorceress_costume_stylish",
+                "element": "Purple",
+                "family": "classic",
+                "baseHealth": 2572,
+                "baseAttack": 1310,
+                "baseDefense": 1280,
+                "manaSpeedId": "fast",
+                "passiveSkills": [
+                    "stylish"
+                ],
+                "classType": "Wizard",
+                "hasImprovedTalentSkill": true,
+                "aetherGift": "aether_dodge",
+                "rarity": 5,
+                "specialId": "stylish_strike",
+                "canBeReceivedDate": 821862000,
+                "origin": "Season1",
+                "parentHeroId": "cultist_sorceress"
+            },
+            {
+                "id": "nordic_male_lord_costume_stylish",
+                "element": "Blue",
+                "family": "classic",
+                "baseHealth": 2496,
+                "baseAttack": 1375,
+                "baseDefense": 1211,
+                "manaSpeedId": "average",
+                "passiveSkills": [
+                    "stylish"
+                ],
+                "classType": "Paladin",
+                "hasImprovedTalentSkill": true,
+                "aetherGift": "aether_attack",
+                "rarity": 5,
+                "specialId": "champagne_hammer",
+                "canBeReceivedDate": 821862000,
+                "origin": "Season1",
+                "parentHeroId": "nordic_male_lord"
+            },
+            {
                 "id": "oriental_female_mystic_costume_stylish",
                 "element": "Yellow",
                 "family": "classic",
