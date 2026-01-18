@@ -17,7 +17,7 @@
                 "aetherGift": "aether_rage",
                 "rarity": 4,
                 "specialId": "stylish_pulverizer",
-                "canBeReceivedDate": 821862000,
+                "canBeReceivedDate": 821084400,
                 "origin": "Season1",
                 "parentHeroId": "nordic_ancestral_warrior"
             },
@@ -37,7 +37,7 @@
                 "aetherGift": "aether_heal_increase",
                 "rarity": 4,
                 "specialId": "glass_warcry",
-                "canBeReceivedDate": 821862000,
+                "canBeReceivedDate": 821084400,
                 "origin": "Season1",
                 "parentHeroId": "orc_gladiator"
             },
@@ -57,7 +57,7 @@
                 "aetherGift": "aether_attack",
                 "rarity": 3,
                 "specialId": "stylish_chop",
-                "canBeReceivedDate": 821862000,
+                "canBeReceivedDate": 821084400,
                 "origin": "Season1",
                 "parentHeroId": "oriental_panda_berserker"
             },
@@ -77,7 +77,7 @@
                 "aetherGift": "aether_defense",
                 "rarity": 3,
                 "specialId": "stylish_fireball",
-                "canBeReceivedDate": 821862000,
+                "canBeReceivedDate": 821084400,
                 "origin": "Season1",
                 "parentHeroId": "nomad_mage"
             },
@@ -97,7 +97,7 @@
                 "aetherGift": "aether_rage",
                 "rarity": 5,
                 "specialId": "stylish_eruption",
-                "canBeReceivedDate": 821862000,
+                "canBeReceivedDate": 821084400,
                 "origin": "Season1",
                 "parentHeroId": "nordic_male_lord"
             },
@@ -117,7 +117,7 @@
                 "aetherGift": "aether_dodge",
                 "rarity": 5,
                 "specialId": "stylish_strike",
-                "canBeReceivedDate": 821862000,
+                "canBeReceivedDate": 821084400,
                 "origin": "Season1",
                 "parentHeroId": "cultist_sorceress"
             },
@@ -137,7 +137,7 @@
                 "aetherGift": "aether_attack",
                 "rarity": 5,
                 "specialId": "champagne_hammer",
-                "canBeReceivedDate": 821862000,
+                "canBeReceivedDate": 821084400,
                 "origin": "Season1",
                 "parentHeroId": "nordic_male_lord"
             },
@@ -157,7 +157,7 @@
                 "aetherGift": "aether_defense",
                 "rarity": 5,
                 "specialId": "stylish_heal",
-                "canBeReceivedDate": 821862000,
+                "canBeReceivedDate": 821084400,
                 "origin": "Season1",
                 "parentHeroId": "oriental_female_mystic"
             },
