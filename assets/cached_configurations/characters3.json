@@ -2,6 +2,86 @@
     "charactersConfig": {
         "heroes": [
             {
+                "id": "nordic_ancestral_warrior_costume_stylish",
+                "element": "Blue",
+                "family": "classic",
+                "baseHealth": 1488,
+                "baseAttack": 925,
+                "baseDefense": 704,
+                "manaSpeedId": "average",
+                "passiveSkills": [
+                    "stylish"
+                ],
+                "classType": "Barbarian",
+                "hasImprovedTalentSkill": true,
+                "aetherGift": "aether_rage",
+                "rarity": 4,
+                "specialId": "stylish_pulverizer",
+                "canBeReceivedDate": 821862000,
+                "origin": "Season1",
+                "parentHeroId": "nordic_ancestral_warrior"
+            },
+            {
+                "id": "orc_gladiator_costume_stylish",
+                "element": "Red",
+                "family": "classic",
+                "baseHealth": 1428,
+                "baseAttack": 770,
+                "baseDefense": 936,
+                "manaSpeedId": "average",
+                "passiveSkills": [
+                    "stylish"
+                ],
+                "classType": "Fighter",
+                "hasImprovedTalentSkill": true,
+                "aetherGift": "aether_heal_increase",
+                "rarity": 4,
+                "specialId": "glass_warcry",
+                "canBeReceivedDate": 821862000,
+                "origin": "Season1",
+                "parentHeroId": "orc_gladiator"
+            },
+            {
+                "id": "oriental_panda_berserker_costume_stylish",
+                "element": "Yellow",
+                "family": "classic",
+                "baseHealth": 1068,
+                "baseAttack": 593,
+                "baseDefense": 454,
+                "manaSpeedId": "fast",
+                "passiveSkills": [
+                    "stylish"
+                ],
+                "classType": "Monk",
+                "hasImprovedTalentSkill": true,
+                "aetherGift": "aether_attack",
+                "rarity": 3,
+                "specialId": "stylish_chop",
+                "canBeReceivedDate": 821862000,
+                "origin": "Season1",
+                "parentHeroId": "oriental_panda_berserker"
+            },
+            {
+                "id": "nomad_mage_costume_stylish",
+                "element": "Red",
+                "family": "classic",
+                "baseHealth": 887,
+                "baseAttack": 608,
+                "baseDefense": 519,
+                "manaSpeedId": "slow",
+                "passiveSkills": [
+                    "stylish"
+                ],
+                "classType": "Sorcerer",
+                "hasImprovedTalentSkill": true,
+                "aetherGift": "aether_defense",
+                "rarity": 3,
+                "specialId": "stylish_fireball",
+                "canBeReceivedDate": 821862000,
+                "origin": "Season1",
+                "parentHeroId": "nomad_mage"
+            },
+            {
                 "id": "lionman_barbarian_costume_stylish",
                 "element": "Red",
                 "family": "classic",
