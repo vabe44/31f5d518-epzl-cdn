@@ -2,6 +2,143 @@
     "charactersConfig": {
         "heroes": [
             {
+                "id": "wild_cat_gitnib",
+                "element": "Blue",
+                "family": "wild_cat",
+                "baseHealth": 2280,
+                "baseAttack": 1380,
+                "baseDefense": 1236,
+                "manaSpeedId": "slow",
+                "passiveSkills": [
+                    "resist_all_defense_effects",
+                    "revive_chance_nine_lives"
+                ],
+                "classType": "Monk",
+                "aetherGift": "aether_regen",
+                "rarity": 5,
+                "specialId": "the_piranha_incident",
+                "canBeReceivedDate": 822207600,
+                "origin": "WildernessSummon"
+            },
+            {
+                "id": "valentines_vernon",
+                "element": "Green",
+                "family": "cupid",
+                "baseHealth": 2278,
+                "baseAttack": 1318,
+                "baseDefense": 1314,
+                "manaSpeedId": "fast",
+                "passiveSkills": [
+                    "resist_special_blocking"
+                ],
+                "classType": "Fighter",
+                "aetherGift": "aether_special_boost",
+                "rarity": 5,
+                "specialId": "shared_compassion",
+                "canBeReceivedDate": 822121200,
+                "origin": "ValentinesSeasonal",
+                "costumeBonusesId": "valentines"
+            },
+            {
+                "id": "valentines_lempi",
+                "element": "Blue",
+                "family": "cupid",
+                "baseHealth": 2284,
+                "baseAttack": 1306,
+                "baseDefense": 1326,
+                "manaSpeedId": "very_fast",
+                "passiveSkills": [
+                    "resist_special_blocking"
+                ],
+                "classType": "Sorcerer",
+                "aetherGift": "aether_attack",
+                "rarity": 5,
+                "specialId": "rime_heart",
+                "canBeReceivedDate": 822121200,
+                "origin": "ValentinesSeasonal",
+                "costumeBonusesId": "valentines"
+            },
+            {
+                "id": "valentines_cupido_costume_flame",
+                "element": "Red",
+                "family": "cupid",
+                "baseHealth": 2410,
+                "baseAttack": 1312,
+                "baseDefense": 1251,
+                "manaSpeedId": "average",
+                "passiveSkills": [
+                    "resist_special_blocking"
+                ],
+                "classType": "Fighter",
+                "aetherGift": "aether_rage",
+                "rarity": 5,
+                "specialId": "passion_conquers_all",
+                "canBeReceivedDate": 822121200,
+                "origin": "ValentinesSeasonal",
+                "costumeBonusesId": "valentines",
+                "parentHeroId": "valentines_cupido"
+            },
+            {
+                "id": "valentines_voluptas_costume_paint",
+                "element": "Yellow",
+                "family": "cupid",
+                "baseHealth": 1637,
+                "baseAttack": 769,
+                "baseDefense": 762,
+                "manaSpeedId": "average",
+                "passiveSkills": [
+                    "resist_special_blocking"
+                ],
+                "classType": "Ranger",
+                "aetherGift": "aether_special_armor",
+                "rarity": 4,
+                "specialId": "hues_of_love",
+                "canBeReceivedDate": 822121200,
+                "origin": "ValentinesSeasonal",
+                "costumeBonusesId": "valentines",
+                "parentHeroId": "valentines_voluptas"
+            },
+            {
+                "id": "valentines_zarola_costume_cowboy",
+                "element": "Green",
+                "family": "cupid",
+                "baseHealth": 782,
+                "baseAttack": 615,
+                "baseDefense": 533,
+                "manaSpeedId": "fast",
+                "passiveSkills": [
+                    "resist_special_blocking"
+                ],
+                "classType": "Cleric",
+                "aetherGift": "aether_attack",
+                "rarity": 3,
+                "specialId": "lasso_of_love",
+                "canBeReceivedDate": 822121200,
+                "origin": "ValentinesSeasonal",
+                "costumeBonusesId": "valentines",
+                "parentHeroId": "valentines_zarola"
+            },
+            {
+                "id": "magic_carpet_crustee",
+                "element": "Green",
+                "family": "magic_carpet",
+                "baseHealth": 2263,
+                "baseAttack": 1318,
+                "baseDefense": 1320,
+                "manaSpeedId": "average",
+                "passiveSkills": [
+                    "reduce_big_minion_health",
+                    "fly_magic_carpet",
+                    "buffs_to_debuffs_on_special_cast_magic_carpet"
+                ],
+                "classType": "Wizard",
+                "aetherGift": "aether_special_boost",
+                "rarity": 5,
+                "specialId": "juggling_trials",
+                "canBeReceivedDate": 822034800,
+                "origin": "TowerMagic"
+            },
+            {
                 "id": "nordic_ancestral_warrior_costume_stylish",
                 "element": "Blue",
                 "family": "classic",
