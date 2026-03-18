@@ -1,6 +1,22 @@
 {
     "giveawayVideos": [
         {
+            "id": "archon-1",
+            "creator": "Archon",
+            "title": "Giveaway #19",
+            "url": "https://youtube.com/watch?v=9PgV-GNDfPM",
+            "status": "live",
+            "date": "2026-03-18",
+            "lang": "German",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-archon.webp",
+            "instructions": [
+                "Comment on the video stating which of the two new heroes (Embertail or Sproutwhisker) you like better and why.",
+                "Subscribe to the channel to avoid missing the winners announcement video.",
+                "10 winners will be selected per video using a random number generator.",
+                "Entries for this video are accepted for 24 hours after release."
+            ]
+        },
+        {
             "id": "zane-2",
             "creator": "Zanemarossi",
             "title": "Giveaway #18",
