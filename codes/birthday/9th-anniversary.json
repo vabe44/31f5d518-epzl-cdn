@@ -1,6 +1,22 @@
 {
     "giveawayVideos": [
         {
+            "id": "mcnaulty-2",
+            "creator": "McNaulty",
+            "title": "Giveaway #21 (Part 2)",
+            "url": "https://youtube.com/watch?v=MLnWK4wc0Zo",
+            "status": "live",
+            "date": "2026-03-18",
+            "lang": "English",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-mcnaulty.webp",
+            "instructions": [
+                "Comment on the video using the word 'Cake' in your sentence (the funnier the better!).",
+                "Only one comment per person is allowed to keep the draw fair.",
+                "You must have Discord or Line installed to be eligible to receive your code.",
+                "10 winners will receive 999 Gems, 3x Master Trainers, and a Tome of Golden Emblems (3x Golden Emblems)."
+            ]
+        },
+        {
             "id": "general-j-1",
             "creator": "General J",
             "title": "Giveaway #20",
