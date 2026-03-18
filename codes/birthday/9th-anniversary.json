@@ -1,6 +1,22 @@
 {
     "giveawayVideos": [
         {
+            "id": "combonator-1",
+            "creator": "Combonator",
+            "title": "Giveaway #10",
+            "url": "https://youtube.com/watch?v=MRWRGN75xwY",
+            "status": "live",
+            "date": "2026-03-18",
+            "lang": "English",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-combonator.webp",
+            "instructions": [
+                "Comment on the video stating which 3 heroes you are choosing as selectable featured heroes (or which 3 you'd want most).",
+                "10 winners will be selected randomly from the comments tomorrow.",
+                "Winners will receive a gift code (999 Gems, 3x Rare Master Trainers, 1x Tome of Golden Emblems).",
+                "Contact Combonator via Line (combonator_ep) or Discord (combonator_ep) if you win."
+            ]
+        },
+        {
             "id": "tyricon-1",
             "creator": "Tyricon + Alexa",
             "title": "Giveaway #9",
