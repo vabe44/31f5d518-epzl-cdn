@@ -1,9 +1,25 @@
 {
     "giveawayVideos": [
         {
+            "id": "zane-2",
+            "creator": "Zanemarossi",
+            "title": "Giveaway #18",
+            "url": "https://youtube.com/watch?v=ENFB-e7bT3I",
+            "status": "live",
+            "date": "2026-03-18",
+            "lang": "French",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-zane.webp",
+            "instructions": [
+                "This video announces the first 10 winners (2 from her alliance, 8 from comments).",
+                "If you are among the winners (Jérôme 4509, Aeromatic, Pacuch, etc.), contact Zanemarossi via Line or Discord (Ananarossi) to claim your code.",
+                "Winners receive 999 Gems, 3x Trainer Troops, and 1x Tome of Golden Emblems.",
+                "Daily draws continue for the remaining 40 codes—keep commenting on her first video to participate."
+            ]
+        },
+        {
             "id": "wiamz-2",
             "creator": "Wiamz",
-            "title": "Giveaway #17 (Winners Part 2)",
+            "title": "Giveaway #17",
             "url": "https://youtube.com/watch?v=xS3dtLPGCIw",
             "status": "live",
             "date": "2026-03-18",
@@ -19,7 +35,7 @@
         {
             "id": "wiamz-1",
             "creator": "Wiamz",
-            "title": "Giveaway #16 (Winners Part 1)",
+            "title": "Giveaway #16",
             "url": "https://youtube.com/watch?v=1cJAG6VpRwY",
             "status": "live",
             "date": "2026-03-18",
