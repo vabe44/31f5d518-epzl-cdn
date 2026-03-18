@@ -1,6 +1,22 @@
 {
     "giveawayVideos": [
         {
+            "id": "tyricon-1",
+            "creator": "Tyricon",
+            "title": "Giveaway #9",
+            "url": "https://www.youtube.com/watch?v=YButiTJOZSM",
+            "status": "live",
+            "date": "2026-03-18",
+            "lang": "German",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-tyricon.webp",
+            "instructions": [
+                "Comment on the video stating your favorite area or event in the game (e.g., War, Titans, etc.).",
+                "10 winners will be selected from the comments after 24 hours.",
+                "Winners will receive a code for 999 Gems, 3x Rare Master Trainers, and 1x Tome of Golden Emblems.",
+                "Contact Tyricon via Discord (tyr1con) or Line (tyr1con) if you win."
+            ]
+        },
+        {
             "id": "lego-2",
             "creator": "LegoKostya",
             "title": "Giveaway #8",
