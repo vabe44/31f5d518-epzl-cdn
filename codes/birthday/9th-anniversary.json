@@ -1,9 +1,25 @@
 {
     "giveawayVideos": [
         {
+            "id": "lego-2",
+            "creator": "LegoKostya",
+            "title": "Giveaway #8",
+            "url": "https://www.youtube.com/watch?v=j-XpwyoxuZQ",
+            "status": "live",
+            "date": "2026-03-18",
+            "lang": "Russian",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-legokostya.webp",
+            "instructions": [
+                "This is the second video of the anniversary series. Watch carefully for hidden 'Easter eggs'!",
+                "Remaining prizes will be raffled among the most attentive viewers who find these Easter eggs.",
+                "The main story contest from his first video is still active—see his pinned comment for the link.",
+                "Ensure you are subscribed to both his YouTube and Telegram channels to be eligible."
+            ]
+        },
+        {
             "id": "mcnaulty-1",
             "creator": "McNaulty",
-            "title": "Mega Gem Prize Giveaway",
+            "title": "Giveaway #7",
             "url": "https://www.youtube.com/watch?v=cAiO5cmhf8w",
             "status": "live",
             "date": "2026-03-18",
@@ -19,7 +35,7 @@
         {
             "id": "malto-1",
             "creator": "Maltodextrina",
-            "title": "Sorteio de Códigos de Aniversário",
+            "title": "Giveaway #6",
             "url": "https://www.youtube.com/watch?v=EFTsKbckQ3s",
             "status": "live",
             "date": "2026-03-18",
@@ -35,7 +51,7 @@
         {
             "id": "peque-1",
             "creator": "Peque",
-            "title": "Sorteio de 10 Códigos (Día 1)",
+            "title": "Giveaway #5",
             "url": "https://www.youtube.com/watch?v=3fzFyRs9-q8",
             "status": "live",
             "date": "2026-03-18",
@@ -51,7 +67,7 @@
         {
             "id": "fizel-1",
             "creator": "Fizel",
-            "title": "Day 1: Fire Heroes",
+            "title": "Giveaway #4",
             "url": "https://www.youtube.com/watch?v=TMNsSr9GRZQ",
             "status": "live",
             "date": "2026-03-18",
@@ -65,25 +81,9 @@
             ]
         },
         {
-            "id": "lego-2",
-            "creator": "LegoKostya",
-            "title": "Anniversary Summons & Easter Eggs",
-            "url": "https://www.youtube.com/watch?v=j-XpwyoxuZQ",
-            "status": "live",
-            "date": "2026-03-18",
-            "lang": "Russian",
-            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-legokostya.webp",
-            "instructions": [
-                "This is the second video of the anniversary series. Watch carefully for hidden 'Easter eggs'!",
-                "Remaining prizes will be raffled among the most attentive viewers who find these Easter eggs.",
-                "The main story contest from his first video is still active—see his pinned comment for the link.",
-                "Ensure you are subscribed to both his YouTube and Telegram channels to be eligible."
-            ]
-        },
-        {
             "id": "lego-1",
             "creator": "LegoKostya",
-            "title": "Anniversary Story Contest",
+            "title": "Giveaway #3",
             "url": "https://www.youtube.com/watch?v=qcApjdrNPpE",
             "status": "live",
             "date": "2026-03-18",
@@ -128,28 +128,151 @@
         }
     ],
     "initialCreators": [
-        { "name": "McNaulty", "url": "https://youtube.com/shorts/YO2LmzokBF4", "type": "video", "lang": "English", "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-mcnaulty.webp" },
-        { "name": "Wiamz", "url": "https://www.youtube.com/watch?v=mLAD0azBGfo", "type": "video", "lang": "French", "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-wiamz.webp" },
-        { "name": "LegoKostya", "url": "https://youtu.be/xwkFc2fyNME", "type": "video", "lang": "Russian", "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-legokostya.webp" },
-        { "name": "Peque", "url": "https://youtu.be/Hs8vQbda0GU", "type": "video", "lang": "Spanish", "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-peque.webp" },
-        { "name": "Fizel", "url": "https://youtube.com/shorts/1lV4p9VPU5o", "type": "video", "lang": "English", "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-fizel.webp" },
-        { "name": "Psycrowsis", "url": "https://youtu.be/nrfg1rkDjtg", "type": "video", "lang": "English", "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-psycrowsis.webp" },
-        { "name": "Archon", "url": "https://youtu.be/-1J-ozbJhPM", "type": "video", "lang": "German", "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-archon.webp" },
-        { "name": "Greeney", "url": "#", "type": "poster", "lang": "English", "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-greeny.webp" },
-        { "name": "Zanemarossi", "url": "https://youtu.be/l3O3iIwQ_lc", "type": "video", "lang": "French", "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-zane.webp" },
-        { "name": "ATG", "url": "https://youtu.be/azDOEteBkLU", "type": "video", "lang": "Ukrainian", "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-atg.webp" },
-        { "name": "General J", "url": "https://youtu.be/sFUrjMl8XgY", "type": "video", "lang": "English", "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-generalj.webp" },
-        { "name": "Mr. Chief", "url": "https://youtu.be/lA05vBbzcTs", "type": "video", "lang": "English", "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-mrchief.webp" },
-        { "name": "Pandita", "url": "#", "type": "poster", "lang": "English", "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-pandita.webp", "teaser": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/pandita-poster.jpg" },
-        { "name": "3KO Games", "url": "https://youtube.com/shorts/-WvYFFBqR04", "type": "video", "lang": "English", "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-3kogames.webp" },
-        { "name": "NAVI", "url": "https://youtu.be/LFP0bkYkcEg", "type": "video", "lang": "Polish", "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-navi.webp" },
-        { "name": "Combonator", "url": "https://youtu.be/1xrJxJ2NleU", "type": "video", "lang": "English", "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-combonator.webp" },
-        { "name": "TYRICON", "url": "#", "type": "poster", "lang": "English", "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-tyricon.webp" }
+        {
+            "name": "McNaulty",
+            "url": "https://youtube.com/shorts/YO2LmzokBF4",
+            "type": "video",
+            "lang": "English",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-mcnaulty.webp"
+        },
+        {
+            "name": "Wiamz",
+            "url": "https://www.youtube.com/watch?v=mLAD0azBGfo",
+            "type": "video",
+            "lang": "French",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-wiamz.webp"
+        },
+        {
+            "name": "LegoKostya",
+            "url": "https://youtu.be/xwkFc2fyNME",
+            "type": "video",
+            "lang": "Russian",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-legokostya.webp"
+        },
+        {
+            "name": "Peque",
+            "url": "https://youtu.be/Hs8vQbda0GU",
+            "type": "video",
+            "lang": "Spanish",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-peque.webp"
+        },
+        {
+            "name": "Fizel",
+            "url": "https://youtube.com/shorts/1lV4p9VPU5o",
+            "type": "video",
+            "lang": "English",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-fizel.webp"
+        },
+        {
+            "name": "Psycrowsis",
+            "url": "https://youtu.be/nrfg1rkDjtg",
+            "type": "video",
+            "lang": "English",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-psycrowsis.webp"
+        },
+        {
+            "name": "Archon",
+            "url": "https://youtu.be/-1J-ozbJhPM",
+            "type": "video",
+            "lang": "German",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-archon.webp"
+        },
+        {
+            "name": "Greeney",
+            "url": "#",
+            "type": "poster",
+            "lang": "English",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-greeny.webp"
+        },
+        {
+            "name": "Zanemarossi",
+            "url": "https://youtu.be/l3O3iIwQ_lc",
+            "type": "video",
+            "lang": "French",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-zane.webp"
+        },
+        {
+            "name": "ATG",
+            "url": "https://youtu.be/azDOEteBkLU",
+            "type": "video",
+            "lang": "Ukrainian",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-atg.webp"
+        },
+        {
+            "name": "General J",
+            "url": "https://youtu.be/sFUrjMl8XgY",
+            "type": "video",
+            "lang": "English",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-generalj.webp"
+        },
+        {
+            "name": "Mr. Chief",
+            "url": "https://youtu.be/lA05vBbzcTs",
+            "type": "video",
+            "lang": "English",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-mrchief.webp"
+        },
+        {
+            "name": "Pandita",
+            "url": "#",
+            "type": "poster",
+            "lang": "English",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-pandita.webp",
+            "teaser": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/pandita-poster.jpg"
+        },
+        {
+            "name": "3KO Games",
+            "url": "https://youtube.com/shorts/-WvYFFBqR04",
+            "type": "video",
+            "lang": "English",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-3kogames.webp"
+        },
+        {
+            "name": "NAVI",
+            "url": "https://youtu.be/LFP0bkYkcEg",
+            "type": "video",
+            "lang": "Polish",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-navi.webp"
+        },
+        {
+            "name": "Combonator",
+            "url": "https://youtu.be/1xrJxJ2NleU",
+            "type": "video",
+            "lang": "English",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-combonator.webp"
+        },
+        {
+            "name": "TYRICON",
+            "url": "#",
+            "type": "poster",
+            "lang": "English",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-tyricon.webp"
+        }
     ],
     "greeneyPosters": [
-        { "id": 1, "date": "2026-03-17", "title": "Teaser Poster", "url": "https://i.ibb.co/xSvKkRz2/greeney-poster-1.webp" },
-        { "id": 2, "date": "2026-03-18", "title": "Day 1 Release", "url": "https://i.ibb.co/YF2rSyyn/greeney-poster-2.webp" },
-        { "id": 3, "date": "2026-03-19", "title": "Day 2 Release", "url": "https://i.ibb.co/N6xbDqMV/greeney-poster-3.webp" },
-        { "id": 4, "date": "2026-03-20", "title": "Day 3 Release", "url": "https://i.ibb.co/TMTtNpB1/greeney-poster-4.webp" }
+        {
+            "id": 1,
+            "date": "2026-03-17",
+            "title": "Teaser Poster",
+            "url": "https://i.ibb.co/xSvKkRz2/greeney-poster-1.webp"
+        },
+        {
+            "id": 2,
+            "date": "2026-03-18",
+            "title": "Day 1 Release",
+            "url": "https://i.ibb.co/YF2rSyyn/greeney-poster-2.webp"
+        },
+        {
+            "id": 3,
+            "date": "2026-03-19",
+            "title": "Day 2 Release",
+            "url": "https://i.ibb.co/N6xbDqMV/greeney-poster-3.webp"
+        },
+        {
+            "id": 4,
+            "date": "2026-03-20",
+            "title": "Day 3 Release",
+            "url": "https://i.ibb.co/TMTtNpB1/greeney-poster-4.webp"
+        }
     ]
 }
