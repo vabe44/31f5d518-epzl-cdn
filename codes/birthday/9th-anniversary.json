@@ -1,6 +1,38 @@
 {
     "giveawayVideos": [
         {
+            "id": "zane-1",
+            "creator": "Zanemarossi",
+            "title": "Giveaway #15",
+            "url": "https://youtube.com/watch?v=l3O3iIwQ_lc",
+            "status": "live",
+            "date": "2026-03-18",
+            "lang": "French",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-zane.webp",
+            "instructions": [
+                "Comment on the video stating what has helped you most in the game (a piece of advice, a group, or something else that really aided your progress).",
+                "Winners will be selected via a draw from the comments.",
+                "Stay tuned throughout the week for more updates on the winners."
+            ]
+        },
+        {
+            "id": "3ko-1",
+            "creator": "3KO Games",
+            "title": "Giveaway #14",
+            "url": "https://youtube.com/watch?v=_U9KeRYbZkA",
+            "status": "live",
+            "date": "2026-03-18",
+            "lang": "English",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-3kogames.webp",
+            "instructions": [
+                "Comment on the video stating your thoughts on Embertail or Sproutwhisker and which one you prefer.",
+                "Subscribe to the YouTube channel.",
+                "Include your Discord screen name (preferred) or Line link in the comment so you can be contacted.",
+                "10 winners will be selected via a 'wheel of names' in the next morning video.",
+                "Each code provides 999 Gems and other anniversary rewards."
+            ]
+        },
+        {
             "id": "navi-1",
             "creator": "NAVI",
             "title": "Giveaway #13",
