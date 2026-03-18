@@ -1,6 +1,22 @@
 {
     "giveawayVideos": [
         {
+            "id": "general-j-1",
+            "creator": "General J",
+            "title": "Giveaway #20",
+            "url": "https://youtube.com/watch?v=Te5r27mh7PE",
+            "status": "live",
+            "date": "2026-03-18",
+            "lang": "English",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-generalj.webp",
+            "instructions": [
+                "Comment on the video sharing your story: how you started playing Empires & Puzzles and why you are still playing today.",
+                "Subscribe to the YouTube channel.",
+                "10 winners will be selected from the comments within 24 hours of the video release.",
+                "Winners will be notified via a reply and a heart on their comment; ensure you have Discord or Line to receive your code."
+            ]
+        },
+        {
             "id": "archon-1",
             "creator": "Archon",
             "title": "Giveaway #19",
