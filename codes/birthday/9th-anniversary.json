@@ -1,9 +1,26 @@
 {
     "giveawayVideos": [
         {
+            "id": "mrchief-1",
+            "creator": "Mr. Chief",
+            "title": "Giveaway #22",
+            "url": "https://youtube.com/watch?v=Zp4dKqbhApY",
+            "status": "live",
+            "date": "2026-03-18",
+            "lang": "English",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-mrchief.webp",
+            "instructions": [
+                "Comment on this video your favorite tool, guide that has helped shape your journey to enter the next giveaway draw.",
+                "This video also announces the Day 1 winners of the anniversary codes.",
+                "If you are among the winners, join the Discord server provided in the video description to claim your code.",
+                "Winners must claim their codes by March 21st; unclaimed codes will be redistributed."
+                
+            ]
+        },
+        {
             "id": "mcnaulty-2",
             "creator": "McNaulty",
-            "title": "Giveaway #21",
+            "title": "Giveaway #21 (Part 2)",
             "url": "https://youtube.com/watch?v=MLnWK4wc0Zo",
             "status": "live",
             "date": "2026-03-18",
