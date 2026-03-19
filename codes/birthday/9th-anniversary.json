@@ -1,20 +1,55 @@
 {
     "giveawayVideos": [
         {
+            "id": "pandita-discord",
+            "creator": "Pandita",
+            "title": "Discord Exclusive Giveaway",
+            "url": "https://discord.gg/3qWZgVYG4P",
+            "status": "live",
+            "date": "2026-03-18",
+            "lang": "English",
+            "platform": "discord",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-pandita.webp",
+            "instructions": [
+                "Subscribe to Pandita on YouTube.",
+                "Subscribe to Empires & Puzzles on YouTube.",
+                "Join the official Empires & Puzzles Discord server (/empires-puzzles).",
+                "Reply in the specific giveaway channel with your favorite hero (past or current) and why.",
+                "Upload screenshot proof of your subscription to Pandita (avatar image must be visible).",
+                "Winners will be announced this Sunday (March 22nd) at 10 PM UTC!"
+            ]
+        },
+        {
+            "id": "pandita-1",
+            "creator": "Pandita",
+            "title": "Anniversary Commentary & Giveaway",
+            "url": "https://youtube.com/watch?v=uZUN2wpRQ48",
+            "status": "live",
+            "date": "2026-03-18",
+            "lang": "English",
+            "platform": "youtube",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-pandita.webp",
+            "instructions": [
+                "Comment on the video with feedback on what content you'd like to see next (Hero deep-dives, War strategy, etc.).",
+                "Subscribe to the channel and share the video with your alliance.",
+                "Stay tuned for winner announcements as part of the 9th Anniversary celebrations."
+            ]
+        },
+        {
             "id": "mrchief-1",
             "creator": "Mr. Chief",
-            "title": "Giveaway #22",
+            "title": "Giveaway #22 (Day 1 Winners)",
             "url": "https://youtube.com/watch?v=Zp4dKqbhApY",
             "status": "live",
             "date": "2026-03-18",
             "lang": "English",
+            "platform": "youtube",
             "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-mrchief.webp",
             "instructions": [
-                "Comment on this video your favorite tool, guide that has helped shape your journey to enter the next giveaway draw.",
-                "This video also announces the Day 1 winners of the anniversary codes.",
+                "This video announces the Day 1 winners of the anniversary codes.",
                 "If you are among the winners, join the Discord server provided in the video description to claim your code.",
-                "Winners must claim their codes by March 21st; unclaimed codes will be redistributed."
-                
+                "Winners must claim their codes by March 21st; unclaimed codes will be redistributed.",
+                "Comment on this video to enter the next giveaway draw."
             ]
         },
         {
@@ -25,6 +60,7 @@
             "status": "live",
             "date": "2026-03-18",
             "lang": "English",
+            "platform": "youtube",
             "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-mcnaulty.webp",
             "instructions": [
                 "Comment on the video using the word 'Cake' in your sentence (the funnier the better!).",
@@ -41,6 +77,7 @@
             "status": "live",
             "date": "2026-03-18",
             "lang": "English",
+            "platform": "youtube",
             "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-generalj.webp",
             "instructions": [
                 "Comment on the video sharing your story: how you started playing Empires & Puzzles and why you are still playing today.",
@@ -52,11 +89,12 @@
         {
             "id": "archon-1",
             "creator": "Archon",
-            "title": "Giveaway #19",
+            "title": "Giveaway #19 (Part 1)",
             "url": "https://youtube.com/watch?v=9PgV-GNDfPM",
             "status": "live",
             "date": "2026-03-18",
             "lang": "German",
+            "platform": "youtube",
             "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-archon.webp",
             "instructions": [
                 "Comment on the video stating which of the two new heroes (Embertail or Sproutwhisker) you like better and why.",
@@ -68,11 +106,12 @@
         {
             "id": "zane-2",
             "creator": "Zanemarossi",
-            "title": "Giveaway #18",
+            "title": "Giveaway #18 (Winners Part 1)",
             "url": "https://youtube.com/watch?v=ENFB-e7bT3I",
             "status": "live",
             "date": "2026-03-18",
             "lang": "French",
+            "platform": "youtube",
             "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-zane.webp",
             "instructions": [
                 "This video announces the first 10 winners (2 from her alliance, 8 from comments).",
@@ -84,11 +123,12 @@
         {
             "id": "wiamz-2",
             "creator": "Wiamz",
-            "title": "Giveaway #17",
+            "title": "Giveaway #17 (Winners Part 2)",
             "url": "https://youtube.com/watch?v=xS3dtLPGCIw",
             "status": "live",
             "date": "2026-03-18",
             "lang": "French",
+            "platform": "youtube",
             "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-wiamz.webp",
             "instructions": [
                 "This video announces the second 10 winners of the giveaway.",
@@ -100,11 +140,12 @@
         {
             "id": "wiamz-1",
             "creator": "Wiamz",
-            "title": "Giveaway #16",
+            "title": "Giveaway #16 (Winners Part 1)",
             "url": "https://youtube.com/watch?v=1cJAG6VpRwY",
             "status": "live",
             "date": "2026-03-18",
             "lang": "French",
+            "platform": "youtube",
             "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-wiamz.webp",
             "instructions": [
                 "This video announces the first 10 winners of the anniversary codes.",
@@ -121,6 +162,7 @@
             "status": "live",
             "date": "2026-03-18",
             "lang": "French",
+            "platform": "youtube",
             "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-zane.webp",
             "instructions": [
                 "Comment on the video stating what has helped you most in the game (a piece of advice, a group, or something else that really aided your progress).",
@@ -136,6 +178,7 @@
             "status": "live",
             "date": "2026-03-18",
             "lang": "English",
+            "platform": "youtube",
             "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-3kogames.webp",
             "instructions": [
                 "Comment on the video stating your thoughts on Embertail or Sproutwhisker and which one you prefer.",
@@ -153,6 +196,7 @@
             "status": "live",
             "date": "2026-03-18",
             "lang": "Polish",
+            "platform": "youtube",
             "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-navi.webp",
             "instructions": [
                 "Watch the video carefully for specific questions related to the game or his previous content.",
@@ -170,6 +214,7 @@
             "status": "live",
             "date": "2026-03-18",
             "lang": "English",
+            "platform": "youtube",
             "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-psycrowsis.webp",
             "instructions": [
                 "Comment on the video with anything—even just a random word!",
@@ -187,6 +232,7 @@
             "status": "live",
             "date": "2026-03-18",
             "lang": "English",
+            "platform": "youtube",
             "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-andrew.webp",
             "instructions": [
                 "Comment on the video stating the best thing that has happened to you in the game over the last few years.",
@@ -203,6 +249,7 @@
             "status": "live",
             "date": "2026-03-18",
             "lang": "English",
+            "platform": "youtube",
             "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-combonator.webp",
             "instructions": [
                 "Comment on the video stating which 3 heroes you are choosing as selectable featured heroes (or which 3 you'd want most).",
@@ -219,6 +266,7 @@
             "status": "live",
             "date": "2026-03-18",
             "lang": "German",
+            "platform": "youtube",
             "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-tyricon.webp",
             "instructions": [
                 "Comment on the video stating your favorite area or event in the game (e.g., War, Titans, etc.).",
@@ -235,6 +283,7 @@
             "status": "live",
             "date": "2026-03-18",
             "lang": "Russian",
+            "platform": "youtube",
             "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-legokostya.webp",
             "instructions": [
                 "This is the second video of the anniversary series. Watch carefully for hidden 'Easter eggs'!",
@@ -251,6 +300,7 @@
             "status": "live",
             "date": "2026-03-18",
             "lang": "English",
+            "platform": "youtube",
             "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-mcnaulty.webp",
             "instructions": [
                 "Comment on the video with something involving the number '9' (make it fun!).",
@@ -267,6 +317,7 @@
             "status": "live",
             "date": "2026-03-18",
             "lang": "Portuguese",
+            "platform": "youtube",
             "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-malto.webp",
             "instructions": [
                 "Watch the video and leave a comment to participate in the gift code draw.",
@@ -283,6 +334,7 @@
             "status": "live",
             "date": "2026-03-18",
             "lang": "Spanish",
+            "platform": "youtube",
             "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-peque.webp",
             "instructions": [
                 "Comment on the video with your game Nickname and the word \"Cumpleaños\" (or \"Birthday\").",
@@ -299,6 +351,7 @@
             "status": "live",
             "date": "2026-03-18",
             "lang": "English",
+            "platform": "youtube",
             "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-fizel.webp",
             "instructions": [
                 "Comment on the video stating who your favorite fire element hero is.",
@@ -315,6 +368,7 @@
             "status": "live",
             "date": "2026-03-18",
             "lang": "Russian",
+            "platform": "youtube",
             "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-legokostya.webp",
             "instructions": [
                 "Write a comment on the video telling your story: how you started playing Empires & Puzzles and why you still play today.",
@@ -331,6 +385,7 @@
             "status": "live",
             "date": "2026-03-17",
             "lang": "English",
+            "platform": "youtube",
             "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-psycrowsis.webp",
             "instructions": [
                 "Comment on the video stating the timestamp of when the animation begins.",
@@ -345,6 +400,7 @@
             "status": "live",
             "date": "2026-03-17",
             "lang": "English",
+            "platform": "youtube",
             "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-psycrowsis.webp",
             "instructions": [
                 "Comment on the video telling him your favorite part of the \"9th Anniversary Song\" (lyrics or visuals).",
