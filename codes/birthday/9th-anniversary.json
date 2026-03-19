@@ -1,6 +1,23 @@
 {
     "giveawayVideos": [
         {
+            "id": "fizel-2",
+            "creator": "Fizel",
+            "title": "Giveaway #25",
+            "url": "https://youtube.com/watch?v=3TOiLT1iHXg",
+            "status": "live",
+            "date": "2026-03-19",
+            "lang": "English",
+            "platform": "youtube",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-fizel.webp",
+            "instructions": [
+                "Comment on the video stating who your favorite ice element hero is.",
+                "Entries for this daily giveaway close at 9:00 PM PST.",
+                "8 winners will be selected daily and contacted via Discord, Email, or Line.",
+                "Note: You can only redeem one code per account, but you are welcome to win multiple and share them with your alliance!"
+            ]
+        },
+        {
             "id": "pandita-discord",
             "creator": "Pandita",
             "title": "Giveaway #24",
@@ -13,9 +30,9 @@
             "instructions": [
                 "Subscribe to Pandita on YouTube.",
                 "Subscribe to Empires & Puzzles on YouTube.",
-                "Join the official Empires & Puzzles Discord server.",
-                "Reply in the specific giveaway channel with your favorite hero (past or current) and why.",
-                "Send screenshot proof of your subscription to Pandita in the giveaway channel (avatar image must be visible).",
+                "Join the <a href='https://discord.gg/DcNWZ2Cg' target='_blank'>Empires & Puzzles: Community & Forum Discord server</a>.",
+                "Reply in the <a href='https://discord.gg/mswpYtHt' target='_blank'>specific giveaway channel</a> with your favorite hero (past or current) and why.",
+                "Send screenshot proof of your subscription to Pandita in the <a href='https://discord.gg/mswpYtHt' target='_blank'>giveaway channel</a> (avatar image must be visible).",
                 "Winners will be announced this Sunday (March 22nd) at 10 PM UTC!"
             ]
         },
