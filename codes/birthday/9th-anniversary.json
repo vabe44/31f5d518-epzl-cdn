@@ -1,6 +1,23 @@
 {
     "giveawayVideos": [
         {
+            "id": "psy-4",
+            "creator": "Psycrowsis",
+            "title": "Giveaway #27",
+            "url": "https://youtube.com/watch?v=vAsOx5QLfC8",
+            "status": "live",
+            "date": "2026-03-19",
+            "lang": "English",
+            "platform": "youtube",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-psycrowsis.webp",
+            "instructions": [
+                "Leave your Discord name (use 'DC-', 'D chord' or similar to avoid YouTube filters).",
+                "Comment with your favorite hero used by Psycrowsis in this war video (make sure to watch the whole video!).",
+                "Provide an alternate contact method if possible, though Discord is preferred as Line IDs are difficult to use outside Australia.",
+                "Note: YouTube channel members receive additional entries into the competition."
+            ]
+        },
+        {
             "id": "greeney-1",
             "creator": "Greeney",
             "title": "Giveaway #26",
