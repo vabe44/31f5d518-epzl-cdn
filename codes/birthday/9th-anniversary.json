@@ -1,6 +1,23 @@
 {
     "giveawayVideos": [
         {
+            "id": "andrew-2",
+            "creator": "Andrew",
+            "title": "Giveaway #46",
+            "url": "https://youtube.com/watch?v=o7s4tj4gsos",
+            "status": "live",
+            "date": "2026-03-20",
+            "lang": "English",
+            "platform": "youtube",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-andrew.webp",
+            "instructions": [
+                "Comment on the video naming the hero Andrew used triplicates (three) of in either his Rare or Epic alliance quest teams.",
+                "After commenting, contact Andrew via Discord to claim your prize.",
+                "Winners will be selected based on a combination of speed (fastest to PM) and comment quality.",
+                "There are 5 codes available for this video, providing Gems and other anniversary rewards."
+            ]
+        },
+        {
             "id": "peque-2",
             "creator": "Peque",
             "title": "Giveaway #45",
