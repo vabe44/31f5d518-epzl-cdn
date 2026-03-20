@@ -1,6 +1,23 @@
 {
     "giveawayVideos": [
         {
+            "id": "mrchief-3",
+            "creator": "Mr. Chief",
+            "title": "Giveaway #50",
+            "url": "https://www.youtube.com/watch?v=O8eiZQ_oeus",
+            "status": "live",
+            "date": "2026-03-20",
+            "lang": "English",
+            "platform": "youtube",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-mrchief.webp",
+            "instructions": [
+                "Comment on the video and tell if you want more guides from Mr. Chief to enter the next giveaway draw.",
+                "This video also announces the Day 2 winners; if you won, join the Discord server linked in the description to claim your code.",
+                "Winners must claim their codes by March 21st.",
+                "Only claim codes through Discord; the creator will never DM you first."
+            ]
+        },
+        {
             "id": "archon-3",
             "creator": "Archon",
             "title": "Giveaway #49",
