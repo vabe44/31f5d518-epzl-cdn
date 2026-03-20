@@ -1,6 +1,24 @@
 {
     "giveawayVideos": [
         {
+            "id": "atg-2",
+            "creator": "ATG",
+            "title": "Giveaway #48",
+            "url": "https://youtube.com/watch?v=T6uYR9-sk5k",
+            "status": "live",
+            "date": "2026-03-20",
+            "lang": "Ukrainian",
+            "platform": "youtube",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-atg.webp",
+            "instructions": [
+                "This was a live giveaway; 10 winners were selected via Nightbot during the stream.",
+                "If you were one of the winners mentioned (Oleksandr, Volodymyr, Serhiy, Anatoliy, Vita, etc.), contact ATG via Telegram (identifier same as channel name).",
+                "Winners must contact the creator within a few hours of the stream to receive verification instructions.",
+                "Codes provide 999 Gems, a Tome of Golden Emblems, and Trainer heroes.",
+                "Prizes must be claimed by March 21st, 2026; unclaimed codes will be redistributed."
+            ]
+        },
+        {
             "id": "general-j-2",
             "creator": "General J",
             "title": "Giveaway #47",
