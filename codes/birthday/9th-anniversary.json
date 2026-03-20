@@ -1,6 +1,24 @@
 {
     "giveawayVideos": [
         {
+            "id": "general-j-2",
+            "creator": "General J",
+            "title": "Giveaway #47",
+            "url": "https://youtube.com/watch?v=h3Q8xfBn8ks",
+            "status": "live",
+            "date": "2026-03-20",
+            "lang": "English",
+            "platform": "youtube",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-generalj.webp",
+            "instructions": [
+                "Subscribe to the YouTube channel (new subscribers must wait 24 hours before commenting).",
+                "Comment on the video naming the two mystery five-star heroes shown during the quiz segment.",
+                "Hint: The first is an old event meta tank; the second is a purple support hero who was nerfed twice.",
+                "10 winners will be selected to receive a unique gift code.",
+                "Winners should contact General J via Discord, Facebook, or Line to claim their prize."
+            ]
+        },
+        {
             "id": "andrew-2",
             "creator": "Andrew",
             "title": "Giveaway #46",
