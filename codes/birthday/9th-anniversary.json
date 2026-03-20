@@ -3,7 +3,7 @@
         {
             "id": "peque-2",
             "creator": "Peque",
-            "title": "Giveaway #44",
+            "title": "Giveaway #45",
             "url": "https://youtube.com/watch?v=2lenVwtHV6I",
             "status": "live",
             "date": "2026-03-20",
@@ -22,7 +22,7 @@
         {
             "id": "psy-5",
             "creator": "Psycrowsis",
-            "title": "Giveaway #43",
+            "title": "Giveaway #44",
             "url": "https://youtube.com/watch?v=qAc8AsC27ZU",
             "status": "live",
             "date": "2026-03-20",
@@ -35,6 +35,23 @@
                 "Include your Discord name in the comment using a dash or similar formatting (e.g., 'DC-name') to bypass YouTube filters.",
                 "Subscribe to the channel to be eligible.",
                 "Note: YouTube channel members receive additional entries into the competition."
+            ]
+        },
+        {
+            "id": "greeney-2",
+            "creator": "Greeney",
+            "title": "Giveaway #43",
+            "url": "#",
+            "status": "live",
+            "date": "2026-03-19",
+            "lang": "English",
+            "platform": "poster",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-greeny.webp",
+            "instructions": [
+                "The contest is to guess 1 of Greeney's 3 favorite heroes from 2019 & 2020.",
+                "This will give you a total of 6 guesses.",
+                "Send your answers directly to Greeney (greeneyes9999ny) via PM on the Line app.",
+                "Note: You can only redeem one code during this entire event! Good luck!"
             ]
         },
         {
@@ -905,6 +922,12 @@
             "date": "2026-03-19",
             "title": "Day 4 Release",
             "url": "https://i.ibb.co/pvB7LdHg/S-96526398.jpg"
+        },
+        {
+            "id": 6,
+            "date": "2026-03-20",
+            "title": "Day 5 Release",
+            "url": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/greeney/codes/greeney/S__96616487.jpg"
         }
     ]
 }
