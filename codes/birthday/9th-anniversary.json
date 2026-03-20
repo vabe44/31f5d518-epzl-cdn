@@ -1,6 +1,57 @@
 {
     "giveawayVideos": [
         {
+            "id": "zane-4",
+            "creator": "Zanemarossi",
+            "title": "Giveaway #42",
+            "url": "https://youtube.com/watch?v=GM3trlIofVs",
+            "status": "live",
+            "date": "2026-03-20",
+            "lang": "French",
+            "platform": "youtube",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-zane.webp",
+            "instructions": [
+                "This video announces the Day 3 winners (2 from her alliance, 8 from comments).",
+                "If you won (hypnotic booster, Stéphane, etc.), contact Zanemarossi via Line (Zanemarossi) or Discord within one week to claim your code.",
+                "To participate in future draws, leave a comment on her *first* video (Giveaway #15) about what helped you most in the game.",
+                "Note: Gift codes are not cumulative across different creators; winners should share duplicates with their alliance."
+            ]
+        },
+        {
+            "id": "wiamz-4",
+            "creator": "Wiamz",
+            "title": "Giveaway #41",
+            "url": "https://youtube.com/watch?v=D1PEeIykh3w",
+            "status": "live",
+            "date": "2026-03-20",
+            "lang": "French",
+            "platform": "youtube",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-wiamz.webp",
+            "instructions": [
+                "Comment on the video with the name of your current alliance (or one that marked you) and explain why you appreciate(d) it.",
+                "Include your Line ID in the comment so you can be contacted if you are drawn.",
+                "10 winners will be selected to receive a gift code (gems, golden emblems).",
+                "You can also participate in the official Small Giant draw by mentioning 'Wiamz' as your favorite YouTuber in the in-game News section."
+            ]
+        },
+        {
+            "id": "mcnaulty-3",
+            "creator": "McNaulty",
+            "title": "Giveaway #40",
+            "url": "https://youtube.com/watch?v=5dQbAQeN5uk",
+            "status": "live",
+            "date": "2026-03-20",
+            "lang": "English",
+            "platform": "youtube",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-mcnaulty.webp",
+            "instructions": [
+                "Comment on the video with the word 'Party' (try to make it funny or interesting) for a chance to win 999 gems, 3x Master Trainers, and 3x Epic Tomes of Golden Emblems.",
+                "Only one prize per person; 10 winners will be selected from this video's comments.",
+                "Entries close on March 24th, 2026, and winners will be drawn after the anniversary week ends.",
+                "You must have Discord or Line to be contacted and receive your code."
+            ]
+        },
+        {
             "id": "3ko-2",
             "creator": "3KO Games",
             "title": "Giveaway #39",
@@ -89,7 +140,7 @@
         {
             "id": "zane-3",
             "creator": "Zanemarossi",
-            "title": "Giveaway #34 (Day 2 Winners)",
+            "title": "Giveaway #34",
             "url": "https://youtube.com/watch?v=jylHc9MEBXg",
             "status": "live",
             "date": "2026-03-19",
@@ -652,7 +703,7 @@
             "creator": "Psycrowsis",
             "title": "Giveaway #1",
             "url": "https://www.youtube.com/watch?v=J_1v3J4TKZw",
-            "status": "ended",
+            "status": "live",
             "date": "2026-03-17",
             "lang": "English",
             "platform": "youtube",
