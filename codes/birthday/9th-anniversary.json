@@ -1,6 +1,43 @@
 {
     "giveawayVideos": [
         {
+            "id": "peque-2",
+            "creator": "Peque",
+            "title": "Giveaway #44",
+            "url": "https://youtube.com/watch?v=2lenVwtHV6I",
+            "status": "live",
+            "date": "2026-03-20",
+            "lang": "Spanish",
+            "platform": "youtube",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-peque.webp",
+            "instructions": [
+                "This video announces the start of the second draw for 10 gift codes.",
+                "To enter, comment on the video with your in-game nickname and the word 'Aniversario'.",
+                "Optional: Include a contact method (Line, Telegram, or Email) in your comment to facilitate delivery.",
+                "Winners from the first draw (Lucas and Petty) should contact Peque via Facebook, Line (burbujita2020), or Discord (peque2024) to claim their prizes.",
+                "Prizes include 999 Gems, a Trainer hero, and a Tome of Golden Emblems.",
+                "Subscribe to the channel for upcoming winner announcements and three more planned giveaways."
+            ]
+        },
+        {
+            "id": "psy-5",
+            "creator": "Psycrowsis",
+            "title": "Giveaway #43",
+            "url": "https://youtube.com/watch?v=qAc8AsC27ZU",
+            "status": "live",
+            "date": "2026-03-20",
+            "lang": "English",
+            "platform": "youtube",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-psycrowsis.webp",
+            "instructions": [
+                "This video announces 10 winners from previous draws (Ozora 9191, Andy Chang 4386, etc.).",
+                "To enter the new giveaway, comment on the video with a funny answer to the question: 'Would you be happy if I was dating your sister (or brother/family member)?'",
+                "Include your Discord name in the comment using a dash or similar formatting (e.g., 'DC-name') to bypass YouTube filters.",
+                "Subscribe to the channel to be eligible.",
+                "Note: YouTube channel members receive additional entries into the competition."
+            ]
+        },
+        {
             "id": "zane-4",
             "creator": "Zanemarossi",
             "title": "Giveaway #42",
