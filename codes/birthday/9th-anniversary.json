@@ -1,6 +1,109 @@
 {
     "giveawayVideos": [
         {
+            "id": "3ko-2",
+            "creator": "3KO Games",
+            "title": "Giveaway #39",
+            "url": "https://youtube.com/watch?v=4h1xXhG7fIc",
+            "status": "live",
+            "date": "2026-03-19",
+            "lang": "English",
+            "platform": "youtube",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-3kogames.webp",
+            "instructions": [
+                "This video announces the 10 winners from Day 1; if you won, contact 3KO Games via Discord (3kogames).",
+                "Comment on the video with your Discord screen name or a Line link to enter the next giveaway draw.",
+                "Alternatively, use the Discord link in the pinned comment to join the creator's chat and connect there.",
+                "Optional: Leave your favorite Empires & Puzzles war tip in the comments."
+            ]
+        },
+        {
+            "id": "combo-2",
+            "creator": "Combonator",
+            "title": "Giveaway #38",
+            "url": "https://youtube.com/watch?v=MLK-sHmMgwo",
+            "status": "live",
+            "date": "2026-03-19",
+            "lang": "English",
+            "platform": "youtube",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-combonator.webp",
+            "instructions": [
+                "This video announces the 10 winners from Day 1; if you won, contact Combonator via Discord or Line (combonator_ep).",
+                "Comment on the video stating your favorite four-star hero to be eligible for tomorrow's drawing.",
+                "10 winners are selected daily for 5 days.",
+                "Note: You can only redeem one code per account across all anniversary giveaways."
+            ]
+        },
+        {
+            "id": "navi-4",
+            "creator": "NAVI",
+            "title": "Giveaway #37",
+            "url": "https://youtube.com/watch?v=BI8aE68fTiY",
+            "status": "live",
+            "date": "2026-03-19",
+            "lang": "Polish",
+            "platform": "youtube",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-navi.webp",
+            "instructions": [
+                "This video announces the 15 winners of the creativity contest from Giveaway #36.",
+                "If your name was drawn (Walar Morgulis, Golden Boy, etc.), contact NAVI via Discord to claim your code.",
+                "Three additional people have been placed on a reserve list in case winners do not claim their codes.",
+                "Stay tuned for future giveaways throughout the anniversary weekend."
+            ]
+        },
+        {
+            "id": "navi-3",
+            "creator": "NAVI",
+            "title": "Giveaway #36",
+            "url": "https://youtube.com/watch?v=Sqqw7hlIjR0",
+            "status": "live",
+            "date": "2026-03-19",
+            "lang": "Polish",
+            "platform": "youtube",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-navi.webp",
+            "instructions": [
+                "Comment on the video with your opinion about Empires & Puzzles or the NAVI channel (a sentence, poem, or AI song).",
+                "Include your in-game nickname and your alliance name (in parentheses) in the comment.",
+                "Entries are accepted until 8:00 PM today (March 19th).",
+                "10 winners will be chosen by random draw, with extra codes awarded for highly creative entries.",
+                "Winners must contact NAVI via Discord between 8 PM tonight and tomorrow morning to receive their code."
+            ]
+        },
+        {
+            "id": "navi-2",
+            "creator": "NAVI",
+            "title": "Giveaway #35",
+            "url": "https://youtube.com/watch?v=h6qysfU-4Xg",
+            "status": "live",
+            "date": "2026-03-19",
+            "lang": "Polish",
+            "platform": "youtube",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-navi.webp",
+            "instructions": [
+                "Three incomplete codes will appear on the screen during the video, each missing the 15th character.",
+                "The missing character can be a digit (0-9) or a letter (A-Z).",
+                "Be the first to guess the correct character and redeem the code on the official store.",
+                "Each code provides 1000 Gems, 3x 3-star Trainers, and 3x Golden Emblems."
+            ]
+        },
+        {
+            "id": "zane-3",
+            "creator": "Zanemarossi",
+            "title": "Giveaway #34 (Day 2 Winners)",
+            "url": "https://youtube.com/watch?v=jylHc9MEBXg",
+            "status": "live",
+            "date": "2026-03-19",
+            "lang": "French",
+            "platform": "youtube",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-zane.webp",
+            "instructions": [
+                "This video announces the next 10 winners (2 from her alliance, 8 from comments).",
+                "If you won (David Hamelin, Mout 29, Ed the Fish, etc.), contact Zanemarossi via Line (Zanamarossi) or Discord.",
+                "To participate in future draws, leave a comment on her *first* video (Giveaway #15) about what helped you most in the game.",
+                "Include your Line or Discord ID in the comment to facilitate contact."
+            ]
+        },
+        {
             "id": "fizel-3",
             "creator": "Fizel",
             "title": "Giveaway #33",
@@ -549,7 +652,7 @@
             "creator": "Psycrowsis",
             "title": "Giveaway #1",
             "url": "https://www.youtube.com/watch?v=J_1v3J4TKZw",
-            "status": "live",
+            "status": "ended",
             "date": "2026-03-17",
             "lang": "English",
             "platform": "youtube",
@@ -678,8 +781,8 @@
         },
         {
             "name": "TYRICON",
-            "url": "#",
-            "type": "poster",
+            "url": "https://www.youtube.com/watch?v=YButiTJOZSM",
+            "type": "video",
             "lang": "English",
             "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-tyricon.webp"
         }
