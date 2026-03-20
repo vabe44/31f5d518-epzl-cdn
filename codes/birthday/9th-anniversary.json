@@ -1,6 +1,24 @@
 {
     "giveawayVideos": [
         {
+            "id": "archon-3",
+            "creator": "Archon",
+            "title": "Giveaway #49",
+            "url": "https://youtube.com/watch?v=wjYU7LTsQsI",
+            "status": "live",
+            "date": "2026-03-20",
+            "lang": "German",
+            "platform": "youtube",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-archon.webp",
+            "instructions": [
+                "Comment on the video stating how you like Monster Island (thumbs up or down) and explain why.",
+                "10 winners will be selected via a random number generator in a separate announcement video.",
+                "Subscribe to the channel to ensure you don't miss the winners announcement.",
+                "Entries close 24 hours after the video's release.",
+                "Vote for your favorite YouTuber to win an extra prize via the link in the description (https://forms.gle/qMqu88NTvx3Nj9Wu8)."
+            ]
+        },
+        {
             "id": "atg-2",
             "creator": "ATG",
             "title": "Giveaway #48",
