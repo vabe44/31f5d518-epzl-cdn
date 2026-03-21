@@ -1,9 +1,45 @@
 {
     "giveawayVideos": [
         {
+            "id": "malto-4",
+            "creator": "Maltodextrina",
+            "title": "Giveaway #58",
+            "url": "https://youtube.com/watch?v=8GgTckAZvIg",
+            "status": "live",
+            "date": "2026-03-21",
+            "lang": "Portuguese",
+            "platform": "youtube",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-malto.webp",
+            "instructions": [
+                "Comment on any topic to enter the draw.",
+                "Winners are selected randomly from the comments.",
+                "To claim the prize, winners must join the WhatsApp group linked in the description.",
+                "Proof of win (screenshot of comment and YouTube profile) is required for verification.",
+                "Each code provides 999 Gems, 3x 3-star Trainer heroes, and 3x Golden Emblems.",
+                "Codes expire when the anniversary portal closes (approx. March 23), so claim quickly."
+            ]
+        },
+        {
+            "id": "tyricon-3",
+            "creator": "Tyricon + Alexa",
+            "title": "Giveaway #57",
+            "url": "https://youtube.com/watch?v=iMpYr2QK3oo",
+            "status": "live",
+            "date": "2026-03-21",
+            "lang": "English",
+            "platform": "youtube",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-tyricon.webp",
+            "instructions": [
+                "Comment on the video with the correct answer to the quiz: Identify what is wrong with the video or title.",
+                "Only the right answers are eligible to win one of the 10 gift codes.",
+                "This video also announces the 10 winners from Day 2; if you won, contact Tyricon via Discord or Line.",
+                "Contact: Line (https://line.me/ti/p/Z-Txry5FfX) or Discord (tyr1con)."
+            ]
+        },
+        {
             "id": "navi-5",
             "creator": "NAVI",
-            "title": "Giveaway #53",
+            "title": "Giveaway #56",
             "url": "https://youtube.com/watch?v=gjKFyBOa45M",
             "status": "live",
             "date": "2026-03-21",
@@ -22,7 +58,7 @@
         {
             "id": "psy-6",
             "creator": "Psycrowsis",
-            "title": "Giveaway #52",
+            "title": "Giveaway #55",
             "url": "https://youtube.com/watch?v=CK4O4m0Ysdw",
             "status": "live",
             "date": "2026-03-21",
@@ -41,7 +77,7 @@
         {
             "id": "fizel-4",
             "creator": "Fizel",
-            "title": "Giveaway #51",
+            "title": "Giveaway #54",
             "url": "https://youtube.com/watch?v=4Bkib5xkXaI",
             "status": "live",
             "date": "2026-03-21",
@@ -59,7 +95,7 @@
         {
             "id": "malto-3",
             "creator": "Maltodextrina",
-            "title": "Giveaway #56",
+            "title": "Giveaway #53",
             "url": "https://youtube.com/watch?v=fVUZfUQ9Lto",
             "status": "live",
             "date": "2026-03-20",
@@ -77,7 +113,7 @@
         {
             "id": "3ko-3",
             "creator": "3KO Games",
-            "title": "Giveaway #55",
+            "title": "Giveaway #52",
             "url": "https://youtube.com/watch?v=hKpTS62FQO0",
             "status": "live",
             "date": "2026-03-20",
@@ -95,7 +131,7 @@
         {
             "id": "mrchief-3",
             "creator": "Mr. Chief",
-            "title": "Giveaway #50",
+            "title": "Giveaway #51",
             "url": "https://www.youtube.com/watch?v=O8eiZQ_oeus",
             "status": "live",
             "date": "2026-03-20",
@@ -112,7 +148,7 @@
         {
             "id": "archon-3",
             "creator": "Archon",
-            "title": "Giveaway #49",
+            "title": "Giveaway #50",
             "url": "https://youtube.com/watch?v=wjYU7LTsQsI",
             "status": "live",
             "date": "2026-03-20",
@@ -129,7 +165,7 @@
         {
             "id": "atg-2",
             "creator": "ATG",
-            "title": "Giveaway #48",
+            "title": "Giveaway #49",
             "url": "https://youtube.com/watch?v=T6uYR9-sk5k",
             "status": "live",
             "date": "2026-03-20",
@@ -147,7 +183,7 @@
         {
             "id": "general-j-2",
             "creator": "General J",
-            "title": "Giveaway #47",
+            "title": "Giveaway #48",
             "url": "https://youtube.com/watch?v=h3Q8xfBn8ks",
             "status": "live",
             "date": "2026-03-20",
@@ -165,7 +201,7 @@
         {
             "id": "andrew-2",
             "creator": "Andrew",
-            "title": "Giveaway #46",
+            "title": "Giveaway #47",
             "url": "https://youtube.com/watch?v=o7s4tj4gsos",
             "status": "live",
             "date": "2026-03-20",
@@ -182,7 +218,7 @@
         {
             "id": "peque-2",
             "creator": "Peque",
-            "title": "Giveaway #45",
+            "title": "Giveaway #46",
             "url": "https://youtube.com/watch?v=2lenVwtHV6I",
             "status": "live",
             "date": "2026-03-20",
@@ -201,7 +237,7 @@
         {
             "id": "psy-5",
             "creator": "Psycrowsis",
-            "title": "Giveaway #44",
+            "title": "Giveaway #45",
             "url": "https://youtube.com/watch?v=qAc8AsC27ZU",
             "status": "live",
             "date": "2026-03-20",
@@ -219,7 +255,7 @@
         {
             "id": "greeney-2",
             "creator": "Greeney",
-            "title": "Giveaway #43",
+            "title": "Giveaway #44",
             "url": "#",
             "status": "live",
             "date": "2026-03-19",
@@ -236,7 +272,7 @@
         {
             "id": "zane-4",
             "creator": "Zanemarossi",
-            "title": "Giveaway #42",
+            "title": "Giveaway #43",
             "url": "https://youtube.com/watch?v=GM3trlIofVs",
             "status": "live",
             "date": "2026-03-20",
@@ -253,7 +289,7 @@
         {
             "id": "wiamz-4",
             "creator": "Wiamz",
-            "title": "Giveaway #41",
+            "title": "Giveaway #42",
             "url": "https://youtube.com/watch?v=D1PEeIykh3w",
             "status": "live",
             "date": "2026-03-20",
@@ -270,7 +306,7 @@
         {
             "id": "mcnaulty-3",
             "creator": "McNaulty",
-            "title": "Giveaway #40",
+            "title": "Giveaway #41",
             "url": "https://youtube.com/watch?v=5dQbAQeN5uk",
             "status": "live",
             "date": "2026-03-20",
@@ -287,7 +323,7 @@
         {
             "id": "3ko-2",
             "creator": "3KO Games",
-            "title": "Giveaway #39",
+            "title": "Giveaway #40",
             "url": "https://youtube.com/watch?v=4h1xXhG7fIc",
             "status": "live",
             "date": "2026-03-19",
@@ -304,7 +340,7 @@
         {
             "id": "combo-2",
             "creator": "Combonator",
-            "title": "Giveaway #38",
+            "title": "Giveaway #39",
             "url": "https://youtube.com/watch?v=MLK-sHmMgwo",
             "status": "live",
             "date": "2026-03-19",
@@ -321,7 +357,7 @@
         {
             "id": "navi-4",
             "creator": "NAVI",
-            "title": "Giveaway #37",
+            "title": "Giveaway #38",
             "url": "https://youtube.com/watch?v=BI8aE68fTiY",
             "status": "live",
             "date": "2026-03-19",
@@ -338,7 +374,7 @@
         {
             "id": "navi-3",
             "creator": "NAVI",
-            "title": "Giveaway #36",
+            "title": "Giveaway #37",
             "url": "https://youtube.com/watch?v=Sqqw7hlIjR0",
             "status": "live",
             "date": "2026-03-19",
@@ -356,7 +392,7 @@
         {
             "id": "navi-2",
             "creator": "NAVI",
-            "title": "Giveaway #35",
+            "title": "Giveaway #36",
             "url": "https://youtube.com/watch?v=h6qysfU-4Xg",
             "status": "live",
             "date": "2026-03-19",
@@ -373,7 +409,7 @@
         {
             "id": "zane-3",
             "creator": "Zanemarossi",
-            "title": "Giveaway #34",
+            "title": "Giveaway #35",
             "url": "https://youtube.com/watch?v=jylHc9MEBXg",
             "status": "live",
             "date": "2026-03-19",
@@ -390,7 +426,7 @@
         {
             "id": "fizel-3",
             "creator": "Fizel",
-            "title": "Giveaway #33",
+            "title": "Giveaway #34",
             "url": "https://youtube.com/watch?v=5_vW8o3SCs0",
             "status": "live",
             "date": "2026-03-20",
@@ -407,7 +443,7 @@
         {
             "id": "archon-2",
             "creator": "Archon",
-            "title": "Giveaway #32",
+            "title": "Giveaway #33",
             "url": "https://youtube.com/watch?v=TA0OCkYFnXg",
             "status": "live",
             "date": "2026-03-20",
@@ -424,7 +460,7 @@
         {
             "id": "mrchief-2",
             "creator": "Mr. Chief",
-            "title": "Giveaway #31",
+            "title": "Giveaway #32",
             "url": "https://youtube.com/watch?v=OrLErQuGRn8",
             "status": "live",
             "date": "2026-03-20",
@@ -441,7 +477,7 @@
         {
             "id": "atg-1",
             "creator": "ATG",
-            "title": "Giveaway #30",
+            "title": "Giveaway #31",
             "url": "https://youtube.com/watch?v=FmSF06q5N4A",
             "status": "live",
             "date": "2026-03-20",
@@ -458,7 +494,7 @@
         {
             "id": "wiamz-3",
             "creator": "Wiamz",
-            "title": "Giveaway #29",
+            "title": "Giveaway #30",
             "url": "https://youtube.com/watch?v=cv-gv3efxEo",
             "status": "live",
             "date": "2026-03-20",
@@ -475,7 +511,7 @@
         {
             "id": "tyricon-2",
             "creator": "Tyricon + Alexa",
-            "title": "Giveaway #28",
+            "title": "Giveaway #29",
             "url": "https://youtube.com/watch?v=duYI91iQEoI",
             "status": "live",
             "date": "2026-03-20",
@@ -491,7 +527,7 @@
         {
             "id": "psy-4",
             "creator": "Psycrowsis",
-            "title": "Giveaway #27",
+            "title": "Giveaway #28",
             "url": "https://youtube.com/watch?v=vAsOx5QLfC8",
             "status": "live",
             "date": "2026-03-19",
@@ -508,7 +544,7 @@
         {
             "id": "greeney-1",
             "creator": "Greeney",
-            "title": "Giveaway #26",
+            "title": "Giveaway #27",
             "url": "#",
             "status": "live",
             "date": "2026-03-19",
@@ -525,7 +561,7 @@
         {
             "id": "fizel-2",
             "creator": "Fizel",
-            "title": "Giveaway #25",
+            "title": "Giveaway #26",
             "url": "https://youtube.com/watch?v=3TOiLT1iHXg",
             "status": "live",
             "date": "2026-03-19",
@@ -542,7 +578,7 @@
         {
             "id": "pandita-discord",
             "creator": "Pandita",
-            "title": "Giveaway #24",
+            "title": "Giveaway #25",
             "url": "https://discord.com/channels/481117311303155722/1483917442295267348/1483975126000074783",
             "status": "live",
             "date": "2026-03-18",
@@ -561,7 +597,7 @@
         {
             "id": "pandita-1",
             "creator": "Pandita",
-            "title": "Giveaway #23",
+            "title": "Giveaway #24",
             "url": "https://youtube.com/watch?v=uZUN2wpRQ48",
             "status": "live",
             "date": "2026-03-18",
@@ -577,7 +613,7 @@
         {
             "id": "mrchief-1",
             "creator": "Mr. Chief",
-            "title": "Giveaway #22 (Day 1 Winners)",
+            "title": "Giveaway #23 (Day 1 Winners)",
             "url": "https://youtube.com/watch?v=Zp4dKqbhApY",
             "status": "live",
             "date": "2026-03-18",
@@ -594,7 +630,7 @@
         {
             "id": "mcnaulty-2",
             "creator": "McNaulty",
-            "title": "Giveaway #21",
+            "title": "Giveaway #22",
             "url": "https://youtube.com/watch?v=MLnWK4wc0Zo",
             "status": "live",
             "date": "2026-03-18",
@@ -611,7 +647,7 @@
         {
             "id": "general-j-1",
             "creator": "General J",
-            "title": "Giveaway #20",
+            "title": "Giveaway #21",
             "url": "https://youtube.com/watch?v=Te5r27mh7PE",
             "status": "live",
             "date": "2026-03-18",
@@ -628,7 +664,7 @@
         {
             "id": "archon-1",
             "creator": "Archon",
-            "title": "Giveaway #19",
+            "title": "Giveaway #20",
             "url": "https://youtube.com/watch?v=9PgV-GNDfPM",
             "status": "live",
             "date": "2026-03-18",
@@ -645,7 +681,7 @@
         {
             "id": "zane-2",
             "creator": "Zanemarossi",
-            "title": "Giveaway #18",
+            "title": "Giveaway #19",
             "url": "https://youtube.com/watch?v=ENFB-e7bT3I",
             "status": "live",
             "date": "2026-03-18",
@@ -662,7 +698,7 @@
         {
             "id": "wiamz-2",
             "creator": "Wiamz",
-            "title": "Giveaway #17",
+            "title": "Giveaway #18",
             "url": "https://youtube.com/watch?v=xS3dtLPGCIw",
             "status": "live",
             "date": "2026-03-18",
@@ -679,7 +715,7 @@
         {
             "id": "wiamz-1",
             "creator": "Wiamz",
-            "title": "Giveaway #16",
+            "title": "Giveaway #17",
             "url": "https://youtube.com/watch?v=1cJAG6VpRwY",
             "status": "live",
             "date": "2026-03-18",
@@ -696,7 +732,7 @@
         {
             "id": "zane-1",
             "creator": "Zanemarossi",
-            "title": "Giveaway #15",
+            "title": "Giveaway #16",
             "url": "https://youtube.com/watch?v=l3O3iIwQ_lc",
             "status": "live",
             "date": "2026-03-18",
@@ -712,7 +748,7 @@
         {
             "id": "3ko-1",
             "creator": "3KO Games",
-            "title": "Giveaway #14",
+            "title": "Giveaway #15",
             "url": "https://youtube.com/watch?v=_U9KeRYbZkA",
             "status": "live",
             "date": "2026-03-18",
@@ -730,7 +766,7 @@
         {
             "id": "navi-1",
             "creator": "NAVI",
-            "title": "Giveaway #13",
+            "title": "Giveaway #14",
             "url": "https://youtube.com/watch?v=vWSuB_VSeZk",
             "status": "live",
             "date": "2026-03-18",
@@ -748,7 +784,7 @@
         {
             "id": "psy-3",
             "creator": "Psycrowsis",
-            "title": "Giveaway #12",
+            "title": "Giveaway #13",
             "url": "https://youtube.com/watch?v=PznfRJLyPOA",
             "status": "live",
             "date": "2026-03-18",
@@ -766,7 +802,7 @@
         {
             "id": "andrew-1",
             "creator": "Andrew",
-            "title": "Giveaway #11",
+            "title": "Giveaway #12",
             "url": "https://youtube.com/watch?v=i5pBLuqETs0",
             "status": "live",
             "date": "2026-03-18",
@@ -783,7 +819,7 @@
         {
             "id": "combonator-1",
             "creator": "Combonator",
-            "title": "Giveaway #10",
+            "title": "Giveaway #11",
             "url": "https://youtube.com/watch?v=MRWRGN75xwY",
             "status": "live",
             "date": "2026-03-18",
