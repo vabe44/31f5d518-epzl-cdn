@@ -1,6 +1,25 @@
 {
     "giveawayVideos": [
         {
+            "id": "navi-5",
+            "creator": "NAVI",
+            "title": "Giveaway #53",
+            "url": "https://youtube.com/watch?v=gjKFyBOa45M",
+            "status": "live",
+            "date": "2026-03-21",
+            "lang": "Polish",
+            "platform": "youtube",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-navi.webp",
+            "instructions": [
+                "This video announces winners from previous rounds and discusses the upcoming week's events (March 23-29).",
+                "To enter the final giveaway for the remaining codes, comment on this video guessing the total points the SZEPT alliance will score in their current war.",
+                "Only the score for SZEPT is required for the guess.",
+                "One prize per person; users who have already won a code in previous rounds of this anniversary event are ineligible for new codes.",
+                "Winners will be announced in the Sunday video after the war concludes.",
+                "Winners must contact NAVI via Discord (Navi 1990) and provide a screenshot of their main game screen for verification."
+            ]
+        },
+        {
             "id": "psy-6",
             "creator": "Psycrowsis",
             "title": "Giveaway #52",
@@ -35,6 +54,42 @@
                 "8 winners will be selected daily and contacted via Discord, Email, or Line.",
                 "Note: You can only redeem one code per account, but you are welcome to win multiple and share them with your alliance!",
                 "Prizes are held until the end of the event; unclaimed codes will be redistributed in a follow-up contest."
+            ]
+        },
+        {
+            "id": "malto-3",
+            "creator": "Maltodextrina",
+            "title": "Giveaway #56",
+            "url": "https://youtube.com/watch?v=fVUZfUQ9Lto",
+            "status": "live",
+            "date": "2026-03-20",
+            "lang": "Portuguese",
+            "platform": "youtube",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-malto.webp",
+            "instructions": [
+                "Comment on any topic to enter the draw.",
+                "Winners are selected randomly from the comments.",
+                "To claim the prize, winners must join the WhatsApp group linked in the description.",
+                "Proof of win (screenshot of comment and YouTube profile) is required for verification.",
+                "Codes expire when the anniversary portal closes (approx. March 23), so claim quickly."
+            ]
+        },
+        {
+            "id": "3ko-3",
+            "creator": "3KO Games",
+            "title": "Giveaway #55",
+            "url": "https://youtube.com/watch?v=hKpTS62FQO0",
+            "status": "live",
+            "date": "2026-03-20",
+            "lang": "English",
+            "platform": "youtube",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-3kogames.webp",
+            "instructions": [
+                "Subscribe to the channel.",
+                "Comment on the video stating which of the Choose Your Own Featured Heroes you are most excited about.",
+                "Include your Discord ID in the comment so you can be contacted if you win.",
+                "Winners are drawn using a 'wheel of names' in the following video.",
+                "Note: Channel members receive bonus entries into the draw."
             ]
         },
         {
@@ -745,7 +800,7 @@
         {
             "id": "tyricon-1",
             "creator": "Tyricon + Alexa",
-            "title": "Giveaway #9",
+            "title": "Giveaway #10",
             "url": "https://www.youtube.com/watch?v=YButiTJOZSM",
             "status": "live",
             "date": "2026-03-18",
@@ -762,7 +817,7 @@
         {
             "id": "lego-2",
             "creator": "LegoKostya",
-            "title": "Giveaway #8",
+            "title": "Giveaway #9",
             "url": "https://www.youtube.com/watch?v=j-XpwyoxuZQ",
             "status": "live",
             "date": "2026-03-18",
@@ -779,7 +834,7 @@
         {
             "id": "mcnaulty-1",
             "creator": "McNaulty",
-            "title": "Giveaway #7",
+            "title": "Giveaway #8",
             "url": "https://www.youtube.com/watch?v=cAiO5cmhf8w",
             "status": "live",
             "date": "2026-03-18",
@@ -794,20 +849,37 @@
             ]
         },
         {
+            "id": "malto-2",
+            "creator": "Maltodextrina",
+            "title": "Giveaway #7",
+            "url": "https://youtube.com/watch?v=AP0deuWoM1k",
+            "status": "live",
+            "date": "2026-03-19",
+            "lang": "Portuguese",
+            "platform": "youtube",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-malto.webp",
+            "instructions": [
+                "Comment on the video to participate.",
+                "Winners are chosen from unique comments (excluding previous winners).",
+                "Join the WhatsApp group linked in the description to receive the code.",
+                "The video provides a tutorial on how to redeem the birthday code on the official store."
+            ]
+        },
+        {
             "id": "malto-1",
             "creator": "Maltodextrina",
             "title": "Giveaway #6",
-            "url": "https://www.youtube.com/watch?v=EFTsKbckQ3s",
+            "url": "https://youtube.com/watch?v=eCak-wlKnc0",
             "status": "live",
             "date": "2026-03-18",
             "lang": "Portuguese",
             "platform": "youtube",
             "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-malto.webp",
             "instructions": [
-                "Watch the video and leave a comment to participate in the gift code draw.",
-                "Winners will be chosen using a random comment selector.",
-                "Share the video with your alliance so everyone has a chance to win!",
-                "Codes provide 999 Gems, 3x Rare Master Trainers, and 1x Tome of Golden Emblems."
+                "Comment on the video to participate.",
+                "Winners are selected from the 153 comments.",
+                "Winners must join the WhatsApp group in the description to receive their code.",
+                "Verification requires a screenshot of the winning comment and the user's YouTube profile."
             ]
         },
         {
