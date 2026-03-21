@@ -1,6 +1,24 @@
 {
     "giveawayVideos": [
         {
+            "id": "fizel-4",
+            "creator": "Fizel",
+            "title": "Giveaway #51",
+            "url": "https://youtube.com/watch?v=4Bkib5xkXaI",
+            "status": "live",
+            "date": "2026-03-21",
+            "lang": "English",
+            "platform": "youtube",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-fizel.webp",
+            "instructions": [
+                "Comment on the video stating who your favorite holy hero is.",
+                "Entries for this daily giveaway close at 9:00 PM PST.",
+                "8 winners will be selected daily and contacted via Discord, Email, or Line.",
+                "Note: You can only redeem one code per account, but you are welcome to win multiple and share them with your alliance!",
+                "Prizes are held until the end of the event; unclaimed codes will be redistributed in a follow-up contest."
+            ]
+        },
+        {
             "id": "mrchief-3",
             "creator": "Mr. Chief",
             "title": "Giveaway #50",
