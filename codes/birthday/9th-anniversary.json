@@ -1,6 +1,119 @@
 {
     "giveawayVideos": [
         {
+            "id": "archon-4",
+            "creator": "Archon",
+            "title": "Giveaway #04",
+            "url": "https://youtube.com/watch?v=JdjhHLurqLo",
+            "status": "live",
+            "date": "2026-03-21",
+            "lang": "German",
+            "platform": "youtube",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-archon.webp",
+            "instructions": [
+                "Comment on the video stating who your favorite hero (or best artwork) is.",
+                "Subscribe to the channel.",
+                "Winners are selected by random number generator.",
+                "Deadline 24 hours after video release."
+            ]
+        },
+        {
+            "id": "atg-3",
+            "creator": "ATG",
+            "title": "Giveaway #3",
+            "url": "https://youtube.com/watch?v=MSmcUKlsq44",
+            "status": "live",
+            "date": "2026-03-21",
+            "lang": "Ukrainian",
+            "platform": "youtube",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-atg.webp",
+            "instructions": [
+                "Giveaway was conducted live via Nightbot.",
+                "Winners must contact ATG via Telegram (@EmpiresPuzzlesNews) to verify and claim their code.",
+                "20 promo codes are still waiting for new winners in future draws."
+            ]
+        },
+        {
+            "id": "clay-1",
+            "creator": "Clay",
+            "title": "Giveaway #1",
+            "url": "https://youtube.com/watch?v=WvtqG0s-ggA",
+            "status": "live",
+            "date": "2026-03-21",
+            "lang": "Portuguese",
+            "platform": "youtube",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-clay.webp",
+            "instructions": [
+                "Comment with two answers: 1) Your favorite sports team. 2) Which country will win the 2026 World Cup?",
+                "8 winners will be announced every 24 hours for 3 days.",
+                "Winners must contact Clay via Line, Discord, or WhatsApp.",
+                "One code per person."
+            ]
+        },
+        {
+            "id": "combo-3",
+            "creator": "Combonator",
+            "title": "Giveaway Day 4",
+            "url": "https://youtube.com/watch?v=indUCpUyoKs",
+            "status": "live",
+            "date": "2026-03-21",
+            "lang": "English",
+            "platform": "youtube",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-combonator.webp",
+            "instructions": [
+                "Comment on the video stating your favorite Monster Island hero (for hordes or apex).",
+                "10 codes will be given away.",
+                "Winners from Day 3 announced in this video must contact Combonator via Line or Discord."
+            ]
+        },
+        {
+            "id": "mrchief-4",
+            "creator": "Mr. Chief",
+            "title": "Giveaway Day 4",
+            "url": "https://youtube.com/watch?v=OKvUJhfi9qk",
+            "status": "live",
+            "date": "2026-03-21",
+            "lang": "English",
+            "platform": "youtube",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-mrchief.webp",
+            "instructions": [
+                "Comment on the video to enter the next giveaway draw.",
+                "Winners from Day 4 announced; must claim codes via Discord by March 24."
+            ]
+        },
+        {
+            "id": "peque-3",
+            "creator": "Peque",
+            "title": "Giveaway #3",
+            "url": "https://youtube.com/watch?v=EqjMSJsCDZI",
+            "status": "live",
+            "date": "2026-03-21",
+            "lang": "Spanish",
+            "platform": "youtube",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-peque.webp",
+            "instructions": [
+                "Comment with your in-game Nickname and the word 'suscriptor' (subscriber).",
+                "You must be a subscriber to the channel to win.",
+                "10 winners will be selected."
+            ]
+        },
+        {
+            "id": "zane-4",
+            "creator": "Zanemarossi",
+            "title": "Giveaway Day 4",
+            "url": "https://youtube.com/watch?v=134zeqFzGwo",
+            "status": "live",
+            "date": "2026-03-21",
+            "lang": "French",
+            "platform": "youtube",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-zane.webp",
+            "instructions": [
+                "This video announces the Day 4 winners (10 codes).",
+                "Contact Zanemarossi via Line or Discord to claim.",
+                "To participate in future draws, continue commenting on the first video (Giveaway #15)."
+            ]
+        },
+        {
             "id": "malto-4",
             "creator": "Maltodextrina",
             "title": "Giveaway #58",
