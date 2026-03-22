@@ -1,6 +1,23 @@
 {
     "giveawayVideos": [
         {
+            "id": "fizel-5",
+            "creator": "Fizel",
+            "title": "Giveaway Day 5",
+            "url": "https://youtube.com/watch?v=zmzuSx6THbI",
+            "status": "live",
+            "date": "2026-03-22",
+            "lang": "English",
+            "platform": "youtube",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-fizel.webp",
+            "instructions": [
+                "Comment on the video stating your favorite Dark hero.",
+                "Entries for this daily giveaway close at 9:00 PM PST.",
+                "8 winners will be selected daily and contacted via Discord, Email, or Line.",
+                "Note: You can only redeem one code per account, but you are welcome to win multiple and share them with your alliance!"
+            ]
+        },
+        {
             "id": "archon-4",
             "creator": "Archon",
             "title": "Giveaway #04",
