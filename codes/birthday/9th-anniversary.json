@@ -1130,6 +1130,69 @@
                 "Provide a method of contact (Line link, Discord tag, Messenger, or Email) in the comment so you can be reached if you win.",
                 "Bonus: YouTube channel members get additional entries!"
             ]
+        },
+        {
+            "id": "navi-6",
+            "creator": "NAVI",
+            "title": "Giveaway #59 (Berit)",
+            "url": "https://youtube.com/watch?v=PygAZ5z1Idw",
+            "status": "live",
+            "date": "2026-03-22",
+            "lang": "Polish",
+            "platform": "youtube",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-navi.webp",
+            "instructions": [
+                "Comment on the video with your in-game Nickname and Alliance.",
+                "State your Highest Titan Damage score and your Lowest Titan Damage score.",
+                "Entries close at 8:00 AM (March 23)."
+            ]
+        },
+        {
+            "id": "mcnaulty-4",
+            "creator": "McNaulty",
+            "title": "Giveaway #60 (Sunday)",
+            "url": "https://youtu.be/jpll2UGwRuM",
+            "status": "live",
+            "date": "2026-03-22",
+            "lang": "English",
+            "platform": "youtube",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-mcnaulty.webp",
+            "instructions": [
+                "Comment on the video using the word 'present'.",
+                "Entries close on March 24th.",
+                "Winners will be drawn live on March 25th or 26th."
+            ]
+        },
+        {
+            "id": "combo-4",
+            "creator": "Combonator",
+            "title": "Giveaway Day 5",
+            "url": "https://youtu.be/30tmFOj-fSU",
+            "status": "live",
+            "date": "2026-03-22",
+            "lang": "English",
+            "platform": "youtube",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-combonator.webp",
+            "instructions": [
+                "Comment on the video stating your favorite overall hero.",
+                "This is the last day of the birthday code giveaway for Combo.",
+                "Winners from Day 4 announced in this video."
+            ]
+        },
+        {
+            "id": "fizel-6",
+            "creator": "Fizel",
+            "title": "Giveaway Day 6 (Final)",
+            "url": "https://youtu.be/fUZdEw7aT8I",
+            "status": "live",
+            "date": "2026-03-23",
+            "lang": "English",
+            "platform": "youtube",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-fizel.webp",
+            "instructions": [
+                "Comment on the video with the name of the program discussed (State of the Game).",
+                "8 winners will be selected."
+            ]
         }
     ],
     "initialCreators": [
