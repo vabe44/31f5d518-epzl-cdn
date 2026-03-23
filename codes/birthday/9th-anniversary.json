@@ -1,6 +1,22 @@
 {
     "giveawayVideos": [
         {
+            "id": "tyricon-4",
+            "creator": "Tyricon + Alexa",
+            "title": "Giveaway #61 (Day 4)",
+            "url": "https://youtube.com/watch?v=csXxalw3U9Q",
+            "status": "live",
+            "date": "2026-03-23",
+            "lang": "English",
+            "platform": "youtube",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-tyricon.webp",
+            "instructions": [
+                "Comment on the video stating how long you have been playing Empires & Puzzles.",
+                "10 winners will be revealed on Tuesday, March 24th.",
+                "Contact Tyricon via Line (https://line.me/ti/p/Z-Txry5FfX) or Discord (tyr1con) to claim."
+            ]
+        },
+        {
             "id": "fizel-6",
             "creator": "Fizel",
             "title": "Giveaway Day 6 (Final)",
