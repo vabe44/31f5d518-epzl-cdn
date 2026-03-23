@@ -1193,6 +1193,21 @@
                 "Comment on the video with the name of the program discussed (State of the Game).",
                 "8 winners will be selected."
             ]
+        },
+        {
+            "id": "general-j-3",
+            "creator": "General J",
+            "title": "Giveaway #59 (Prof. Ambrose)",
+            "url": "https://youtube.com/watch?v=PuVWt8-8XmA",
+            "status": "live",
+            "date": "2026-03-22",
+            "lang": "English",
+            "platform": "youtube",
+            "icon": "https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/codes/creator-generalj.webp",
+            "instructions": [
+                "Comment on the video stating your 'nightmare hero' to face (one you feared facing and never pulled).",
+                "10 winners will be selected."
+            ]
         }
     ],
     "initialCreators": [
