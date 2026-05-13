@@ -34,6 +34,13 @@
                 "power": 13601
             },
             "family": "classic",
+            "specialId": "claws_of_the_night",
+            "assistSkillId": "dragon_blaze_of_torment",
+            "manaSpeedId": "fast",
+            "dragonSpiritBaseBonusesId": "ancient",
+            "dragonSpiritClassBonusesId": "rogue_ancient",
+            "dragonSpiritElementBonusesId": "purple_ancient",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Druid",
             "spiritBonus": {
                 "spiritClass": "Druid",
@@ -98,6 +105,13 @@
                 "power": 13663
             },
             "family": "classic",
+            "specialId": "electric_dragonfire",
+            "assistSkillId": "dragon_crushing_blaze",
+            "manaSpeedId": "average",
+            "dragonSpiritBaseBonusesId": "ancient",
+            "dragonSpiritClassBonusesId": "wizard_ancient",
+            "dragonSpiritElementBonusesId": "yellow_ancient",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Wizard",
             "spiritBonus": {
                 "spiritClass": "Wizard",
@@ -158,6 +172,13 @@
                 "power": 13725
             },
             "family": "classic",
+            "specialId": "will_of_fire",
+            "assistSkillId": "dragon_volcanic_blaze",
+            "manaSpeedId": "average",
+            "dragonSpiritBaseBonusesId": "ancient",
+            "dragonSpiritClassBonusesId": "sorcerer_ancient",
+            "dragonSpiritElementBonusesId": "red_ancient",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Sorcerer",
             "spiritBonus": {
                 "spiritClass": "Sorcerer",
@@ -218,6 +239,13 @@
                 "power": 13787
             },
             "family": "classic",
+            "specialId": "eye_of_the_storm",
+            "assistSkillId": "dragon_blazing_storm",
+            "manaSpeedId": "fast",
+            "dragonSpiritBaseBonusesId": "ancient",
+            "dragonSpiritClassBonusesId": "ranger_ancient",
+            "dragonSpiritElementBonusesId": "blue_ancient",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Ranger",
             "spiritBonus": {
                 "spiritClass": "Ranger",
@@ -281,6 +309,13 @@
                 "power": 13848
             },
             "family": "classic",
+            "specialId": "undying_heads",
+            "assistSkillId": "dragon_blaze_of_the_undying",
+            "manaSpeedId": "average",
+            "dragonSpiritBaseBonusesId": "ancient",
+            "dragonSpiritClassBonusesId": "druid_ancient",
+            "dragonSpiritElementBonusesId": "green_ancient",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Druid",
             "spiritBonus": {
                 "spiritClass": "Druid",
@@ -344,6 +379,13 @@
                 "power": 13909
             },
             "family": "classic",
+            "specialId": "pie_of_protection",
+            "assistSkillId": "dragon_spring_breath",
+            "manaSpeedId": "slow",
+            "dragonSpiritBaseBonusesId": "ancient",
+            "dragonSpiritClassBonusesId": "cleric_ancient",
+            "dragonSpiritElementBonusesId": "yellow_ancient",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Cleric",
             "spiritBonus": {
                 "spiritClass": "Cleric",
@@ -404,6 +446,13 @@
                 "power": 13971
             },
             "family": "classic",
+            "specialId": "fracturing_shards",
+            "assistSkillId": "dragon_crashing_blaze",
+            "manaSpeedId": "fast",
+            "dragonSpiritBaseBonusesId": "ancient",
+            "dragonSpiritClassBonusesId": "rogue_ancient",
+            "dragonSpiritElementBonusesId": "blue_ancient",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Druid",
             "spiritBonus": {
                 "spiritClass": "Druid",
@@ -468,6 +517,13 @@
                 "power": 14033
             },
             "family": "classic",
+            "specialId": "aggravating_gaze",
+            "assistSkillId": "dragon_breath_of_retribution",
+            "manaSpeedId": "slow",
+            "dragonSpiritBaseBonusesId": "ancient",
+            "dragonSpiritClassBonusesId": "fighter_ancient",
+            "dragonSpiritElementBonusesId": "purple_ancient",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Fighter",
             "spiritBonus": {
                 "spiritClass": "Fighter",
@@ -528,6 +584,13 @@
                 "power": 14094
             },
             "family": "classic",
+            "specialId": "bites_of_disorientation",
+            "assistSkillId": "dragon_breath_of_bulwark",
+            "manaSpeedId": "slow",
+            "dragonSpiritBaseBonusesId": "ancient",
+            "dragonSpiritClassBonusesId": "paladin_ancient",
+            "dragonSpiritElementBonusesId": "green_ancient",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Paladin",
             "spiritBonus": {
                 "spiritClass": "Paladin",
@@ -588,6 +651,13 @@
                 "power": 14156
             },
             "family": "classic",
+            "specialId": "loom_of_destruction",
+            "assistSkillId": "dragon_crippling_blaze",
+            "manaSpeedId": "average",
+            "dragonSpiritBaseBonusesId": "ancient",
+            "dragonSpiritClassBonusesId": "sorcerer_ancient",
+            "dragonSpiritElementBonusesId": "purple_ancient",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Sorcerer",
             "spiritBonus": {
                 "spiritClass": "Sorcerer",
@@ -651,6 +721,13 @@
                 "power": 14218
             },
             "family": "classic",
+            "specialId": "gold_rush",
+            "assistSkillId": "dragon_disarming_blaze",
+            "manaSpeedId": "average",
+            "dragonSpiritBaseBonusesId": "ancient",
+            "dragonSpiritClassBonusesId": "barbarian_ancient",
+            "dragonSpiritElementBonusesId": "red_ancient",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Barbarian",
             "spiritBonus": {
                 "spiritClass": "Barbarian",
@@ -712,6 +789,13 @@
                 "power": 14280
             },
             "family": "classic",
+            "specialId": "time_rewind",
+            "assistSkillId": "dragon_breath_of_revival",
+            "manaSpeedId": "slow",
+            "dragonSpiritBaseBonusesId": "ancient",
+            "dragonSpiritClassBonusesId": "druid_ancient",
+            "dragonSpiritElementBonusesId": "yellow_ancient",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Druid",
             "spiritBonus": {
                 "spiritClass": "Druid",
@@ -772,6 +856,13 @@
                 "power": 14342
             },
             "family": "classic",
+            "specialId": "rose_bouquet_blast",
+            "assistSkillId": "dragon_summer_blaze",
+            "manaSpeedId": "fast",
+            "dragonSpiritBaseBonusesId": "ancient",
+            "dragonSpiritClassBonusesId": "wizard_ancient",
+            "dragonSpiritElementBonusesId": "red_ancient",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Wizard",
             "spiritBonus": {
                 "spiritClass": "Wizard",
@@ -832,6 +923,13 @@
                 "power": 14403
             },
             "family": "classic",
+            "specialId": "pearls_of_rejuvenation",
+            "assistSkillId": "dragon_shielding_breath",
+            "manaSpeedId": "fast",
+            "dragonSpiritBaseBonusesId": "ancient",
+            "dragonSpiritClassBonusesId": "monk_ancient",
+            "dragonSpiritElementBonusesId": "blue_ancient",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Monk",
             "spiritBonus": {
                 "spiritClass": "Monk",
@@ -894,6 +992,13 @@
                 "power": 14464
             },
             "family": "classic",
+            "specialId": "toxic_gas_cloud",
+            "assistSkillId": "dragon_cracking_blaze",
+            "manaSpeedId": "slow",
+            "dragonSpiritBaseBonusesId": "ancient",
+            "dragonSpiritClassBonusesId": "wizard_ancient",
+            "dragonSpiritElementBonusesId": "green_ancient",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Wizard",
             "spiritBonus": {
                 "spiritClass": "Wizard",
@@ -958,6 +1063,13 @@
                 "power": 14527
             },
             "family": "classic",
+            "specialId": "kitten_stampede",
+            "assistSkillId": "dragon_wrecking_blaze",
+            "manaSpeedId": "average",
+            "dragonSpiritBaseBonusesId": "ancient",
+            "dragonSpiritClassBonusesId": "monk_ancient",
+            "dragonSpiritElementBonusesId": "yellow_ancient",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Monk",
             "spiritBonus": {
                 "spiritClass": "Monk",
@@ -1018,6 +1130,13 @@
                 "power": 14588
             },
             "family": "classic",
+            "specialId": "invigorating_soup",
+            "assistSkillId": "dragon_rallying_breath",
+            "manaSpeedId": "fast",
+            "dragonSpiritBaseBonusesId": "ancient",
+            "dragonSpiritClassBonusesId": "ranger_ancient",
+            "dragonSpiritElementBonusesId": "red_ancient",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Ranger",
             "spiritBonus": {
                 "spiritClass": "Ranger",
@@ -1079,6 +1198,13 @@
                 "power": 10732
             },
             "family": "classic",
+            "specialId": "tropical_ambush",
+            "assistSkillId": "dragon_blaze_of_suppression",
+            "manaSpeedId": "fast",
+            "dragonSpiritBaseBonusesId": "",
+            "dragonSpiritClassBonusesId": "rogue",
+            "dragonSpiritElementBonusesId": "green",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Rogue",
             "spiritBonus": {
                 "spiritClass": "Rogue",
@@ -1142,6 +1268,13 @@
                 "power": 10731
             },
             "family": "classic",
+            "specialId": "fearless_charge",
+            "assistSkillId": "dragon_searing_blaze",
+            "manaSpeedId": "slow",
+            "dragonSpiritBaseBonusesId": "",
+            "dragonSpiritClassBonusesId": "paladin",
+            "dragonSpiritElementBonusesId": "red",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Paladin",
             "spiritBonus": {
                 "spiritClass": "Paladin",
@@ -1202,6 +1335,13 @@
                 "power": 13181
             },
             "family": "classic",
+            "specialId": "chaos_bolt_volley",
+            "assistSkillId": "dragon_destabilizing_blaze",
+            "manaSpeedId": "average",
+            "dragonSpiritBaseBonusesId": "",
+            "dragonSpiritClassBonusesId": "druid",
+            "dragonSpiritElementBonusesId": "purple",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Druid",
             "spiritBonus": {
                 "spiritClass": "Druid",
@@ -1263,6 +1403,13 @@
                 "power": 13182
             },
             "family": "classic",
+            "specialId": "wall_of_ice",
+            "assistSkillId": "dragon_breath_of_nourishment",
+            "manaSpeedId": "fast",
+            "dragonSpiritBaseBonusesId": "",
+            "dragonSpiritClassBonusesId": "monk",
+            "dragonSpiritElementBonusesId": "blue",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Monk",
             "spiritBonus": {
                 "spiritClass": "Monk",
@@ -1326,6 +1473,13 @@
                 "power": 14650
             },
             "family": "classic",
+            "specialId": "impeccable_charge",
+            "assistSkillId": "dragon_draining_blaze",
+            "manaSpeedId": "slow",
+            "dragonSpiritBaseBonusesId": "ancient",
+            "dragonSpiritClassBonusesId": "fighter_ancient",
+            "dragonSpiritElementBonusesId": "blue_ancient",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Fighter",
             "spiritBonus": {
                 "spiritClass": "Fighter",
@@ -1387,6 +1541,13 @@
                 "power": 14711
             },
             "family": "classic",
+            "specialId": "garbage_shock_wave",
+            "assistSkillId": "dragon_shocking_blaze",
+            "manaSpeedId": "average",
+            "dragonSpiritBaseBonusesId": "ancient",
+            "dragonSpiritClassBonusesId": "paladin_ancient",
+            "dragonSpiritElementBonusesId": "green_ancient",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Paladin",
             "spiritBonus": {
                 "spiritClass": "Paladin",
@@ -1448,6 +1609,13 @@
                 "power": 14773
             },
             "family": "classic",
+            "specialId": "song_of_the_skies",
+            "assistSkillId": "dragon_sacred_flame_harmonis",
+            "manaSpeedId": "fast",
+            "dragonSpiritBaseBonusesId": "ancient",
+            "dragonSpiritClassBonusesId": "ranger_ancient",
+            "dragonSpiritElementBonusesId": "yellow_ancient",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Ranger",
             "spiritBonus": {
                 "spiritClass": "Ranger",
@@ -1511,6 +1679,13 @@
                 "power": 10733
             },
             "family": "classic",
+            "specialId": "corrosive_pollen",
+            "assistSkillId": "dragon_cauterizing_blaze",
+            "manaSpeedId": "average",
+            "dragonSpiritBaseBonusesId": "",
+            "dragonSpiritClassBonusesId": "sorcerer",
+            "dragonSpiritElementBonusesId": "blue",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Sorcerer",
             "spiritBonus": {
                 "spiritClass": "Sorcerer",
@@ -1571,6 +1746,13 @@
                 "power": 14835
             },
             "family": "classic",
+            "specialId": "orchestra_of_candles",
+            "assistSkillId": "dragon_autumn_blaze",
+            "manaSpeedId": "average",
+            "dragonSpiritBaseBonusesId": "ancient",
+            "dragonSpiritClassBonusesId": "sorcerer_ancient",
+            "dragonSpiritElementBonusesId": "purple_ancient",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Sorcerer",
             "spiritBonus": {
                 "spiritClass": "Sorcerer",
@@ -1634,6 +1816,13 @@
                 "power": 14896
             },
             "family": "classic",
+            "specialId": "ancient_dragon_sword",
+            "assistSkillId": "dragon_weakening_blaze_ashenheart",
+            "manaSpeedId": "average",
+            "dragonSpiritBaseBonusesId": "ancient",
+            "dragonSpiritClassBonusesId": "barbarian_ancient",
+            "dragonSpiritElementBonusesId": "blue_ancient",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Barbarian",
             "spiritBonus": {
                 "spiritClass": "Barbarian",
@@ -1696,6 +1885,13 @@
                 "power": 14957
             },
             "family": "classic",
+            "specialId": "gleaming_gemstones",
+            "assistSkillId": "dragon_rallying_breath_trezoro",
+            "manaSpeedId": "average",
+            "dragonSpiritBaseBonusesId": "ancient",
+            "dragonSpiritClassBonusesId": "fighter_ancient",
+            "dragonSpiritElementBonusesId": "green_ancient",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Fighter",
             "spiritBonus": {
                 "spiritClass": "Fighter",
@@ -1759,6 +1955,13 @@
                 "power": 10735
             },
             "family": "classic",
+            "specialId": "sonic_roar",
+            "assistSkillId": "dragon_blinding_blaze_duskwing",
+            "manaSpeedId": "average",
+            "dragonSpiritBaseBonusesId": "",
+            "dragonSpiritClassBonusesId": "barbarian",
+            "dragonSpiritElementBonusesId": "purple",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Barbarian",
             "spiritBonus": {
                 "spiritClass": "Barbarian",
@@ -1819,6 +2022,13 @@
                 "power": 15019
             },
             "family": "classic",
+            "specialId": "doomrend",
+            "assistSkillId": "dragon_blinding_blaze_wildheart",
+            "manaSpeedId": "average",
+            "dragonSpiritBaseBonusesId": "ancient",
+            "dragonSpiritClassBonusesId": "paladin_ancient",
+            "dragonSpiritElementBonusesId": "red_ancient",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Paladin",
             "spiritBonus": {
                 "spiritClass": "Paladin",
@@ -1881,6 +2091,13 @@
                 "power": 15081
             },
             "family": "classic",
+            "specialId": "cheese_wheel_rampage",
+            "assistSkillId": "dragon_wounding_blaze_ceestraze",
+            "manaSpeedId": "average",
+            "dragonSpiritBaseBonusesId": "ancient",
+            "dragonSpiritClassBonusesId": "cleric_ancient",
+            "dragonSpiritElementBonusesId": "purple_ancient",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Cleric",
             "spiritBonus": {
                 "spiritClass": "Cleric",
@@ -1945,6 +2162,13 @@
                 "power": 15143
             },
             "family": "classic",
+            "specialId": "urgent_gift_delivery",
+            "assistSkillId": "dragon_wrecking_blaze_rangifer",
+            "manaSpeedId": "slow",
+            "dragonSpiritBaseBonusesId": "ancient",
+            "dragonSpiritClassBonusesId": "wizard_ancient",
+            "dragonSpiritElementBonusesId": "red_ancient",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Wizard",
             "spiritBonus": {
                 "spiritClass": "Wizard",
@@ -2009,6 +2233,13 @@
                 "power": 15204
             },
             "family": "classic",
+            "specialId": "bound_by_knowledge",
+            "assistSkillId": "dragon_spring_breath_erudius",
+            "manaSpeedId": "slow",
+            "dragonSpiritBaseBonusesId": "ancient",
+            "dragonSpiritClassBonusesId": "sorcerer_ancient",
+            "dragonSpiritElementBonusesId": "blue_ancient",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Sorcerer",
             "spiritBonus": {
                 "spiritClass": "Sorcerer",
@@ -2071,6 +2302,13 @@
                 "power": 15266
             },
             "family": "classic",
+            "specialId": "aerial_ram",
+            "assistSkillId": "dragon_weakening_blaze_gonthrox",
+            "manaSpeedId": "average",
+            "dragonSpiritBaseBonusesId": "ancient",
+            "dragonSpiritClassBonusesId": "paladin_ancient",
+            "dragonSpiritElementBonusesId": "yellow_ancient",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Paladin",
             "spiritBonus": {
                 "spiritClass": "Paladin",
@@ -2133,6 +2371,13 @@
                 "power": 13185
             },
             "family": "classic",
+            "specialId": "spectacular_bite",
+            "assistSkillId": "dragon_pacifying_breath",
+            "manaSpeedId": "average",
+            "dragonSpiritBaseBonusesId": "",
+            "dragonSpiritClassBonusesId": "wizard",
+            "dragonSpiritElementBonusesId": "yellow",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Wizard",
             "spiritBonus": {
                 "spiritClass": "Wizard",
@@ -2196,6 +2441,13 @@
                 "power": 15328
             },
             "family": "classic",
+            "specialId": "deafening_parade",
+            "assistSkillId": "dragon_crippling_blaze_belzaas",
+            "manaSpeedId": "average",
+            "dragonSpiritBaseBonusesId": "ancient",
+            "dragonSpiritClassBonusesId": "rogue_ancient",
+            "dragonSpiritElementBonusesId": "green_ancient",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Druid",
             "spiritBonus": {
                 "spiritClass": "Druid",
@@ -2259,6 +2511,13 @@
                 "power": 10736
             },
             "family": "classic",
+            "specialId": "cute_and_dangerous",
+            "assistSkillId": "dragon_wounding_blaze_talonshine",
+            "manaSpeedId": "average",
+            "dragonSpiritBaseBonusesId": "",
+            "dragonSpiritClassBonusesId": "monk",
+            "dragonSpiritElementBonusesId": "yellow",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Monk",
             "spiritBonus": {
                 "spiritClass": "Monk",
@@ -2321,6 +2580,13 @@
                 "power": 15389
             },
             "family": "classic",
+            "specialId": "oceanic_torrent",
+            "assistSkillId": "dragon_cleansing_flame_gallakhran",
+            "manaSpeedId": "fast",
+            "dragonSpiritBaseBonusesId": "ancient",
+            "dragonSpiritClassBonusesId": "monk_ancient",
+            "dragonSpiritElementBonusesId": "red_ancient",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Monk",
             "spiritBonus": {
                 "spiritClass": "Monk",
@@ -2384,6 +2650,13 @@
                 "power": 13186
             },
             "family": "classic",
+            "specialId": "magmatic_tempest",
+            "assistSkillId": "dragon_crackling_blaze_smoldercoil",
+            "manaSpeedId": "fast",
+            "dragonSpiritBaseBonusesId": "",
+            "dragonSpiritClassBonusesId": "ranger",
+            "dragonSpiritElementBonusesId": "red",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Ranger",
             "spiritBonus": {
                 "spiritClass": "Ranger",
@@ -2447,6 +2720,13 @@
                 "power": 15451
             },
             "family": "classic",
+            "specialId": "feathered_embrace",
+            "assistSkillId": "dragon_blazing_storm_preenakh",
+            "manaSpeedId": "average",
+            "dragonSpiritBaseBonusesId": "ancient",
+            "dragonSpiritClassBonusesId": "druid_ancient",
+            "dragonSpiritElementBonusesId": "purple_ancient",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Druid",
             "spiritBonus": {
                 "spiritClass": "Druid",
@@ -2510,6 +2790,13 @@
                 "power": 15513
             },
             "family": "classic",
+            "specialId": "claws_of_the_north",
+            "assistSkillId": "dragon_wounding_blaze_froastyx",
+            "manaSpeedId": "very_fast",
+            "dragonSpiritBaseBonusesId": "ancient",
+            "dragonSpiritClassBonusesId": "fighter_ancient",
+            "dragonSpiritElementBonusesId": "blue_ancient",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Fighter",
             "spiritBonus": {
                 "spiritClass": "Fighter",
@@ -2572,6 +2859,13 @@
                 "power": 10737
             },
             "family": "classic",
+            "specialId": "sticky_tongue",
+            "assistSkillId": "dragon_dampening_blaze_phebix",
+            "manaSpeedId": "average",
+            "dragonSpiritBaseBonusesId": "",
+            "dragonSpiritClassBonusesId": "ranger",
+            "dragonSpiritElementBonusesId": "green",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Ranger",
             "spiritBonus": {
                 "spiritClass": "Ranger",
@@ -2634,6 +2928,13 @@
                 "power": 15574
             },
             "family": "classic",
+            "specialId": "acorn_bombardment",
+            "assistSkillId": "dragon_shocking_blaze_qillix",
+            "manaSpeedId": "fast",
+            "dragonSpiritBaseBonusesId": "ancient",
+            "dragonSpiritClassBonusesId": "druid_ancient",
+            "dragonSpiritElementBonusesId": "yellow_ancient",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Druid",
             "spiritBonus": {
                 "spiritClass": "Druid",
@@ -2697,6 +2998,13 @@
                 "power": 13189
             },
             "family": "classic",
+            "specialId": "calcifying_breath",
+            "assistSkillId": "dragon_blaze_of_torment_marzul",
+            "manaSpeedId": "fast",
+            "dragonSpiritBaseBonusesId": "",
+            "dragonSpiritClassBonusesId": "cleric",
+            "dragonSpiritElementBonusesId": "purple",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Cleric",
             "spiritBonus": {
                 "spiritClass": "Cleric",
@@ -2761,6 +3069,13 @@
                 "power": 15636
             },
             "family": "classic",
+            "specialId": "rite_of_protection",
+            "assistSkillId": "dragon_sacred_flame_velmuthraal",
+            "manaSpeedId": "average",
+            "dragonSpiritBaseBonusesId": "ancient",
+            "dragonSpiritClassBonusesId": "monk_ancient",
+            "dragonSpiritElementBonusesId": "red_ancient",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Monk",
             "spiritBonus": {
                 "spiritClass": "Monk",
@@ -2823,6 +3138,13 @@
                 "power": 15698
             },
             "family": "classic",
+            "specialId": "the_scent_of_blood",
+            "assistSkillId": "dragon_wrecking_blaze_thenzar",
+            "manaSpeedId": "average",
+            "dragonSpiritBaseBonusesId": "ancient",
+            "dragonSpiritClassBonusesId": "barbarian_ancient",
+            "dragonSpiritElementBonusesId": "blue_ancient",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Barbarian",
             "spiritBonus": {
                 "spiritClass": "Barbarian",
@@ -2883,6 +3205,13 @@
                 "power": 10740
             },
             "family": "classic",
+            "specialId": "frantic_pincers",
+            "assistSkillId": "dragon_empowering_breath_cruug",
+            "manaSpeedId": "fast",
+            "dragonSpiritBaseBonusesId": "",
+            "dragonSpiritClassBonusesId": "fighter",
+            "dragonSpiritElementBonusesId": "red",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Fighter",
             "spiritBonus": {
                 "spiritClass": "Fighter",
@@ -2943,6 +3272,13 @@
                 "power": 13191
             },
             "family": "classic",
+            "specialId": "celestial_balance",
+            "assistSkillId": "dragon_weakening_blaze_fauran",
+            "manaSpeedId": "average",
+            "dragonSpiritBaseBonusesId": "",
+            "dragonSpiritClassBonusesId": "sorcerer",
+            "dragonSpiritElementBonusesId": "blue",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Sorcerer",
             "spiritBonus": {
                 "spiritClass": "Sorcerer",
@@ -3004,6 +3340,13 @@
                 "power": 15760
             },
             "family": "classic",
+            "specialId": "aerial_revenge",
+            "assistSkillId": "dragon_corrosive_blaze_wingmane",
+            "manaSpeedId": "fast",
+            "dragonSpiritBaseBonusesId": "ancient",
+            "dragonSpiritClassBonusesId": "ranger_ancient",
+            "dragonSpiritElementBonusesId": "green_ancient",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Ranger",
             "spiritBonus": {
                 "spiritClass": "Ranger",
@@ -3066,6 +3409,13 @@
                 "power": 13442
             },
             "family": "classic",
+            "specialId": "unchained_jaws",
+            "assistSkillId": "dragon_wounding_blaze",
+            "manaSpeedId": "fast",
+            "dragonSpiritBaseBonusesId": "default_improved",
+            "dragonSpiritClassBonusesId": "barbarian_improved",
+            "dragonSpiritElementBonusesId": "green_improved",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Barbarian",
             "spiritBonus": {
                 "spiritClass": "Barbarian",
@@ -3128,6 +3478,13 @@
                 "power": 13444
             },
             "family": "classic",
+            "specialId": "fiery_charge",
+            "assistSkillId": "dragon_corrosive_blaze",
+            "manaSpeedId": "fast",
+            "dragonSpiritBaseBonusesId": "default_improved",
+            "dragonSpiritClassBonusesId": "ranger_improved",
+            "dragonSpiritElementBonusesId": "red_improved",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Ranger",
             "spiritBonus": {
                 "spiritClass": "Ranger",
@@ -3190,6 +3547,13 @@
                 "power": 13447
             },
             "family": "classic",
+            "specialId": "sanctuary_of_light",
+            "assistSkillId": "dragon_inspirational_breath",
+            "manaSpeedId": "slow",
+            "dragonSpiritBaseBonusesId": "default_improved",
+            "dragonSpiritClassBonusesId": "cleric_improved",
+            "dragonSpiritElementBonusesId": "yellow_improved",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Cleric",
             "spiritBonus": {
                 "spiritClass": "Cleric",
@@ -3252,6 +3616,13 @@
                 "power": 13319
             },
             "family": "classic",
+            "specialId": "frozen_orb",
+            "assistSkillId": "dragon_protective_breath",
+            "manaSpeedId": "average",
+            "dragonSpiritBaseBonusesId": "default_improved",
+            "dragonSpiritClassBonusesId": "fighter_improved",
+            "dragonSpiritElementBonusesId": "blue_improved",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Fighter",
             "spiritBonus": {
                 "spiritClass": "Fighter",
@@ -3314,6 +3685,13 @@
                 "power": 13321
             },
             "family": "classic",
+            "specialId": "wings_of_thorn",
+            "assistSkillId": "dragon_sacred_flame",
+            "manaSpeedId": "average",
+            "dragonSpiritBaseBonusesId": "default_improved",
+            "dragonSpiritClassBonusesId": "monk_improved",
+            "dragonSpiritElementBonusesId": "yellow_improved",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Monk",
             "spiritBonus": {
                 "spiritClass": "Monk",
@@ -3377,6 +3755,13 @@
                 "power": 13446
             },
             "family": "classic",
+            "specialId": "venomous_spores",
+            "assistSkillId": "dragon_dampening_blaze",
+            "manaSpeedId": "slow",
+            "dragonSpiritBaseBonusesId": "default_improved",
+            "dragonSpiritClassBonusesId": "paladin_improved",
+            "dragonSpiritElementBonusesId": "purple_improved",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Paladin",
             "spiritBonus": {
                 "spiritClass": "Paladin",
@@ -3441,6 +3826,13 @@
                 "power": 13545
             },
             "family": "classic",
+            "specialId": "blessing_of_the_evergrove",
+            "assistSkillId": "dragon_empowering_breath",
+            "manaSpeedId": "slow",
+            "dragonSpiritBaseBonusesId": "default_improved",
+            "dragonSpiritClassBonusesId": "druid_improved",
+            "dragonSpiritElementBonusesId": "red_improved",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Druid",
             "spiritBonus": {
                 "spiritClass": "Druid",
@@ -3503,6 +3895,13 @@
                 "power": 13541
             },
             "family": "classic",
+            "specialId": "blinding_orb",
+            "assistSkillId": "dragon_blinding_blaze",
+            "manaSpeedId": "fast",
+            "dragonSpiritBaseBonusesId": "default_improved",
+            "dragonSpiritClassBonusesId": "rogue_improved",
+            "dragonSpiritElementBonusesId": "yellow_improved",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Rogue",
             "spiritBonus": {
                 "spiritClass": "Rogue",
@@ -3563,6 +3962,13 @@
                 "power": 13321
             },
             "family": "classic",
+            "specialId": "wings_of_laceration",
+            "assistSkillId": "dragon_dampening_blaze",
+            "manaSpeedId": "fast",
+            "dragonSpiritBaseBonusesId": "default_improved",
+            "dragonSpiritClassBonusesId": "barbarian_improved",
+            "dragonSpiritElementBonusesId": "purple_improved",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Barbarian",
             "spiritBonus": {
                 "spiritClass": "Barbarian",
@@ -3625,6 +4031,13 @@
                 "power": 13542
             },
             "family": "classic",
+            "specialId": "nebula_orb",
+            "assistSkillId": "dragon_esoteric_flame",
+            "manaSpeedId": "fast",
+            "dragonSpiritBaseBonusesId": "default_improved",
+            "dragonSpiritClassBonusesId": "wizard_improved",
+            "dragonSpiritElementBonusesId": "purple_improved",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Wizard",
             "spiritBonus": {
                 "spiritClass": "Wizard",
@@ -3688,6 +4101,13 @@
                 "power": 13175
             },
             "family": "classic",
+            "specialId": "breath_of_life",
+            "assistSkillId": "dragon_revitalizing_breath",
+            "manaSpeedId": "slow",
+            "dragonSpiritBaseBonusesId": "",
+            "dragonSpiritClassBonusesId": "wizard",
+            "dragonSpiritElementBonusesId": "green",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Wizard",
             "spiritBonus": {
                 "spiritClass": "Wizard",
@@ -3750,6 +4170,13 @@
                 "power": 13546
             },
             "family": "classic",
+            "specialId": "emerald_wind",
+            "assistSkillId": "dragon_cleansing_flame",
+            "manaSpeedId": "average",
+            "dragonSpiritBaseBonusesId": "default_improved",
+            "dragonSpiritClassBonusesId": "monk_improved",
+            "dragonSpiritElementBonusesId": "green_improved",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Monk",
             "spiritBonus": {
                 "spiritClass": "Monk",
@@ -3813,6 +4240,13 @@
                 "power": 13443
             },
             "family": "classic",
+            "specialId": "electrified_claws",
+            "assistSkillId": "dragon_weakening_blaze",
+            "manaSpeedId": "average",
+            "dragonSpiritBaseBonusesId": "default_improved",
+            "dragonSpiritClassBonusesId": "rogue_improved",
+            "dragonSpiritElementBonusesId": "blue_improved",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Rogue",
             "spiritBonus": {
                 "spiritClass": "Rogue",
@@ -3875,6 +4309,13 @@
                 "power": 13323
             },
             "family": "classic",
+            "specialId": "rain_of_fire",
+            "assistSkillId": "dragon_corrosive_blaze",
+            "manaSpeedId": "average",
+            "dragonSpiritBaseBonusesId": "default_improved",
+            "dragonSpiritClassBonusesId": "sorcerer_improved",
+            "dragonSpiritElementBonusesId": "red_improved",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Sorcerer",
             "spiritBonus": {
                 "spiritClass": "Sorcerer",
@@ -3935,6 +4376,13 @@
                 "power": 10586
             },
             "family": "classic",
+            "specialId": "medicinal_drool",
+            "assistSkillId": "dragon_resuscitating_breath",
+            "manaSpeedId": "slow",
+            "dragonSpiritBaseBonusesId": "",
+            "dragonSpiritClassBonusesId": "cleric",
+            "dragonSpiritElementBonusesId": "green",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Cleric",
             "spiritBonus": {
                 "spiritClass": "Cleric",
@@ -3995,6 +4443,13 @@
                 "power": 10450
             },
             "family": "classic",
+            "specialId": "arctic_veil",
+            "assistSkillId": "dragon_resuscitating_breath",
+            "manaSpeedId": "fast",
+            "dragonSpiritBaseBonusesId": "",
+            "dragonSpiritClassBonusesId": "monk",
+            "dragonSpiritElementBonusesId": "blue",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Monk",
             "spiritBonus": {
                 "spiritClass": "Monk",
@@ -4057,6 +4512,13 @@
                 "power": 13544
             },
             "family": "classic",
+            "specialId": "arctic_breeze",
+            "assistSkillId": "dragon_fortifying_flame",
+            "manaSpeedId": "average",
+            "dragonSpiritBaseBonusesId": "default_improved",
+            "dragonSpiritClassBonusesId": "cleric_improved",
+            "dragonSpiritElementBonusesId": "blue_improved",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Cleric",
             "spiritBonus": {
                 "spiritClass": "Cleric",
@@ -4117,6 +4579,13 @@
                 "power": 13178
             },
             "family": "classic",
+            "specialId": "wings_of_recovery",
+            "assistSkillId": "dragon_revitalizing_breath",
+            "manaSpeedId": "average",
+            "dragonSpiritBaseBonusesId": "",
+            "dragonSpiritClassBonusesId": "cleric",
+            "dragonSpiritElementBonusesId": "yellow",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Cleric",
             "spiritBonus": {
                 "spiritClass": "Cleric",
@@ -4177,6 +4646,13 @@
                 "power": 13035
             },
             "family": "classic",
+            "specialId": "crescent_moon_strike",
+            "assistSkillId": "dragon_fiery_blaze",
+            "manaSpeedId": "average",
+            "dragonSpiritBaseBonusesId": "",
+            "dragonSpiritClassBonusesId": "wizard",
+            "dragonSpiritElementBonusesId": "purple",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Wizard",
             "spiritBonus": {
                 "spiritClass": "Wizard",
@@ -4239,6 +4715,13 @@
                 "power": 12892
             },
             "family": "classic",
+            "specialId": "luminescent_electrocution",
+            "assistSkillId": "dragon_fiery_blaze",
+            "manaSpeedId": "fast",
+            "dragonSpiritBaseBonusesId": "",
+            "dragonSpiritClassBonusesId": "monk",
+            "dragonSpiritElementBonusesId": "yellow",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Monk",
             "spiritBonus": {
                 "spiritClass": "Monk",
@@ -4299,6 +4782,13 @@
                 "power": 12894
             },
             "family": "classic",
+            "specialId": "gust_of_swiftness",
+            "assistSkillId": "dragon_strengthening_flame",
+            "manaSpeedId": "fast",
+            "dragonSpiritBaseBonusesId": "",
+            "dragonSpiritClassBonusesId": "paladin",
+            "dragonSpiritElementBonusesId": "green",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Paladin",
             "spiritBonus": {
                 "spiritClass": "Paladin",
@@ -4362,6 +4852,13 @@
                 "power": 12893
             },
             "family": "classic",
+            "specialId": "rattle_of_confusion",
+            "assistSkillId": "dragon_fiery_blaze",
+            "manaSpeedId": "average",
+            "dragonSpiritBaseBonusesId": "",
+            "dragonSpiritClassBonusesId": "ranger",
+            "dragonSpiritElementBonusesId": "purple",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Ranger",
             "spiritBonus": {
                 "spiritClass": "Ranger",
@@ -4422,6 +4919,13 @@
                 "power": 13177
             },
             "family": "classic",
+            "specialId": "mother_dragons_love",
+            "assistSkillId": "dragon_revitalizing_breath",
+            "manaSpeedId": "average",
+            "dragonSpiritBaseBonusesId": "",
+            "dragonSpiritClassBonusesId": "cleric",
+            "dragonSpiritElementBonusesId": "purple",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Cleric",
             "spiritBonus": {
                 "spiritClass": "Cleric",
@@ -4482,6 +4986,13 @@
                 "power": 10724
             },
             "family": "classic",
+            "specialId": "blinding_stinger",
+            "assistSkillId": "dragon_charring_blaze",
+            "manaSpeedId": "fast",
+            "dragonSpiritBaseBonusesId": "",
+            "dragonSpiritClassBonusesId": "ranger",
+            "dragonSpiritElementBonusesId": "yellow",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Ranger",
             "spiritBonus": {
                 "spiritClass": "Ranger",
@@ -4544,6 +5055,13 @@
                 "power": 10729
             },
             "family": "classic",
+            "specialId": "volcanic_rush",
+            "assistSkillId": "dragon_charring_blaze",
+            "manaSpeedId": "average",
+            "dragonSpiritBaseBonusesId": "",
+            "dragonSpiritClassBonusesId": "rogue",
+            "dragonSpiritElementBonusesId": "red",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Rogue",
             "spiritBonus": {
                 "spiritClass": "Rogue",
@@ -4604,6 +5122,13 @@
                 "power": 10589
             },
             "family": "classic",
+            "specialId": "blessing_of_the_skies",
+            "assistSkillId": "dragon_charring_blaze",
+            "manaSpeedId": "average",
+            "dragonSpiritBaseBonusesId": "",
+            "dragonSpiritClassBonusesId": "cleric",
+            "dragonSpiritElementBonusesId": "yellow",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Cleric",
             "spiritBonus": {
                 "spiritClass": "Cleric",
@@ -4664,6 +5189,13 @@
                 "power": 10727
             },
             "family": "classic",
+            "specialId": "icebound_howl",
+            "assistSkillId": "dragon_charring_blaze",
+            "manaSpeedId": "average",
+            "dragonSpiritBaseBonusesId": "",
+            "dragonSpiritClassBonusesId": "wizard",
+            "dragonSpiritElementBonusesId": "blue",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Wizard",
             "spiritBonus": {
                 "spiritClass": "Wizard",
@@ -4724,6 +5256,13 @@
                 "power": 13174
             },
             "family": "classic",
+            "specialId": "fatal_finisher",
+            "assistSkillId": "dragon_fiery_blaze",
+            "manaSpeedId": "fast",
+            "dragonSpiritBaseBonusesId": "",
+            "dragonSpiritClassBonusesId": "rogue",
+            "dragonSpiritElementBonusesId": "blue",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Rogue",
             "spiritBonus": {
                 "spiritClass": "Rogue",
@@ -4787,6 +5326,13 @@
                 "power": 10731
             },
             "family": "classic",
+            "specialId": "gust_of_restoration",
+            "assistSkillId": "dragon_resuscitating_breath",
+            "manaSpeedId": "average",
+            "dragonSpiritBaseBonusesId": "",
+            "dragonSpiritClassBonusesId": "druid",
+            "dragonSpiritElementBonusesId": "green",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Druid",
             "spiritBonus": {
                 "spiritClass": "Druid",
@@ -4849,6 +5395,13 @@
                 "power": 12896
             },
             "family": "classic",
+            "specialId": "claws_of_fury",
+            "assistSkillId": "dragon_fiery_blaze",
+            "manaSpeedId": "slow",
+            "dragonSpiritBaseBonusesId": "",
+            "dragonSpiritClassBonusesId": "barbarian",
+            "dragonSpiritElementBonusesId": "blue",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Barbarian",
             "spiritBonus": {
                 "spiritClass": "Barbarian",
@@ -4911,6 +5464,13 @@
                 "power": 10586
             },
             "family": "classic",
+            "specialId": "cursed_tail_whip",
+            "assistSkillId": "dragon_charring_blaze",
+            "manaSpeedId": "fast",
+            "dragonSpiritBaseBonusesId": "",
+            "dragonSpiritClassBonusesId": "barbarian",
+            "dragonSpiritElementBonusesId": "purple",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Barbarian",
             "spiritBonus": {
                 "spiritClass": "Barbarian",
@@ -4973,6 +5533,13 @@
                 "power": 13324
             },
             "family": "classic",
+            "specialId": "natures_fury",
+            "assistSkillId": "dragon_wounding_blaze",
+            "manaSpeedId": "slow",
+            "dragonSpiritBaseBonusesId": "default_improved",
+            "dragonSpiritClassBonusesId": "paladin_improved",
+            "dragonSpiritElementBonusesId": "green_improved",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Paladin",
             "spiritBonus": {
                 "spiritClass": "Paladin",
@@ -5035,6 +5602,13 @@
                 "power": 13180
             },
             "family": "classic",
+            "specialId": "corals_of_nourishment",
+            "assistSkillId": "dragon_revitalizing_breath",
+            "manaSpeedId": "slow",
+            "dragonSpiritBaseBonusesId": "",
+            "dragonSpiritClassBonusesId": "sorcerer",
+            "dragonSpiritElementBonusesId": "red",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Sorcerer",
             "spiritBonus": {
                 "spiritClass": "Sorcerer",
@@ -5095,6 +5669,13 @@
                 "power": 13034
             },
             "family": "classic",
+            "specialId": "blinding_light",
+            "assistSkillId": "dragon_fiery_blaze",
+            "manaSpeedId": "slow",
+            "dragonSpiritBaseBonusesId": "",
+            "dragonSpiritClassBonusesId": "druid",
+            "dragonSpiritElementBonusesId": "yellow",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Druid",
             "spiritBonus": {
                 "spiritClass": "Druid",
@@ -5155,6 +5736,13 @@
                 "power": 13037
             },
             "family": "classic",
+            "specialId": "bite_of_protection",
+            "assistSkillId": "dragon_fiery_blaze",
+            "manaSpeedId": "average",
+            "dragonSpiritBaseBonusesId": "",
+            "dragonSpiritClassBonusesId": "barbarian",
+            "dragonSpiritElementBonusesId": "blue",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Barbarian",
             "spiritBonus": {
                 "spiritClass": "Barbarian",
@@ -5217,6 +5805,13 @@
                 "power": 13039
             },
             "family": "classic",
+            "specialId": "toxic_bile",
+            "assistSkillId": "dragon_fiery_blaze",
+            "manaSpeedId": "slow",
+            "dragonSpiritBaseBonusesId": "",
+            "dragonSpiritClassBonusesId": "sorcerer",
+            "dragonSpiritElementBonusesId": "green",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Sorcerer",
             "spiritBonus": {
                 "spiritClass": "Sorcerer",
@@ -5276,6 +5871,13 @@
                 "power": 10448
             },
             "family": "classic",
+            "specialId": "devastating_slash",
+            "assistSkillId": "dragon_charring_blaze",
+            "manaSpeedId": "fast",
+            "dragonSpiritBaseBonusesId": "",
+            "dragonSpiritClassBonusesId": "fighter",
+            "dragonSpiritElementBonusesId": "red",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Fighter",
             "spiritBonus": {
                 "spiritClass": "Fighter",
@@ -5338,6 +5940,13 @@
                 "power": 10591
             },
             "family": "classic",
+            "specialId": "wings_of_frost",
+            "assistSkillId": "dragon_charring_blaze",
+            "manaSpeedId": "slow",
+            "dragonSpiritBaseBonusesId": "",
+            "dragonSpiritClassBonusesId": "ranger",
+            "dragonSpiritElementBonusesId": "blue",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Ranger",
             "spiritBonus": {
                 "spiritClass": "Ranger",
@@ -5400,6 +6009,13 @@
                 "power": 12897
             },
             "family": "classic",
+            "specialId": "breath_of_the_abyss",
+            "assistSkillId": "dragon_fiery_blaze",
+            "manaSpeedId": "average",
+            "dragonSpiritBaseBonusesId": "",
+            "dragonSpiritClassBonusesId": "rogue",
+            "dragonSpiritElementBonusesId": "red",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Rogue",
             "spiritBonus": {
                 "spiritClass": "Rogue",
@@ -5460,6 +6076,13 @@
                 "power": 10450
             },
             "family": "classic",
+            "specialId": "breath_of_darkness",
+            "assistSkillId": "dragon_charring_blaze",
+            "manaSpeedId": "average",
+            "dragonSpiritBaseBonusesId": "",
+            "dragonSpiritClassBonusesId": "sorcerer",
+            "dragonSpiritElementBonusesId": "purple",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Sorcerer",
             "spiritBonus": {
                 "spiritClass": "Sorcerer",
@@ -5520,6 +6143,13 @@
                 "power": 13032
             },
             "family": "classic",
+            "specialId": "concussive_charge",
+            "assistSkillId": "dragon_fiery_blaze",
+            "manaSpeedId": "slow",
+            "dragonSpiritBaseBonusesId": "",
+            "dragonSpiritClassBonusesId": "fighter",
+            "dragonSpiritElementBonusesId": "red",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Fighter",
             "spiritBonus": {
                 "spiritClass": "Fighter",
@@ -5582,6 +6212,13 @@
                 "power": 10727
             },
             "family": "classic",
+            "specialId": "toxic_headbutt",
+            "assistSkillId": "dragon_charring_blaze",
+            "manaSpeedId": "slow",
+            "dragonSpiritBaseBonusesId": "",
+            "dragonSpiritClassBonusesId": "barbarian",
+            "dragonSpiritElementBonusesId": "purple",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Barbarian",
             "spiritBonus": {
                 "spiritClass": "Barbarian",
@@ -5644,6 +6281,13 @@
                 "power": 10446
             },
             "family": "classic",
+            "specialId": "shards_of_sun",
+            "assistSkillId": "dragon_charring_blaze",
+            "manaSpeedId": "slow",
+            "dragonSpiritBaseBonusesId": "",
+            "dragonSpiritClassBonusesId": "paladin",
+            "dragonSpiritElementBonusesId": "yellow",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Paladin",
             "spiritBonus": {
                 "spiritClass": "Paladin",
@@ -5706,6 +6350,13 @@
                 "power": 10445
             },
             "family": "classic",
+            "specialId": "leaf_blast",
+            "assistSkillId": "dragon_resuscitating_breath",
+            "manaSpeedId": "fast",
+            "dragonSpiritBaseBonusesId": "",
+            "dragonSpiritClassBonusesId": "druid",
+            "dragonSpiritElementBonusesId": "green",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Druid",
             "spiritBonus": {
                 "spiritClass": "Druid",
@@ -5768,6 +6419,13 @@
                 "power": 10590
             },
             "family": "classic",
+            "specialId": "volcanic_shell",
+            "assistSkillId": "dragon_charring_blaze",
+            "manaSpeedId": "slow",
+            "dragonSpiritBaseBonusesId": "",
+            "dragonSpiritClassBonusesId": "fighter",
+            "dragonSpiritElementBonusesId": "red",
+            "assistSkillManaSpeedId": "dragon",
             "spiritClass": "Fighter",
             "spiritBonus": {
                 "spiritClass": "Fighter",
