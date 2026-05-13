@@ -41,6 +41,8 @@
             "dragonSpiritClassBonusesId": "rogue_ancient",
             "dragonSpiritElementBonusesId": "purple_ancient",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2025-02-04",
+            "release_date_timestamp": 791967600,
             "spiritClass": "Druid",
             "spiritBonus": {
                 "spiritClass": "Druid",
@@ -112,6 +114,8 @@
             "dragonSpiritClassBonusesId": "wizard_ancient",
             "dragonSpiritElementBonusesId": "yellow_ancient",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2025-02-04",
+            "release_date_timestamp": 791967600,
             "spiritClass": "Wizard",
             "spiritBonus": {
                 "spiritClass": "Wizard",
@@ -179,6 +183,8 @@
             "dragonSpiritClassBonusesId": "sorcerer_ancient",
             "dragonSpiritElementBonusesId": "red_ancient",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2025-02-18",
+            "release_date_timestamp": 793177200,
             "spiritClass": "Sorcerer",
             "spiritBonus": {
                 "spiritClass": "Sorcerer",
@@ -246,6 +252,8 @@
             "dragonSpiritClassBonusesId": "ranger_ancient",
             "dragonSpiritElementBonusesId": "blue_ancient",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2025-03-04",
+            "release_date_timestamp": 794386800,
             "spiritClass": "Ranger",
             "spiritBonus": {
                 "spiritClass": "Ranger",
@@ -316,6 +324,8 @@
             "dragonSpiritClassBonusesId": "druid_ancient",
             "dragonSpiritElementBonusesId": "green_ancient",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2025-03-18",
+            "release_date_timestamp": 795596400,
             "spiritClass": "Druid",
             "spiritBonus": {
                 "spiritClass": "Druid",
@@ -386,6 +396,8 @@
             "dragonSpiritClassBonusesId": "cleric_ancient",
             "dragonSpiritElementBonusesId": "yellow_ancient",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2025-04-01",
+            "release_date_timestamp": 796806000,
             "spiritClass": "Cleric",
             "spiritBonus": {
                 "spiritClass": "Cleric",
@@ -453,6 +465,8 @@
             "dragonSpiritClassBonusesId": "rogue_ancient",
             "dragonSpiritElementBonusesId": "blue_ancient",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2025-04-15",
+            "release_date_timestamp": 798015600,
             "spiritClass": "Druid",
             "spiritBonus": {
                 "spiritClass": "Druid",
@@ -524,6 +538,8 @@
             "dragonSpiritClassBonusesId": "fighter_ancient",
             "dragonSpiritElementBonusesId": "purple_ancient",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2025-04-28",
+            "release_date_timestamp": 799138800,
             "spiritClass": "Fighter",
             "spiritBonus": {
                 "spiritClass": "Fighter",
@@ -591,6 +607,8 @@
             "dragonSpiritClassBonusesId": "paladin_ancient",
             "dragonSpiritElementBonusesId": "green_ancient",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2025-05-15",
+            "release_date_timestamp": 800607600,
             "spiritClass": "Paladin",
             "spiritBonus": {
                 "spiritClass": "Paladin",
@@ -658,6 +676,8 @@
             "dragonSpiritClassBonusesId": "sorcerer_ancient",
             "dragonSpiritElementBonusesId": "purple_ancient",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2025-05-26",
+            "release_date_timestamp": 801558000,
             "spiritClass": "Sorcerer",
             "spiritBonus": {
                 "spiritClass": "Sorcerer",
@@ -728,6 +748,8 @@
             "dragonSpiritClassBonusesId": "barbarian_ancient",
             "dragonSpiritElementBonusesId": "red_ancient",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2025-06-10",
+            "release_date_timestamp": 802854000,
             "spiritClass": "Barbarian",
             "spiritBonus": {
                 "spiritClass": "Barbarian",
@@ -796,6 +818,8 @@
             "dragonSpiritClassBonusesId": "druid_ancient",
             "dragonSpiritElementBonusesId": "yellow_ancient",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2025-06-25",
+            "release_date_timestamp": 804150000,
             "spiritClass": "Druid",
             "spiritBonus": {
                 "spiritClass": "Druid",
@@ -863,6 +887,8 @@
             "dragonSpiritClassBonusesId": "wizard_ancient",
             "dragonSpiritElementBonusesId": "red_ancient",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2025-07-08",
+            "release_date_timestamp": 805273200,
             "spiritClass": "Wizard",
             "spiritBonus": {
                 "spiritClass": "Wizard",
@@ -930,6 +956,8 @@
             "dragonSpiritClassBonusesId": "monk_ancient",
             "dragonSpiritElementBonusesId": "blue_ancient",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2025-07-22",
+            "release_date_timestamp": 806482800,
             "spiritClass": "Monk",
             "spiritBonus": {
                 "spiritClass": "Monk",
@@ -999,6 +1027,8 @@
             "dragonSpiritClassBonusesId": "wizard_ancient",
             "dragonSpiritElementBonusesId": "green_ancient",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2025-08-05",
+            "release_date_timestamp": 807692400,
             "spiritClass": "Wizard",
             "spiritBonus": {
                 "spiritClass": "Wizard",
@@ -1070,6 +1100,8 @@
             "dragonSpiritClassBonusesId": "monk_ancient",
             "dragonSpiritElementBonusesId": "yellow_ancient",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2025-08-19",
+            "release_date_timestamp": 808902000,
             "spiritClass": "Monk",
             "spiritBonus": {
                 "spiritClass": "Monk",
@@ -1137,6 +1169,8 @@
             "dragonSpiritClassBonusesId": "ranger_ancient",
             "dragonSpiritElementBonusesId": "red_ancient",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2025-09-02",
+            "release_date_timestamp": 810111600,
             "spiritClass": "Ranger",
             "spiritBonus": {
                 "spiritClass": "Ranger",
@@ -1205,6 +1239,8 @@
             "dragonSpiritClassBonusesId": "rogue",
             "dragonSpiritElementBonusesId": "green",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2025-09-18",
+            "release_date_timestamp": 811494000,
             "spiritClass": "Rogue",
             "spiritBonus": {
                 "spiritClass": "Rogue",
@@ -1275,6 +1311,8 @@
             "dragonSpiritClassBonusesId": "paladin",
             "dragonSpiritElementBonusesId": "red",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2025-09-18",
+            "release_date_timestamp": 811494000,
             "spiritClass": "Paladin",
             "spiritBonus": {
                 "spiritClass": "Paladin",
@@ -1342,6 +1380,8 @@
             "dragonSpiritClassBonusesId": "druid",
             "dragonSpiritElementBonusesId": "purple",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2025-09-18",
+            "release_date_timestamp": 811494000,
             "spiritClass": "Druid",
             "spiritBonus": {
                 "spiritClass": "Druid",
@@ -1410,6 +1450,8 @@
             "dragonSpiritClassBonusesId": "monk",
             "dragonSpiritElementBonusesId": "blue",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2025-09-18",
+            "release_date_timestamp": 811494000,
             "spiritClass": "Monk",
             "spiritBonus": {
                 "spiritClass": "Monk",
@@ -1480,6 +1522,8 @@
             "dragonSpiritClassBonusesId": "fighter_ancient",
             "dragonSpiritElementBonusesId": "blue_ancient",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2025-09-18",
+            "release_date_timestamp": 811494000,
             "spiritClass": "Fighter",
             "spiritBonus": {
                 "spiritClass": "Fighter",
@@ -1548,6 +1592,8 @@
             "dragonSpiritClassBonusesId": "paladin_ancient",
             "dragonSpiritElementBonusesId": "green_ancient",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2025-09-30",
+            "release_date_timestamp": 812530800,
             "spiritClass": "Paladin",
             "spiritBonus": {
                 "spiritClass": "Paladin",
@@ -1616,6 +1662,8 @@
             "dragonSpiritClassBonusesId": "ranger_ancient",
             "dragonSpiritElementBonusesId": "yellow_ancient",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2025-10-14",
+            "release_date_timestamp": 813740400,
             "spiritClass": "Ranger",
             "spiritBonus": {
                 "spiritClass": "Ranger",
@@ -1686,6 +1734,8 @@
             "dragonSpiritClassBonusesId": "sorcerer",
             "dragonSpiritElementBonusesId": "blue",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2025-10-28",
+            "release_date_timestamp": 814950000,
             "spiritClass": "Sorcerer",
             "spiritBonus": {
                 "spiritClass": "Sorcerer",
@@ -1753,6 +1803,8 @@
             "dragonSpiritClassBonusesId": "sorcerer_ancient",
             "dragonSpiritElementBonusesId": "purple_ancient",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2025-10-28",
+            "release_date_timestamp": 814950000,
             "spiritClass": "Sorcerer",
             "spiritBonus": {
                 "spiritClass": "Sorcerer",
@@ -1823,6 +1875,8 @@
             "dragonSpiritClassBonusesId": "barbarian_ancient",
             "dragonSpiritElementBonusesId": "blue_ancient",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2025-11-11",
+            "release_date_timestamp": 816159600,
             "spiritClass": "Barbarian",
             "spiritBonus": {
                 "spiritClass": "Barbarian",
@@ -1892,6 +1946,8 @@
             "dragonSpiritClassBonusesId": "fighter_ancient",
             "dragonSpiritElementBonusesId": "green_ancient",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2025-11-21",
+            "release_date_timestamp": 817023600,
             "spiritClass": "Fighter",
             "spiritBonus": {
                 "spiritClass": "Fighter",
@@ -1962,6 +2018,8 @@
             "dragonSpiritClassBonusesId": "barbarian",
             "dragonSpiritElementBonusesId": "purple",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2025-11-21",
+            "release_date_timestamp": 817023600,
             "spiritClass": "Barbarian",
             "spiritBonus": {
                 "spiritClass": "Barbarian",
@@ -2029,6 +2087,8 @@
             "dragonSpiritClassBonusesId": "paladin_ancient",
             "dragonSpiritElementBonusesId": "red_ancient",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2025-11-28",
+            "release_date_timestamp": 817628400,
             "spiritClass": "Paladin",
             "spiritBonus": {
                 "spiritClass": "Paladin",
@@ -2098,6 +2158,8 @@
             "dragonSpiritClassBonusesId": "cleric_ancient",
             "dragonSpiritElementBonusesId": "purple_ancient",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2025-12-09",
+            "release_date_timestamp": 818578800,
             "spiritClass": "Cleric",
             "spiritBonus": {
                 "spiritClass": "Cleric",
@@ -2169,6 +2231,8 @@
             "dragonSpiritClassBonusesId": "wizard_ancient",
             "dragonSpiritElementBonusesId": "red_ancient",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2025-12-23",
+            "release_date_timestamp": 819788400,
             "spiritClass": "Wizard",
             "spiritBonus": {
                 "spiritClass": "Wizard",
@@ -2240,6 +2304,8 @@
             "dragonSpiritClassBonusesId": "sorcerer_ancient",
             "dragonSpiritElementBonusesId": "blue_ancient",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2026-01-06",
+            "release_date_timestamp": 820998000,
             "spiritClass": "Sorcerer",
             "spiritBonus": {
                 "spiritClass": "Sorcerer",
@@ -2309,6 +2375,8 @@
             "dragonSpiritClassBonusesId": "paladin_ancient",
             "dragonSpiritElementBonusesId": "yellow_ancient",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2026-01-20",
+            "release_date_timestamp": 822207600,
             "spiritClass": "Paladin",
             "spiritBonus": {
                 "spiritClass": "Paladin",
@@ -2378,6 +2446,8 @@
             "dragonSpiritClassBonusesId": "wizard",
             "dragonSpiritElementBonusesId": "yellow",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2026-02-03",
+            "release_date_timestamp": 823417200,
             "spiritClass": "Wizard",
             "spiritBonus": {
                 "spiritClass": "Wizard",
@@ -2448,6 +2518,8 @@
             "dragonSpiritClassBonusesId": "rogue_ancient",
             "dragonSpiritElementBonusesId": "green_ancient",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2026-02-03",
+            "release_date_timestamp": 823417200,
             "spiritClass": "Druid",
             "spiritBonus": {
                 "spiritClass": "Druid",
@@ -2518,6 +2590,8 @@
             "dragonSpiritClassBonusesId": "monk",
             "dragonSpiritElementBonusesId": "yellow",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2026-02-17",
+            "release_date_timestamp": 824626800,
             "spiritClass": "Monk",
             "spiritBonus": {
                 "spiritClass": "Monk",
@@ -2587,6 +2661,8 @@
             "dragonSpiritClassBonusesId": "monk_ancient",
             "dragonSpiritElementBonusesId": "red_ancient",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2026-02-17",
+            "release_date_timestamp": 824626800,
             "spiritClass": "Monk",
             "spiritBonus": {
                 "spiritClass": "Monk",
@@ -2657,6 +2733,8 @@
             "dragonSpiritClassBonusesId": "ranger",
             "dragonSpiritElementBonusesId": "red",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2026-03-03",
+            "release_date_timestamp": 825836400,
             "spiritClass": "Ranger",
             "spiritBonus": {
                 "spiritClass": "Ranger",
@@ -2727,6 +2805,8 @@
             "dragonSpiritClassBonusesId": "druid_ancient",
             "dragonSpiritElementBonusesId": "purple_ancient",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2026-03-03",
+            "release_date_timestamp": 825836400,
             "spiritClass": "Druid",
             "spiritBonus": {
                 "spiritClass": "Druid",
@@ -2797,6 +2877,8 @@
             "dragonSpiritClassBonusesId": "fighter_ancient",
             "dragonSpiritElementBonusesId": "blue_ancient",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2026-03-17",
+            "release_date_timestamp": 827046000,
             "spiritClass": "Fighter",
             "spiritBonus": {
                 "spiritClass": "Fighter",
@@ -2866,6 +2948,8 @@
             "dragonSpiritClassBonusesId": "ranger",
             "dragonSpiritElementBonusesId": "green",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2026-03-17",
+            "release_date_timestamp": 827046000,
             "spiritClass": "Ranger",
             "spiritBonus": {
                 "spiritClass": "Ranger",
@@ -2935,6 +3019,8 @@
             "dragonSpiritClassBonusesId": "druid_ancient",
             "dragonSpiritElementBonusesId": "yellow_ancient",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2026-03-31",
+            "release_date_timestamp": 828255600,
             "spiritClass": "Druid",
             "spiritBonus": {
                 "spiritClass": "Druid",
@@ -3005,6 +3091,8 @@
             "dragonSpiritClassBonusesId": "cleric",
             "dragonSpiritElementBonusesId": "purple",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2026-04-14",
+            "release_date_timestamp": 829465200,
             "spiritClass": "Cleric",
             "spiritBonus": {
                 "spiritClass": "Cleric",
@@ -3076,6 +3164,8 @@
             "dragonSpiritClassBonusesId": "monk_ancient",
             "dragonSpiritElementBonusesId": "red_ancient",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2026-04-14",
+            "release_date_timestamp": 829465200,
             "spiritClass": "Monk",
             "spiritBonus": {
                 "spiritClass": "Monk",
@@ -3145,6 +3235,8 @@
             "dragonSpiritClassBonusesId": "barbarian_ancient",
             "dragonSpiritElementBonusesId": "blue_ancient",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2026-04-28",
+            "release_date_timestamp": 830674800,
             "spiritClass": "Barbarian",
             "spiritBonus": {
                 "spiritClass": "Barbarian",
@@ -3212,6 +3304,8 @@
             "dragonSpiritClassBonusesId": "fighter",
             "dragonSpiritElementBonusesId": "red",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2026-04-28",
+            "release_date_timestamp": 830674800,
             "spiritClass": "Fighter",
             "spiritBonus": {
                 "spiritClass": "Fighter",
@@ -3279,6 +3373,8 @@
             "dragonSpiritClassBonusesId": "sorcerer",
             "dragonSpiritElementBonusesId": "blue",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2026-05-12",
+            "release_date_timestamp": 831884400,
             "spiritClass": "Sorcerer",
             "spiritBonus": {
                 "spiritClass": "Sorcerer",
@@ -3347,6 +3443,8 @@
             "dragonSpiritClassBonusesId": "ranger_ancient",
             "dragonSpiritElementBonusesId": "green_ancient",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "2026-05-12",
+            "release_date_timestamp": 831884400,
             "spiritClass": "Ranger",
             "spiritBonus": {
                 "spiritClass": "Ranger",
@@ -3416,6 +3514,8 @@
             "dragonSpiritClassBonusesId": "barbarian_improved",
             "dragonSpiritElementBonusesId": "green_improved",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "",
+            "release_date_timestamp": null,
             "spiritClass": "Barbarian",
             "spiritBonus": {
                 "spiritClass": "Barbarian",
@@ -3485,6 +3585,8 @@
             "dragonSpiritClassBonusesId": "ranger_improved",
             "dragonSpiritElementBonusesId": "red_improved",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "",
+            "release_date_timestamp": null,
             "spiritClass": "Ranger",
             "spiritBonus": {
                 "spiritClass": "Ranger",
@@ -3554,6 +3656,8 @@
             "dragonSpiritClassBonusesId": "cleric_improved",
             "dragonSpiritElementBonusesId": "yellow_improved",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "",
+            "release_date_timestamp": null,
             "spiritClass": "Cleric",
             "spiritBonus": {
                 "spiritClass": "Cleric",
@@ -3623,6 +3727,8 @@
             "dragonSpiritClassBonusesId": "fighter_improved",
             "dragonSpiritElementBonusesId": "blue_improved",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "",
+            "release_date_timestamp": null,
             "spiritClass": "Fighter",
             "spiritBonus": {
                 "spiritClass": "Fighter",
@@ -3692,6 +3798,8 @@
             "dragonSpiritClassBonusesId": "monk_improved",
             "dragonSpiritElementBonusesId": "yellow_improved",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "",
+            "release_date_timestamp": null,
             "spiritClass": "Monk",
             "spiritBonus": {
                 "spiritClass": "Monk",
@@ -3762,6 +3870,8 @@
             "dragonSpiritClassBonusesId": "paladin_improved",
             "dragonSpiritElementBonusesId": "purple_improved",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "",
+            "release_date_timestamp": null,
             "spiritClass": "Paladin",
             "spiritBonus": {
                 "spiritClass": "Paladin",
@@ -3833,6 +3943,8 @@
             "dragonSpiritClassBonusesId": "druid_improved",
             "dragonSpiritElementBonusesId": "red_improved",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "",
+            "release_date_timestamp": null,
             "spiritClass": "Druid",
             "spiritBonus": {
                 "spiritClass": "Druid",
@@ -3902,6 +4014,8 @@
             "dragonSpiritClassBonusesId": "rogue_improved",
             "dragonSpiritElementBonusesId": "yellow_improved",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "",
+            "release_date_timestamp": null,
             "spiritClass": "Rogue",
             "spiritBonus": {
                 "spiritClass": "Rogue",
@@ -3969,6 +4083,8 @@
             "dragonSpiritClassBonusesId": "barbarian_improved",
             "dragonSpiritElementBonusesId": "purple_improved",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "",
+            "release_date_timestamp": null,
             "spiritClass": "Barbarian",
             "spiritBonus": {
                 "spiritClass": "Barbarian",
@@ -4038,6 +4154,8 @@
             "dragonSpiritClassBonusesId": "wizard_improved",
             "dragonSpiritElementBonusesId": "purple_improved",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "",
+            "release_date_timestamp": null,
             "spiritClass": "Wizard",
             "spiritBonus": {
                 "spiritClass": "Wizard",
@@ -4108,6 +4226,8 @@
             "dragonSpiritClassBonusesId": "wizard",
             "dragonSpiritElementBonusesId": "green",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "",
+            "release_date_timestamp": null,
             "spiritClass": "Wizard",
             "spiritBonus": {
                 "spiritClass": "Wizard",
@@ -4177,6 +4297,8 @@
             "dragonSpiritClassBonusesId": "monk_improved",
             "dragonSpiritElementBonusesId": "green_improved",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "",
+            "release_date_timestamp": null,
             "spiritClass": "Monk",
             "spiritBonus": {
                 "spiritClass": "Monk",
@@ -4247,6 +4369,8 @@
             "dragonSpiritClassBonusesId": "rogue_improved",
             "dragonSpiritElementBonusesId": "blue_improved",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "",
+            "release_date_timestamp": null,
             "spiritClass": "Rogue",
             "spiritBonus": {
                 "spiritClass": "Rogue",
@@ -4316,6 +4440,8 @@
             "dragonSpiritClassBonusesId": "sorcerer_improved",
             "dragonSpiritElementBonusesId": "red_improved",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "",
+            "release_date_timestamp": null,
             "spiritClass": "Sorcerer",
             "spiritBonus": {
                 "spiritClass": "Sorcerer",
@@ -4383,6 +4509,8 @@
             "dragonSpiritClassBonusesId": "cleric",
             "dragonSpiritElementBonusesId": "green",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "",
+            "release_date_timestamp": null,
             "spiritClass": "Cleric",
             "spiritBonus": {
                 "spiritClass": "Cleric",
@@ -4450,6 +4578,8 @@
             "dragonSpiritClassBonusesId": "monk",
             "dragonSpiritElementBonusesId": "blue",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "",
+            "release_date_timestamp": null,
             "spiritClass": "Monk",
             "spiritBonus": {
                 "spiritClass": "Monk",
@@ -4519,6 +4649,8 @@
             "dragonSpiritClassBonusesId": "cleric_improved",
             "dragonSpiritElementBonusesId": "blue_improved",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "",
+            "release_date_timestamp": null,
             "spiritClass": "Cleric",
             "spiritBonus": {
                 "spiritClass": "Cleric",
@@ -4586,6 +4718,8 @@
             "dragonSpiritClassBonusesId": "cleric",
             "dragonSpiritElementBonusesId": "yellow",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "",
+            "release_date_timestamp": null,
             "spiritClass": "Cleric",
             "spiritBonus": {
                 "spiritClass": "Cleric",
@@ -4653,6 +4787,8 @@
             "dragonSpiritClassBonusesId": "wizard",
             "dragonSpiritElementBonusesId": "purple",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "",
+            "release_date_timestamp": null,
             "spiritClass": "Wizard",
             "spiritBonus": {
                 "spiritClass": "Wizard",
@@ -4722,6 +4858,8 @@
             "dragonSpiritClassBonusesId": "monk",
             "dragonSpiritElementBonusesId": "yellow",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "",
+            "release_date_timestamp": null,
             "spiritClass": "Monk",
             "spiritBonus": {
                 "spiritClass": "Monk",
@@ -4789,6 +4927,8 @@
             "dragonSpiritClassBonusesId": "paladin",
             "dragonSpiritElementBonusesId": "green",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "",
+            "release_date_timestamp": null,
             "spiritClass": "Paladin",
             "spiritBonus": {
                 "spiritClass": "Paladin",
@@ -4859,6 +4999,8 @@
             "dragonSpiritClassBonusesId": "ranger",
             "dragonSpiritElementBonusesId": "purple",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "",
+            "release_date_timestamp": null,
             "spiritClass": "Ranger",
             "spiritBonus": {
                 "spiritClass": "Ranger",
@@ -4926,6 +5068,8 @@
             "dragonSpiritClassBonusesId": "cleric",
             "dragonSpiritElementBonusesId": "purple",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "",
+            "release_date_timestamp": null,
             "spiritClass": "Cleric",
             "spiritBonus": {
                 "spiritClass": "Cleric",
@@ -4993,6 +5137,8 @@
             "dragonSpiritClassBonusesId": "ranger",
             "dragonSpiritElementBonusesId": "yellow",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "",
+            "release_date_timestamp": null,
             "spiritClass": "Ranger",
             "spiritBonus": {
                 "spiritClass": "Ranger",
@@ -5062,6 +5208,8 @@
             "dragonSpiritClassBonusesId": "rogue",
             "dragonSpiritElementBonusesId": "red",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "",
+            "release_date_timestamp": null,
             "spiritClass": "Rogue",
             "spiritBonus": {
                 "spiritClass": "Rogue",
@@ -5129,6 +5277,8 @@
             "dragonSpiritClassBonusesId": "cleric",
             "dragonSpiritElementBonusesId": "yellow",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "",
+            "release_date_timestamp": null,
             "spiritClass": "Cleric",
             "spiritBonus": {
                 "spiritClass": "Cleric",
@@ -5196,6 +5346,8 @@
             "dragonSpiritClassBonusesId": "wizard",
             "dragonSpiritElementBonusesId": "blue",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "",
+            "release_date_timestamp": null,
             "spiritClass": "Wizard",
             "spiritBonus": {
                 "spiritClass": "Wizard",
@@ -5263,6 +5415,8 @@
             "dragonSpiritClassBonusesId": "rogue",
             "dragonSpiritElementBonusesId": "blue",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "",
+            "release_date_timestamp": null,
             "spiritClass": "Rogue",
             "spiritBonus": {
                 "spiritClass": "Rogue",
@@ -5333,6 +5487,8 @@
             "dragonSpiritClassBonusesId": "druid",
             "dragonSpiritElementBonusesId": "green",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "",
+            "release_date_timestamp": null,
             "spiritClass": "Druid",
             "spiritBonus": {
                 "spiritClass": "Druid",
@@ -5402,6 +5558,8 @@
             "dragonSpiritClassBonusesId": "barbarian",
             "dragonSpiritElementBonusesId": "blue",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "",
+            "release_date_timestamp": null,
             "spiritClass": "Barbarian",
             "spiritBonus": {
                 "spiritClass": "Barbarian",
@@ -5471,6 +5629,8 @@
             "dragonSpiritClassBonusesId": "barbarian",
             "dragonSpiritElementBonusesId": "purple",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "",
+            "release_date_timestamp": null,
             "spiritClass": "Barbarian",
             "spiritBonus": {
                 "spiritClass": "Barbarian",
@@ -5540,6 +5700,8 @@
             "dragonSpiritClassBonusesId": "paladin_improved",
             "dragonSpiritElementBonusesId": "green_improved",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "",
+            "release_date_timestamp": null,
             "spiritClass": "Paladin",
             "spiritBonus": {
                 "spiritClass": "Paladin",
@@ -5609,6 +5771,8 @@
             "dragonSpiritClassBonusesId": "sorcerer",
             "dragonSpiritElementBonusesId": "red",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "",
+            "release_date_timestamp": null,
             "spiritClass": "Sorcerer",
             "spiritBonus": {
                 "spiritClass": "Sorcerer",
@@ -5676,6 +5840,8 @@
             "dragonSpiritClassBonusesId": "druid",
             "dragonSpiritElementBonusesId": "yellow",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "",
+            "release_date_timestamp": null,
             "spiritClass": "Druid",
             "spiritBonus": {
                 "spiritClass": "Druid",
@@ -5743,6 +5909,8 @@
             "dragonSpiritClassBonusesId": "barbarian",
             "dragonSpiritElementBonusesId": "blue",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "",
+            "release_date_timestamp": null,
             "spiritClass": "Barbarian",
             "spiritBonus": {
                 "spiritClass": "Barbarian",
@@ -5812,6 +5980,8 @@
             "dragonSpiritClassBonusesId": "sorcerer",
             "dragonSpiritElementBonusesId": "green",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "",
+            "release_date_timestamp": null,
             "spiritClass": "Sorcerer",
             "spiritBonus": {
                 "spiritClass": "Sorcerer",
@@ -5878,6 +6048,8 @@
             "dragonSpiritClassBonusesId": "fighter",
             "dragonSpiritElementBonusesId": "red",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "",
+            "release_date_timestamp": null,
             "spiritClass": "Fighter",
             "spiritBonus": {
                 "spiritClass": "Fighter",
@@ -5947,6 +6119,8 @@
             "dragonSpiritClassBonusesId": "ranger",
             "dragonSpiritElementBonusesId": "blue",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "",
+            "release_date_timestamp": null,
             "spiritClass": "Ranger",
             "spiritBonus": {
                 "spiritClass": "Ranger",
@@ -6016,6 +6190,8 @@
             "dragonSpiritClassBonusesId": "rogue",
             "dragonSpiritElementBonusesId": "red",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "",
+            "release_date_timestamp": null,
             "spiritClass": "Rogue",
             "spiritBonus": {
                 "spiritClass": "Rogue",
@@ -6083,6 +6259,8 @@
             "dragonSpiritClassBonusesId": "sorcerer",
             "dragonSpiritElementBonusesId": "purple",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "",
+            "release_date_timestamp": null,
             "spiritClass": "Sorcerer",
             "spiritBonus": {
                 "spiritClass": "Sorcerer",
@@ -6150,6 +6328,8 @@
             "dragonSpiritClassBonusesId": "fighter",
             "dragonSpiritElementBonusesId": "red",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "",
+            "release_date_timestamp": null,
             "spiritClass": "Fighter",
             "spiritBonus": {
                 "spiritClass": "Fighter",
@@ -6219,6 +6399,8 @@
             "dragonSpiritClassBonusesId": "barbarian",
             "dragonSpiritElementBonusesId": "purple",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "",
+            "release_date_timestamp": null,
             "spiritClass": "Barbarian",
             "spiritBonus": {
                 "spiritClass": "Barbarian",
@@ -6288,6 +6470,8 @@
             "dragonSpiritClassBonusesId": "paladin",
             "dragonSpiritElementBonusesId": "yellow",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "",
+            "release_date_timestamp": null,
             "spiritClass": "Paladin",
             "spiritBonus": {
                 "spiritClass": "Paladin",
@@ -6357,6 +6541,8 @@
             "dragonSpiritClassBonusesId": "druid",
             "dragonSpiritElementBonusesId": "green",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "",
+            "release_date_timestamp": null,
             "spiritClass": "Druid",
             "spiritBonus": {
                 "spiritClass": "Druid",
@@ -6426,6 +6612,8 @@
             "dragonSpiritClassBonusesId": "fighter",
             "dragonSpiritElementBonusesId": "red",
             "assistSkillManaSpeedId": "dragon",
+            "Release date": "",
+            "release_date_timestamp": null,
             "spiritClass": "Fighter",
             "spiritBonus": {
                 "spiritClass": "Fighter",
