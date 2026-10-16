@@ -5099,6 +5099,21 @@
             },
             {
               "lotteryProductType": "Classic Costume Summon",
+              "id": "costume_summon_default_2026_10_28",
+              "productId": "lottery_costume_default",
+              "startDate": "2026-10-28 07:00:00",
+              "endDate": "2026-11-01 07:00:00",
+              "overridden": true,
+              "featuredCostumeItems": [
+                "forest_titan_costume_stylish",
+                "exalted_female_statue_costume_stylish"
+              ],
+              "questLines": [
+                "costume_quest5"
+              ]
+            },
+            {
+              "lotteryProductType": "Classic Costume Summon",
               "id": "costume_summon_default_2026_11_9",
               "productId": "lottery_costume_default",
               "startDate": "2026-11-09 07:00:00",
@@ -5500,7 +5515,7 @@
               "overridden": true,
               "featuredHeroes": [
                 "elemental_craum",
-                "elemental_desmond"
+                "elemental_desmond_costume_assassin"
               ],
               "questLines": [
                 "super_elemental_quest_green"
@@ -5528,8 +5543,8 @@
               "endDate": "2026-11-06 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "elemental_ash",
-                "elemental_niki"
+                "elemental_niki_costume_music",
+                "elemental_ignazio_costume_medic"
               ],
               "questLines": [
                 "super_elemental_quest_red"
@@ -6525,6 +6540,22 @@
                 "scoundrel_clim",
                 "construct_nepant"
               ]
+            },
+            {
+              "lotteryProductType": "Covenant Summon",
+              "id": "lottery_covenant_2026_10_27",
+              "productId": "lottery_covenant_default",
+              "startDate": "2026-10-27 07:00:00",
+              "endDate": "2026-10-31 07:00:00",
+              "overridden": true,
+              "featuredHeroes": [
+                "ronin_hiyori",
+                "ghost_hua_pi_gui",
+                "beauty_beast_mirielle",
+                "ghost_hei_wu_chang",
+                "ronin_tenzin_kiba",
+                "beauty_beast_rose_de_flo"
+              ]
             }
           ],
           "scheduleNotification": true,
@@ -7198,6 +7229,20 @@
                 "scoundrel_sheppard",
                 "astral_demon_ushal",
                 "mahayoddha_shaurya"
+              ]
+            },
+            {
+              "lotteryProductType": "Wilderness Summon",
+              "id": "lottery_wilderness_2026_10_31",
+              "productId": "lottery_wilderness_default",
+              "startDate": "2026-10-31 07:00:00",
+              "endDate": "2026-11-03 07:00:00",
+              "overridden": true,
+              "featuredHeroes": [
+                "scoundrel_lane",
+                "scoundrel_duval",
+                "beauty_beast_glamiera",
+                "beauty_beast_henriette"
               ]
             }
           ],
@@ -9551,6 +9596,18 @@
               "featuredHeroes": [
                 "titan_hunter_avestalon",
                 "titan_hunter_adelitza"
+              ]
+            },
+            {
+              "lotteryProductType": "Titan Hunter Summon",
+              "id": "titan_hunter_2026_11_01",
+              "productId": "lottery_titan_hunter_default",
+              "startDate": "2026-11-01 07:00:00",
+              "endDate": "2026-11-05 07:00:00",
+              "overridden": true,
+              "featuredHeroes": [
+                "titan_hunter_ingrith",
+                "titan_hunter_maar"
               ]
             }
           ],
@@ -13703,6 +13760,83 @@
             "featuredHeroes": [
               "astral_dwarf_gongoth",
               "circus_emilio_costume_frog"
+            ]
+          },
+          {
+            "lotteryProductType": "Pick Up Summon",
+            "id": "pickup231",
+            "productId": "lottery_pickup_default",
+            "startDate": "2026-10-27 07:00:00",
+            "endDate": "2026-10-28 07:00:00",
+            "featuredHeroes": [
+              "owl_pertinax",
+              "owl_cennius"
+            ]
+          },
+          {
+            "lotteryProductType": "Pick Up Summon",
+            "id": "pickup232",
+            "productId": "lottery_pickup_default",
+            "startDate": "2026-10-28 07:00:00",
+            "endDate": "2026-10-29 07:00:00",
+            "featuredHeroes": [
+              "shadow_abigail",
+              "ballerina_meg_giry"
+            ]
+          },
+          {
+            "lotteryProductType": "Pick Up Summon",
+            "id": "pickup233",
+            "productId": "lottery_pickup_default",
+            "startDate": "2026-10-29 07:00:00",
+            "endDate": "2026-10-30 07:00:00",
+            "featuredHeroes": [
+              "shadow_asketel",
+              "faun_maud"
+            ]
+          },
+          {
+            "lotteryProductType": "Pick Up Summon",
+            "id": "pickup234",
+            "productId": "lottery_pickup_default",
+            "startDate": "2026-10-30 07:00:00",
+            "endDate": "2026-10-31 07:00:00",
+            "featuredHeroes": [
+              "slime_labblub",
+              "circus_director_zuri_costume_clown"
+            ]
+          },
+          {
+            "lotteryProductType": "Pick Up Summon",
+            "id": "pickup235",
+            "productId": "lottery_pickup_default",
+            "startDate": "2026-10-31 07:00:00",
+            "endDate": "2026-11-01 07:00:00",
+            "featuredHeroes": [
+              "construct_carta",
+              "garrison_shimmerscale"
+            ]
+          },
+          {
+            "lotteryProductType": "Pick Up Summon",
+            "id": "pickup236",
+            "productId": "lottery_pickup_default",
+            "startDate": "2026-11-01 07:00:00",
+            "endDate": "2026-11-02 07:00:00",
+            "featuredHeroes": [
+              "ninja_umeko",
+              "astral_dwarf_maegwyn"
+            ]
+          },
+          {
+            "lotteryProductType": "Pick Up Summon",
+            "id": "pickup237",
+            "productId": "lottery_pickup_default",
+            "startDate": "2026-11-02 07:00:00",
+            "endDate": "2026-11-03 07:00:00",
+            "featuredHeroes": [
+              "garrison_kolya",
+              "garrison_dima"
             ]
           }
         ],
