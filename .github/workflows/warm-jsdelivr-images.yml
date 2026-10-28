@@ -1,0 +1,67 @@
+name: Warm jsDelivr image cache
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: warm-jsdelivr-images-main
+  cancel-in-progress: false
+
+jobs:
+  warm-images:
+    name: Warm image URLs
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: ${{ github.event_name == 'workflow_dispatch' && 'main' || github.sha }}
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Select image files
+        env:
+          AFTER_SHA: ${{ github.sha }}
+          BEFORE_SHA: ${{ github.event.before }}
+          EVENT_NAME: ${{ github.event_name }}
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          file_list="$RUNNER_TEMP/jsdelivr-files"
+
+          if [[ "$EVENT_NAME" == "workflow_dispatch" ]]; then
+            git ls-files -z > "$file_list"
+            echo "Selected all tracked files for the manual warm-up."
+          elif [[ "$BEFORE_SHA" =~ ^0+$ ]]; then
+            git ls-tree -r --name-only -z "$AFTER_SHA" > "$file_list"
+            echo "Selected all files because this is the repository's first push."
+          else
+            git diff --name-only --diff-filter=AMR -z "$BEFORE_SHA" "$AFTER_SHA" > "$file_list"
+            echo "Selected added, modified, and renamed files from the push."
+          fi
+
+      - name: Warm jsDelivr URLs
+        env:
+          JSDELIVR_REPO: vabe44/31f5d518-epzl-cdn
+          JSDELIVR_VERSION: main
+          WARM_ATTEMPTS: 5
+          WARM_BASE_DELAY_MS: 3000
+          WARM_CONCURRENCY: 8
+          WARM_MAX_DELAY_MS: 30000
+          WARM_MODE: ${{ github.event_name == 'workflow_dispatch' && 'manual' || 'push' }}
+          WARM_TIMEOUT_MS: 60000
+        shell: bash
+        run: node .github/scripts/warm-jsdelivr-images.mjs < "$RUNNER_TEMP/jsdelivr-files"

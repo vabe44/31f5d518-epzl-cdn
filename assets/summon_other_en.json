@@ -1,1 +1,51 @@
-{"otherConfig":{"logic":{"events":{"hotmSummonChancePerMil":13,"mysterySummonChancePerMil":15,"minSourceProductGemPriceForMysterySummonChance":200,"towerEventConfig":{"towerEventsEnabled":true,"towerEventSummonEnabled":true,"towerEventPlayerLevelRequirement":20,"towerEventEntries":[{"id":"TowerNinja","type":"Tower","featuredCharacters":["ronin_tanaka_isako","ninja_topaz_costume_precise","ronin_kageyama_nagato"],"startTime":"2026-08-27 07:00:00","endTime":"2026-09-01 07:00:00"},{"id":"TowerNinja","type":"Tower","featuredCharacters":["ronin_ishida_aoga","ninja_peridot_costume_herbalist","ronin_tanaka_isako"],"startTime":"2026-09-27 07:00:00","endTime":"2026-10-02 07:00:00"},{"id":"TowerNinja","type":"Tower","featuredCharacters":["ronin_ayami","ninja_ruby_costume_menancer","ninja_peridot_costume_herbalist"],"startTime":"2026-10-20 07:00:00","endTime":"2026-10-25 07:00:00"}]}}}}}
+{
+  "otherConfig": {
+    "logic": {
+      "events": {
+        "hotmSummonChancePerMil": 13,
+        "mysterySummonChancePerMil": 15,
+        "minSourceProductGemPriceForMysterySummonChance": 200,
+        "towerEventConfig": {
+          "towerEventsEnabled": true,
+          "towerEventSummonEnabled": true,
+          "towerEventPlayerLevelRequirement": 20,
+          "towerEventEntries": [
+            {
+              "id": "TowerNinja",
+              "type": "Tower",
+              "featuredCharacters": [
+                "ronin_tanaka_isako",
+                "ninja_topaz_costume_precise",
+                "ronin_kageyama_nagato"
+              ],
+              "startTime": "2026-08-27 07:00:00",
+              "endTime": "2026-09-01 07:00:00"
+            },
+            {
+              "id": "TowerNinja",
+              "type": "Tower",
+              "featuredCharacters": [
+                "ronin_ishida_aoga",
+                "ninja_peridot_costume_herbalist",
+                "ronin_tanaka_isako"
+              ],
+              "startTime": "2026-09-27 07:00:00",
+              "endTime": "2026-10-02 07:00:00"
+            },
+            {
+              "id": "TowerNinja",
+              "type": "Tower",
+              "featuredCharacters": [
+                "ronin_ayami",
+                "ninja_ruby_costume_menancer",
+                "ninja_peridot_costume_herbalist"
+              ],
+              "startTime": "2026-10-20 07:00:00",
+              "endTime": "2026-10-25 07:00:00"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
